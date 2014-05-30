@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input
+END
+lexicon.txt
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/lexicon.txt
+END
+lexicon_nosil.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/lexicon_nosil.txt
+END
+task.arpabo
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/task.arpabo
+END
+phones.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/phones.txt
+END

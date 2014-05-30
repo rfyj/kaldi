@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/p/kaldi/code/!svn/ver/4027/trunk
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/2548/trunk/README.txt
+END
+.gitignore
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/3799/trunk/.gitignore
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/2543/trunk/INSTALL
+END
+COPYING
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/2988/trunk/COPYING
+END

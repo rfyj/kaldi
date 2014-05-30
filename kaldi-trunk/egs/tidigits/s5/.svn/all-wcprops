@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/1344/trunk/egs/tidigits/s5
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/1051/trunk/egs/tidigits/s5/path.sh
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/cmd.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/1117/trunk/egs/tidigits/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/utils
+END

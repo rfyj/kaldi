@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5/conf
+END
+decode_dnn.config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5/conf/decode_dnn.config
+END
+decode.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/decode.config
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/mfcc.conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/topo.proto
+END
+fbank.conf
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/fbank.conf
+END

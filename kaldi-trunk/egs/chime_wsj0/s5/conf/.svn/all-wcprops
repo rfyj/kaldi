@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3998/trunk/egs/chime_wsj0/s5/conf
+END
+fbank.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/conf/fbank.conf
+END
+decode_dnn.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3998/trunk/egs/chime_wsj0/s5/conf/decode_dnn.config
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/conf/mfcc.conf
+END

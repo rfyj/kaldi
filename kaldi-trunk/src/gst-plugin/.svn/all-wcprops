@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/3327/trunk/src/gst-plugin
+END
+gst-online-gmm-decode-faster.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/2997/trunk/src/gst-plugin/gst-online-gmm-decode-faster.h
+END
+kaldimarshal.list
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2659/trunk/src/gst-plugin/kaldimarshal.list
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3327/trunk/src/gst-plugin/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2718/trunk/src/gst-plugin/README
+END
+gst-audio-source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/gst-plugin/gst-audio-source.cc
+END
+gst-audio-source.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2997/trunk/src/gst-plugin/gst-audio-source.h
+END
+gst-online-gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/2988/trunk/src/gst-plugin/gst-online-gmm-decode-faster.cc
+END

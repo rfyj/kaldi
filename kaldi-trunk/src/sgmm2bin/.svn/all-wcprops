@@ -1,0 +1,131 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/3931/trunk/src/sgmm2bin
+END
+sgmm2-est-spkvecs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-est-spkvecs.cc
+END
+sgmm2-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-copy.cc
+END
+sgmm2-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-sum-accs.cc
+END
+sgmm2-acc-stats-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-acc-stats-gpost.cc
+END
+sgmm2-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-acc-stats.cc
+END
+sgmm2-align-compiled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-align-compiled.cc
+END
+sgmm2-rescore-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3931/trunk/src/sgmm2bin/sgmm2-rescore-lattice.cc
+END
+sgmm2-latgen-faster-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3482/trunk/src/sgmm2bin/sgmm2-latgen-faster-parallel.cc
+END
+sgmm2-gselect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-gselect.cc
+END
+sgmm2-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-info.cc
+END
+sgmm2-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3424/trunk/src/sgmm2bin/sgmm2-est.cc
+END
+sgmm2-latgen-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3482/trunk/src/sgmm2bin/sgmm2-latgen-faster.cc
+END
+sgmm2-comp-prexform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-comp-prexform.cc
+END
+sgmm2-post-to-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-post-to-gpost.cc
+END
+sgmm2-est-spkvecs-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-est-spkvecs-gpost.cc
+END
+sgmm2-init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-init.cc
+END
+sgmm2-acc-stats2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3298/trunk/src/sgmm2bin/sgmm2-acc-stats2.cc
+END
+sgmm2-est-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-est-fmllr.cc
+END
+sgmm2-est-ebw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-est-ebw.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3123/trunk/src/sgmm2bin/Makefile
+END
+sgmm2-project.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-project.cc
+END

@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3347/trunk/egs/chime_wsj0/s5/local
+END
+noisy_wsj0_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/noisy_wsj0_data_prep.sh
+END
+clean_wsj0_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3347/trunk/egs/chime_wsj0/s5/local/clean_wsj0_data_prep.sh
+END
+wsj_prepare_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/wsj_prepare_dict.sh
+END
+chime_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/chime_format_data.sh
+END
+reverb_wsj0_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/reverb_wsj0_data_prep.sh
+END
+cstr_ndx2flist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/cstr_ndx2flist.pl
+END
+flist2scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3347/trunk/egs/chime_wsj0/s5/local/flist2scp.pl
+END
+normalize_transcript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/normalize_transcript.pl
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/score.sh
+END
+find_transcripts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3347/trunk/egs/chime_wsj0/s5/local/find_transcripts.pl
+END
+find_noisy_transcripts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/kaldi/code/!svn/ver/3291/trunk/egs/chime_wsj0/s5/local/find_noisy_transcripts.pl
+END

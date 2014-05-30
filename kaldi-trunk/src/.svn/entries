@@ -1,0 +1,343 @@
+10
+
+dir
+4030
+https://svn.code.sf.net/p/kaldi/code/trunk/src
+https://svn.code.sf.net/p/kaldi/code
+
+
+
+2014-05-29T19:50:32.916133Z
+4026
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+sgmm
+dir
+
+doc
+dir
+
+TODO
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+7d13b840be6773634959ca586159af20
+2013-12-11T18:39:46.616498Z
+3298
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10188
+
+INSTALL
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+fe9bdd63b28d5aa3ffd8a0c0c2b2d398
+2011-05-15T20:23:01.484391Z
+16
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+649
+
+featbin
+dir
+
+bin
+dir
+
+base
+dir
+
+transform
+dir
+
+onlinebin
+dir
+
+util
+dir
+
+sgmm2bin
+dir
+
+feat
+dir
+
+lat
+dir
+
+gmm
+dir
+
+hmm
+dir
+
+Doxyfile
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+499f3b65bf6e067423420f500854c724
+2013-08-05T10:38:50.911147Z
+2758
+rickychanhoyin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50748
+
+sgmm2
+dir
+
+nnet2
+dir
+
+tree
+dir
+
+makefiles
+dir
+
+cudamatrix
+dir
+
+nnet
+dir
+
+matrix
+dir
+
+ivectorbin
+dir
+
+decoder
+dir
+
+thread
+dir
+
+lm
+dir
+
+latbin
+dir
+
+gmmbin
+dir
+
+ivector
+dir
+
+fstext
+dir
+
+Makefile
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+b1bf0b08fd0a7ac4019c007eff383225
+2014-04-26T03:39:07.399287Z
+3963
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6045
+
+nnet2bin
+dir
+
+fgmmbin
+dir
+
+configure
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+0ed033ec858c2c86060f9e3bea1375db
+2014-03-06T20:50:57.282073Z
+3720
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+28251
+
+itf
+dir
+
+online
+dir
+
+fstbin
+dir
+
+NOTES
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+11e3ea5f370f83361d7354e183684dde
+2012-06-12T22:13:25.247961Z
+1031
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1866
+
+gst-plugin
+dir
+
+sgmmbin
+dir
+
+kwsbin
+dir
+
+nnetbin
+dir
+

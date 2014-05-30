@@ -1,0 +1,95 @@
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/p/kaldi/code/!svn/ver/3001/trunk/src/lm
+END
+kaldi-lm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3000/trunk/src/lm/kaldi-lm.cc
+END
+kaldi-lm.h
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/3000/trunk/src/lm/kaldi-lm.h
+END
+irstlm.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/irstlm.mk
+END
+input.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/input.arpa
+END
+unused_backoffs.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/294/trunk/src/lm/unused_backoffs.arpa
+END
+kaldi-lmtable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3001/trunk/src/lm/kaldi-lmtable.cc
+END
+kaldi-lmtable.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3001/trunk/src/lm/kaldi-lmtable.h
+END
+missing_backoffs.arpa
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/missing_backoffs.arpa
+END
+input1.score
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/input1.score
+END
+input2.score
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/input2.score
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/README
+END
+input1.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/input1.txt
+END
+input2.txt
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/input2.txt
+END
+lm-lib-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3000/trunk/src/lm/lm-lib-test.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/2664/trunk/src/lm/Makefile
+END

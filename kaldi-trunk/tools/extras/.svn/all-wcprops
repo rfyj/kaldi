@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/3890/trunk/tools/extras
+END
+install_ffv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2736/trunk/tools/extras/install_ffv.sh
+END
+install_sequitur.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3483/trunk/tools/extras/install_sequitur.sh
+END
+openfst_gcc41up.patch
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3288/trunk/tools/extras/openfst_gcc41up.patch
+END
+install_atlas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2427/trunk/tools/extras/install_atlas.sh
+END
+install_portaudio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3732/trunk/tools/extras/install_portaudio.sh
+END
+install_srilm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2427/trunk/tools/extras/install_srilm.sh
+END
+install_cffi.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2664/trunk/tools/extras/install_cffi.sh
+END
+install_sacc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2743/trunk/tools/extras/install_sacc.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2427/trunk/tools/extras/README.txt
+END
+install_sctk_patched.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2694/trunk/tools/extras/install_sctk_patched.sh
+END
+install_pfile_utils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3890/trunk/tools/extras/install_pfile_utils.sh
+END

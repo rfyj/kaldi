@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/3935/trunk/egs/lre/v1/lid
+END
+train_diag_ubm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/train_diag_ubm.sh
+END
+balance_priors_to_test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3935/trunk/egs/lre/v1/lid/balance_priors_to_test.pl
+END
+extract_ivectors.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/extract_ivectors.sh
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/README.txt
+END
+train_full_ubm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/train_full_ubm.sh
+END
+compute_vad_decision.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/compute_vad_decision.sh
+END
+remove_dialect.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3935/trunk/egs/lre/v1/lid/remove_dialect.pl
+END
+train_ivector_extractor.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/lid/train_ivector_extractor.sh
+END

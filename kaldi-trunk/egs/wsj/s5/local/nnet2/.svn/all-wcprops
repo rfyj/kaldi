@@ -1,0 +1,71 @@
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2
+END
+run_5b_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_5b_gpu.sh
+END
+run_5c_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_5c_gpu.sh
+END
+run_5d_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_5d_gpu.sh
+END
+run_6c_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_6c_gpu.sh
+END
+run_5c2_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_5c2_gpu.sh
+END
+run_5e_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_5e_gpu.sh
+END
+run_6d_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3873/trunk/egs/wsj/s5/local/nnet2/run_6d_gpu.sh
+END
+run_5b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2864/trunk/egs/wsj/s5/local/nnet2/run_5b.sh
+END
+run_5c.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3298/trunk/egs/wsj/s5/local/nnet2/run_5c.sh
+END
+run_5d.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3766/trunk/egs/wsj/s5/local/nnet2/run_5d.sh
+END
+run_6d.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3765/trunk/egs/wsj/s5/local/nnet2/run_6d.sh
+END

@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/3067/trunk/egs/rm/s4/local
+END
+rm_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3067/trunk/egs/rm/s4/local/rm_data_prep.sh
+END
+rm_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/969/trunk/egs/rm/s4/local/rm_format_data.sh
+END
+decode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/local/decode.sh
+END
+make_trans.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/local/make_trans.pl
+END

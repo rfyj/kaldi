@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict
+END
+find_acronyms.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/find_acronyms.pl
+END
+limit_candidate_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/limit_candidate_prons.pl
+END
+get_candidate_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_candidate_prons.pl
+END
+score_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/score_prons.pl
+END
+select_candidate_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/select_candidate_prons.pl
+END
+reverse_dict.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/reverse_dict.pl
+END
+count_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/count_rules.pl
+END
+add_counts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/add_counts.pl
+END
+get_rule_hierarchy.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_rule_hierarchy.pl
+END
+score_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/score_rules.pl
+END
+filter_dict.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/filter_dict.pl
+END
+get_acronym_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_acronym_prons.pl
+END
+get_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_rules.pl
+END
+reverse_candidates.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/reverse_candidates.pl
+END

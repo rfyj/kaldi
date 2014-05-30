@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3998/trunk/egs/gale_arabic/s5
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/path.sh
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/cmd.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/steps
+END

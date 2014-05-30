@@ -1,0 +1,479 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/3984/trunk/src/gmmbin
+END
+gmm-est-fmllr-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-fmllr-gpost.cc
+END
+gmm-init-lvtln.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3962/trunk/src/gmmbin/gmm-init-lvtln.cc
+END
+gmm-mixup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-mixup.cc
+END
+gmm-global-est-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-est-fmllr.cc
+END
+gmm-adapt-map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-adapt-map.cc
+END
+gmm-est-rescale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-rescale.cc
+END
+gmm-global-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-copy.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3962/trunk/src/gmmbin/Makefile
+END
+gmm-acc-stats-twofeats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-acc-stats-twofeats.cc
+END
+gmm-est-lvtln-trans.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3984/trunk/src/gmmbin/gmm-est-lvtln-trans.cc
+END
+gmm-est-weights-ebw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-weights-ebw.cc
+END
+gmm-get-stats-deriv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-get-stats-deriv.cc
+END
+gmm-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-acc-stats.cc
+END
+gmm-basis-fmllr-training.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-basis-fmllr-training.cc
+END
+gmm-align-compiled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3298/trunk/src/gmmbin/gmm-align-compiled.cc
+END
+gmm-global-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3240/trunk/src/gmmbin/gmm-global-info.cc
+END
+gmm-acc-mllt-global.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3934/trunk/src/gmmbin/gmm-acc-mllt-global.cc
+END
+gmm-est-regtree-mllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-regtree-mllr.cc
+END
+gmm-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3424/trunk/src/gmmbin/gmm-est.cc
+END
+gmm-decode-nbest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-nbest.cc
+END
+gmm-decode-biglm-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-biglm-faster.cc
+END
+gmm-est-gaussians-ebw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-gaussians-ebw.cc
+END
+gmm-latgen-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3482/trunk/src/gmmbin/gmm-latgen-simple.cc
+END
+gmm-est-hlda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-hlda.cc
+END
+gmm-est-fmllr-global.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3934/trunk/src/gmmbin/gmm-est-fmllr-global.cc
+END
+gmm-est-basis-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-basis-fmllr.cc
+END
+gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-faster.cc
+END
+gmm-est-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-fmllr.cc
+END
+gmm-global-acc-stats-twofeats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-acc-stats-twofeats.cc
+END
+gmm-global-get-frame-likes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3240/trunk/src/gmmbin/gmm-global-get-frame-likes.cc
+END
+gmm-transform-means.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-transform-means.cc
+END
+gmm-diff-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-diff-accs.cc
+END
+gmm-compute-likes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-compute-likes.cc
+END
+gmm-basis-fmllr-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-basis-fmllr-accs.cc
+END
+gmm-latgen-biglm-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-latgen-biglm-faster.cc
+END
+gmm-init-model-flat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-init-model-flat.cc
+END
+gmm-acc-stats-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-acc-stats-ali.cc
+END
+gmm-train-lvtln-special.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3962/trunk/src/gmmbin/gmm-train-lvtln-special.cc
+END
+gmm-est-fmllr-raw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-fmllr-raw.cc
+END
+gmm-est-basis-fmllr-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-basis-fmllr-gpost.cc
+END
+gmm-post-to-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-post-to-gpost.cc
+END
+gmm-est-regtree-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-regtree-fmllr.cc
+END
+gmm-init-model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3377/trunk/src/gmmbin/gmm-init-model.cc
+END
+gmm-boost-silence.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-boost-silence.cc
+END
+gmm-decode-faster-regtree-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-faster-regtree-fmllr.cc
+END
+gmm-decode-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-simple.cc
+END
+gmm-latgen-tracking.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3482/trunk/src/gmmbin/gmm-latgen-tracking.cc
+END
+gmm-transform-means-global.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3934/trunk/src/gmmbin/gmm-transform-means-global.cc
+END
+gmm-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-sum-accs.cc
+END
+gmm-basis-fmllr-accs-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-basis-fmllr-accs-gpost.cc
+END
+gmm-ismooth-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-ismooth-stats.cc
+END
+gmm-align-compiled-plusphones.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-align-compiled-plusphones.cc
+END
+gmm-rescore-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3931/trunk/src/gmmbin/gmm-rescore-lattice.cc
+END
+gmm-est-fmllr-raw-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-est-fmllr-raw-gpost.cc
+END
+gmm-latgen-faster-regtree-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/3761/trunk/src/gmmbin/gmm-latgen-faster-regtree-fmllr.cc
+END
+gmm-global-init-from-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3240/trunk/src/gmmbin/gmm-global-init-from-feats.cc
+END
+gmm-get-feat-deriv.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-get-feat-deriv.cc
+END
+gmm-est-regtree-fmllr-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-regtree-fmllr-ali.cc
+END
+gmm-global-to-fgmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-to-fgmm.cc
+END
+gmm-acc-stats2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/gmmbin/gmm-acc-stats2.cc
+END
+gmm-decode-faster-regtree-mllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-decode-faster-regtree-mllr.cc
+END
+gmm-est-map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-est-map.cc
+END
+gmm-fmpe-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-fmpe-acc-stats.cc
+END
+gmm-make-regtree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-make-regtree.cc
+END
+gmm-init-mono.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3377/trunk/src/gmmbin/gmm-init-mono.cc
+END
+gmm-global-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-sum-accs.cc
+END
+gmm-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-copy.cc
+END
+gmm-global-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-acc-stats.cc
+END
+gmm-latgen-map.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3482/trunk/src/gmmbin/gmm-latgen-map.cc
+END
+gmm-latgen-faster-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3482/trunk/src/gmmbin/gmm-latgen-faster-parallel.cc
+END
+gmm-gselect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3246/trunk/src/gmmbin/gmm-gselect.cc
+END
+gmm-init-trans.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-init-trans.cc
+END
+gmm-global-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-global-est.cc
+END
+gmm-align.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3377/trunk/src/gmmbin/gmm-align.cc
+END
+gmm-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3240/trunk/src/gmmbin/gmm-info.cc
+END
+gmm-acc-mllt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3931/trunk/src/gmmbin/gmm-acc-mllt.cc
+END
+gmm-acc-hlda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3588/trunk/src/gmmbin/gmm-acc-hlda.cc
+END
+gmm-latgen-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3482/trunk/src/gmmbin/gmm-latgen-faster.cc
+END
+gmm-scale-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmmbin/gmm-scale-accs.cc
+END

@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/3998/trunk/egs/aurora4/s5
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/cmd.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3635/trunk/egs/aurora4/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/utils
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3298/trunk/egs/aurora4/s5/path.sh
+END

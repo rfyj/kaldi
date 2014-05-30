@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts
+END
+add_lex_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/add_lex_disambig.pl
+END
+make_rm_lm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/make_rm_lm.pl
+END
+make_roots.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/make_roots.pl
+END
+silphones.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/silphones.pl
+END
+int2sym.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/int2sym.pl
+END
+sym2int.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/sym2int.pl
+END
+add_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/add_disambig.pl
+END
+make_phones_symtab.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/make_phones_symtab.pl
+END
+mkgraph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/mkgraph.sh
+END
+filter_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/filter_scp.pl
+END
+make_lexicon_fst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/make_lexicon_fst.pl
+END
+subset_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/subset_scp.pl
+END
+subset_data_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts/subset_data_dir.sh
+END

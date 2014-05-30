@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/138/trunk/misc/htk_graph_creation_example
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/138/trunk/misc/htk_graph_creation_example/README
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/72/trunk/misc/htk_graph_creation_example/run.sh
+END
+test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/74/trunk/misc/htk_graph_creation_example/test.sh
+END

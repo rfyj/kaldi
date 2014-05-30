@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_cz/s5/local
+END
+create_phone_lists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_phone_lists.sh
+END
+save_check.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/save_check.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/score.sh
+END
+make_baseform.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/make_baseform.pl
+END
+create_LMs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_LMs.sh
+END
+phonetic_transcription_cs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/phonetic_transcription_cs.pl
+END
+results.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_cz/s5/local/results.py
+END
+prepare_cs_transcription.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/prepare_cs_transcription.sh
+END
+create_sample.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_sample.sh
+END
+data_split.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/data_split.sh
+END
+export_models.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/export_models.sh
+END
+backup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/backup.sh
+END
+download_cs_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/3822/trunk/egs/vystadial_cz/s5/local/download_cs_data.sh
+END
+create_G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_G.sh
+END

@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/3246/trunk/egs/timit/s3
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/831/trunk/egs/timit/s3/run.sh
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/path.sh
+END

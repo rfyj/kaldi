@@ -1,0 +1,11 @@
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3890/trunk/egs/babel/s5b/local/nnet2
+END
+get_egs_semi_supervised.sh
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/kaldi/code/!svn/ver/3579/trunk/egs/babel/s5b/local/nnet2/get_egs_semi_supervised.sh
+END

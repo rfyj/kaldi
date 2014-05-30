@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied
+END
+icassp12.tex
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/icassp12.tex
+END
+spconf.sty
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/spconf.sty
+END
+refs.bib
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/refs.bib
+END
+IEEEbib.bst
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/IEEEbib.bst
+END
+refs-eig.bib
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/refs-eig.bib
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/568/trunk/misc/papers/icassp12_tied/Makefile
+END

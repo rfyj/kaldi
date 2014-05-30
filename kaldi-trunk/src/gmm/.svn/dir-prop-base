@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 131
+.depend.mk
+diag-gmm-test
+mle-diag-gmm-test
+full-gmm-test
+mle-full-gmm-test
+am-diag-gmm-test
+mle-am-diag-gmm-test
+ebw-diag-gmm-test
+
+END

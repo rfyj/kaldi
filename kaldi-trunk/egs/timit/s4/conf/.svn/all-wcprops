@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf/topo.proto
+END
+dev_spk.list
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf/dev_spk.list
+END
+test_spk.list
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf/test_spk.list
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf/mfcc.conf
+END
+phones.60-48-39.map
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/conf/phones.60-48-39.map
+END

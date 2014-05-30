@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 839
+/sandbox/dan/src/fstbin/fstpushspecial.cc:1504-1801
+/sandbox/dan2/src/fstbin/fstpushspecial.cc:2775-2829,2832-3292
+/sandbox/discrim/src/fstbin/fstpushspecial.cc:234-658
+/sandbox/karel/src/fstbin/fstpushspecial.cc:1522-1532
+/sandbox/korzinek/src/fstbin/fstpushspecial.cc:2551-2594
+/sandbox/kws/src/fstbin/fstpushspecial.cc:1533-1557
+/sandbox/language_id/src/fstbin/fstpushspecial.cc:3523-3930
+/sandbox/nshmyrev/src/fstbin/fstpushspecial.cc:3830-3854
+/sandbox/oplatek/src/fstbin/fstpushspecial.cc:2513-2541
+/sandbox/pitch/src/fstbin/fstpushspecial.cc:3126-3251
+/sandbox/sail/src/fstbin/fstpushspecial.cc:3642-3712,3716-3797
+/sandbox/sharedlibs/src/fstbin/fstpushspecial.cc:2585-2662
+/sandbox/tanel/src/fstbin/fstpushspecial.cc:2623-2658
+/sandbox/thang-project/src/fstbin/fstpushspecial.cc:233-258
+/trunk/src/fstbin/fstpushspecial.cc:270-1491
+END

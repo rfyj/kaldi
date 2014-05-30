@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3298/trunk/egs/aurora4/s5/local/nnet2
+END
+run_5b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/nnet2/run_5b.sh
+END
+run_5c.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3298/trunk/egs/aurora4/s5/local/nnet2/run_5c.sh
+END

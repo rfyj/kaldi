@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster
+END
+script-lowlevel.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/script-lowlevel.tex
+END
+code-samples.tex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/code-samples.tex
+END
+script-toplevel.tex
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/script-toplevel.tex
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/Makefile
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/652/trunk/misc/papers/asru11_toolkit_poster/README
+END
+kaldi-poster.tex
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/kaldi-poster.tex
+END
+beamerthemekaldi1.sty
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/beamerthemekaldi1.sty
+END
+beamerposter.sty
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/kaldi/code/!svn/ver/642/trunk/misc/papers/asru11_toolkit_poster/beamerposter.sty
+END
+kaldi-poster.pdf
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/p/kaldi/code/!svn/ver/655/trunk/misc/papers/asru11_toolkit_poster/kaldi-poster.pdf
+END

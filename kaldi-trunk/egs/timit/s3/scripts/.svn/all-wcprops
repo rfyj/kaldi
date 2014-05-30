@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/1642/trunk/egs/timit/s3/scripts
+END
+add_lex_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/add_lex_disambig.pl
+END
+split_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/split_scp.pl
+END
+remove_oovs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/remove_oovs.pl
+END
+make_roots.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/make_roots.pl
+END
+make_rm_lm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/make_rm_lm.pl
+END
+silphones.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/silphones.pl
+END
+int2sym.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/int2sym.pl
+END
+sym2int.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/sym2int.pl
+END
+make_phones_symtab.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/make_phones_symtab.pl
+END
+eps2disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/eps2disambig.pl
+END
+make_words_symtab.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/make_words_symtab.pl
+END
+make_lexicon_fst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/1641/trunk/egs/timit/s3/scripts/make_lexicon_fst.pl
+END
+spk2utt_to_utt2spk.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/spk2utt_to_utt2spk.pl
+END
+utt2spk_to_spk2utt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/utt2spk_to_spk2utt.pl
+END
+make_rm_dict.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/make_rm_dict.pl
+END
+collapse_phones.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/collapse_phones.pl
+END
+average_wer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/average_wer.sh
+END
+add_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/add_disambig.pl
+END
+mkgraph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/1642/trunk/egs/timit/s3/scripts/mkgraph.sh
+END
+is_sorted.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/is_sorted.sh
+END
+filter_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/filter_scp.pl
+END
+s2eps.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/scripts/s2eps.pl
+END

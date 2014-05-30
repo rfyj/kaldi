@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/p/kaldi/code/!svn/ver/4027/trunk/tools
+END
+openfst.patch
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3129/trunk/tools/openfst.patch
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/4027/trunk/tools/Makefile
+END
+install_pfile_utils.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2427/trunk/tools/install_pfile_utils.sh
+END
+sequitur.patch
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3430/trunk/tools/sequitur.patch
+END
+sctk.patch
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3713/trunk/tools/sctk.patch
+END
+install_atlas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2427/trunk/tools/install_atlas.sh
+END
+install_portaudio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2427/trunk/tools/install_portaudio.sh
+END
+install_srilm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2427/trunk/tools/install_srilm.sh
+END
+INSTALL
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/3365/trunk/tools/INSTALL
+END

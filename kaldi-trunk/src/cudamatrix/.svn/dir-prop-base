@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 28
+.depend.mk
+cuda-matrix-test
+
+K 13
+svn:mergeinfo
+V 625
+/sandbox/dan/src/cudamatrix:1504-1801,1999-2840
+/sandbox/dan2/src/cudamatrix:2775-2829,2832-3292
+/sandbox/discrim/src/cudamatrix:234-658
+/sandbox/karel/src/cudamatrix:270-274,943-1493,1522-1532
+/sandbox/korzinek/src/cudamatrix:2551-2594
+/sandbox/kws/src/cudamatrix:1533-1557
+/sandbox/language_id/src/cudamatrix:3523-3930
+/sandbox/nshmyrev/src/cudamatrix:3830-3854
+/sandbox/oplatek/src/cudamatrix:2513-2541
+/sandbox/pitch/src/cudamatrix:3126-3251
+/sandbox/sail/src/cudamatrix:3642-3712,3716-3797
+/sandbox/sharedlibs/src/cudamatrix:2585-2662
+/sandbox/tanel/src/cudamatrix:2623-2658
+/sandbox/thang-project/src/cudamatrix:233-258
+END

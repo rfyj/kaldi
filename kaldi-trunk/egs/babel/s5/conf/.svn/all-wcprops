@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/3298/trunk/egs/babel/s5/conf
+END
+common.limitedLP
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3175/trunk/egs/babel/s5/conf/common.limitedLP
+END
+common_vars.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2279/trunk/egs/babel/s5/conf/common_vars.sh
+END
+glm
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/1837/trunk/egs/babel/s5/conf/glm
+END
+plp.conf
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/1836/trunk/egs/babel/s5/conf/plp.conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/1836/trunk/egs/babel/s5/conf/topo.proto
+END
+common.fullLP
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3175/trunk/egs/babel/s5/conf/common.fullLP
+END

@@ -1,0 +1,53 @@
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3724/trunk/egs/babel/s5b/local/datasets
+END
+basic_kws.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3724/trunk/egs/babel/s5b/local/datasets/basic_kws.sh
+END
+extra_kws.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3724/trunk/egs/babel/s5b/local/datasets/extra_kws.sh
+END
+supervised_seg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3537/trunk/egs/babel/s5b/local/datasets/supervised_seg.sh
+END
+supervised_pem.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/datasets/supervised_pem.sh
+END
+unsupervised_seg.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/datasets/unsupervised_seg.sh
+END
+vocab_kws.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/datasets/vocab_kws.sh
+END
+supervised_uem.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/datasets/supervised_uem.sh
+END
+unsupervised_uem.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/datasets/unsupervised_uem.sh
+END

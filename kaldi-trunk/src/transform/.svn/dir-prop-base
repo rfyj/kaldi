@@ -1,0 +1,13 @@
+K 10
+svn:ignore
+V 162
+.depend.mk
+regtree-mllr-diag-gmm-test
+regtree-fmllr-diag-gmm-test
+lda-estimate-test
+regression-tree-test
+fmllr-diag-gmm-test
+exponential-transform-test
+fmpe-test
+
+END

@@ -1,0 +1,329 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/3990/trunk/src/doc
+END
+graph_recipe_train.dox
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/graph_recipe_train.dox
+END
+Kaldi.pptx
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/60/trunk/src/doc/Kaldi.pptx
+END
+table_examples.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/table_examples.dox
+END
+tutorial_looking.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tutorial_looking.dox
+END
+dependencies.dox
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3006/trunk/src/doc/dependencies.dox
+END
+graph_recipe_test.dox
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/graph_recipe_test.dox
+END
+KaldiModels.pptx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/55/trunk/src/doc/KaldiModels.pptx
+END
+contact.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3298/trunk/src/doc/contact.dox
+END
+tutorial_code.dox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2994/trunk/src/doc/tutorial_code.dox
+END
+fst_algo.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/fst_algo.dox
+END
+matrixwrap.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/matrixwrap.dox
+END
+style.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/style.dox
+END
+history.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/history.dox
+END
+cudamatrix.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/cudamatrix.dox
+END
+tutorial.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tutorial.dox
+END
+kws.dox
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/kws.dox
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/3445/trunk/src/doc/README
+END
+matrix.dox
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/matrix.dox
+END
+install.dox
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3520/trunk/src/doc/install.dox
+END
+lattices.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3990/trunk/src/doc/lattices.dox
+END
+about.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/about.dox
+END
+KaldiMatrix.pptx
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/55/trunk/src/doc/KaldiMatrix.pptx
+END
+make_tools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/881/trunk/src/doc/make_tools.sh
+END
+dnn.dox
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/3788/trunk/src/doc/dnn.dox
+END
+other.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/other.dox
+END
+mainpage.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3788/trunk/src/doc/mainpage.dox
+END
+legal.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/legal.dox
+END
+parse_options.dox
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/parse_options.dox
+END
+decoders.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/decoders.dox
+END
+tutorial_svn.dox
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tutorial_svn.dox
+END
+error.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/error.dox
+END
+KaldiScripts.pptx
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/55/trunk/src/doc/KaldiScripts.pptx
+END
+online_programs.dox
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3864/trunk/src/doc/online_programs.dox
+END
+tools.dox.input
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/881/trunk/src/doc/tools.dox.input
+END
+data_prep.dox
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/data_prep.dox
+END
+dnn1.dox
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3788/trunk/src/doc/dnn1.dox
+END
+model.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/model.dox
+END
+dnn2.dox
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3788/trunk/src/doc/dnn2.dox
+END
+graph.dox
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/graph.dox
+END
+io_tut.dox
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3424/trunk/src/doc/io_tut.dox
+END
+tutorial_running.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3417/trunk/src/doc/tutorial_running.dox
+END
+progress.dox
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/progress.dox
+END
+tutorial_prereqs.dox
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tutorial_prereqs.dox
+END
+io.dox
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/3424/trunk/src/doc/io.dox
+END
+cpplint.py
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/1343/trunk/src/doc/cpplint.py
+END
+transform.dox
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/transform.dox
+END
+util.dox
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/util.dox
+END
+tree_internals.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tree_internals.dox
+END
+feat.dox
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/feat.dox
+END
+clustering.dox
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/clustering.dox
+END
+build_setup.dox
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3249/trunk/src/doc/build_setup.dox
+END
+hmm.dox
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/hmm.dox
+END
+tutorial_setup.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tutorial_setup.dox
+END
+tree_externals.dox
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/doc/tree_externals.dox
+END

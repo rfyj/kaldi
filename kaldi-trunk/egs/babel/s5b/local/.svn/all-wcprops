@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3986/trunk/egs/babel/s5b/local
+END
+kwords2indices.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kwords2indices.pl
+END
+kws_score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kws_score.sh
+END
+eval_kw_subsets.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/eval_kw_subsets.sh
+END
+kws_score_f4de.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3724/trunk/egs/babel/s5b/local/kws_score_f4de.sh
+END
+annotated_kwlist_to_KWs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/annotated_kwlist_to_KWs.pl
+END
+run_kws_stt_task.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3537/trunk/egs/babel/s5b/local/run_kws_stt_task.sh
+END
+combine_posteriors.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3628/trunk/egs/babel/s5b/local/combine_posteriors.sh
+END
+augment_original_stm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3537/trunk/egs/babel/s5b/local/augment_original_stm.pl
+END
+score_map.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/score_map.sh
+END
+normalize_transcript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/normalize_transcript.pl
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3455/trunk/egs/babel/s5b/local/score.sh
+END
+extract_oov_words.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/extract_oov_words.pl
+END
+create_shadow_dataset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3521/trunk/egs/babel/s5b/local/create_shadow_dataset.sh
+END
+prepare_acoustic_training_data.pl
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/kaldi/code/!svn/ver/3535/trunk/egs/babel/s5b/local/prepare_acoustic_training_data.pl
+END
+make_ecf_subset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3428/trunk/egs/babel/s5b/local/make_ecf_subset.sh
+END
+cmu_uem2kaldi_dir.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3537/trunk/egs/babel/s5b/local/cmu_uem2kaldi_dir.sh
+END
+generate_proxy_keywords.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3676/trunk/egs/babel/s5b/local/generate_proxy_keywords.sh
+END
+uem_ctm2segments.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/uem_ctm2segments.pl
+END
+kws_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kws_data_prep.sh
+END
+lattice_to_ctm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3506/trunk/egs/babel/s5b/local/lattice_to_ctm.sh
+END
+build_edit_distance_fst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/build_edit_distance_fst.pl
+END
+stm2text.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/stm2text.pl
+END
+kws_data_prep_syllables.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kws_data_prep_syllables.sh
+END
+generate_confusion_matrix.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3537/trunk/egs/babel/s5b/local/generate_confusion_matrix.sh
+END
+naive_comb.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3395/trunk/egs/babel/s5b/local/naive_comb.pl
+END
+make_pitch.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/make_pitch.sh
+END
+filter_kwslist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/filter_kwslist.pl
+END
+extend_lexicon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3514/trunk/egs/babel/s5b/local/extend_lexicon.sh
+END
+arpa2G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3502/trunk/egs/babel/s5b/local/arpa2G.sh
+END
+gridsearch.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/gridsearch.pl
+END
+find_transcripts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/find_transcripts.pl
+END
+ndx2flist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/ndx2flist.pl
+END
+count_to_logprob.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3500/trunk/egs/babel/s5b/local/count_to_logprob.pl
+END
+prepare_lexicon.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3428/trunk/egs/babel/s5b/local/prepare_lexicon.pl
+END
+train_mmi_sgmm2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/train_mmi_sgmm2.sh
+END
+kws_oracle.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kws_oracle.sh
+END
+generate_example_kws.sh
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/generate_example_kws.sh
+END
+apply_g2p.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3507/trunk/egs/babel/s5b/local/apply_g2p.sh
+END
+rttm_to_text.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/rttm_to_text.pl
+END
+make_corpus_subset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3546/trunk/egs/babel/s5b/local/make_corpus_subset.sh
+END
+score_stm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3865/trunk/egs/babel/s5b/local/score_stm.sh
+END
+train_lms_srilm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3489/trunk/egs/babel/s5b/local/train_lms_srilm.sh
+END
+kws_oracle_threshold.pl
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3408/trunk/egs/babel/s5b/local/kws_oracle_threshold.pl
+END
+fix_kwslist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/fix_kwslist.pl
+END
+score_combine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3538/trunk/egs/babel/s5b/local/score_combine.sh
+END
+subset_atwv.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/subset_atwv.pl
+END
+score_sctk_prune.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/score_sctk_prune.sh
+END
+flist2scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/flist2scp.pl
+END
+get_syllable_text.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/get_syllable_text.sh
+END
+score_mbr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/score_mbr.sh
+END
+make_lexicon_fst_special.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/make_lexicon_fst_special.pl
+END
+prepare_kaldi_lm_from_training_text.sh
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/prepare_kaldi_lm_from_training_text.sh
+END
+check_models.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/check_models.sh
+END
+lattice_to_ctm_syllable.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/lattice_to_ctm_syllable.sh
+END
+make_lexicon_subset.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/make_lexicon_subset.sh
+END
+kws_setup.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3489/trunk/egs/babel/s5b/local/kws_setup.sh
+END
+train_g2p.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3507/trunk/egs/babel/s5b/local/train_g2p.sh
+END
+subset_kwslist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3489/trunk/egs/babel/s5b/local/subset_kwslist.pl
+END
+kws_search.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3500/trunk/egs/babel/s5b/local/kws_search.sh
+END
+gridsearch2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/gridsearch2.pl
+END
+kws_combine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3538/trunk/egs/babel/s5b/local/kws_combine.sh
+END
+buildSRILM.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/buildSRILM.sh
+END
+cstr_ndx2flist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/cstr_ndx2flist.pl
+END
+shadow_set_kws_search.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3396/trunk/egs/babel/s5b/local/shadow_set_kws_search.sh
+END
+kws_gen_oracle_lattices.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/kws_gen_oracle_lattices.sh
+END
+ctm2segments.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3500/trunk/egs/babel/s5b/local/ctm2segments.pl
+END
+check_wers.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/check_wers.sh
+END
+apply_map_tab_preserving.pl
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3489/trunk/egs/babel/s5b/local/apply_map_tab_preserving.pl
+END
+filter_keywords.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/filter_keywords.pl
+END
+split_ctms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/split_ctms.sh
+END
+prepare_stm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3535/trunk/egs/babel/s5b/local/prepare_stm.pl
+END
+decode_helper.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/decode_helper.sh
+END
+kws_data_prep_proxy.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3526/trunk/egs/babel/s5b/local/kws_data_prep_proxy.sh
+END
+make_syllable_lexicon.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/make_syllable_lexicon.sh
+END
+arpa2G_syllables.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/arpa2G_syllables.sh
+END
+CHECKPOINT.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/local/CHECKPOINT.sh
+END

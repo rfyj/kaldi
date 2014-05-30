@@ -1,0 +1,23 @@
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/conf/mfcc.conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/conf/topo.proto
+END
+topo_orig.proto
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/conf/topo_orig.proto
+END

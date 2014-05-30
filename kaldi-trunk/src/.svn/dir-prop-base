@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 10
+kaldi.mk
+
+
+K 13
+svn:mergeinfo
+V 453
+/sandbox/dan/src:1504-1801
+/sandbox/dan2/src:2775-2829,2832-3292
+/sandbox/discrim/src:234-658
+/sandbox/karel/src:270-1493,1522-1532
+/sandbox/korzinek/src:2551-2594
+/sandbox/kws/src:1533-1557
+/sandbox/language_id/src:3523-3930
+/sandbox/nshmyrev/src:3830-3854
+/sandbox/oplatek/src:2513-2541
+/sandbox/pitch/src:3126-3251
+/sandbox/sail/src:3642-3712,3716-3797
+/sandbox/sharedlibs/src:2585-2662
+/sandbox/tanel/src:2623-2658
+/sandbox/thang-project/src:233-258
+END

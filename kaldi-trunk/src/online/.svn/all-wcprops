@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/4009/trunk/src/online
+END
+online-feat-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-feat-input.h
+END
+online-audio-source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-audio-source.cc
+END
+online-audio-source.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-audio-source.h
+END
+online-decodable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3713/trunk/src/online/online-decodable.cc
+END
+online-decodable.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-decodable.h
+END
+online-tcp-source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-tcp-source.cc
+END
+online-tcp-source.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-tcp-source.h
+END
+onlinebin-util.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/onlinebin-util.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3354/trunk/src/online/Makefile
+END
+online-faster-decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-faster-decoder.cc
+END
+onlinebin-util.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/onlinebin-util.h
+END
+online-faster-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-faster-decoder.h
+END
+online-feat-input.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-feat-input.cc
+END
+online-feat-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-feat-test.cc
+END

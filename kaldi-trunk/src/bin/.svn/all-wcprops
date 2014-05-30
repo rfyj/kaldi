@@ -1,0 +1,461 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/4007/trunk/src/bin
+END
+weight-silence-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3585/trunk/src/bin/weight-silence-post.cc
+END
+ali-to-pdf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/ali-to-pdf.cc
+END
+copy-gselect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-gselect.cc
+END
+dot-weights.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/dot-weights.cc
+END
+post-to-pdf-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/post-to-pdf-post.cc
+END
+copy-transition-model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-transition-model.cc
+END
+est-mllt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/est-mllt.cc
+END
+compile-train-graphs-fsts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3377/trunk/src/bin/compile-train-graphs-fsts.cc
+END
+matrix-sum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3788/trunk/src/bin/matrix-sum.cc
+END
+matrix-logprob.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/matrix-logprob.cc
+END
+extract-ctx.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/extract-ctx.cc
+END
+sum-matrices.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/sum-matrices.cc
+END
+copy-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-matrix.cc
+END
+reverse-weights.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/reverse-weights.cc
+END
+convert-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/convert-ali.cc
+END
+acc-lda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3588/trunk/src/bin/acc-lda.cc
+END
+compile-train-graphs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3377/trunk/src/bin/compile-train-graphs.cc
+END
+tree-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/tree-info.cc
+END
+est-lda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3931/trunk/src/bin/est-lda.cc
+END
+draw-tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/draw-tree.cc
+END
+sum-tree-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3127/trunk/src/bin/sum-tree-stats.cc
+END
+align-mapped.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3931/trunk/src/bin/align-mapped.cc
+END
+matrix-sum-rows.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3788/trunk/src/bin/matrix-sum-rows.cc
+END
+build-pfile-from-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/build-pfile-from-ali.cc
+END
+copy-int-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-int-vector.cc
+END
+copy-int-vector-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-int-vector-vector.cc
+END
+compute-mce-scale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/compute-mce-scale.cc
+END
+add-self-loops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/add-self-loops.cc
+END
+make-h-transducer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/make-h-transducer.cc
+END
+phones-to-prons.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/phones-to-prons.cc
+END
+latgen-tracking-mapped.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3482/trunk/src/bin/latgen-tracking-mapped.cc
+END
+get-post-on-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/get-post-on-ali.cc
+END
+acc-tree-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3127/trunk/src/bin/acc-tree-stats.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3931/trunk/src/bin/Makefile
+END
+make-pdf-to-tid-transducer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/make-pdf-to-tid-transducer.cc
+END
+latgen-faster-mapped-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3482/trunk/src/bin/latgen-faster-mapped-parallel.cc
+END
+copy-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/copy-post.cc
+END
+rand-prune-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/rand-prune-post.cc
+END
+align-equal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3377/trunk/src/bin/align-equal.cc
+END
+vector-sum.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3788/trunk/src/bin/vector-sum.cc
+END
+prob-to-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/prob-to-post.cc
+END
+logprob-to-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/logprob-to-post.cc
+END
+compute-wer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3441/trunk/src/bin/compute-wer.cc
+END
+build-tree-two-level.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3377/trunk/src/bin/build-tree-two-level.cc
+END
+hmm-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/hmm-info.cc
+END
+copy-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-vector.cc
+END
+make-ilabel-transducer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3377/trunk/src/bin/make-ilabel-transducer.cc
+END
+cluster-phones.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/cluster-phones.cc
+END
+duplicate-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/duplicate-matrix.cc
+END
+show-alignments.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/show-alignments.cc
+END
+prons-to-wordali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/prons-to-wordali.cc
+END
+thresh-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/thresh-post.cc
+END
+arpa2fst.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2990/trunk/src/bin/arpa2fst.cc
+END
+vector-scale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3541/trunk/src/bin/vector-scale.cc
+END
+align-compiled-mapped.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3931/trunk/src/bin/align-compiled-mapped.cc
+END
+align-equal-compiled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/align-equal-compiled.cc
+END
+show-transitions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/show-transitions.cc
+END
+build-tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3246/trunk/src/bin/build-tree.cc
+END
+copy-vector-segments.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3934/trunk/src/bin/copy-vector-segments.cc
+END
+post-to-phone-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/post-to-phone-post.cc
+END
+latgen-faster-mapped.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3931/trunk/src/bin/latgen-faster-mapped.cc
+END
+pdf-to-counts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/pdf-to-counts.cc
+END
+decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/4007/trunk/src/bin/decode-faster.cc
+END
+copy-tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/copy-tree.cc
+END
+ali-to-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/ali-to-post.cc
+END
+decode-faster-mapped.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4007/trunk/src/bin/decode-faster-mapped.cc
+END
+weight-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/weight-post.cc
+END
+scale-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/scale-post.cc
+END
+analyze-counts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3513/trunk/src/bin/analyze-counts.cc
+END
+post-to-weights.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/post-to-weights.cc
+END
+post-to-tacc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/post-to-tacc.cc
+END
+ali-to-phones.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/ali-to-phones.cc
+END
+compile-questions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/compile-questions.cc
+END
+get-silence-probs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/bin/get-silence-probs.cc
+END
+am-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/am-info.cc
+END
+sum-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3298/trunk/src/bin/sum-post.cc
+END

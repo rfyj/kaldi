@@ -1,0 +1,167 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/4023/trunk/src/lat
+END
+determinize-lattice-pruned.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3849/trunk/src/lat/determinize-lattice-pruned.h
+END
+push-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3630/trunk/src/lat/push-lattice.cc
+END
+minimize-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3630/trunk/src/lat/minimize-lattice.cc
+END
+push-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3630/trunk/src/lat/push-lattice.h
+END
+minimize-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3630/trunk/src/lat/minimize-lattice.h
+END
+kaldi-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3161/trunk/src/lat/kaldi-lattice.cc
+END
+kaldi-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3161/trunk/src/lat/kaldi-lattice.h
+END
+kws-functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3709/trunk/src/lat/kws-functions.cc
+END
+determinize-lattice-pruned-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3445/trunk/src/lat/determinize-lattice-pruned-test.cc
+END
+sausages.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3127/trunk/src/lat/sausages.cc
+END
+kws-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3709/trunk/src/lat/kws-functions.h
+END
+sausages.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/sausages.h
+END
+push-lattice-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3092/trunk/src/lat/push-lattice-test.cc
+END
+minimize-lattice-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3092/trunk/src/lat/minimize-lattice-test.cc
+END
+kaldi-lattice-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/kaldi-lattice-test.cc
+END
+phone-align-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/phone-align-lattice.cc
+END
+word-align-lattice-lexicon.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3472/trunk/src/lat/word-align-lattice-lexicon.cc
+END
+phone-align-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/phone-align-lattice.h
+END
+word-align-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3418/trunk/src/lat/word-align-lattice.cc
+END
+word-align-lattice-lexicon.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/word-align-lattice-lexicon.h
+END
+kaldi-kws.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/kaldi-kws.h
+END
+word-align-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/word-align-lattice.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3123/trunk/src/lat/Makefile
+END
+lattice-functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4023/trunk/src/lat/lattice-functions.cc
+END
+arctic-weight.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/lat/arctic-weight.h
+END
+lattice-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/lat/lattice-functions.h
+END
+determinize-lattice-pruned.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3677/trunk/src/lat/determinize-lattice-pruned.cc
+END

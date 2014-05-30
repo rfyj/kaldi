@@ -1,0 +1,161 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils
+END
+get_split_id.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/get_split_id.pl
+END
+eps2disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/eps2disambig.pl
+END
+make_lexicon_fst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/make_lexicon_fst.pl
+END
+utt2spk_to_spk2utt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/utt2spk_to_spk2utt.pl
+END
+get_splits.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/get_splits.pl
+END
+score_sclite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/score_sclite.sh
+END
+score_text.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/score_text.sh
+END
+submit_jobs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/submit_jobs.sh
+END
+decode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/decode.sh
+END
+split_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/split_data.sh
+END
+add_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/add_disambig.pl
+END
+mkgraph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/mkgraph.sh
+END
+find_arpa_oovs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/find_arpa_oovs.pl
+END
+lmrescore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/lmrescore.sh
+END
+filter_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/filter_scp.pl
+END
+s2eps.pl
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/s2eps.pl
+END
+score_lats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/score_lats.sh
+END
+subset_lm.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/subset_lm.pl
+END
+htk2kaldi_feats.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/htk2kaldi_feats.sh
+END
+add_lex_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/add_lex_disambig.pl
+END
+split_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/split_scp.pl
+END
+filter_trans_oovs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/filter_trans_oovs.pl
+END
+remove_oovs.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/remove_oovs.pl
+END
+silphones.pl
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/silphones.pl
+END
+int2sym.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/int2sym.pl
+END
+sym2int.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/sym2int.pl
+END

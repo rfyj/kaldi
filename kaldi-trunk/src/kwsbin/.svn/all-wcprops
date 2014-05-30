@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/3709/trunk/src/kwsbin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2664/trunk/src/kwsbin/Makefile
+END
+transcripts-to-fsts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/kwsbin/transcripts-to-fsts.cc
+END
+lattice-to-kws-index.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3709/trunk/src/kwsbin/lattice-to-kws-index.cc
+END
+generate-proxy-keywords.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3676/trunk/src/kwsbin/generate-proxy-keywords.cc
+END
+kws-index-union.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3424/trunk/src/kwsbin/kws-index-union.cc
+END
+kws-search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3429/trunk/src/kwsbin/kws-search.cc
+END

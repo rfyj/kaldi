@@ -1,0 +1,24 @@
+K 10
+svn:ignore
+V 31
+.depend.mk
+nnet-component-test
+
+K 13
+svn:mergeinfo
+V 524
+/sandbox/dan/src/nnet-cpu:1504
+/sandbox/dan2/src/nnet-cpu:2775-2829
+/sandbox/dan2/src/nnet2:2832-2842
+/sandbox/discrim/src/nnet-cpu:234-658
+/sandbox/korzinek/src/nnet-cpu:2551-2594
+/sandbox/language_id/src/nnet2:3523-3930
+/sandbox/nshmyrev/src/nnet2:3830-3854
+/sandbox/oplatek/src/nnet-cpu:2513-2541
+/sandbox/sail/src/nnet2:3642-3712,3716-3797
+/sandbox/sharedlibs/src/nnet-cpu:2585-2662
+/sandbox/tanel/src/nnet-cpu:2623-2658
+/sandbox/thang-project/src/nnet-cpu:233-258
+/trunk/src/nnet-cpu:270-1491
+/trunk/src/nnet2:2832-3285
+END

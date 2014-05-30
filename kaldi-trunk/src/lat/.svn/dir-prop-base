@@ -1,0 +1,7 @@
+K 10
+svn:ignore
+V 30
+.depend.mk
+kaldi-lattice-test
+
+END

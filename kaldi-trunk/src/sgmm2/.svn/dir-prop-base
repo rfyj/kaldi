@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 62
+.depend.mk
+am-sgmm-test
+estimate-am-sgmm-test
+fmllr-sgmm-test
+
+END

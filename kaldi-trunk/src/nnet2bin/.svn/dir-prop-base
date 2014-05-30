@@ -1,0 +1,18 @@
+K 13
+svn:mergeinfo
+V 566
+/sandbox/dan/src/nnet-cpubin:1504
+/sandbox/dan2/src/nnet-cpubin:2775-2829
+/sandbox/dan2/src/nnet2bin:2832-2842
+/sandbox/discrim/src/nnet-cpubin:234-658
+/sandbox/korzinek/src/nnet-cpubin:2551-2594
+/sandbox/language_id/src/nnet2bin:3523-3930
+/sandbox/nshmyrev/src/nnet2bin:3830-3854
+/sandbox/oplatek/src/nnet-cpubin:2513-2541
+/sandbox/sail/src/nnet2bin:3642-3712,3716-3797
+/sandbox/sharedlibs/src/nnet-cpubin:2585-2662
+/sandbox/tanel/src/nnet-cpubin:2623-2658
+/sandbox/thang-project/src/nnet-cpubin:233-258
+/trunk/src/nnet-cpubin:270-1491
+/trunk/src/nnet2bin:2832-3285
+END

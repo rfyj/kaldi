@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/local
+END
+timit_format_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/local/timit_format_lms.sh
+END
+timit_norm_trans.pl
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/local/timit_norm_trans.pl
+END
+timit_make_questions.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/local/timit_make_questions.pl
+END
+timit_prep_flists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/831/trunk/egs/timit/s4/local/timit_prep_flists.sh
+END
+timit_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/local/timit_data_prep.sh
+END
+timit_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/local/timit_format_data.sh
+END

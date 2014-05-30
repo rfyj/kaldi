@@ -1,0 +1,16 @@
+K 10
+svn:ignore
+V 216
+.depend.mk
+fgmm-global-acc-stats
+fgmm-global-sum-accs
+fgmm-global-est
+fgmm-global-merge
+fgmm-global-to-gmm
+fgmm-gselect
+fgmm-global-get-frame-likes
+fgmm-global-acc-stats-twofeats
+fgmm-global-copy
+fgmm-global-mixdown
+
+END

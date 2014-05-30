@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2674/trunk/egs/voxforge/gst_demo
+END
+run-live.py
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2674/trunk/egs/voxforge/gst_demo/run-live.py
+END
+run-simulated.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/2664/trunk/egs/voxforge/gst_demo/run-simulated.sh
+END

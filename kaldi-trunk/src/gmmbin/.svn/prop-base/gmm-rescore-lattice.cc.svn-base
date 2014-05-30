@@ -1,0 +1,19 @@
+K 13
+svn:mergeinfo
+V 930
+/sandbox/dan/src/gmmbin/gmm-rescore-lattice.cc:1504-1801
+/sandbox/dan2/src/gmmbin/gmm-rescore-lattice.cc:2775-2829,2832-3292
+/sandbox/discrim/src/gmmbin/gmm-rescore-lattice.cc:234-291,293-658
+/sandbox/karel/src/gmmbin/gmm-rescore-lattice.cc:270-1493,1522-1532
+/sandbox/korzinek/src/gmmbin/gmm-rescore-lattice.cc:2551-2594
+/sandbox/kws/src/gmmbin/gmm-rescore-lattice.cc:1533-1557
+/sandbox/language_id/src/gmmbin/gmm-rescore-lattice.cc:3523-3930
+/sandbox/nshmyrev/src/gmmbin/gmm-rescore-lattice.cc:3830-3854
+/sandbox/oplatek/src/gmmbin/gmm-rescore-lattice.cc:2513-2541
+/sandbox/pitch/src/gmmbin/gmm-rescore-lattice.cc:3126-3251
+/sandbox/sail/src/gmmbin/gmm-rescore-lattice.cc:3642-3712,3716-3797
+/sandbox/sharedlibs/src/gmmbin/gmm-rescore-lattice.cc:2585-2662
+/sandbox/tanel/src/gmmbin/gmm-rescore-lattice.cc:2623-2658
+/sandbox/thang-project/src/gmmbin/gmm-rescore-lattice.cc:233-258
+/trunk/src/gmmbin/gmm-rescore-lattice.cc:234-269
+END

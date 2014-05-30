@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/p/kaldi/code/!svn/ver/3405/trunk/src/fgmmbin
+END
+fgmm-global-mixdown.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-mixdown.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3249/trunk/src/fgmmbin/Makefile
+END
+fgmm-gselect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-gselect.cc
+END
+fgmm-global-gselect-to-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3405/trunk/src/fgmmbin/fgmm-global-gselect-to-post.cc
+END
+fgmm-global-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-copy.cc
+END
+fgmm-global-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-est.cc
+END
+fgmm-global-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3240/trunk/src/fgmmbin/fgmm-global-info.cc
+END
+fgmm-global-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-sum-accs.cc
+END
+fgmm-global-acc-stats-twofeats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-acc-stats-twofeats.cc
+END
+fgmm-global-get-frame-likes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3240/trunk/src/fgmmbin/fgmm-global-get-frame-likes.cc
+END
+fgmm-global-merge.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-merge.cc
+END
+fgmm-global-to-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-to-gmm.cc
+END
+fgmm-global-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2988/trunk/src/fgmmbin/fgmm-global-acc-stats.cc
+END

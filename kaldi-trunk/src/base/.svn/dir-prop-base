@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 58
+.depend.mk
+kaldi-math-test
+io-funcs-test
+kaldi-error-test
+
+END

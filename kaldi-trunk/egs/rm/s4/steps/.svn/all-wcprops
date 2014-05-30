@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps
+END
+make_mfcc.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps/make_mfcc.sh
+END
+train_mono.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps/train_mono.sh
+END
+align_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps/align_deltas.sh
+END
+train_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps/train_deltas.sh
+END
+decode_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/steps/decode_deltas.sh
+END

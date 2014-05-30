@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3246/trunk/egs/timit/s3/local
+END
+make_trans.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/make_trans.pl
+END
+timit_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/1644/trunk/egs/timit/s3/local/timit_data_prep.sh
+END
+timit_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/timit_format_data.sh
+END
+get_word_map.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/get_word_map.pl
+END
+export_log_fbanks_to_htk.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/832/trunk/egs/timit/s3/local/export_log_fbanks_to_htk.sh
+END
+timit_train_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3246/trunk/egs/timit/s3/local/timit_train_lms.sh
+END
+create_biphone_lm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/create_biphone_lm.sh
+END

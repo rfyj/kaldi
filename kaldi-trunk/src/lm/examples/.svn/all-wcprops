@@ -1,0 +1,59 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples
+END
+input3.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/input3.txt
+END
+input4.txt
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/input4.txt
+END
+MONTH.txt
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/MONTH.txt
+END
+DAYOFMONTH.txt
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/DAYOFMONTH.txt
+END
+CREATURE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/CREATURE.txt
+END
+YEARDATE.txt
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/YEARDATE.txt
+END
+input3.fst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/input3.fst
+END
+YEAR.txt
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/YEAR.txt
+END
+input4.fst
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/examples/input4.fst
+END

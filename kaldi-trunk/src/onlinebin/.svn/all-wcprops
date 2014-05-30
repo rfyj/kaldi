@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3303/trunk/src/onlinebin/Makefile
+END
+online-server-gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3240/trunk/src/onlinebin/online-server-gmm-decode-faster.cc
+END
+online-audio-server-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin/online-audio-server-decode-faster.cc
+END
+online-audio-client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin/online-audio-client.cc
+END
+online-wav-gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/3240/trunk/src/onlinebin/online-wav-gmm-decode-faster.cc
+END
+online-net-client.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/onlinebin/online-net-client.cc
+END
+online-gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3240/trunk/src/onlinebin/online-gmm-decode-faster.cc
+END

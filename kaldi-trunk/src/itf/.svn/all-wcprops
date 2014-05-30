@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 41
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf
+END
+context-dep-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/context-dep-itf.h
+END
+options-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/options-itf.h
+END
+optimizable-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/optimizable-itf.h
+END
+decodable-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/decodable-itf.h
+END
+clusterable-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/clusterable-itf.h
+END

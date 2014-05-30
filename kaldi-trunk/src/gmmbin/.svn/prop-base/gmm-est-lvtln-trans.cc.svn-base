@@ -1,0 +1,20 @@
+K 13
+svn:mergeinfo
+V 982
+/sandbox/dan/src/gmmbin/gmm-est-lvtln-trans.cc:1504-1801
+/sandbox/dan2/src/gmmbin/gmm-est-lvtln-trans.cc:2775-2829,2832-3292
+/sandbox/discrim/src/gmmbin/gmm-est-lvtln-trans.cc:234-658
+/sandbox/karel/src/gmmbin/gmm-est-lvtln-trans.cc:270-1493,1522-1532
+/sandbox/korzinek/src/gmmbin/gmm-est-lvtln-trans.cc:2551-2594
+/sandbox/kws/src/gmmbin/gmm-est-lvtln-trans.cc:1533-1557
+/sandbox/language_id/src/gmmbin/gmm-est-lvtln-trans.cc:3523-3930
+/sandbox/nshmyrev/src/gmmbin/gmm-est-lvtln-trans.cc:3830-3854
+/sandbox/oplatek/src/gmmbin/gmm-est-lvtln-trans.cc:2513-2541
+/sandbox/pitch/src/gmmbin/gmm-est-lvtln-trans.cc:3126-3251
+/sandbox/sail/src/gmmbin/gmm-est-lvtln-trans.cc:3642-3712,3716-3797
+/sandbox/sharedlibs/src/gmmbin/gmm-est-lvtln-trans.cc:2585-2662
+/sandbox/tanel/src/gmmbin/gmm-est-lvtln-trans.cc:2623-2658
+/sandbox/thang-project/src/gmmbin/gmm-est-lvtln-trans.cc:233-258
+/sandbox/vtln/src/gmmbin/gmm-est-lvtln-trans.cc:3780-3959
+/trunk/src/gmmbin/gmm-est-lvtln-trans.cc:3311-3960
+END

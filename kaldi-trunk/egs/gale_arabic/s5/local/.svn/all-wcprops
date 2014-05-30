@@ -1,0 +1,89 @@
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local
+END
+gale_data_prep_audio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_data_prep_audio.sh
+END
+split_wer.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/split_wer.sh
+END
+gale_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_format_data.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/score.sh
+END
+score_mbr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/score_mbr.sh
+END
+gale_train_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_train_lms.sh
+END
+gale_prep_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_prep_dict.sh
+END
+test_list
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/test_list
+END
+bad_segments
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/bad_segments
+END
+gale_data_prep_split.sh
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_data_prep_split.sh
+END
+normalize_transcript_BW.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/normalize_transcript_BW.pl
+END
+run_dnn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/run_dnn.sh
+END
+gale_data_prep_txt.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/gale_data_prep_txt.sh
+END
+score_combine.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/local/score_combine.sh
+END

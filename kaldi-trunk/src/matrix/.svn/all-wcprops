@@ -1,0 +1,215 @@
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/4016/trunk/src/matrix
+END
+matrix-lib-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3964/trunk/src/matrix/matrix-lib-test.cc
+END
+tp-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3355/trunk/src/matrix/tp-matrix.cc
+END
+cblas-wrappers.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/cblas-wrappers.h
+END
+packed-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4009/trunk/src/matrix/packed-matrix.cc
+END
+matrix-functions-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/matrix-functions-inl.h
+END
+matrix-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/matrix-common.h
+END
+kaldi-gpsr.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-gpsr.h
+END
+kaldi-blas.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-blas.h
+END
+compressed-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3377/trunk/src/matrix/compressed-matrix.cc
+END
+compressed-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/compressed-matrix.h
+END
+matrix-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/matrix-lib.h
+END
+qr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/3355/trunk/src/matrix/qr.cc
+END
+kaldi-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3788/trunk/src/matrix/kaldi-vector.cc
+END
+srfft.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3355/trunk/src/matrix/srfft.cc
+END
+sp-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/4016/trunk/src/matrix/sp-matrix.cc
+END
+sp-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3287/trunk/src/matrix/sp-matrix.h
+END
+optimization.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4009/trunk/src/matrix/optimization.cc
+END
+kaldi-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3964/trunk/src/matrix/kaldi-matrix.cc
+END
+srfft.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/srfft.h
+END
+kaldi-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3788/trunk/src/matrix/kaldi-vector.h
+END
+tp-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/tp-matrix.h
+END
+optimization.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/optimization.h
+END
+kaldi-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3966/trunk/src/matrix/kaldi-matrix.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2664/trunk/src/matrix/Makefile
+END
+packed-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/packed-matrix.h
+END
+kaldi-gpsr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-gpsr.cc
+END
+jama-svd.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3355/trunk/src/matrix/jama-svd.h
+END
+kaldi-vector-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-vector-inl.h
+END
+sp-matrix-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/sp-matrix-inl.h
+END
+kaldi-matrix-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-matrix-inl.h
+END
+Matrix.vcxproj
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2/trunk/src/matrix/Matrix.vcxproj
+END
+kaldi-gpsr-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/kaldi-gpsr-test.cc
+END
+matrix-functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3355/trunk/src/matrix/matrix-functions.cc
+END
+matrix-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/matrix-functions.h
+END
+jama-eig.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/jama-eig.h
+END

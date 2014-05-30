@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/3998/trunk/egs/voxforge/s5
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/1129/trunk/egs/voxforge/s5/cmd.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3956/trunk/egs/voxforge/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/1129/trunk/egs/voxforge/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/1129/trunk/egs/voxforge/s5/utils
+END
+getdata.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3572/trunk/egs/voxforge/s5/getdata.sh
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3900/trunk/egs/voxforge/s5/path.sh
+END

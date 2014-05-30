@@ -1,0 +1,143 @@
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/p/kaldi/code/!svn/ver/4016/trunk/src/feat
+END
+feature-mfcc.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/feat/feature-mfcc.h
+END
+feature-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4007/trunk/src/feat/feature-functions.h
+END
+wave-reader.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3312/trunk/src/feat/wave-reader.h
+END
+feature-fbank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/feature-fbank.cc
+END
+feature-fbank.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/feat/feature-fbank.h
+END
+pitch-functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3898/trunk/src/feat/pitch-functions.cc
+END
+feature-mfcc-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3813/trunk/src/feat/feature-mfcc-test.cc
+END
+feature-functions-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3032/trunk/src/feat/feature-functions-test.cc
+END
+feature-spectrogram.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/feature-spectrogram.cc
+END
+feature-sdc-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3519/trunk/src/feat/feature-sdc-test.cc
+END
+pitch-functions.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3398/trunk/src/feat/pitch-functions.h
+END
+feature-spectrogram.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/feat/feature-spectrogram.h
+END
+feature-plp.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/feature-plp.cc
+END
+feature-plp.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/feat/feature-plp.h
+END
+feature-fbank-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3813/trunk/src/feat/feature-fbank-test.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/3966/trunk/src/feat/Makefile
+END
+pitch-functions-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3443/trunk/src/feat/pitch-functions-test.cc
+END
+mel-computations.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3990/trunk/src/feat/mel-computations.cc
+END
+feature-plp-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/feature-plp-test.cc
+END
+feature-mfcc.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/feature-mfcc.cc
+END
+feature-functions.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4016/trunk/src/feat/feature-functions.cc
+END
+mel-computations.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3813/trunk/src/feat/mel-computations.h
+END
+wave-reader.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3377/trunk/src/feat/wave-reader.cc
+END

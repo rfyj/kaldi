@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/3982/trunk/egs/timit/s5
+END
+cmd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2295/trunk/egs/timit/s5/cmd.sh
+END
+run.sh
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3787/trunk/egs/timit/s5/run.sh
+END
+steps
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2295/trunk/egs/timit/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2295/trunk/egs/timit/s5/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3050/trunk/egs/timit/s5/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3298/trunk/egs/timit/s5/path.sh
+END

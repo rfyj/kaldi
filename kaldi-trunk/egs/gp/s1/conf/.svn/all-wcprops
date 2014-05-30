@@ -1,0 +1,35 @@
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf
+END
+lang_codes.txt
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf/lang_codes.txt
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf/mfcc.conf
+END
+eval_spk.list
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf/eval_spk.list
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf/topo.proto
+END
+dev_spk.list
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/conf/dev_spk.list
+END

@@ -1,0 +1,47 @@
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local
+END
+prepare_lm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/prepare_lm.sh
+END
+prepare_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/prepare_data.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/score.sh
+END
+create_yesno_txt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/create_yesno_txt.pl
+END
+prepare_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/prepare_dict.sh
+END
+create_yesno_waves_test_train.pl
+K 25
+svn:wc:ra_dav:version-url
+V 85
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/create_yesno_waves_test_train.pl
+END
+create_yesno_wav_scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/local/create_yesno_wav_scp.pl
+END

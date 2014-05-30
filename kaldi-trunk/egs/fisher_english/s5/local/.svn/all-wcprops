@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3246/trunk/egs/fisher_english/s5/local
+END
+fisher_create_test_lang.sh
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/fisher_create_test_lang.sh
+END
+remove_dup_utts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/remove_dup_utts.sh
+END
+fisher_train_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3246/trunk/egs/fisher_english/s5/local/fisher_train_lms.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/score.sh
+END
+fisher_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/2771/trunk/egs/fisher_english/s5/local/fisher_data_prep.sh
+END
+fisher_prepare_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/fisher_prepare_dict.sh
+END

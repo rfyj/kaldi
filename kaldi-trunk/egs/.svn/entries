@@ -1,0 +1,119 @@
+10
+
+dir
+4030
+https://svn.code.sf.net/p/kaldi/code/trunk/egs
+https://svn.code.sf.net/p/kaldi/code
+
+
+
+2014-05-26T14:54:36.430194Z
+4018
+vesis84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+chime_wsj0
+dir
+
+fisher_english
+dir
+
+vystadial_cz
+dir
+
+yesno
+dir
+
+hkust
+dir
+
+voxforge
+dir
+
+swbd
+dir
+
+sre08
+dir
+
+tedlium
+dir
+
+wsj
+dir
+
+babel
+dir
+
+gp
+dir
+
+gale_arabic
+dir
+
+README.txt
+file
+
+
+
+
+2014-05-30T02:46:17.000000Z
+ade11eff7e15f0a4915e294ea39b50fc
+2014-03-30T17:53:53.956321Z
+3822
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+492
+
+aurora4
+dir
+
+rm
+dir
+
+tidigits
+dir
+
+lre
+dir
+
+vystadial_en
+dir
+
+timit
+dir
+

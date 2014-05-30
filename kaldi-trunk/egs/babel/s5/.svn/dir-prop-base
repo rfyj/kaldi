@@ -1,0 +1,15 @@
+K 13
+svn:mergeinfo
+V 449
+/sandbox/dan/egs/wsj/s5:1504-1801
+/sandbox/dan2/egs/babel/s5:2775-2829,2832-3292
+/sandbox/discrim/egs/wsj/s5:234-658
+/sandbox/karel/egs/wsj/s5:270-942,1522-1532
+/sandbox/kws/egs/wsj/s5:1533-1557
+/sandbox/language_id/egs/babel/s5:3523-3930
+/sandbox/nshmyrev/egs/babel/s5:3830-3854
+/sandbox/sail/egs/babel/s5:3642-3712,3716-3797
+/sandbox/sharedlibs/egs/babel/s5:2585-2662
+/sandbox/tanel/egs/babel/s5:2623-2658
+/sandbox/thang-project/egs/wsj/s5:233-258
+END
