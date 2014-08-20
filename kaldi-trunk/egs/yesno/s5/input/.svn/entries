@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/yesno/s5/input
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,74 +25,6 @@ nshmyrev
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-lexicon_nosil.txt
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-21ef29bdaaa0a1b287128dce0166a0d9
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11
-
-task.arpabo
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-bd541bbcf5cd68b982d2f0bdfa1666da
-2012-05-15T23:33:19.500015Z
-925
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-65
 
 phones.txt
 file
@@ -161,4 +93,72 @@ nshmyrev
 
 
 21
+
+lexicon_nosil.txt
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+21ef29bdaaa0a1b287128dce0166a0d9
+2013-12-29T13:46:19.739945Z
+3373
+nshmyrev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+task.arpabo
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+bd541bbcf5cd68b982d2f0bdfa1666da
+2012-05-15T23:33:19.500015Z
+925
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+65
 

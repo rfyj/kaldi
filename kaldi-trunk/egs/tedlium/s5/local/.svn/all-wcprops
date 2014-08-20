@@ -1,41 +1,65 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local
+/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5/local
 END
-score.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/score.sh
-END
-lm_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/lm_prep.sh
-END
-data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/data_prep.sh
-END
-data_download.sh
+download_data.sh
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/data_download.sh
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/download_data.sh
 END
 join_suffix.py
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/join_suffix.py
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/join_suffix.py
 END
-dict_prep.sh
+prepare_dict.sh
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/local/dict_prep.sh
+V 70
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/prepare_dict.sh
+END
+run_dnn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5/local/run_dnn.sh
+END
+remove_dup_utts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/4100/trunk/egs/tedlium/s5/local/remove_dup_utts.sh
+END
+prepare_lm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/prepare_lm.sh
+END
+prepare_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/prepare_data.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/score.sh
+END
+score_basic.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/score_basic.sh
+END
+score_sclite.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4100/trunk/egs/tedlium/s5/local/score_sclite.sh
 END

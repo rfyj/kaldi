@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/yesno/s5
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,43 +25,6 @@ nshmyrev
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-b7ef18ddad3731ec71007cdfb25f8aea
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-287
 
 local
 dir
@@ -170,4 +133,41 @@ svn:special
 
 
 18
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+b7ef18ddad3731ec71007cdfb25f8aea
+2013-12-29T13:46:19.739945Z
+3373
+nshmyrev
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+287
 

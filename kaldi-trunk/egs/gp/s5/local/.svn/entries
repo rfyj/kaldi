@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 
 
 
@@ -25,312 +25,6 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-gp_norm_dict_RU.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-136d87ccab5a706b0abae61430d2dca9
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6289
-
-gp_norm_trans_SP.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-653d5d2bb7601bdaed953a2ee74b359e
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3211
-
-gp_rmn2utf_FR.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-28b434bf5b8e96a53bb9067f47c183cc
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2018
-
-score.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-1a71f9766ea8bf745e3f1277e297d46e
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1447
-
-gp_make_questions.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-11554e85787f2d9399e507b835f5aeac
-2012-08-16T22:29:49.543614Z
-1220
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2562
-
-gp_norm_trans_RU.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-2a3c7d7a5d818e92f7d2450820dc627a
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4377
-
-gp_rmn2utf_PL.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-25c56315ae6b63e930d92593ffa37a04
-2012-08-28T11:04:56.603646Z
-1310
-ijanda
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1883
-
-gp_norm_dict_GE.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-749d6549ec111610be8b10676f91dd32
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5329
-
-gp_prep_flists.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-8f5055ed6f19171f8e0c9fc51c3e696b
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6006
 
 gp_rmn2utf_PO.pl
 file
@@ -372,11 +66,11 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
+
 062a95ebbe0b63d1af66dab3fba5932c
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 has-props
 
 
@@ -672,40 +366,6 @@ has-props
 
 1799
 
-gp_dict_prep.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-0456c0c3266f4552380e5cfc7dd9d2bc
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4156
-
 gp_rmn2utf_GE.pl
 file
 
@@ -740,17 +400,17 @@ has-props
 
 1345
 
-gp_norm_dict_PL.pl
+gp_dict_prep.sh
 file
 
 
 
 
-2014-05-30T02:46:15.000000Z
-2c875d17fe915c27930646384a263fbc
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
+
+0456c0c3266f4552380e5cfc7dd9d2bc
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 has-props
 
 
@@ -772,7 +432,7 @@ has-props
 
 
 
-4965
+4156
 
 gp_norm_trans_FR.pl
 file
@@ -807,6 +467,40 @@ has-props
 
 
 3570
+
+gp_norm_dict_PL.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+2c875d17fe915c27930646384a263fbc
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4965
 
 gp_norm_dict_CZ.pl
 file
@@ -978,6 +672,40 @@ has-props
 
 2791
 
+gp_norm_trans_PO.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+e1d9172a8b60dc93acbb4db0359cfd02
+2012-10-04T19:18:28.296557Z
+1421
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3202
+
 gp_norm_dict_SP.pl
 file
 
@@ -1012,14 +740,14 @@ has-props
 
 5014
 
-gp_norm_trans_PO.pl
+gp_norm_trans_SP.pl
 file
 
 
 
 
 2014-05-30T02:46:15.000000Z
-e1d9172a8b60dc93acbb4db0359cfd02
+653d5d2bb7601bdaed953a2ee74b359e
 2012-10-04T19:18:28.296557Z
 1421
 arnab13
@@ -1044,5 +772,277 @@ has-props
 
 
 
-3202
+3211
+
+gp_rmn2utf_FR.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+28b434bf5b8e96a53bb9067f47c183cc
+2012-10-04T19:18:28.296557Z
+1421
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2018
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+1a71f9766ea8bf745e3f1277e297d46e
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1447
+
+gp_norm_dict_RU.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+136d87ccab5a706b0abae61430d2dca9
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6289
+
+gp_make_questions.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+11554e85787f2d9399e507b835f5aeac
+2012-08-16T22:29:49.543614Z
+1220
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2562
+
+gp_rmn2utf_PL.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+25c56315ae6b63e930d92593ffa37a04
+2012-08-28T11:04:56.603646Z
+1310
+ijanda
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1883
+
+gp_norm_trans_RU.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+2a3c7d7a5d818e92f7d2450820dc627a
+2012-10-04T19:18:28.296557Z
+1421
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4377
+
+gp_prep_flists.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+8f5055ed6f19171f8e0c9fc51c3e696b
+2012-10-04T19:18:28.296557Z
+1421
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6006
+
+gp_norm_dict_GE.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+749d6549ec111610be8b10676f91dd32
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5329
 

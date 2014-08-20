@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/feat
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-26T01:43:58.021485Z
-4016
-danielpovey
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 has-props
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-1485eadf204bcd049bc8ff2d40bdd49e
-2013-12-30T20:17:06.842090Z
-3377
+2014-08-20T05:47:36.000000Z
+a87661764a69735027925e8ef8c9f810
+2014-07-20T18:25:45.363637Z
+4183
 danielpovey
 
 
@@ -58,7 +58,7 @@ danielpovey
 
 
 
-4696
+6573
 
 feature-fbank.h
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-0d7e60fa79cd0f4b08831709a4bc9cc4
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:36.000000Z
+dd8db2f378513277efc213f7acc26cfa
+2014-07-10T21:45:38.332069Z
+4128
 danielpovey
 
 
@@ -92,7 +92,7 @@ danielpovey
 
 
 
-3771
+4672
 
 pitch-functions.cc
 file
@@ -168,11 +168,11 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-f26ab0ef5f377924243dcad1745cdca3
-2013-10-03T04:00:57.620599Z
-3032
-danielpovey
+2014-08-20T05:47:36.000000Z
+6488ad24222eca58885098fb82584c1f
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -236,10 +236,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-ce86518ae5eaab33bcfabeb2e79ace6d
-2013-12-30T20:17:06.842090Z
-3377
+2014-08-20T05:47:36.000000Z
+cc33f348c00a1d61a901e61749d15009
+2014-07-20T18:25:45.363637Z
+4183
 danielpovey
 
 
@@ -262,7 +262,7 @@ danielpovey
 
 
 
-3258
+3409
 
 pitch-functions.h
 file
@@ -332,19 +332,16 @@ danielpovey
 
 2608
 
-test_data
-dir
-
 feature-plp.cc
 file
 
 
 
 
-2014-05-30T02:45:52.000000Z
-b8ccfc185e6edcc4c80a3d4581fe6595
-2013-12-30T20:17:06.842090Z
-3377
+2014-08-20T05:47:36.000000Z
+2425255fc20ea8558d31ebde30a276e4
+2014-07-20T18:25:45.363637Z
+4183
 danielpovey
 
 
@@ -367,7 +364,10 @@ danielpovey
 
 
 
-6750
+9436
+
+test_data
+dir
 
 feature-plp.h
 file
@@ -375,10 +375,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-f7b435f9eb7f3d01e387a0075b2d4cd9
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:36.000000Z
+ebe6bb9166444988178fcde693347409
+2014-07-10T21:45:38.332069Z
+4128
 danielpovey
 
 
@@ -401,7 +401,7 @@ danielpovey
 
 
 
-4688
+6003
 
 feature-fbank-test.cc
 file
@@ -477,11 +477,11 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-8bd0210b71c96f2d3074c109e7487e09
-2014-01-29T06:13:57.356643Z
-3443
-syq163
+2014-08-20T05:47:36.000000Z
+dad84b2b764531cecfe161effade3070
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -503,7 +503,7 @@ syq163
 
 
 
-16361
+16323
 
 mel-computations.cc
 file
@@ -579,10 +579,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-262c1e9757ecef358d322091d17aa472
-2013-12-30T20:17:06.842090Z
-3377
+2014-08-20T05:47:36.000000Z
+4e78f454bb66318f868a2f5a59d12b5f
+2014-07-20T18:25:45.363637Z
+4183
 danielpovey
 
 
@@ -605,7 +605,7 @@ danielpovey
 
 
 
-4957
+6787
 
 feature-functions.cc
 file
@@ -613,10 +613,10 @@ file
 
 
 
-2014-05-30T02:45:52.000000Z
-92472a605e32bd9ed599ed7f7b041a94
-2014-05-26T01:43:58.021485Z
-4016
+2014-08-20T05:47:36.000000Z
+e3ae9763a89c4a6be093e3821ae97729
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -639,7 +639,41 @@ danielpovey
 
 
 
-20691
+20768
+
+wave-reader.cc
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+c2fedb6f2cd5c6158799c45570b9c1f5
+2014-07-11T18:19:56.321624Z
+4133
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9251
 
 mel-computations.h
 file
@@ -675,74 +709,6 @@ danielpovey
 
 4098
 
-wave-reader.cc
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-bfe3ae6a7fd1f5eedc2b663e723df081
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8863
-
-feature-mfcc.h
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-0c0fde53761cf977e3976a055235f60c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4718
-
 feature-functions.h
 file
 
@@ -776,6 +742,40 @@ danielpovey
 
 
 14556
+
+feature-mfcc.h
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+be2cf2153925ae3eea11ec78a1609e81
+2014-07-10T21:45:38.332069Z
+4128
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5206
 
 wave-reader.h
 file

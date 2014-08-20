@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/rm/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-03T06:45:31.567642Z
-3978
-xiaohuizhang
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
 
 
 
@@ -25,6 +25,108 @@ xiaohuizhang
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+make_trans.pl
+file
+
+
+
+
+2014-05-30T02:46:17.000000Z
+915808c04978cb38c08f1c1e2a4eacc4
+2013-05-23T22:26:52.480341Z
+2478
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2449
+
+run_sgmm.sh
+file
+
+
+
+
+2014-05-30T02:46:17.000000Z
+5e9bcfcfddf853bf14b778a1abaf98f3
+2012-06-24T17:49:17.767088Z
+1089
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2145
+
+run_vtln2.sh
+file
+
+
+
+
+2014-08-20T05:48:26.000000Z
+3280b92362f3cbfb7636ac4857700b6e
+2014-07-21T18:02:38.089591Z
+4186
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2781
 
 rm_prepare_grammar_ug.sh
 file
@@ -168,11 +270,11 @@ file
 
 
 
-2014-05-30T02:46:17.000000Z
-4317993f3462c470e2031ed9d2075069
-2014-02-28T17:56:03.836739Z
-3629
-vesis84
+2014-08-20T05:48:26.000000Z
+860f2c9295234caff697eae67daeba00
+2014-08-08T22:21:22.973153Z
+4283
+danielpovey
 has-props
 
 
@@ -194,7 +296,7 @@ has-props
 
 
 
-3826
+4286
 
 make_rm_lm.pl
 file
@@ -236,10 +338,10 @@ file
 
 
 
-2014-05-30T02:46:17.000000Z
-c1f0cd1ea7464488114afd8cad43c3c9
-2014-04-29T22:26:16.477406Z
-3974
+2014-08-20T05:48:26.000000Z
+cda55cc0ac127e2e4b4f98901e2df2be
+2014-07-21T18:02:38.089591Z
+4186
 danielpovey
 has-props
 
@@ -262,7 +364,7 @@ has-props
 
 
 
-2299
+2306
 
 run_sgmm2.sh
 file
@@ -332,16 +434,16 @@ has-props
 
 3377
 
-run_nnet2.sh
+run_dnn_convert_nnet2.sh
 file
 
 
 
 
-2014-05-30T02:46:17.000000Z
-9c8ce1618916f31cb421cdfa27a73882
-2014-04-15T18:59:39.068771Z
-3895
+2014-08-20T05:48:26.000000Z
+f20295f5bff116a36298cc48813fbe23
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -364,7 +466,41 @@ has-props
 
 
 
-1249
+5953
+
+run_nnet2.sh
+file
+
+
+
+
+2014-08-20T05:48:26.000000Z
+a3da29fdabdb550e4bac0e44b955273c
+2014-08-03T00:49:23.427249Z
+4241
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1756
 
 run_sgmm_multiling.sh
 file
@@ -470,106 +606,4 @@ has-props
 
 
 2533
-
-make_trans.pl
-file
-
-
-
-
-2014-05-30T02:46:17.000000Z
-915808c04978cb38c08f1c1e2a4eacc4
-2013-05-23T22:26:52.480341Z
-2478
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2449
-
-run_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:17.000000Z
-5e9bcfcfddf853bf14b778a1abaf98f3
-2012-06-24T17:49:17.767088Z
-1089
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2145
-
-run_vtln2.sh
-file
-
-
-
-
-2014-05-30T02:46:17.000000Z
-8a6457f7166b9282eba910d06eec1807
-2014-04-26T02:13:21.307029Z
-3962
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1856
 

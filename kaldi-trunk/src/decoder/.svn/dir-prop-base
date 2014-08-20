@@ -5,20 +5,23 @@ V 11
 
 K 13
 svn:mergeinfo
-V 602
+V 732
+/sandbox/akirkedal/src/decoder:3806-4273
 /sandbox/dan/src/decoder:1504-1801
 /sandbox/dan2/src/decoder:2775-2829,2832-3292
 /sandbox/discrim/src/decoder:234-658
 /sandbox/karel/src/decoder:270-1493,1522-1532
 /sandbox/korzinek/src/decoder:2551-2594
 /sandbox/kws/src/decoder:1533-1557
-/sandbox/language_id/src/decoder:3523-3930
+/sandbox/language_id/src/decoder:3523-3930,3933-4177
 /sandbox/linse/src/decoder:3606-4025
 /sandbox/nshmyrev/src/decoder:3830-3854
 /sandbox/oplatek/src/decoder:2513-2541
+/sandbox/pawel/src/decoder:4013-4275
 /sandbox/pitch/src/decoder:3126-3251
 /sandbox/sail/src/decoder:3642-3712,3716-3797
 /sandbox/sharedlibs/src/decoder:2585-2662
+/sandbox/tacc_kaldi/src/decoder:3041-4251
 /sandbox/tanel/src/decoder:2623-2658
 /sandbox/thang-project/src/decoder:233-258
 END

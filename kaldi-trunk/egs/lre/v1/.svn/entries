@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-21T01:56:39.534205Z
-3935
+2014-07-22T17:43:34.975948Z
+4193
 danielpovey
 
 
@@ -38,10 +38,10 @@ file
 
 
 
-2014-05-30T02:46:02.000000Z
-50c10d175fa5782b5b3cf54c8f0011d1
-2014-04-21T01:56:39.534205Z
-3935
+2014-06-04T13:26:49.000000Z
+1d5ed17aaee2b39f49144311649b4cf1
+2014-06-01T18:05:22.357245Z
+4033
 danielpovey
 has-props
 
@@ -64,7 +64,7 @@ has-props
 
 
 
-3317
+3610
 
 cmd.sh
 file
@@ -106,11 +106,11 @@ file
 
 
 
-2014-05-30T02:46:02.000000Z
-19a3c5f628e8e673327ac19d08a49c0a
-2014-04-01T04:12:07.598259Z
-3826
-david-snyder
+2014-08-20T05:47:55.000000Z
+6673a5b042452cd563d6810fa2bce679
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
 has-props
 
 
@@ -132,7 +132,7 @@ has-props
 
 
 
-3501
+5484
 
 steps
 file
@@ -145,6 +145,40 @@ file
 2014-02-18T01:05:05.791940Z
 3533
 david-snyder
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+sid
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+445a59b296022d9564ba0dc0bdea6d87
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
 has-props
 
 

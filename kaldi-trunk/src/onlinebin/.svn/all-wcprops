@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin
+/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin
 END
 Makefile
 K 25
@@ -19,13 +19,13 @@ online-audio-server-decode-faster.cc
 K 25
 svn:wc:ra_dav:version-url
 V 84
-/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin/online-audio-server-decode-faster.cc
+/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/online-audio-server-decode-faster.cc
 END
 online-audio-client.cc
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/3864/trunk/src/onlinebin/online-audio-client.cc
+/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/online-audio-client.cc
 END
 online-wav-gmm-decode-faster.cc
 K 25

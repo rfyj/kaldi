@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-01T04:12:07.598259Z
-3826
-david-snyder
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 
 
 
@@ -270,11 +270,11 @@ file
 
 
 
-2014-05-30T02:46:02.000000Z
-a94945963482f30a8e0d6da47954c545
-2014-03-09T02:42:29.065896Z
-3744
-david-snyder
+2014-06-04T13:26:49.000000Z
+15858aba1ba44032848093ae9d461bbb
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 has-props
 
 
@@ -296,7 +296,7 @@ has-props
 
 
 
-1988
+2580
 
 callfriend_lang.txt
 file

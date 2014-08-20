@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4009/trunk/src/online
-END
-online-feat-input.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-feat-input.h
-END
-online-audio-source.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-audio-source.cc
-END
-online-audio-source.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-audio-source.h
+/p/kaldi/code/!svn/ver/4292/trunk/src/online
 END
 online-decodable.cc
 K 25
@@ -37,7 +19,7 @@ online-tcp-source.cc
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-tcp-source.cc
+/p/kaldi/code/!svn/ver/4061/trunk/src/online/online-tcp-source.cc
 END
 online-tcp-source.h
 K 25
@@ -49,7 +31,7 @@ onlinebin-util.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/online/onlinebin-util.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/online/onlinebin-util.cc
 END
 Makefile
 K 25
@@ -85,5 +67,23 @@ online-feat-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-feat-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/online/online-feat-test.cc
+END
+online-feat-input.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-feat-input.h
+END
+online-audio-source.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4009/trunk/src/online/online-audio-source.cc
+END
+online-audio-source.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-audio-source.h
 END

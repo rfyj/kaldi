@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/thread
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-21T23:34:57.648956Z
-4009
-agospodinov
+2014-08-15T04:44:01.409820Z
+4312
+danielpovey
 
 
 
@@ -25,210 +25,6 @@ agospodinov
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-kaldi-semaphore.h
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-3a7a46f3d1856103c11c77dc208b949e
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1473
-
-kaldi-task-sequence-test.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-d77efbbf014b51c3f1036ec919d0f784
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2149
-
-kaldi-barrier.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-909a7c489a8ccbff00534a408202accf
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3605
-
-Makefile
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-81ba2c2c86165333b0ce972df12b5e5a
-2013-07-07T02:28:16.505937Z
-2664
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-279
-
-kaldi-thread.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-084a263bc13c2eb5c5d454c438324529
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1069
-
-kaldi-barrier.h
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-65ed8d9c977aab1fb865c4ad5ed8e781
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1661
 
 kaldi-thread.h
 file
@@ -304,10 +100,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-e85fbe701c8b5a5c9d2bb32c2e6ea62d
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:40.000000Z
+f882f359c7247bde2c547516b2f0f3d1
+2014-06-23T23:19:48.603451Z
+4077
 danielpovey
 
 
@@ -330,7 +126,7 @@ danielpovey
 
 
 
-1683
+1702
 
 kaldi-semaphore.cc
 file
@@ -338,10 +134,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-6730a51a0f3952d005b5f6eac8c23388
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:40.000000Z
+31881c50a788c014c04fdbe2ce91ebc7
+2014-06-23T23:19:48.603451Z
+4077
 danielpovey
 
 
@@ -364,7 +160,7 @@ danielpovey
 
 
 
-2250
+2259
 
 kaldi-mutex.h
 file
@@ -372,10 +168,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-632bcc1540dfee211e8d26b61af0720c
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:40.000000Z
+281ca4d4701e0cecc63a3a632fb7f04c
+2014-06-23T23:19:48.603451Z
+4077
 danielpovey
 
 
@@ -398,7 +194,7 @@ danielpovey
 
 
 
-1468
+1511
 
 kaldi-thread-test.cc
 file
@@ -406,8 +202,178 @@ file
 
 
 
+2014-08-20T05:47:40.000000Z
+140339895d821572527440b37d76d1d4
+2014-08-15T04:44:01.409820Z
+4312
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2998
+
+kaldi-semaphore.h
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+602cafc65ea2cdc86cb43ceba3029b10
+2014-06-23T23:19:48.603451Z
+4077
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1517
+
+kaldi-task-sequence-test.cc
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+d21c65dd20899a5e46fc7dbd9e8ef873
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2149
+
+kaldi-barrier.cc
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+9d32a61a87c8e52a0df48761c7ef9ef7
+2014-06-23T23:19:48.603451Z
+4077
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3583
+
+Makefile
+file
+
+
+
+
 2014-05-30T02:45:55.000000Z
-f3e6b24afbfea84fb6b5179affa6a74b
+81ba2c2c86165333b0ce972df12b5e5a
+2013-07-07T02:28:16.505937Z
+2664
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+279
+
+kaldi-thread.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+084a263bc13c2eb5c5d454c438324529
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -432,5 +398,39 @@ danielpovey
 
 
 
-2640
+1069
+
+kaldi-barrier.h
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+fead6c8de9022999b118eac7090618ae
+2014-06-23T23:19:48.603451Z
+4077
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1704
 

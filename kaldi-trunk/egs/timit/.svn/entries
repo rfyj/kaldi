@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-07T13:25:45.081488Z
-3982
-danielpovey
+2014-08-18T16:55:50.596951Z
+4323
+vesis84
 
 
 
@@ -25,6 +25,9 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+s3
+dir
 
 s4
 dir
@@ -65,7 +68,4 @@ danielpovey
 
 
 1515
-
-s3
-dir
 

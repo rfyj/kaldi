@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1/lid
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-21T01:56:39.534205Z
-3935
+2014-07-22T17:43:34.975948Z
+4193
 danielpovey
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2014-05-30T02:46:02.000000Z
-f705e548446a220df4e8c8be1414b87d
-2014-04-07T05:43:42.837066Z
-3853
-david-snyder
+2014-08-20T05:47:55.000000Z
+d20de286163ee90f68e4c710db162b47
+2014-07-22T17:43:34.975948Z
+4193
+danielpovey
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-7137
+7327
 
 train_diag_ubm.sh
 file
@@ -270,11 +270,11 @@ file
 
 
 
-2014-05-30T02:46:02.000000Z
-155f4a1a400b2da81330f99dedf08dac
-2014-04-07T05:43:42.837066Z
-3853
-david-snyder
+2014-08-20T05:47:55.000000Z
+c44551af68f4a2f0520def52ed0633e0
+2014-07-22T17:43:34.975948Z
+4193
+danielpovey
 has-props
 
 
@@ -296,5 +296,73 @@ has-props
 
 
 
-3340
+3524
+
+train_lvtln_model.sh
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+28cd462f11642ea912d4cfee179cd165
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11593
+
+get_vtln_warps.sh
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+93e8dcf940e5d6bafc920a763aa0894f
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3787
 

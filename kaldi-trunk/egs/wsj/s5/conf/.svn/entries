@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
+2014-07-21T18:02:38.089591Z
+4186
 danielpovey
 
 
@@ -25,40 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-mfcc.conf
-file
-
-
-
-
-2014-05-30T02:46:08.000000Z
-f4fb3cd52296318818f51f6fbb6f1a28
-2014-04-26T02:13:21.307029Z
-3962
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-61
 
 fbank.conf
 file
@@ -127,4 +93,38 @@ danielpovey
 
 
 123
+
+mfcc.conf
+file
+
+
+
+
+2014-08-20T05:48:00.000000Z
+f8646cb49898d7815b39d7b5b9340a06
+2014-07-21T18:02:38.089591Z
+4186
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48
 

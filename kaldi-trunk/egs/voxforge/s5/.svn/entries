@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/voxforge/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
+2014-07-24T12:19:40.332794Z
+4200
+vpanayotov
 
 
 
@@ -25,6 +25,46 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+6e9519cbbe31ee9c3f8d8c95f5817b69
+2014-04-17T05:46:42.405288Z
+3900
+vpanayotov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+806
+
+local
+dir
 
 cmd.sh
 file
@@ -66,12 +106,12 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
+2014-08-20T05:47:59.000000Z
 682839ed464970b85a50581a7b0a5307
-2014-04-25T06:10:28.901425Z
-3956
+2014-07-24T12:19:40.332794Z
+4200
 vpanayotov
-
+has-props
 
 
 
@@ -195,44 +235,4 @@ has-props
 
 
 932
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-6e9519cbbe31ee9c3f8d8c95f5817b69
-2014-04-17T05:46:42.405288Z
-3900
-vpanayotov
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-806
-
-local
-dir
 

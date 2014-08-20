@@ -1,13 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3897/trunk/egs/babel/s5b/conf
+/p/kaldi/code/!svn/ver/4252/trunk/egs/babel/s5b/conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/conf/topo.proto
+END
+common.fullLP
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4252/trunk/egs/babel/s5b/conf/common.fullLP
 END
 common.limitedLP
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/p/kaldi/code/!svn/ver/3676/trunk/egs/babel/s5b/conf/common.limitedLP
+/p/kaldi/code/!svn/ver/4252/trunk/egs/babel/s5b/conf/common.limitedLP
 END
 pitch.conf
 K 25
@@ -38,16 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 84
 /p/kaldi/code/!svn/ver/3652/trunk/egs/babel/s5b/conf/common.semisupervised.limitedLP
-END
-topo.proto
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3252/trunk/egs/babel/s5b/conf/topo.proto
-END
-common.fullLP
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3676/trunk/egs/babel/s5b/conf/common.fullLP
 END

@@ -1,7 +1,49 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/4016/trunk/src/cudamatrix
+/p/kaldi/code/!svn/ver/4316/trunk/src/cudamatrix
+END
+cu-device.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4304/trunk/src/cudamatrix/cu-device.h
+END
+cu-randkernels-ansi.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-randkernels-ansi.h
+END
+cu-vector.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4274/trunk/src/cudamatrix/cu-vector.cc
+END
+cu-vector.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4274/trunk/src/cudamatrix/cu-vector.h
+END
+cu-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4241/trunk/src/cudamatrix/cu-matrix.cc
+END
+cu-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4272/trunk/src/cudamatrix/cu-matrix.h
+END
+cu-array.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-array.h
 END
 cu-rand.cc
 K 25
@@ -13,13 +55,13 @@ Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/p/kaldi/code/!svn/ver/3996/trunk/src/cudamatrix/Makefile
+/p/kaldi/code/!svn/ver/4047/trunk/src/cudamatrix/Makefile
 END
 cu-kernels.cu
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3850/trunk/src/cudamatrix/cu-kernels.cu
+/p/kaldi/code/!svn/ver/4077/trunk/src/cudamatrix/cu-kernels.cu
 END
 cu-tp-matrix.cc
 K 25
@@ -45,17 +87,17 @@ svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-common.cc
 END
-cu-packed-matrix.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-packed-matrix.cc
-END
 cu-math.cc
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-math.cc
+/p/kaldi/code/!svn/ver/4272/trunk/src/cudamatrix/cu-math.cc
+END
+cu-packed-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4054/trunk/src/cudamatrix/cu-packed-matrix.cc
 END
 cu-common.h
 K 25
@@ -67,25 +109,19 @@ cu-kernels-ansi.h
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/3850/trunk/src/cudamatrix/cu-kernels-ansi.h
-END
-cu-device.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3788/trunk/src/cudamatrix/cu-device.cc
+/p/kaldi/code/!svn/ver/4077/trunk/src/cudamatrix/cu-kernels-ansi.h
 END
 cu-sp-matrix-speed-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-sp-matrix-speed-test.cc
+/p/kaldi/code/!svn/ver/4077/trunk/src/cudamatrix/cu-sp-matrix-speed-test.cc
 END
-cu-matrixdim.h
+cu-device.cc
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-matrixdim.h
+V 61
+/p/kaldi/code/!svn/ver/4304/trunk/src/cudamatrix/cu-device.cc
 END
 cu-array-inl.h
 K 25
@@ -93,35 +129,41 @@ svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3309/trunk/src/cudamatrix/cu-array-inl.h
 END
+cu-matrixdim.h
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-matrixdim.h
+END
 cu-sp-matrix-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-sp-matrix-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-sp-matrix-test.cc
 END
 cu-tp-matrix-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-tp-matrix-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-tp-matrix-test.cc
 END
 cu-kernels.h
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/p/kaldi/code/!svn/ver/3850/trunk/src/cudamatrix/cu-kernels.h
+/p/kaldi/code/!svn/ver/4077/trunk/src/cudamatrix/cu-kernels.h
 END
 cu-packed-matrix-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-packed-matrix-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-packed-matrix-test.cc
 END
 cu-math-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-math-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-math-test.cc
 END
 cublas-wrappers.h
 K 25
@@ -133,13 +175,7 @@ cu-block-matrix-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3213/trunk/src/cudamatrix/cu-block-matrix-test.cc
-END
-cu-matrix-lib.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-matrix-lib.h
+/p/kaldi/code/!svn/ver/4316/trunk/src/cudamatrix/cu-block-matrix-test.cc
 END
 cu-randkernels.h
 K 25
@@ -147,11 +183,17 @@ svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-randkernels.h
 END
+cu-matrix-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-matrix-lib.h
+END
 cu-vector-speed-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-vector-speed-test.cc
+/p/kaldi/code/!svn/ver/4077/trunk/src/cudamatrix/cu-vector-speed-test.cc
 END
 cu-value.h
 K 25
@@ -159,47 +201,41 @@ svn:wc:ra_dav:version-url
 V 59
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-value.h
 END
+cu-vector-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-vector-test.cc
+END
 cu-matrix-speed-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-matrix-speed-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-matrix-speed-test.cc
 END
 cu-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3214/trunk/src/cudamatrix/cu-test.cc
-END
-cu-vector-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3677/trunk/src/cudamatrix/cu-vector-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-test.cc
 END
 cu-matrix-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/4016/trunk/src/cudamatrix/cu-matrix-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-matrix-test.cc
 END
 cu-sp-matrix.cc
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-sp-matrix.cc
+/p/kaldi/code/!svn/ver/4046/trunk/src/cudamatrix/cu-sp-matrix.cc
 END
 cu-sp-matrix.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-sp-matrix.h
-END
-cu-choleskykernels.cu
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-choleskykernels.cu
+/p/kaldi/code/!svn/ver/4039/trunk/src/cudamatrix/cu-sp-matrix.h
 END
 cu-tp-matrix.h
 K 25
@@ -213,23 +249,23 @@ svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-randkernels.cu
 END
+cu-math.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/4272/trunk/src/cudamatrix/cu-math.h
+END
 cu-packed-matrix.h
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-packed-matrix.h
 END
-cu-math.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-math.h
-END
 cu-array-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/3285/trunk/src/cudamatrix/cu-array-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/cudamatrix/cu-array-test.cc
 END
 cu-block-matrix.cc
 K 25
@@ -242,58 +278,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-block-matrix.h
-END
-cu-choleskykernels-ansi.h
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-choleskykernels-ansi.h
-END
-cu-device.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3788/trunk/src/cudamatrix/cu-device.h
-END
-cu-randkernels-ansi.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-randkernels-ansi.h
-END
-cu-vector.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-vector.cc
-END
-cu-matrix.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3993/trunk/src/cudamatrix/cu-matrix.cc
-END
-cu-vector.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-vector.h
-END
-cu-matrix.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3850/trunk/src/cudamatrix/cu-matrix.h
-END
-cu-choleskykernels.h
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-choleskykernels.h
-END
-cu-array.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/3194/trunk/src/cudamatrix/cu-array.h
 END

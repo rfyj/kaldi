@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s1
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,9 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+local
+dir
 
 run.sh
 file
@@ -136,7 +139,4 @@ arnab13
 
 
 1307
-
-local
-dir
 

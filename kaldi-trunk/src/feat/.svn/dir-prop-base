@@ -8,20 +8,23 @@ feature-fbank-test
 
 K 13
 svn:mergeinfo
-V 594
+V 715
 /branches/complete/src/feat:3311-3779
+/sandbox/akirkedal/src/feat:3806-4273
 /sandbox/dan/src/feat:1504-1801
 /sandbox/dan2/src/feat:2775-2829,2832-3292
 /sandbox/discrim/src/feat:234-658
 /sandbox/karel/src/feat:270-1493,1522-1532
 /sandbox/korzinek/src/feat:2551-2594
 /sandbox/kws/src/feat:1533-1557
-/sandbox/language_id/src/feat:3523-3930
+/sandbox/language_id/src/feat:3523-3930,3933-4177
 /sandbox/nshmyrev/src/feat:3830-3854
 /sandbox/oplatek/src/feat:2513-2541
+/sandbox/pawel/src/feat:4013-4275
 /sandbox/pitch/src/feat:3126-3251
 /sandbox/sail/src/feat:3642-3712,3716-3797
 /sandbox/sharedlibs/src/feat:2585-2662
+/sandbox/tacc_kaldi/src/feat:3041-4251
 /sandbox/tanel/src/feat:2623-2658
 /sandbox/thang-project/src/feat:233-258
 /sandbox/vtln/src/feat:3780-3812

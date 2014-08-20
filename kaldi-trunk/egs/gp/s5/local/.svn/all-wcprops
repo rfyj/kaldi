@@ -1,121 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local
-END
-gp_norm_trans_CZ.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_CZ.pl
-END
-gp_format_lm.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_format_lm.sh
-END
-gp_norm_dict_SP.pl
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_SP.pl
-END
-gp_norm_trans_PO.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_PO.pl
-END
-gp_norm_dict_RU.pl
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_RU.pl
-END
-gp_norm_trans_SP.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_SP.pl
-END
-gp_rmn2utf_FR.pl
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_rmn2utf_FR.pl
-END
-score.sh
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/score.sh
-END
-gp_make_questions.pl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_make_questions.pl
-END
-gp_norm_trans_RU.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_RU.pl
-END
-gp_rmn2utf_PL.pl
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/1310/trunk/egs/gp/s5/local/gp_rmn2utf_PL.pl
-END
-gp_norm_dict_GE.pl
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_GE.pl
-END
-gp_prep_flists.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_prep_flists.sh
-END
-gp_rmn2utf_PO.pl
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_rmn2utf_PO.pl
-END
-gp_check_tools.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_check_tools.sh
-END
-gp_norm_trans_GE.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_GE.pl
-END
-gp_data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_data_prep.sh
-END
-gp_rmn2utf_SP.pl
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_rmn2utf_SP.pl
-END
-gp_convert_audio.sh
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_convert_audio.sh
+/p/kaldi/code/!svn/ver/4033/trunk/egs/gp/s5/local
 END
 gp_rmn2utf_RU.pl
 K 25
@@ -145,7 +31,7 @@ gp_dict_prep.sh
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_dict_prep.sh
+/p/kaldi/code/!svn/ver/4033/trunk/egs/gp/s5/local/gp_dict_prep.sh
 END
 gp_rmn2utf_GE.pl
 K 25
@@ -182,4 +68,118 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_PL.pl
+END
+gp_norm_trans_CZ.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_CZ.pl
+END
+gp_format_lm.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_format_lm.sh
+END
+gp_norm_trans_PO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_PO.pl
+END
+gp_norm_dict_SP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_SP.pl
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/score.sh
+END
+gp_rmn2utf_FR.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_rmn2utf_FR.pl
+END
+gp_norm_trans_SP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_SP.pl
+END
+gp_norm_dict_RU.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_RU.pl
+END
+gp_make_questions.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_make_questions.pl
+END
+gp_rmn2utf_PL.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/1310/trunk/egs/gp/s5/local/gp_rmn2utf_PL.pl
+END
+gp_norm_trans_RU.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_RU.pl
+END
+gp_prep_flists.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_prep_flists.sh
+END
+gp_norm_dict_GE.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_norm_dict_GE.pl
+END
+gp_rmn2utf_PO.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_rmn2utf_PO.pl
+END
+gp_check_tools.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4033/trunk/egs/gp/s5/local/gp_check_tools.sh
+END
+gp_norm_trans_GE.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1421/trunk/egs/gp/s5/local/gp_norm_trans_GE.pl
+END
+gp_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/local/gp_data_prep.sh
+END
+gp_rmn2utf_SP.pl
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_rmn2utf_SP.pl
+END
+gp_convert_audio.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1220/trunk/egs/gp/s5/local/gp_convert_audio.sh
 END

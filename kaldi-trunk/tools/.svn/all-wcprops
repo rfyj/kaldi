@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 39
-/p/kaldi/code/!svn/ver/4027/trunk/tools
+/p/kaldi/code/!svn/ver/4310/trunk/tools
 END
 openfst.patch
 K 25
@@ -13,7 +13,7 @@ Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/4027/trunk/tools/Makefile
+/p/kaldi/code/!svn/ver/4279/trunk/tools/Makefile
 END
 install_pfile_utils.sh
 K 25

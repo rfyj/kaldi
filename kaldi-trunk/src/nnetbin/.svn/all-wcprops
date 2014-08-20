@@ -1,73 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/3993/trunk/src/nnetbin
-END
-cmvn-to-nnet.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3449/trunk/src/nnetbin/cmvn-to-nnet.cc
-END
-nnet-kl-hmm-mat-to-component.cc
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-mat-to-component.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3551/trunk/src/nnetbin/Makefile
-END
-nnet-train-frmshuff.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3551/trunk/src/nnetbin/nnet-train-frmshuff.cc
-END
-nnet-info.cc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/3102/trunk/src/nnetbin/nnet-info.cc
-END
-nnet-train-perutt.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3551/trunk/src/nnetbin/nnet-train-perutt.cc
-END
-nnet-kl-hmm-sum-accs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-sum-accs.cc
-END
-nnet-initialize.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3402/trunk/src/nnetbin/nnet-initialize.cc
-END
-nnet-train-mpe-sequential.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3379/trunk/src/nnetbin/nnet-train-mpe-sequential.cc
-END
-nnet-forward.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3993/trunk/src/nnetbin/nnet-forward.cc
-END
-nnet-train-mmi-sequential.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3379/trunk/src/nnetbin/nnet-train-mmi-sequential.cc
+/p/kaldi/code/!svn/ver/4327/trunk/src/nnetbin
 END
 nnet-concat.cc
 K 25
@@ -91,7 +25,7 @@ rbm-train-cd1-frmshuff.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3414/trunk/src/nnetbin/rbm-train-cd1-frmshuff.cc
+/p/kaldi/code/!svn/ver/4327/trunk/src/nnetbin/rbm-train-cd1-frmshuff.cc
 END
 transf-to-nnet.cc
 K 25
@@ -104,4 +38,70 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/3102/trunk/src/nnetbin/rbm-convert-to-nnet.cc
+END
+cmvn-to-nnet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3449/trunk/src/nnetbin/cmvn-to-nnet.cc
+END
+nnet-kl-hmm-mat-to-component.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-mat-to-component.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3551/trunk/src/nnetbin/Makefile
+END
+nnet-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3102/trunk/src/nnetbin/nnet-info.cc
+END
+nnet-train-frmshuff.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4327/trunk/src/nnetbin/nnet-train-frmshuff.cc
+END
+nnet-kl-hmm-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-sum-accs.cc
+END
+nnet-train-perutt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-perutt.cc
+END
+nnet-initialize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3402/trunk/src/nnetbin/nnet-initialize.cc
+END
+nnet-forward.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4304/trunk/src/nnetbin/nnet-forward.cc
+END
+nnet-train-mpe-sequential.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-mpe-sequential.cc
+END
+nnet-train-mmi-sequential.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-mmi-sequential.cc
 END

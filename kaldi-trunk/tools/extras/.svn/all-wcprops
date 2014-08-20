@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/3890/trunk/tools/extras
-END
-install_ffv.sh
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2736/trunk/tools/extras/install_ffv.sh
-END
-install_sequitur.sh
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3483/trunk/tools/extras/install_sequitur.sh
+/p/kaldi/code/!svn/ver/4305/trunk/tools/extras
 END
 openfst_gcc41up.patch
 K 25
@@ -21,11 +9,23 @@ svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/3288/trunk/tools/extras/openfst_gcc41up.patch
 END
+install_openblas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4071/trunk/tools/extras/install_openblas.sh
+END
 install_atlas.sh
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/2427/trunk/tools/extras/install_atlas.sh
+END
+install_beamformit.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4276/trunk/tools/extras/install_beamformit.sh
 END
 install_portaudio.sh
 K 25
@@ -68,4 +68,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/3890/trunk/tools/extras/install_pfile_utils.sh
+END
+install_rnnlm_hs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4305/trunk/tools/extras/install_rnnlm_hs.sh
+END
+install_ffv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4033/trunk/tools/extras/install_ffv.sh
+END
+install_sequitur.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3483/trunk/tools/extras/install_sequitur.sh
 END

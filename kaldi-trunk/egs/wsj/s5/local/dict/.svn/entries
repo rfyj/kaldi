@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/local/dict
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,40 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-score_rules.pl
-file
-
-
-
-
-2014-05-30T02:46:08.000000Z
-8e5196d1e34d34a8741cee57853acb21
-2011-11-15T07:32:53.577063Z
-604
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1754
 
 filter_dict.pl
 file
@@ -501,4 +467,38 @@ has-props
 
 
 2286
+
+score_rules.pl
+file
+
+
+
+
+2014-05-30T02:46:08.000000Z
+8e5196d1e34d34a8741cee57853acb21
+2011-11-15T07:32:53.577063Z
+604
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1754
 

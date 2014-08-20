@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/lat
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-28T18:29:54.451957Z
-4023
-danielpovey
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 has-props
 
 
@@ -26,85 +26,17 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-push-lattice-test.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-6f5dcfd8e861ed44bc8dc4d6577c6b35
-2013-10-15T06:11:18.512749Z
-3092
-rickychanhoyin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3797
-
-minimize-lattice-test.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-2b289afda93da723f35fda7d4174dee8
-2013-10-15T06:11:18.512749Z
-3092
-rickychanhoyin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2052
-
 kaldi-lattice-test.cc
 file
 
 
 
 
-2014-05-30T02:45:59.000000Z
-58437e164f3e8144c720ddc4f058671c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
+2014-08-20T05:47:49.000000Z
+a85d84f25b4e62fd2f38f2e27aeceacc
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -168,11 +100,11 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-7c545b322060d01a4b15dea8092740b6
-2014-02-06T01:04:12.253924Z
-3472
-vesis84
+2014-08-20T05:47:49.000000Z
+fd02770c1ca968d95590f4671a30047e
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -194,7 +126,41 @@ vesis84
 
 
 
-42667
+42665
+
+word-align-lattice.cc
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+2a5d09ed888d6f7df65812a2913e9f4d
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+38967
 
 phone-align-lattice.h
 file
@@ -230,40 +196,6 @@ danielpovey
 
 2813
 
-word-align-lattice.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-65d46d5f01dce7c0b33ae3ef93b84e3d
-2014-01-19T01:56:12.507223Z
-3418
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-38728
-
 word-align-lattice-lexicon.h
 file
 
@@ -298,6 +230,40 @@ danielpovey
 
 8301
 
+word-align-lattice.h
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+f8191fa4d8f8595278f89b253dd2514e
+2014-07-18T10:54:23.887015Z
+4165
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9250
+
 kaldi-kws.h
 file
 
@@ -331,40 +297,6 @@ danielpovey
 
 
 1916
-
-word-align-lattice.h
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-14d55b7104e29d16199ba6c48ce6b452
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9157
 
 Makefile
 file
@@ -406,11 +338,11 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-2fbd6149935716d4dda79ecfb767c5ae
-2014-05-28T18:29:54.451957Z
-4023
-danielpovey
+2014-08-20T05:47:49.000000Z
+3ec60be9889708df5cbc20f497c1fd59
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -432,7 +364,7 @@ danielpovey
 
 
 
-45913
+46000
 
 arctic-weight.h
 file
@@ -468,50 +400,16 @@ danielpovey
 
 4914
 
-lattice-functions.h
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-a71c90b8d2f7d7dd3d9fdd112eb99af5
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12177
-
 determinize-lattice-pruned.cc
 file
 
 
 
 
-2014-05-30T02:45:59.000000Z
-8e124d2d33fa65aef094cb74bcbf7ed3
-2014-03-04T06:28:52.347195Z
-3677
+2014-08-20T05:47:49.000000Z
+cf54c828693b4b29de06b0ba5a61f8bf
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -534,7 +432,41 @@ danielpovey
 
 
 
-67448
+67421
+
+lattice-functions.h
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+a27b5d42ffa8a8bebab9a336642f8323
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12204
 
 determinize-lattice-pruned.h
 file
@@ -604,40 +536,6 @@ chenguoguo
 
 11809
 
-minimize-lattice.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-317f8ff3b2ab63e9388ec51efad73dd7
-2014-02-28T17:57:30.647740Z
-3630
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11414
-
 push-lattice.h
 file
 
@@ -671,6 +569,40 @@ chenguoguo
 
 
 2479
+
+minimize-lattice.cc
+file
+
+
+
+
+2014-05-30T02:45:59.000000Z
+317f8ff3b2ab63e9388ec51efad73dd7
+2014-02-28T17:57:30.647740Z
+3630
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11414
 
 minimize-lattice.h
 file
@@ -712,10 +644,10 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-6b6e1e4dcf8a526338c4b14486bffe19
-2013-11-15T17:04:47.590694Z
-3161
+2014-08-20T05:47:49.000000Z
+93ec5ba3c8ba1eb775e87568b2206141
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -738,7 +670,7 @@ danielpovey
 
 
 
-17954
+17950
 
 kaldi-lattice.h
 file
@@ -774,6 +706,40 @@ danielpovey
 
 4308
 
+determinize-lattice-pruned-test.cc
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+0f05255c920784733e3763e98f248f79
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5625
+
 kws-functions.cc
 file
 
@@ -807,40 +773,6 @@ chenguoguo
 
 
 20997
-
-determinize-lattice-pruned-test.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-57910cb1dfde99c5f20dc237ce399f16
-2014-01-29T16:59:50.748995Z
-3445
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5590
 
 sausages.cc
 file
@@ -943,4 +875,72 @@ danielpovey
 
 
 8310
+
+push-lattice-test.cc
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+14979a1513256150c48fc95686d7e73d
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3797
+
+minimize-lattice-test.cc
+file
+
+
+
+
+2014-08-20T05:47:49.000000Z
+c18a988bfd96e781112659b0df85aa51
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2052
 

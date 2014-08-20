@@ -8,19 +8,22 @@ kaldi-gpsr-test
 
 K 13
 svn:mergeinfo
-V 561
+V 688
+/sandbox/akirkedal/src/matrix:3806-4273
 /sandbox/dan/src/matrix:1504-1801,1999-2840
 /sandbox/dan2/src/matrix:2775-2829,2832-3292
 /sandbox/discrim/src/matrix:234-658
 /sandbox/karel/src/matrix:270-1500,1522-1532
 /sandbox/korzinek/src/matrix:2551-2594
 /sandbox/kws/src/matrix:1533-1557
-/sandbox/language_id/src/matrix:3523-3930
+/sandbox/language_id/src/matrix:3523-3930,3933-4177
 /sandbox/nshmyrev/src/matrix:3830-3854
 /sandbox/oplatek/src/matrix:2513-2541
+/sandbox/pawel/src/matrix:4013-4275
 /sandbox/pitch/src/matrix:3126-3251
 /sandbox/sail/src/matrix:3642-3712,3716-3797
 /sandbox/sharedlibs/src/matrix:2585-2662
+/sandbox/tacc_kaldi/src/matrix:3041-4251
 /sandbox/tanel/src/matrix:2623-2658
 /sandbox/thang-project/src/matrix:233-258
 END

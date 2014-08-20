@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gale_arabic/s5
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,40 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+RESULTS
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+0b28a927406040930429261ca965e8bc
+2014-04-07T20:40:24.438887Z
+3856
+ahmaksod1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5390
 
 conf
 dir
@@ -201,38 +235,4 @@ svn:special
 
 
 19
-
-RESULTS
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-0b28a927406040930429261ca965e8bc
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5390
 

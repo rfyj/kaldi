@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/voxforge/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-26T05:13:57.396165Z
-3965
+2014-07-24T12:19:40.332794Z
+4200
 vpanayotov
 
 
@@ -26,16 +26,16 @@ vpanayotov
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-voxforge_data_prep.sh
+run_mmi_tri4b.sh
 file
 
 
 
 
 2014-05-30T02:46:06.000000Z
-cfa81c819477e160484982c92ed88df9
-2014-04-26T05:13:57.396165Z
-3965
+9d643a34325b81919a4b98376fae5cb4
+2012-07-10T08:44:16.237501Z
+1130
 vpanayotov
 has-props
 
@@ -58,7 +58,75 @@ has-props
 
 
 
-4865
+1611
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+076d8f900d35ec9223911100e2ec5f23
+2012-08-23T11:51:43.537319Z
+1280
+mhannemann
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1633
+
+voxforge_data_prep.sh
+file
+
+
+
+
+2014-08-20T05:47:59.000000Z
+ea088538fdfacfd61076e3e8e5e705b6
+2014-07-24T12:19:40.332794Z
+4200
+vpanayotov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4856
 
 voxforge_select.sh
 file
@@ -270,10 +338,10 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-be50d4b7c2a358ead6da5bcfba8dcb06
-2014-02-23T12:19:49.891413Z
-3572
+2014-08-20T05:47:59.000000Z
+bc0f6a4ece6572dbed2b1a36e8dd4772
+2014-07-24T12:19:40.332794Z
+4200
 vpanayotov
 has-props
 
@@ -296,7 +364,7 @@ has-props
 
 
 
-1470
+1476
 
 run_mmi_tri2b.sh
 file
@@ -365,72 +433,4 @@ has-props
 
 
 3010
-
-run_mmi_tri4b.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-9d643a34325b81919a4b98376fae5cb4
-2012-07-10T08:44:16.237501Z
-1130
-vpanayotov
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1611
-
-score.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-076d8f900d35ec9223911100e2ec5f23
-2012-08-23T11:51:43.537319Z
-1280
-mhannemann
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1633
 

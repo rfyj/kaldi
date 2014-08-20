@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/misc/papers/asru11_toolkit_poster
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,74 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-beamerposter.sty
-file
-
-
-
-
-2014-05-30T02:46:02.000000Z
-bc81fe81937fb263b1beb7a5f39d0f69
-2011-12-06T21:30:35.213845Z
-642
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12078
-
-kaldi-poster.pdf
-file
-
-
-
-
-2014-05-30T02:46:02.000000Z
-8cc066420b3fd6c0cec2dfa6b6c91d00
-2011-12-09T03:49:45.695925Z
-655
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-112917
 
 script-lowlevel.tex
 file
@@ -334,4 +266,72 @@ danielpovey
 
 figures
 dir
+
+beamerposter.sty
+file
+
+
+
+
+2014-05-30T02:46:02.000000Z
+bc81fe81937fb263b1beb7a5f39d0f69
+2011-12-06T21:30:35.213845Z
+642
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12078
+
+kaldi-poster.pdf
+file
+
+
+
+
+2014-05-30T02:46:02.000000Z
+8cc066420b3fd6c0cec2dfa6b6c91d00
+2011-12-09T03:49:45.695925Z
+655
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+112917
 

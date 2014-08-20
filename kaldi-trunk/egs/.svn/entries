@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-26T14:54:36.430194Z
-4018
-vesis84
+2014-08-18T17:31:49.195702Z
+4324
+danielpovey
 
 
 
@@ -25,42 +25,6 @@ vesis84
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-chime_wsj0
-dir
-
-fisher_english
-dir
-
-vystadial_cz
-dir
-
-yesno
-dir
-
-hkust
-dir
-
-voxforge
-dir
-
-swbd
-dir
-
-sre08
-dir
-
-tedlium
-dir
-
-wsj
-dir
-
-babel
-dir
-
-gp
-dir
 
 gale_arabic
 dir
@@ -108,12 +72,57 @@ dir
 tidigits
 dir
 
-lre
-dir
-
 vystadial_en
 dir
 
+lre
+dir
+
+callhome_egyptian
+dir
+
 timit
+dir
+
+chime_wsj0
+dir
+
+fisher_english
+dir
+
+vystadial_cz
+dir
+
+yesno
+dir
+
+hkust
+dir
+
+voxforge
+dir
+
+swbd
+dir
+
+sprakbanken
+dir
+
+sre08
+dir
+
+wsj
+dir
+
+tedlium
+dir
+
+babel
+dir
+
+gp
+dir
+
+ami
 dir
 

@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/sre08/v1/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-21T20:02:54.938831Z
-3794
-david-snyder
+2014-08-10T19:55:04.801703Z
+4289
+danielpovey
 
 
 
@@ -304,11 +304,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-4ded249163928f23bac4b60ddd1bac03
-2014-03-21T20:02:54.938831Z
-3794
-david-snyder
+2014-08-20T05:47:59.000000Z
+d8c3e5401d0372fbafb0ecc03acc29a4
+2014-08-10T19:55:04.801703Z
+4289
+danielpovey
 has-props
 
 
@@ -330,7 +330,7 @@ has-props
 
 
 
-2177
+2166
 
 det_curve_example.sh
 file
@@ -406,11 +406,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-d1a2e6a5cc03c264215dee5f8d6226c9
-2014-03-21T20:02:54.938831Z
-3794
-david-snyder
+2014-08-20T05:47:59.000000Z
+7a4a68ac608c8f8dc25b0ed919237572
+2014-08-10T19:55:04.801703Z
+4289
+danielpovey
 has-props
 
 
@@ -432,7 +432,7 @@ has-props
 
 
 
-2345
+2349
 
 make_sre_2008_train.pl
 file

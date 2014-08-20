@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-29T01:56:01.274928Z
-3816
-david-snyder
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
 
 
 
@@ -127,4 +127,38 @@ david-snyder
 
 
 73
+
+mfcc_vtln.conf
+file
+
+
+
+
+2014-08-20T05:47:53.000000Z
+c6c56f043fd2cd8f8946e40ffc1c6276
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+189
 

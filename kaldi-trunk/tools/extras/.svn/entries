@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/tools/extras
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-15T04:55:19.617879Z
-3890
-danielpovey
+2014-08-14T16:47:40.014487Z
+4305
+ilyaedrenkin
 
 
 
@@ -25,74 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-install_cffi.sh
-file
-
-
-
-
-2014-05-30T02:45:50.000000Z
-a4222f65d216dd68d692bcc95c99eca0
-2013-07-07T02:28:16.505937Z
-2664
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5705
-
-install_sacc.sh
-file
-
-
-
-
-2014-05-30T02:45:50.000000Z
-37837e49e52b3ed62d68b5764e90962d
-2013-07-29T19:08:57.811480Z
-2743
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2611
 
 README.txt
 file
@@ -196,16 +128,50 @@ danielpovey
 
 579
 
+install_rnnlm_hs.sh
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+b922a5f8986ffea7257507ee911887fb
+2014-08-14T16:47:40.014487Z
+4305
+ilyaedrenkin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+273
+
 install_ffv.sh
 file
 
 
 
 
-2014-05-30T02:45:50.000000Z
+
 5f74991368adaceb15c91f353043d5ca
-2013-07-27T16:42:20.561336Z
-2736
+2014-06-01T18:05:22.357245Z
+4033
 danielpovey
 has-props
 
@@ -298,6 +264,40 @@ rickychanhoyin
 
 795
 
+install_openblas.sh
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+fadde5b339636c9880b65b1168bac8f0
+2014-06-19T17:48:36.514453Z
+4071
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+183
+
 install_atlas.sh
 file
 
@@ -331,6 +331,40 @@ has-props
 
 
 2103
+
+install_beamformit.sh
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+3b3b79846b101a37dd81f4d9565e5e72
+2014-08-07T22:03:57.503019Z
+4276
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+187
 
 install_portaudio.sh
 file
@@ -399,4 +433,72 @@ has-props
 
 
 772
+
+install_cffi.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+a4222f65d216dd68d692bcc95c99eca0
+2013-07-07T02:28:16.505937Z
+2664
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5705
+
+install_sacc.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+37837e49e52b3ed62d68b5764e90962d
+2013-07-29T19:08:57.811480Z
+2743
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2611
 

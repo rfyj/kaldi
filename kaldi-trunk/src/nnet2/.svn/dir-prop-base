@@ -6,19 +6,32 @@ nnet-component-test
 
 K 13
 svn:mergeinfo
-V 524
+V 1029
+/sandbox/akirkedal/src/nnet2:3806-4273
 /sandbox/dan/src/nnet-cpu:1504
+/sandbox/dan/src/nnet2:1504-1801
 /sandbox/dan2/src/nnet-cpu:2775-2829
-/sandbox/dan2/src/nnet2:2832-2842
+/sandbox/dan2/src/nnet2:2775-2829,2832-2842
 /sandbox/discrim/src/nnet-cpu:234-658
+/sandbox/discrim/src/nnet2:234-658
+/sandbox/karel/src/nnet2:270-1493,1522-1532
 /sandbox/korzinek/src/nnet-cpu:2551-2594
-/sandbox/language_id/src/nnet2:3523-3930
+/sandbox/korzinek/src/nnet2:2551-2594
+/sandbox/kws/src/nnet2:1533-1557
+/sandbox/language_id/src/nnet2:3523-3930,3933-4177
 /sandbox/nshmyrev/src/nnet2:3830-3854
 /sandbox/oplatek/src/nnet-cpu:2513-2541
+/sandbox/oplatek/src/nnet2:2513-2541
+/sandbox/pawel/src/nnet2:4013-4275
+/sandbox/pitch/src/nnet2:3126-3251
 /sandbox/sail/src/nnet2:3642-3712,3716-3797
 /sandbox/sharedlibs/src/nnet-cpu:2585-2662
+/sandbox/sharedlibs/src/nnet2:2585-2662
+/sandbox/tacc_kaldi/src/nnet2:3041-4251
 /sandbox/tanel/src/nnet-cpu:2623-2658
+/sandbox/tanel/src/nnet2:2623-2658
 /sandbox/thang-project/src/nnet-cpu:233-258
+/sandbox/thang-project/src/nnet2:233-258
 /trunk/src/nnet-cpu:270-1491
-/trunk/src/nnet2:2832-3285
+/trunk/src/nnet2:2832-3297
 END

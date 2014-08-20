@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/3947/trunk/src/ivector
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivector
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3931/trunk/src/ivector/Makefile
 END
 logistic-regression.cc
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/p/kaldi/code/!svn/ver/3947/trunk/src/ivector/logistic-regression.cc
+/p/kaldi/code/!svn/ver/4196/trunk/src/ivector/logistic-regression.cc
 END
 voice-activity-detection.cc
 K 25
@@ -25,7 +31,7 @@ plda-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivector/plda-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/ivector/plda-test.cc
 END
 voice-activity-detection.h
 K 25
@@ -37,41 +43,35 @@ plda.cc
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivector/plda.cc
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivector/plda.cc
 END
 ivector-extractor-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivector/ivector-extractor-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/ivector/ivector-extractor-test.cc
 END
 plda.h
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivector/plda.h
+/p/kaldi/code/!svn/ver/4289/trunk/src/ivector/plda.h
 END
 ivector-extractor.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivector/ivector-extractor.cc
+/p/kaldi/code/!svn/ver/4146/trunk/src/ivector/ivector-extractor.cc
 END
 ivector-extractor.h
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivector/ivector-extractor.h
+/p/kaldi/code/!svn/ver/4146/trunk/src/ivector/ivector-extractor.h
 END
 logistic-regression-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/p/kaldi/code/!svn/ver/3934/trunk/src/ivector/logistic-regression-test.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivector/Makefile
+/p/kaldi/code/!svn/ver/4292/trunk/src/ivector/logistic-regression-test.cc
 END

@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/tedlium/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-06T05:39:08.715574Z
-3851
-nshmyrev
+2014-08-18T16:55:50.596951Z
+4323
+vesis84
 
 
 
@@ -26,51 +26,51 @@ nshmyrev
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-dict_prep.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-67c90d8701bb38949ea82ffc78724ee3
-2014-04-06T05:39:08.715574Z
-3851
-nshmyrev
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-966
-
 score.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
+2014-08-20T05:48:07.000000Z
+598ad53e7a019c40f659296ee1606f47
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15
+
+score_basic.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
 bdb5d062a553145ece8fcfbc81819e43
-2014-04-03T16:52:57.374040Z
-3831
-nshmyrev
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
 has-props
 
 
@@ -94,17 +94,17 @@ has-props
 
 1750
 
-lm_prep.sh
+score_sclite.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-8de5f606b160f5defe12797e9fb49550
-2014-04-05T20:54:37.095574Z
-3842
-nshmyrev
+2014-08-20T05:48:07.000000Z
+aca4c3d0ea9db9e2cc4add30173fc94a
+2014-07-02T10:40:56.113962Z
+4100
+vesis84
 has-props
 
 
@@ -126,19 +126,19 @@ has-props
 
 
 
-2213
+3104
 
-data_prep.sh
+download_data.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-2d88893224a0c389116979056df083eb
-2014-04-05T21:15:43.030189Z
-3843
-nshmyrev
+2014-08-20T05:48:07.000000Z
+8de8fdf9ba6b76ebddb758c926be4a3d
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
 has-props
 
 
@@ -160,41 +160,7 @@ has-props
 
 
 
-1243
-
-data_download.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-057962bd8268e15d8daca769d889093d
-2014-04-05T20:54:37.095574Z
-3842
-nshmyrev
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-443
+638
 
 join_suffix.py
 file
@@ -202,11 +168,11 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-dd17a3c8a4dad90fd5fb853d1087274e
-2014-04-05T20:54:37.095574Z
-3842
-nshmyrev
+2014-08-20T05:48:07.000000Z
+c33d35c0110577ac1ab3e097eab33abb
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
 has-props
 
 
@@ -228,5 +194,175 @@ has-props
 
 
 
-470
+526
+
+prepare_dict.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
+4b26f11012dab39a90a6f2b33aee3861
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1288
+
+run_dnn.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
+732fa5f681db3c378f3819b8da76e280
+2014-08-18T16:55:50.596951Z
+4323
+vesis84
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6011
+
+remove_dup_utts.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
+2bdd32fb01a3ad56384b87a7c55b95aa
+2014-07-02T10:40:56.113962Z
+4100
+vesis84
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1261
+
+prepare_lm.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
+7d937e8f8091a59b416fc38a39960033
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2241
+
+prepare_data.sh
+file
+
+
+
+
+2014-08-20T05:48:07.000000Z
+efd72a92faaca72dcde06905ba89bf22
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2683
 

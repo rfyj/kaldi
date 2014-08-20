@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/misc/htk_graph_creation_example
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,40 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+test.sh
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+d023180f792efde7541d85a2c60488db
+2011-06-08T23:07:26.267932Z
+74
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3012
 
 README
 file
@@ -93,38 +127,4 @@ has-props
 
 
 5526
-
-test.sh
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-d023180f792efde7541d85a2c60488db
-2011-06-08T23:07:26.267932Z
-74
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3012
 

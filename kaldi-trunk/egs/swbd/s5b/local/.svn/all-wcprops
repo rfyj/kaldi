@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/4018/trunk/egs/swbd/s5b/local
+/p/kaldi/code/!svn/ver/4256/trunk/egs/swbd/s5b/local
 END
 score_sclite_conf.sh
 K 25
@@ -43,7 +43,7 @@ swbd1_data_prep.sh
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3895/trunk/egs/swbd/s5b/local/swbd1_data_prep.sh
+/p/kaldi/code/!svn/ver/4256/trunk/egs/swbd/s5b/local/swbd1_data_prep.sh
 END
 eval1997_data_prep.sh
 K 25
@@ -61,7 +61,7 @@ run_dnn.sh
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/4018/trunk/egs/swbd/s5b/local/run_dnn.sh
+/p/kaldi/code/!svn/ver/4033/trunk/egs/swbd/s5b/local/run_dnn.sh
 END
 run_vtln.sh
 K 25
@@ -75,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/3777/trunk/egs/swbd/s5b/local/eval2000_data_prep.sh
 END
-run_sgmm2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2348/trunk/egs/swbd/s5b/local/run_sgmm2.sh
-END
 run_raw_fmllr.sh
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/3895/trunk/egs/swbd/s5b/local/run_raw_fmllr.sh
+END
+run_sgmm2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2348/trunk/egs/swbd/s5b/local/run_sgmm2.sh
 END
 run_nnet2.sh
 K 25
@@ -116,4 +116,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/2990/trunk/egs/swbd/s5b/local/score_sclite.sh
+END
+swbd1_fix_speakerid.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/4256/trunk/egs/swbd/s5b/local/swbd1_fix_speakerid.pl
 END

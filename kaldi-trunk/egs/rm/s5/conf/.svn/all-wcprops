@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/3998/trunk/egs/rm/s5/conf
+/p/kaldi/code/!svn/ver/4257/trunk/egs/rm/s5/conf
 END
 mfcc.conf
 K 25
@@ -31,5 +31,5 @@ decode.config
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3998/trunk/egs/rm/s5/conf/decode.config
+/p/kaldi/code/!svn/ver/4257/trunk/egs/rm/s5/conf/decode.config
 END

@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-21T18:20:53.174088Z
-4008
-vesis84
+2014-08-18T17:31:49.195702Z
+4324
+danielpovey
 
 
 
@@ -25,9 +25,6 @@ vesis84
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-s5
-dir
 
 README.txt
 file
@@ -62,4 +59,7 @@ danielpovey
 
 
 755
+
+s5
+dir
 

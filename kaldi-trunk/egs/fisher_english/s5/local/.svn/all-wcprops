@@ -1,7 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/p/kaldi/code/!svn/ver/3246/trunk/egs/fisher_english/s5/local
+/p/kaldi/code/!svn/ver/4258/trunk/egs/fisher_english/s5/local
+END
+fisher_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/4256/trunk/egs/fisher_english/s5/local/fisher_data_prep.sh
+END
+fisher_prepare_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 84
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/fisher_prepare_dict.sh
 END
 fisher_create_test_lang.sh
 K 25
@@ -21,21 +33,27 @@ svn:wc:ra_dav:version-url
 V 81
 /p/kaldi/code/!svn/ver/3246/trunk/egs/fisher_english/s5/local/fisher_train_lms.sh
 END
+run_nnet2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4062/trunk/egs/fisher_english/s5/local/run_nnet2.sh
+END
 score.sh
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/score.sh
 END
-fisher_data_prep.sh
+run_data_cleaning.sh
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/p/kaldi/code/!svn/ver/2771/trunk/egs/fisher_english/s5/local/fisher_data_prep.sh
+V 82
+/p/kaldi/code/!svn/ver/4257/trunk/egs/fisher_english/s5/local/run_data_cleaning.sh
 END
-fisher_prepare_dict.sh
+fisher_fix_speakerid.pl
 K 25
 svn:wc:ra_dav:version-url
-V 84
-/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/local/fisher_prepare_dict.sh
+V 85
+/p/kaldi/code/!svn/ver/4258/trunk/egs/fisher_english/s5/local/fisher_fix_speakerid.pl
 END

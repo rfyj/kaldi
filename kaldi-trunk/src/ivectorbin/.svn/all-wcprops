@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/3934/trunk/src/ivectorbin
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin
 END
-ivector-extract.cc
+logistic-regression-eval.cc
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivectorbin/ivector-extract.cc
+V 76
+/p/kaldi/code/!svn/ver/3934/trunk/src/ivectorbin/logistic-regression-eval.cc
+END
+ivector-adapt-plda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4289/trunk/src/ivectorbin/ivector-adapt-plda.cc
 END
 ivector-compute-lda.cc
 K 25
@@ -15,11 +21,11 @@ svn:wc:ra_dav:version-url
 V 71
 /p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-compute-lda.cc
 END
-compute-vad.cc
+ivector-extract.cc
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/compute-vad.cc
+V 67
+/p/kaldi/code/!svn/ver/4113/trunk/src/ivectorbin/ivector-extract.cc
 END
 ivector-transform.cc
 K 25
@@ -27,11 +33,11 @@ svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-transform.cc
 END
-ivector-extractor-init.cc
+compute-vad.cc
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-extractor-init.cc
+V 63
+/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/compute-vad.cc
 END
 compute-eer.cc
 K 25
@@ -39,41 +45,41 @@ svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/compute-eer.cc
 END
+ivector-extractor-init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-extractor-init.cc
+END
 ivector-normalize-length.cc
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-normalize-length.cc
-END
-ivector-mean.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-mean.cc
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin/ivector-normalize-length.cc
 END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivectorbin/Makefile
+/p/kaldi/code/!svn/ver/4289/trunk/src/ivectorbin/Makefile
+END
+ivector-mean.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin/ivector-mean.cc
 END
 ivector-plda-scoring.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3377/trunk/src/ivectorbin/ivector-plda-scoring.cc
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin/ivector-plda-scoring.cc
 END
 ivector-extractor-sum-accs.cc
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-extractor-sum-accs.cc
-END
-ivector-copy-plda.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-copy-plda.cc
+/p/kaldi/code/!svn/ver/4097/trunk/src/ivectorbin/ivector-extractor-sum-accs.cc
 END
 select-voiced-frames.cc
 K 25
@@ -81,11 +87,11 @@ svn:wc:ra_dav:version-url
 V 72
 /p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/select-voiced-frames.cc
 END
-ivector-compute-plda.cc
+ivector-copy-plda.cc
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-compute-plda.cc
+V 69
+/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-copy-plda.cc
 END
 logistic-regression-copy.cc
 K 25
@@ -93,11 +99,17 @@ svn:wc:ra_dav:version-url
 V 76
 /p/kaldi/code/!svn/ver/3934/trunk/src/ivectorbin/logistic-regression-copy.cc
 END
+ivector-compute-plda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/4289/trunk/src/ivectorbin/ivector-compute-plda.cc
+END
 ivector-extractor-acc-stats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 79
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivectorbin/ivector-extractor-acc-stats.cc
+/p/kaldi/code/!svn/ver/4097/trunk/src/ivectorbin/ivector-extractor-acc-stats.cc
 END
 create-split-from-vad.cc
 K 25
@@ -115,23 +127,17 @@ ivector-compute-dot-products.cc
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/p/kaldi/code/!svn/ver/3321/trunk/src/ivectorbin/ivector-compute-dot-products.cc
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin/ivector-compute-dot-products.cc
 END
 ivector-subtract-global-mean.cc
 K 25
 svn:wc:ra_dav:version-url
 V 80
-/p/kaldi/code/!svn/ver/3319/trunk/src/ivectorbin/ivector-subtract-global-mean.cc
+/p/kaldi/code/!svn/ver/4320/trunk/src/ivectorbin/ivector-subtract-global-mean.cc
 END
 ivector-extractor-est.cc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/p/kaldi/code/!svn/ver/3931/trunk/src/ivectorbin/ivector-extractor-est.cc
-END
-logistic-regression-eval.cc
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/3934/trunk/src/ivectorbin/logistic-regression-eval.cc
+/p/kaldi/code/!svn/ver/4097/trunk/src/ivectorbin/ivector-extractor-est.cc
 END

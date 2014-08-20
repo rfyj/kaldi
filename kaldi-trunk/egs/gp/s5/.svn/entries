@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 
 
 
@@ -25,40 +25,6 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-cmd.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-0cdd2a99e878240c400c3d5913fd0f88
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-833
 
 run.sh
 file
@@ -235,4 +201,38 @@ arnab13
 
 local
 dir
+
+cmd.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+0cdd2a99e878240c400c3d5913fd0f88
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+833
 

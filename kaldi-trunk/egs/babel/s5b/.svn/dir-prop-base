@@ -1,17 +1,29 @@
 K 13
 svn:mergeinfo
-V 541
+V 1055
+/sandbox/akirkedal/egs/babel/s5b:3806-4273
+/sandbox/dan/egs/babel/s5b:1504-1801
 /sandbox/dan/egs/wsj/s5:1504-1801
 /sandbox/dan2/egs/babel/s5:2775-2829
-/sandbox/dan2/egs/babel/s5b:2832-3292
+/sandbox/dan2/egs/babel/s5b:2775-2829,2832-3292
+/sandbox/discrim/egs/babel/s5b:234-658
 /sandbox/discrim/egs/wsj/s5:234-658
+/sandbox/karel/egs/babel/s5b:270-942,1522-1532
 /sandbox/karel/egs/wsj/s5:270-942,1522-1532
+/sandbox/kws/egs/babel/s5b:1533-1557
 /sandbox/kws/egs/wsj/s5:1533-1557
-/sandbox/language_id/egs/babel/s5b:3523-3930
+/sandbox/language_id/egs/babel/s5b:3523-3930,3933-4177
 /sandbox/nshmyrev/egs/babel/s5b:3830-3854
+/sandbox/oplatek/egs/babel/s5b:2513-2541
+/sandbox/pawel/egs/babel/s5b:4013-4275
+/sandbox/pitch/egs/babel/s5b:3126-3203
 /sandbox/sail/egs/babel/s5b:3642-3712,3716-3797
 /sandbox/sharedlibs/egs/babel/s5:2585-2662
+/sandbox/sharedlibs/egs/babel/s5b:2585-2662
+/sandbox/tacc_kaldi/egs/babel/s5b:3041-4251
 /sandbox/tanel/egs/babel/s5:2623-2658
+/sandbox/tanel/egs/babel/s5b:2623-2658
+/sandbox/thang-project/egs/babel/s5b:233-258
 /sandbox/thang-project/egs/wsj/s5:233-258
 /trunk/egs/babel/s5:3126-3178
 /trunk/egs/babel/s5b:2832-3251

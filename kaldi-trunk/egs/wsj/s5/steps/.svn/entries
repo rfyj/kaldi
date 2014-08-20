@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/steps
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-21T18:20:53.174088Z
-4008
-vesis84
+2014-08-18T17:31:49.195702Z
+4324
+danielpovey
 
 
 
@@ -25,6 +25,281 @@ vesis84
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+resegment_text.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+359fa3cd605e56ca697d4d76ab31e945
+2013-09-25T17:09:15.347253Z
+2990
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4603
+
+kl_hmm
+dir
+
+decode_sgmm2_rescore_project.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+d729de855209b0ab5b3e35019dfc3de4
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7997
+
+decode_lvtln.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+b349550b33bbb56826a5fec371fbad81
+2014-07-18T21:39:16.055757Z
+4170
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7389
+
+decode_nolats.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+9f42bcbc795ff6fbe08c7f38bf6719f7
+2014-08-04T16:42:19.255640Z
+4249
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5573
+
+decode_nnet.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+490f226bdb585314b0cd057c8718a82b
+2014-02-28T17:56:03.836739Z
+3629
+vesis84
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14
+
+train_map.sh
+file
+
+
+
+
+2014-06-04T13:26:54.000000Z
+6dc84b5324692fc8129e9f86fefa7407
+2014-06-03T17:58:50.394739Z
+4037
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3822
+
+decode_sgmm_fromlats.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+d4e5c339c862f7ef4d0044ea2b81c66b
+2014-05-18T15:06:55.285599Z
+3998
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12846
+
+align_sgmm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+f26d1e0f02e06cb1ae1db2bbc2ad3de1
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7896
 
 get_ctm.sh
 file
@@ -60,16 +335,16 @@ has-props
 
 2301
 
-resegment_data.sh
+train_lda_mllt.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-d1422c670f314e906ddda42fc6380b2b
-2013-09-25T17:09:15.347253Z
-2990
+f06fb6608e8454c576b1b9c303d0a22d
+2014-04-26T23:31:12.612597Z
+3966
 danielpovey
 has-props
 
@@ -92,41 +367,7 @@ has-props
 
 
 
-4041
-
-train_sat.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-9e7aa8db66cf6da6cd7331812429ea56
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10673
+8379
 
 align_fmllr.sh
 file
@@ -134,8 +375,42 @@ file
 
 
 
+2014-08-20T05:48:02.000000Z
+3c2a3ce4fc8e3f7c5166bf75dd14ce11
+2014-08-03T00:49:23.427249Z
+4241
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5766
+
+make_denlats_sgmm2.sh
+file
+
+
+
+
 2014-05-30T02:46:11.000000Z
-6a502f2795e603cc9c136a124d1a18a9
+02ac0512ea4a0152ee62d29f2039c247
 2014-04-22T22:52:43.918763Z
 3947
 danielpovey
@@ -160,109 +435,7 @@ has-props
 
 
 
-5725
-
-make_phone_graph.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-3ea58c6641ea1660bdf99beef469a65d
-2013-09-25T17:09:15.347253Z
-2990
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5056
-
-train_mmi_fmmi.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-9e09cad0897e7ea08a2b3cb19c22b590
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10532
-
-decode_raw_fmllr.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-5f5d0f5fe78a6603fe4a7026bac242c7
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10882
+7471
 
 get_fmllr_basis.sh
 file
@@ -304,11 +477,11 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-66d9b5b413a1fdb94104ad42060edb91
-2014-05-08T00:38:16.511049Z
-3984
-vimalmanohar91
+2014-08-20T05:48:02.000000Z
+3a6b182ea6842aaad9197da6e46072e8
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
 has-props
 
 
@@ -330,16 +503,50 @@ has-props
 
 
 
-15070
+15065
 
-train_sgmm2_group.sh
+search_index.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-b78c22f293720deda05300c388cce44d
+039da50b7fc945bb8ac7e477aaf2f861
+2014-02-09T16:57:47.840851Z
+3488
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1462
+
+train_raw_sat.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+0452722bd6a70958b460a4f184101971
 2014-04-22T22:52:43.918763Z
 3947
 danielpovey
@@ -364,7 +571,7 @@ has-props
 
 
 
-15562
+13285
 
 align_raw_fmllr.sh
 file
@@ -400,14 +607,14 @@ has-props
 
 5859
 
-decode_sgmm2_rescore_project.sh
+train_sgmm.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-d729de855209b0ab5b3e35019dfc3de4
+25071941d072640a47ce40b8c24b3a9c
 2014-04-22T22:52:43.918763Z
 3947
 danielpovey
@@ -432,16 +639,16 @@ has-props
 
 
 
-7997
+11501
 
-train_smbr.sh
+train_diag_ubm.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-2aada1eaffcf9e8d671917cf357d0e9e
+16ab330a9097af118714cc4922c3081d
 2014-04-22T22:52:43.918763Z
 3947
 danielpovey
@@ -466,18 +673,18 @@ has-props
 
 
 
-6357
+5025
 
-mixup.sh
+make_fbank_pitch.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-5b9cdd7269091da61e350c0da322c422
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+732734354901e6bd7814259b990328e5
+2014-08-13T03:02:15.518830Z
+4296
 danielpovey
 has-props
 
@@ -500,143 +707,7 @@ has-props
 
 
 
-5356
-
-decode_lvtln.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-c519beccecb8150d8a485d8d801cb051
-2014-04-26T23:31:12.612597Z
-3966
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7389
-
-train_mmi_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-4948011769792b75643cac0fea0d1e8f
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6744
-
-make_mfcc.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-468d8b5a90c7177af33bd7659c86c992
-2014-04-26T02:13:21.307029Z
-3962
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3707
-
-get_lexicon_probs.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-de15a54811cc5377a109d6a650a03330
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9496
+5355
 
 train_mmi_fmmi_indirect.sh
 file
@@ -740,6 +811,74 @@ has-props
 
 7950
 
+make_denlats_sgmm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+85c68c160c12b1ac9638732789ec0292
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6928
+
+decode_sgmm2_rescore.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+c54c0927de3e0435e1b36e48022c96d4
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4757
+
 decode_with_map.sh
 file
 
@@ -774,84 +913,22 @@ has-props
 
 4920
 
-compute_cmvn_stats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-ae65ce0e6e4fbe29956fd25abd6b829e
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3207
+nnet2
+dir
 
-decode_sgmm_fromlats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-d4e5c339c862f7ef4d0044ea2b81c66b
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12846
+cleanup
+dir
 
-train_mpe.sh
+get_train_ctm.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-0e248f13052f4bb97c6fe9a41ef41027
-2014-04-22T22:52:43.918763Z
-3947
+ff3d75ccd27de506ec9e1924d33c023c
+2013-09-25T17:09:15.347253Z
+2990
 danielpovey
 has-props
 
@@ -874,19 +951,19 @@ has-props
 
 
 
-6732
+2631
 
-train_mmi.sh
+decode_combine.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-c6beb3b97c5424e4002852cc4fa4aceb
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
+02114bd6d98b215833e1f586e6cfe3e9
+2012-08-27T21:34:43.146388Z
+1307
+arnab13
 has-props
 
 
@@ -908,18 +985,18 @@ has-props
 
 
 
-6791
+2189
 
-decode_fwdbwd.sh
+resegment_data.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-ad25092641e265bb0dbf293eb34c39da
-2014-05-18T15:06:55.285599Z
-3998
+d1422c670f314e906ddda42fc6380b2b
+2013-09-25T17:09:15.347253Z
+2990
 danielpovey
 has-props
 
@@ -942,41 +1019,7 @@ has-props
 
 
 
-5482
-
-train_ubm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-81045a09438caaecb6adc0fd2d23cc7e
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5475
+4041
 
 train_mmi_sgmm2.sh
 file
@@ -1012,6 +1055,108 @@ has-props
 
 6979
 
+train_mmi_fmmi.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+9e09cad0897e7ea08a2b3cb19c22b590
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10532
+
+decode_sgmm2.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+b5aa0c0f6465e52a04b22582b450ccdf
+2014-08-04T16:42:19.255640Z
+4249
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10711
+
+make_plp.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+4dacf5a0c881fd85c82c6ddb579cee2f
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3930
+
 decode_sgmm_rescore.sh
 file
 
@@ -1046,20 +1191,21 @@ has-props
 
 4672
 
-lmrescore.sh
+append_feats.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-8af7c244eae6863c74e86c288ae60838
-2013-10-02T15:59:31.975595Z
-3027
-jtrmal
+a71a7fec54ae9a7d2ab6482b3519965d
+2014-03-03T17:26:32.571044Z
+3666
+vesis84
 has-props
 
 
+svn:special
 
 
 
@@ -1077,8 +1223,10 @@ has-props
 
 
 
-
-4631
+14
+
+nnet
+dir
 
 decode_fmmi.sh
 file
@@ -1114,16 +1262,16 @@ has-props
 
 5021
 
-search_index.sh
+decode_sgmm2_fromlats.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-039da50b7fc945bb8ac7e477aaf2f861
-2014-02-09T16:57:47.840851Z
-3488
+c35846b4904a1393f1fd129735563d39
+2014-04-22T22:52:43.918763Z
+3947
 danielpovey
 has-props
 
@@ -1146,10 +1294,656 @@ has-props
 
 
 
-1462
+12752
 
 tandem
 dir
+
+train_smbr.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+2aada1eaffcf9e8d671917cf357d0e9e
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6357
+
+train_mmi_sgmm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+4948011769792b75643cac0fea0d1e8f
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6744
+
+train_sat_basis.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+f5630319081c7ac8785b059fb93ed74f
+2014-07-30T01:48:35.834044Z
+4224
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11849
+
+decode_sgmm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+96215aa7f740a8d8ef41c1d767450ce2
+2014-05-18T15:06:55.285599Z
+3998
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12325
+
+align_basis_fmllr.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+79b83a8bb8913693f8057457e5b8aae8
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5841
+
+compute_cmvn_stats.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+cd039d7c4035edc02f8dea3830d3304e
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3211
+
+word_align_lattices.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+3252f00653d0522166fe18bc53f0d13c
+2013-11-07T21:03:03.443693Z
+3140
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1194
+
+decode_si.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+d7f37a389f31893107588ac9177ec36b
+2012-05-12T21:44:19.346245Z
+914
+danielpovey
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9
+
+train_sgmm2.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+4fd0b62e53fdea9ce4a48b0afb708906
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13082
+
+train_sat.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+9e7aa8db66cf6da6cd7331812429ea56
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10673
+
+align_si.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+3fd3b151b42ca4b98521c93d02861ff5
+2014-08-03T00:49:23.427249Z
+4241
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3844
+
+train_segmenter.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+a5506cf7605e0df9432563ef278031fe
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5486
+
+make_denlats.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+3fc3a96064bb5795ac3476e16143096a
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6369
+
+decode_fromlats.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+6be60a453df867a0a30fb517d154969e
+2014-05-18T15:06:55.285599Z
+3998
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3651
+
+make_mfcc_pitch.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+7f873d14cf87139debcfe7719f7d8455
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5481
+
+decode_biglm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+6f59356468f61c7d3368d2ba2d7ae52d
+2014-05-18T15:06:55.285599Z
+3998
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3652
+
+train_sgmm2_group.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+b78c22f293720deda05300c388cce44d
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15562
+
+paste_feats.sh
+file
+
+
+
+
+
+4cb5ffc79146312f32d370287f7e5316
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2408
+
+align_sgmm2.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+ec554866ff84451807001e2cb76bf1c3
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7904
 
 decode_basis_fmllr.sh
 file
@@ -1219,16 +2013,16 @@ svn:special
 
 13
 
-decode_nolats.sh
+mixup.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-4807e2baf7a5765e5fb89638c7f99245
-2014-05-18T15:06:55.285599Z
-3998
+5b9cdd7269091da61e350c0da322c422
+2014-04-22T22:52:43.918763Z
+3947
 danielpovey
 has-props
 
@@ -1251,7 +2045,7 @@ has-props
 
 
 
-4930
+5356
 
 make_index.sh
 file
@@ -1287,14 +2081,14 @@ has-props
 
 3476
 
-train_sat_basis.sh
+get_lexicon_probs.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-2dc1e76e59a38d8cc072fbe164cd9a61
+de15a54811cc5377a109d6a650a03330
 2014-04-22T22:52:43.918763Z
 3947
 danielpovey
@@ -1319,19 +2113,19 @@ has-props
 
 
 
-11831
+9496
 
-make_fbank_pitch.sh
+make_mfcc.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-3eb419211a6ae0a037451472a35ef25b
-2014-01-03T09:09:27.662691Z
-3389
-shi-wei
+2014-08-20T05:48:02.000000Z
+6bca30a107b7f45491a66c9ed012d9f4
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
 has-props
 
 
@@ -1353,7 +2147,7 @@ has-props
 
 
 
-4792
+4091
 
 train_mono.sh
 file
@@ -1389,1145 +2183,17 @@ has-props
 
 5502
 
-decode_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-96215aa7f740a8d8ef41c1d767450ce2
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12325
-
-decode_sgmm2_rescore.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-c54c0927de3e0435e1b36e48022c96d4
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4757
-
-word_align_lattices.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-3252f00653d0522166fe18bc53f0d13c
-2013-11-07T21:03:03.443693Z
-3140
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1194
-
-make_fbank.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-c69ff9c0c3f910e3bc4453d244845916
-2013-12-23T23:29:11.679690Z
-3339
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3310
-
-make_plp_pitch.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-faea6ca4c5ece9b6108145036bdb3cb7
-2014-05-12T22:29:27.343162Z
-3989
-vimalmanohar91
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5143
-
-oracle_wer.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-93897444a4002ce126d7bf1b5da09607
-2013-11-07T21:03:03.443693Z
-3140
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4392
-
-decode_fmllr_extra.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-efb1f82888194cce358d2e97f7ea46b5
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11239
-
-train_sgmm2.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-4fd0b62e53fdea9ce4a48b0afb708906
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13082
-
-decode.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-4d4044c4fb2ea1475610fdb0d6e4de14
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4830
-
-train_segmenter.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-a5506cf7605e0df9432563ef278031fe
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5486
-
-make_plp.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-bbcca5f0b7550a4ffe7291fbc8c02e93
-2014-04-26T02:13:21.307029Z
-3962
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3655
-
-decode_sgmm2.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-d6bca4999ba98bb8f8705e73f5332fc7
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10676
-
-append_feats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-a71a7fec54ae9a7d2ab6482b3519965d
-2014-03-03T17:26:32.571044Z
-3666
-vesis84
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14
-
-decode_fromlats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-6be60a453df867a0a30fb517d154969e
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3651
-
-make_mfcc_pitch.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-edcf861a98cdcc9966d98ded73d3f8da
-2014-04-21T01:16:19.554659Z
-3931
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4987
-
-resegment_text.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-359fa3cd605e56ca697d4d76ab31e945
-2013-09-25T17:09:15.347253Z
-2990
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4603
-
-train_raw_sat.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-0452722bd6a70958b460a4f184101971
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13285
-
-paste_feats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-4cb5ffc79146312f32d370287f7e5316
-2014-03-03T17:03:59.847898Z
-3665
-vesis84
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2408
-
-align_sgmm2.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-ec554866ff84451807001e2cb76bf1c3
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7904
-
-make_denlats_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-85c68c160c12b1ac9638732789ec0292
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6928
-
-align_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-f26d1e0f02e06cb1ae1db2bbc2ad3de1
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7896
-
-get_train_ctm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-ff3d75ccd27de506ec9e1924d33c023c
-2013-09-25T17:09:15.347253Z
-2990
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2631
-
-train_lda_mllt.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-f06fb6608e8454c576b1b9c303d0a22d
-2014-04-26T23:31:12.612597Z
-3966
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8379
-
-align_si.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-21541dc57fe6a5692ba4f2097d2f740f
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3702
-
-make_denlats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-3fc3a96064bb5795ac3476e16143096a
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6369
-
-nnet
-dir
-
-make_denlats_sgmm2.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-02ac0512ea4a0152ee62d29f2039c247
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7471
-
-decode_biglm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-6f59356468f61c7d3368d2ba2d7ae52d
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3652
-
-kl_hmm
-dir
-
-decode_sgmm2_fromlats.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-c35846b4904a1393f1fd129735563d39
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12752
-
-train_sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-25071941d072640a47ce40b8c24b3a9c
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11501
-
-train_diag_ubm.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-16ab330a9097af118714cc4922c3081d
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5025
-
-decode_nnet.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-490f226bdb585314b0cd057c8718a82b
-2014-02-28T17:56:03.836739Z
-3629
-vesis84
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14
-
-align_basis_fmllr.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-79b83a8bb8913693f8057457e5b8aae8
-2014-04-22T22:52:43.918763Z
-3947
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5841
-
-make_pitch_kaldi.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-6c1ca846ccbb4aff50a23bb6f20c849e
-2014-04-21T01:16:19.554659Z
-3931
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4706
-
 rnnlmrescore.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-2294aa3164df69fc64a091524bae0829
-2013-08-15T08:04:10.621213Z
-2789
-danielpovey
+2014-08-20T05:48:02.000000Z
+69fa4f3f50d5b1137d8dac2ddf6c9e54
+2014-08-14T16:47:40.014487Z
+4305
+ilyaedrenkin
 has-props
 
 
@@ -2549,7 +2215,7 @@ has-props
 
 
 
-7495
+7540
 
 train_deltas.sh
 file
@@ -2557,10 +2223,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-777c9296c8e3e20c7abb27f9c865ff2e
-2014-04-26T23:31:12.612597Z
-3966
+2014-08-20T05:48:02.000000Z
+80394c2536ff2341e03498ff6b94c673
+2014-07-16T19:54:48.917116Z
+4158
 danielpovey
 has-props
 
@@ -2583,26 +2249,56 @@ has-props
 
 
 
-5840
+6195
 
-nnet2
-dir
+make_fbank.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+db9a1481799ee40ca40e5483eeca7d74
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3848
 
-decode_si.sh
+train_mpe.sh
 file
 
 
 
 
 2014-05-30T02:46:11.000000Z
-d7f37a389f31893107588ac9177ec36b
-2012-05-12T21:44:19.346245Z
-914
+0e248f13052f4bb97c6fe9a41ef41027
+2014-04-22T22:52:43.918763Z
+3947
 danielpovey
 has-props
 
 
-svn:special
 
 
 
@@ -2620,7 +2316,76 @@ svn:special
 
 
 
-9
+
+6732
+
+make_plp_pitch.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+69c7ac01368a8cc6d9c2a72256efefba
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5443
+
+train_mmi.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+c6beb3b97c5424e4002852cc4fa4aceb
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6791
 
 decode_fmllr.sh
 file
@@ -2656,17 +2421,17 @@ has-props
 
 9579
 
-decode_combine.sh
+decode_fwdbwd.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-02114bd6d98b215833e1f586e6cfe3e9
-2012-08-27T21:34:43.146388Z
-1307
-arnab13
+
+ad25092641e265bb0dbf293eb34c39da
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
 has-props
 
 
@@ -2688,5 +2453,243 @@ has-props
 
 
 
-2189
+5482
+
+train_ubm.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+81045a09438caaecb6adc0fd2d23cc7e
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5475
+
+decode_fmllr_extra.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+efb1f82888194cce358d2e97f7ea46b5
+2014-05-18T15:06:55.285599Z
+3998
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11239
+
+oracle_wer.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+93897444a4002ce126d7bf1b5da09607
+2013-11-07T21:03:03.443693Z
+3140
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4392
+
+decode.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+f9c474d987e710897818feccc3f0fb09
+2014-08-03T00:49:23.427249Z
+4241
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4972
+
+make_phone_graph.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+3ea58c6641ea1660bdf99beef469a65d
+2013-09-25T17:09:15.347253Z
+2990
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5056
+
+decode_raw_fmllr.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+5f5d0f5fe78a6603fe4a7026bac242c7
+2014-04-22T22:52:43.918763Z
+3947
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10882
+
+lmrescore.sh
+file
+
+
+
+
+2014-05-30T02:46:11.000000Z
+8af7c244eae6863c74e86c288ae60838
+2013-10-02T15:59:31.975595Z
+3027
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4631
 

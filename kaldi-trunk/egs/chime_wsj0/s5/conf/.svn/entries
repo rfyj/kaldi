@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/chime_wsj0/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,40 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+mfcc.conf
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+f8646cb49898d7815b39d7b5b9340a06
+2013-12-10T19:29:00.761550Z
+3291
+cweng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48
 
 fbank.conf
 file
@@ -93,38 +127,4 @@ danielpovey
 
 
 123
-
-mfcc.conf
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-f8646cb49898d7815b39d7b5b9340a06
-2013-12-10T19:29:00.761550Z
-3291
-cweng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-48
 

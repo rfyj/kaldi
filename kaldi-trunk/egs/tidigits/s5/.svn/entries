@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/tidigits/s5
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,9 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+local
+dir
 
 cmd.sh
 file
@@ -198,7 +201,4 @@ has-props
 
 
 327
-
-local
-dir
 

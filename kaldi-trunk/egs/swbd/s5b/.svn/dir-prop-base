@@ -1,16 +1,19 @@
 K 13
 svn:mergeinfo
-V 492
+V 625
+/sandbox/akirkedal/egs/swbd/s5b:3806-4273
 /sandbox/dan/egs/swbd/s5:1504-1801
 /sandbox/dan2/egs/swbd/s5b:2775-2829,2832-3292
 /sandbox/discrim/egs/swbd/s5:234-658
 /sandbox/karel/egs/swbd/s5:270-942,1522-1532
 /sandbox/kws/egs/swbd/s5:1533-1557
-/sandbox/language_id/egs/swbd/s5b:3523-3930
+/sandbox/language_id/egs/swbd/s5b:3523-3930,3933-4177
 /sandbox/nshmyrev/egs/swbd/s5b:3830-3854
+/sandbox/pawel/egs/swbd/s5b:4013-4275
 /sandbox/pitch/egs/swbd/s5b:3126-3251
 /sandbox/sail/egs/swbd/s5b:3642-3712,3716-3797
 /sandbox/sharedlibs/egs/swbd/s5b:2585-2662
+/sandbox/tacc_kaldi/egs/swbd/s5b:3041-4251
 /sandbox/tanel/egs/swbd/s5b:2623-2658
 /sandbox/thang-project/egs/swbd/s5:233-258
 END

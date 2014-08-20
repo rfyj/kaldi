@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/fisher_english/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-03T16:02:28.382189Z
-3246
-danielpovey
+2014-08-06T01:12:34.423662Z
+4258
+qipeng
 
 
 
@@ -26,18 +26,17 @@ danielpovey
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-fisher_train_lms.sh
+fisher_fix_speakerid.pl
 file
 
 
 
 
-2014-05-30T02:46:04.000000Z
-700665bfcdf37406481a8c2286e27d9f
-2013-12-03T16:02:28.382189Z
-3246
-danielpovey
-has-props
+2014-08-20T05:47:59.000000Z
+d95c663188a3dfd9c63f0bd34470cea5
+2014-08-06T01:12:34.423662Z
+4258
+qipeng
 
 
 
@@ -58,41 +57,8 @@ has-props
 
 
 
-4099
-
-score.sh
-file
 
-
-
-
-2014-05-30T02:46:04.000000Z
-804a170e69cf45eb30cb9bcb725b7384
-2013-07-02T00:21:23.148157Z
-2625
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2443
+2860
 
 fisher_data_prep.sh
 file
@@ -100,11 +66,11 @@ file
 
 
 
-2014-05-30T02:46:04.000000Z
-2aa40b217630af7a5940fee8feb3ad94
-2013-08-08T20:13:06.777885Z
-2771
-danielpovey
+2014-08-20T05:47:59.000000Z
+b48a0267bd89619c9988f5a1af1107dd
+2014-08-05T22:26:39.675230Z
+4256
+qipeng
 has-props
 
 
@@ -126,7 +92,7 @@ has-props
 
 
 
-6220
+7047
 
 fisher_prepare_dict.sh
 file
@@ -229,4 +195,143 @@ svn:special
 
 
 41
+
+fisher_train_lms.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+700665bfcdf37406481a8c2286e27d9f
+2013-12-03T16:02:28.382189Z
+3246
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4099
+
+run_nnet2.sh
+file
+
+
+
+
+2014-08-20T05:47:59.000000Z
+780e544e3ca06dcf653acefb67d6b6e2
+2014-06-11T03:45:34.059962Z
+4062
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+220
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+804a170e69cf45eb30cb9bcb725b7384
+2013-07-02T00:21:23.148157Z
+2625
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2443
+
+nnet2
+dir
+
+run_data_cleaning.sh
+file
+
+
+
+
+2014-08-20T05:47:59.000000Z
+5651c41be3d079d0599c04ad06d209e2
+2014-08-05T22:28:32.910629Z
+4257
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1381
 

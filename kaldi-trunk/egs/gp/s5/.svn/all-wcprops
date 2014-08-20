@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 43
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 49
-/p/kaldi/code/!svn/ver/1284/trunk/egs/gp/s5/utils
-END
-RESULTS
-K 25
-svn:wc:ra_dav:version-url
-V 51
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/RESULTS
+/p/kaldi/code/!svn/ver/4033/trunk/egs/gp/s5
 END
 path.sh
 K 25
@@ -38,4 +26,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 49
 /p/kaldi/code/!svn/ver/1284/trunk/egs/gp/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/p/kaldi/code/!svn/ver/1284/trunk/egs/gp/s5/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 51
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/RESULTS
 END

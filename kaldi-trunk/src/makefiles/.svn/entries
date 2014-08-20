@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/makefiles
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-09T23:51:36.159401Z
-3755
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -25,6 +25,40 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+linux_clapack.mk
+file
+
+
+
+
+2014-05-30T02:46:00.000000Z
+3cced0643539496fad952b0294d34296
+2013-11-20T00:18:15.622283Z
+3170
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+621
 
 linux_x86_64_mkl.mk
 file
@@ -236,10 +270,10 @@ file
 
 
 
-2014-05-30T02:46:00.000000Z
-0f4ecd4647c11b41fbf6bd45406bd426
-2014-01-15T00:36:15.542186Z
-3405
+2014-08-20T05:47:51.000000Z
+0c2ea08fba1016a040a0ebb58cba0670
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -262,7 +296,7 @@ danielpovey
 
 
 
-2738
+2742
 
 cygwin.mk
 file
@@ -338,10 +372,10 @@ file
 
 
 
-2014-05-30T02:46:00.000000Z
-d8ccb7e5eaf2675b140af7a3be2dfabb
-2013-12-11T18:39:46.616498Z
-3298
+2014-08-20T05:47:51.000000Z
+0b386874c451997ef4c7fa799a0ab3ed
+2014-06-25T22:48:37.353975Z
+4083
 danielpovey
 
 
@@ -364,7 +398,7 @@ danielpovey
 
 
 
-326
+502
 
 darwin_10_6.mk
 file
@@ -501,38 +535,4 @@ danielpovey
 
 
 1187
-
-linux_clapack.mk
-file
-
-
-
-
-2014-05-30T02:46:00.000000Z
-3cced0643539496fad952b0294d34296
-2013-11-20T00:18:15.622283Z
-3170
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-621
 

@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/3246/trunk/egs/hkust/s5
+/p/kaldi/code/!svn/ver/4301/trunk/egs/hkust/s5
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/1634/trunk/egs/hkust/s5/utils
 END
 RESULTS
 K 25
@@ -25,17 +31,11 @@ run.sh
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/p/kaldi/code/!svn/ver/1638/trunk/egs/hkust/s5/run.sh
+/p/kaldi/code/!svn/ver/4301/trunk/egs/hkust/s5/run.sh
 END
 steps
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /p/kaldi/code/!svn/ver/1634/trunk/egs/hkust/s5/steps
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/1634/trunk/egs/hkust/s5/utils
 END

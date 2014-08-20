@@ -1,7 +1,43 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/4026/trunk/src/decoder
+/p/kaldi/code/!svn/ver/4283/trunk/src/decoder
+END
+lattice-simple-decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-simple-decoder.cc
+END
+nbest-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3377/trunk/src/decoder/nbest-decoder.h
+END
+biglm-faster-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4114/trunk/src/decoder/biglm-faster-decoder.h
+END
+lattice-simple-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3482/trunk/src/decoder/lattice-simple-decoder.h
+END
+training-graph-compiler.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3377/trunk/src/decoder/training-graph-compiler.cc
+END
+training-graph-compiler.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/training-graph-compiler.h
 END
 faster-decoder.cc
 K 25
@@ -13,19 +49,19 @@ lattice-tracking-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/p/kaldi/code/!svn/ver/3588/trunk/src/decoder/lattice-tracking-decoder.cc
-END
-faster-decoder.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/faster-decoder.h
+/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-tracking-decoder.cc
 END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/3123/trunk/src/decoder/Makefile
+END
+faster-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/faster-decoder.h
 END
 lattice-tracking-decoder.h
 K 25
@@ -43,7 +79,7 @@ lattice-biglm-faster-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/p/kaldi/code/!svn/ver/3482/trunk/src/decoder/lattice-biglm-faster-decoder.h
+/p/kaldi/code/!svn/ver/4114/trunk/src/decoder/lattice-biglm-faster-decoder.h
 END
 decodable-sum.h
 K 25
@@ -67,47 +103,11 @@ lattice-faster-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3588/trunk/src/decoder/lattice-faster-decoder.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-faster-decoder.cc
 END
 lattice-faster-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/3585/trunk/src/decoder/lattice-faster-decoder.h
-END
-lattice-simple-decoder.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3588/trunk/src/decoder/lattice-simple-decoder.cc
-END
-nbest-decoder.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3377/trunk/src/decoder/nbest-decoder.h
-END
-lattice-simple-decoder.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3482/trunk/src/decoder/lattice-simple-decoder.h
-END
-biglm-faster-decoder.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/4026/trunk/src/decoder/biglm-faster-decoder.h
-END
-training-graph-compiler.cc
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/3377/trunk/src/decoder/training-graph-compiler.cc
-END
-training-graph-compiler.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/training-graph-compiler.h
 END

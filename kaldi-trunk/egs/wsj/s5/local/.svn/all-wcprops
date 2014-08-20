@@ -1,25 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/p/kaldi/code/!svn/ver/3985/trunk/egs/wsj/s5/local
+/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local
 END
-wsj_extend_dict.sh
+run_vtln2.sh
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2434/trunk/egs/wsj/s5/local/wsj_extend_dict.sh
+V 63
+/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/local/run_vtln2.sh
 END
-run_basis_fmllr.sh
+run_bnf.sh
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/1398/trunk/egs/wsj/s5/local/run_basis_fmllr.sh
-END
-kws_data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/1558/trunk/egs/wsj/s5/local/kws_data_prep.sh
+V 61
+/p/kaldi/code/!svn/ver/4037/trunk/egs/wsj/s5/local/run_bnf.sh
 END
 run_kl_hmm.sh
 K 25
@@ -27,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/3241/trunk/egs/wsj/s5/local/run_kl_hmm.sh
 END
-wsj_format_local_lms.sh
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/2389/trunk/egs/wsj/s5/local/wsj_format_local_lms.sh
-END
 run_rnnlms_tri3b.sh
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/1004/trunk/egs/wsj/s5/local/run_rnnlms_tri3b.sh
+END
+wsj_format_local_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/2389/trunk/egs/wsj/s5/local/wsj_format_local_lms.sh
 END
 run_fwdbwd.sh
 K 25
@@ -45,29 +39,23 @@ svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/1646/trunk/egs/wsj/s5/local/run_fwdbwd.sh
 END
-wsj_format_data.sh
+run_dnn.sh
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2431/trunk/egs/wsj/s5/local/wsj_format_data.sh
+V 61
+/p/kaldi/code/!svn/ver/4033/trunk/egs/wsj/s5/local/run_dnn.sh
 END
-run_mmi_tri2b.sh
+run_rnnlms_sgmm5b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/1002/trunk/egs/wsj/s5/local/run_rnnlms_sgmm5b.sh
+END
+score_combine.sh
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/p/kaldi/code/!svn/ver/1044/trunk/egs/wsj/s5/local/run_mmi_tri2b.sh
-END
-run_sgmm2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3567/trunk/egs/wsj/s5/local/run_sgmm2.sh
-END
-run_raw_fmllr.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2830/trunk/egs/wsj/s5/local/run_raw_fmllr.sh
+/p/kaldi/code/!svn/ver/2240/trunk/egs/wsj/s5/local/score_combine.sh
 END
 cstr_ndx2flist.pl
 K 25
@@ -75,23 +63,35 @@ svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/971/trunk/egs/wsj/s5/local/cstr_ndx2flist.pl
 END
-run_mmi_tri4b.sh
+flist2scp.pl
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2188/trunk/egs/wsj/s5/local/run_mmi_tri4b.sh
+V 62
+/p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/flist2scp.pl
 END
-wsj_train_lms.sh
+run_nnet2.sh
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3246/trunk/egs/wsj/s5/local/wsj_train_lms.sh
+V 63
+/p/kaldi/code/!svn/ver/4089/trunk/egs/wsj/s5/local/run_nnet2.sh
+END
+score_mbr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2188/trunk/egs/wsj/s5/local/score_mbr.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2496/trunk/egs/wsj/s5/local/score.sh
 END
 run_bnf_sgmm.sh
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/3888/trunk/egs/wsj/s5/local/run_bnf_sgmm.sh
+/p/kaldi/code/!svn/ver/4035/trunk/egs/wsj/s5/local/run_bnf_sgmm.sh
 END
 cstr_wsj_data_prep.sh
 K 25
@@ -105,17 +105,29 @@ svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/find_transcripts.pl
 END
-ndx2flist.pl
+wsj_extend_dict.sh
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/ndx2flist.pl
+V 69
+/p/kaldi/code/!svn/ver/2434/trunk/egs/wsj/s5/local/wsj_extend_dict.sh
 END
-wsj_data_prep.sh
+run_gender_dep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4037/trunk/egs/wsj/s5/local/run_gender_dep.sh
+END
+run_basis_fmllr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/1398/trunk/egs/wsj/s5/local/run_basis_fmllr.sh
+END
+kws_data_prep.sh
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/p/kaldi/code/!svn/ver/1976/trunk/egs/wsj/s5/local/wsj_data_prep.sh
+/p/kaldi/code/!svn/ver/1558/trunk/egs/wsj/s5/local/kws_data_prep.sh
 END
 wsj_prepare_dict.sh
 K 25
@@ -129,47 +141,35 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/3122/trunk/egs/wsj/s5/local/run_sgmm.sh
 END
-wsj_train_rnnlms.sh
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/953/trunk/egs/wsj/s5/local/wsj_train_rnnlms.sh
-END
-run_vtln2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3985/trunk/egs/wsj/s5/local/run_vtln2.sh
-END
 generate_example_kws.sh
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/1558/trunk/egs/wsj/s5/local/generate_example_kws.sh
 END
-run_dnn.sh
+wsj_train_rnnlms.sh
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3691/trunk/egs/wsj/s5/local/run_dnn.sh
+V 70
+/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local/wsj_train_rnnlms.sh
 END
-score_combine.sh
+wsj_format_data.sh
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2240/trunk/egs/wsj/s5/local/score_combine.sh
+V 69
+/p/kaldi/code/!svn/ver/2431/trunk/egs/wsj/s5/local/wsj_format_data.sh
 END
 run_vtln.sh
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3962/trunk/egs/wsj/s5/local/run_vtln.sh
+/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/local/run_vtln.sh
 END
-run_rnnlms_sgmm5b.sh
+run_mmi_tri2b.sh
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/1002/trunk/egs/wsj/s5/local/run_rnnlms_sgmm5b.sh
+V 67
+/p/kaldi/code/!svn/ver/1044/trunk/egs/wsj/s5/local/run_mmi_tri2b.sh
 END
 cstr_wsj_extend_dict.sh
 K 25
@@ -177,17 +177,23 @@ svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/1012/trunk/egs/wsj/s5/local/cstr_wsj_extend_dict.sh
 END
-run_nnet2.sh
+run_raw_fmllr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2830/trunk/egs/wsj/s5/local/run_raw_fmllr.sh
+END
+run_sgmm2.sh
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/3784/trunk/egs/wsj/s5/local/run_nnet2.sh
+/p/kaldi/code/!svn/ver/3567/trunk/egs/wsj/s5/local/run_sgmm2.sh
 END
-flist2scp.pl
+run_mmi_tri4b.sh
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/flist2scp.pl
+V 67
+/p/kaldi/code/!svn/ver/2188/trunk/egs/wsj/s5/local/run_mmi_tri4b.sh
 END
 normalize_transcript.pl
 K 25
@@ -195,15 +201,27 @@ svn:wc:ra_dav:version-url
 V 73
 /p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/normalize_transcript.pl
 END
-score_mbr.sh
+wsj_train_lms.sh
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2188/trunk/egs/wsj/s5/local/score_mbr.sh
+V 67
+/p/kaldi/code/!svn/ver/3246/trunk/egs/wsj/s5/local/wsj_train_lms.sh
 END
-score.sh
+ndx2flist.pl
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2496/trunk/egs/wsj/s5/local/score.sh
+V 62
+/p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/ndx2flist.pl
+END
+wsj_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/1976/trunk/egs/wsj/s5/local/wsj_data_prep.sh
+END
+run_rnnlm-hs_tri3b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local/run_rnnlm-hs_tri3b.sh
 END

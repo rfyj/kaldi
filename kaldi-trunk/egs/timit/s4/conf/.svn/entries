@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s4/conf
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,74 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+dev_spk.list
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+2c79d5365d19780fcfd7a3f47e2cacae
+2012-02-20T18:19:40.110606Z
+767
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+300
+
+test_spk.list
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+4bc7cc2f5c92c9b08f8855e7e4d6a509
+2012-02-20T18:19:40.110606Z
+767
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+144
 
 mfcc.conf
 file
@@ -127,72 +195,4 @@ arnab13
 
 
 651
-
-dev_spk.list
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-2c79d5365d19780fcfd7a3f47e2cacae
-2012-02-20T18:19:40.110606Z
-767
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-300
-
-test_spk.list
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-4bc7cc2f5c92c9b08f8855e7e4d6a509
-2012-02-20T18:19:40.110606Z
-767
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-144
 

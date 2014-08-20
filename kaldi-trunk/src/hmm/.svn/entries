@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/hmm
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-06T01:31:14.537368Z
-3846
-canbaz
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 has-props
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-3388948fbf8d05eed3321e3b46bd9285
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
+2014-08-20T05:47:49.000000Z
+0838aacb3347948afd51df051f28e929
+2014-08-08T22:21:22.973153Z
+4283
+danielpovey
 
 
 
@@ -58,7 +58,7 @@ chenguoguo
 
 
 
-14428
+14416
 
 hmm-topology-test.cc
 file
@@ -66,11 +66,11 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-fe92c0a56a9d3708209940caf245d6b3
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
+2014-08-20T05:47:49.000000Z
+2948754d906f348fded3ad542ce4491a
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-37f526104649b0ee0ff6021de104861b
-2013-11-01T11:24:36.982288Z
-3127
-rickychanhoyin
+2014-08-20T05:47:49.000000Z
+2b81132e1bbd9f93c0c45ba1d4099ecc
+2014-08-08T22:21:22.973153Z
+4283
+danielpovey
 
 
 
@@ -194,7 +194,7 @@ rickychanhoyin
 
 
 
-6005
+6003
 
 Makefile
 file

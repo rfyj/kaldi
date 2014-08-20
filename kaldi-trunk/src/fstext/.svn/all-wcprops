@@ -1,7 +1,169 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/3898/trunk/src/fstext
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext
+END
+determinize-lattice.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4089/trunk/src/fstext/determinize-lattice.h
+END
+lattice-utils-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/lattice-utils-inl.h
+END
+determinize-star-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3719/trunk/src/fstext/determinize-star-inl.h
+END
+table-matcher.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/table-matcher.h
+END
+push-special-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/push-special-test.cc
+END
+deterministic-fst-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/deterministic-fst-test.cc
+END
+trivial-factor-weight.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/trivial-factor-weight.h
+END
+epsilon-property-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3424/trunk/src/fstext/epsilon-property-inl.h
+END
+pre-determinize-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/pre-determinize-test.cc
+END
+factor.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/factor.h
+END
+fstext-lib.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/fstext-lib.h
+END
+determinize-lattice-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3123/trunk/src/fstext/determinize-lattice-inl.h
+END
+prune-special-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/prune-special-test.cc
+END
+lattice-weight-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/lattice-weight-test.cc
+END
+remove-eps-local-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/remove-eps-local-test.cc
+END
+fstext-utils-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/fstext-utils-test.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/3676/trunk/src/fstext/Makefile
+END
+context-fst-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/context-fst-test.cc
+END
+rescale-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/rescale-test.cc
+END
+push-special.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/push-special.cc
+END
+deterministic-fst.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4270/trunk/src/fstext/deterministic-fst.h
+END
+push-special.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/push-special.h
+END
+lattice-utils-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/lattice-utils-test.cc
+END
+factor-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/factor-inl.h
+END
+determinize-star-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/determinize-star-test.cc
+END
+pre-determinize.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/fstext/pre-determinize.h
+END
+epsilon-property-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/epsilon-property-test.cc
 END
 fst-test-utils.h
 K 25
@@ -31,19 +193,19 @@ fstext-utils.h
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3424/trunk/src/fstext/fstext-utils.h
+/p/kaldi/code/!svn/ver/4270/trunk/src/fstext/fstext-utils.h
 END
 deterministic-fst-inl.h
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/p/kaldi/code/!svn/ver/3355/trunk/src/fstext/deterministic-fst-inl.h
+/p/kaldi/code/!svn/ver/4270/trunk/src/fstext/deterministic-fst-inl.h
 END
 determinize-lattice-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3123/trunk/src/fstext/determinize-lattice-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/determinize-lattice-test.cc
 END
 context-fst.h
 K 25
@@ -55,7 +217,7 @@ rand-fst.h
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/3077/trunk/src/fstext/rand-fst.h
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/rand-fst.h
 END
 rescale.h
 K 25
@@ -85,19 +247,19 @@ table-matcher-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/table-matcher-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/table-matcher-test.cc
+END
+trivial-factor-weight-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/trivial-factor-weight-test.cc
 END
 determinize-star.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3709/trunk/src/fstext/determinize-star.h
-END
-trivial-factor-weight-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/trivial-factor-weight-test.cc
 END
 prune-special-inl.h
 K 25
@@ -109,7 +271,7 @@ factor-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/factor-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/factor-test.cc
 END
 remove-eps-local-inl.h
 K 25
@@ -117,23 +279,17 @@ svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstext/remove-eps-local-inl.h
 END
-fstext-utils-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3677/trunk/src/fstext/fstext-utils-inl.h
-END
 epsilon-property.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3424/trunk/src/fstext/epsilon-property.h
 END
-context-fst-inl.h
+fstext-utils-inl.h
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3405/trunk/src/fstext/context-fst-inl.h
+V 63
+/p/kaldi/code/!svn/ver/4292/trunk/src/fstext/fstext-utils-inl.h
 END
 rescale-inl.h
 K 25
@@ -141,165 +297,9 @@ svn:wc:ra_dav:version-url
 V 58
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstext/rescale-inl.h
 END
-determinize-lattice.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/determinize-lattice.h
-END
-lattice-utils-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/lattice-utils-inl.h
-END
-determinize-star-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3719/trunk/src/fstext/determinize-star-inl.h
-END
-deterministic-fst-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/deterministic-fst-test.cc
-END
-push-special-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/push-special-test.cc
-END
-table-matcher.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/table-matcher.h
-END
-epsilon-property-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3424/trunk/src/fstext/epsilon-property-inl.h
-END
-trivial-factor-weight.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/trivial-factor-weight.h
-END
-pre-determinize-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/pre-determinize-test.cc
-END
-factor.h
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/factor.h
-END
-fstext-lib.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/fstext-lib.h
-END
-determinize-lattice-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3123/trunk/src/fstext/determinize-lattice-inl.h
-END
-prune-special-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3676/trunk/src/fstext/prune-special-test.cc
-END
-lattice-weight-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/lattice-weight-test.cc
-END
-remove-eps-local-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/remove-eps-local-test.cc
-END
-fstext-utils-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/fstext-utils-test.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/3676/trunk/src/fstext/Makefile
-END
-context-fst-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/context-fst-test.cc
-END
-rescale-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/rescale-test.cc
-END
-push-special.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/push-special.cc
-END
-deterministic-fst.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/deterministic-fst.h
-END
-push-special.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/push-special.h
-END
-lattice-utils-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/lattice-utils-test.cc
-END
-factor-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/factor-inl.h
-END
-determinize-star-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstext/determinize-star-test.cc
-END
-pre-determinize.h
+context-fst-inl.h
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/fstext/pre-determinize.h
-END
-epsilon-property-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3424/trunk/src/fstext/epsilon-property-test.cc
+/p/kaldi/code/!svn/ver/3405/trunk/src/fstext/context-fst-inl.h
 END

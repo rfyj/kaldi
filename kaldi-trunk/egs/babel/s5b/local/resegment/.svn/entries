@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/local/resegment
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-09T00:03:11.450016Z
-3986
-vimalmanohar91
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
 
 
 
@@ -25,6 +25,40 @@ vimalmanohar91
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+generate_segments.sh
+file
+
+
+
+
+2014-08-20T05:48:21.000000Z
+4ea7490a8f244e31f9b13bbb91be2e38
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5704
 
 evaluate_segmentation.pl
 file
@@ -127,38 +161,4 @@ has-props
 
 
 59691
-
-generate_segments.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-f7ba8ab5c55b2649180b070a53c7f52f
-2014-04-21T01:16:19.554659Z
-3931
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5703
 

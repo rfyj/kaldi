@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-09T00:03:11.450016Z
-3986
-vimalmanohar91
+2014-08-07T22:03:57.503019Z
+4276
+danielpovey
 has-props
 
 
@@ -25,6 +25,210 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+run-1-main-vtln.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+959ee6112fcf034079d1cebcfa6b887c
+2014-04-26T02:13:21.307029Z
+3962
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15379
+
+export_systems.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+c290685de54065461a8cc7a5e3f6662c
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1575
+
+run-8c-kaldi-bnf-dnn.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+d763a45b0c797c875a06f14a81dce72f
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1818
+
+filter_data.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+18494f361b43f3c112b8769b4ce8b650
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4703
+
+run-6-combine.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+98c1a4f42ecb7a464482059de3183a6b
+2014-03-02T22:36:48.267513Z
+3653
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2262
+
+run-1-main.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+de389a1867f1bd7675862c370298b0ed
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14200
 
 run-2a-nnet-mpe.sh
 file
@@ -60,16 +264,220 @@ has-props
 
 1488
 
-run-2a-nnet-cpu.sh
+steps
 file
 
 
 
 
 2014-05-30T02:46:15.000000Z
-34411a376e95c39610ed6974f0084bcc
-2014-02-04T17:51:16.927131Z
-3462
+55a49b6509a35039f95b3b1d2d7e3f2e
+2013-01-17T21:38:57.697912Z
+1845
+danielpovey
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+utils
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+fed9cd2d80bd156049b62fa712511e44
+2013-01-17T21:38:57.697912Z
+1845
+danielpovey
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+18
+
+run-2a-nnet-ensemble-gpu.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+f11b91f305e5e90ebe6d11513a3b49ff
+2014-08-04T16:14:02.389650Z
+4248
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1221
+
+RESULTS
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2013-01-19T02:27:01.033831Z
+1862
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+0
+
+run-6-semisupervised-seg.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+eef579e7ef85135957e30df273daa8c0
+2014-03-02T16:26:59.373653Z
+3652
+vimalmanohar91
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7279
+
+run-2a-nnet-cpu.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+1e67b3287d9dcf6c69bee1533f4cf816
+2014-08-04T16:14:02.389650Z
+4248
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+943
+
+path.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+4164ff076a80e8abe8b9c672e2cdfe12
+2013-12-11T18:39:46.616498Z
+3298
 danielpovey
 has-props
 
@@ -92,7 +500,7 @@ has-props
 
 
 
-952
+472
 
 run-8e-test-kaldi-bnf-dnn.sh
 file
@@ -100,11 +508,11 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-60a7d3a9ef02dd745d46ba9a66494d0a
-2014-04-14T22:01:24.918904Z
-3888
-pegita
+2014-08-20T05:48:25.000000Z
+44861fa6f5948634eff2b78506d9cfb5
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
 has-props
 
 
@@ -126,7 +534,75 @@ has-props
 
 
 
-3242
+3225
+
+run-2-segmentation.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+2688d5cdbc7ecfe1c941bf410c7974a0
+2014-02-18T03:40:48.642481Z
+3535
+vimalmanohar91
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4293
+
+run-8a-kaldi-bnf.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+6dd0dd770e5d843aad6a3f187edc2087
+2014-08-04T16:14:02.389650Z
+4248
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3141
 
 run-5-anydecode.sh
 file
@@ -134,10 +610,10 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-773a33d5565a6bfcb3d2609320824af4
-2014-03-02T22:36:48.267513Z
-3653
+2014-08-20T05:48:25.000000Z
+cce10a5c82afa562b5a324e22601dec0
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 has-props
 
@@ -160,7 +636,7 @@ has-props
 
 
 
-16266
+16382
 
 run-1-main-extend-lex.sh
 file
@@ -168,10 +644,10 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-7c92edbe2edaa8e75d4186bd26767c30
-2014-03-02T22:36:48.267513Z
-3653
+2014-08-20T05:48:25.000000Z
+b2848829eb3e0014a2940b0a1ac929a6
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 has-props
 
@@ -194,7 +670,7 @@ has-props
 
 
 
-15376
+15847
 
 run-2a-nnet-gpu.sh
 file
@@ -202,44 +678,10 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-f54d40abba93f6d65b8f1cf6b43275be
-2014-01-30T21:31:14.742907Z
-3450
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-953
-
-run-8b-kaldi-bnf-sgmm.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-13df932cd7f86ff99ebc43c12bf51c09
-2014-02-20T17:51:10.210057Z
-3552
+2014-08-20T05:48:25.000000Z
+a961a9043850d39fe5feda100cd062d5
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 has-props
 
@@ -262,7 +704,41 @@ has-props
 
 
 
-2719
+960
+
+run-8b-kaldi-bnf-sgmm.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+1880ec43ce249eb3f626b058edb3ca90
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2684
 
 README.txt
 file
@@ -332,485 +808,6 @@ danielpovey
 
 1080
 
-conf
-dir
-
-run-8c-kaldi-bnf-dnn.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-36bc90fdd73ccdda4e2bdb6ae51c1d25
-2014-02-02T05:27:18.968790Z
-3457
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1811
-
-run-6-bnf-sgmm-semisupervised.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-772bc75a8b09e667a18f65b574329516
-2014-03-05T20:42:14.241980Z
-3693
-pegita
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3348
-
-run-1-main.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-16430d66518d2f71e421e030f582e903
-2014-02-17T19:36:38.270735Z
-3521
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14061
-
-steps
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-55a49b6509a35039f95b3b1d2d7e3f2e
-2013-01-17T21:38:57.697912Z
-1845
-danielpovey
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18
-
-run-8d-test-kaldi-bnf-sgmm-semisupervised.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-3b9e940cd4b7bdd84e139edb9b4392c0
-2014-04-14T22:01:24.918904Z
-3888
-pegita
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8141
-
-run-2a-nnet-ensemble-gpu.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-79a893ce2122ef2880d421266c1f3b1e
-2014-02-20T06:44:10.604840Z
-3549
-xiaohuizhang
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1192
-
-utils
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-fed9cd2d80bd156049b62fa712511e44
-2013-01-17T21:38:57.697912Z
-1845
-danielpovey
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18
-
-run-6-semisupervised-seg.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-eef579e7ef85135957e30df273daa8c0
-2014-03-02T16:26:59.373653Z
-3652
-vimalmanohar91
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7279
-
-RESULTS
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-d41d8cd98f00b204e9800998ecf8427e
-2013-01-19T02:27:01.033831Z
-1862
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-0
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-4164ff076a80e8abe8b9c672e2cdfe12
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-472
-
-run-2-segmentation.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-2688d5cdbc7ecfe1c941bf410c7974a0
-2014-02-18T03:40:48.642481Z
-3535
-vimalmanohar91
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4293
-
-run-4-anydecode.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-f70dfd15962913429a953bd9dfa38e85
-2014-04-15T18:59:39.068771Z
-3895
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-18426
-
-run-8a-kaldi-bnf.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-52a1077f2e3739ab45491b869f0a88d2
-2014-04-14T22:01:24.918904Z
-3888
-pegita
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3148
-
-run-1-main-vtln.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-959ee6112fcf034079d1cebcfa6b887c
-2014-04-26T02:13:21.307029Z
-3962
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15379
-
 RESULTS.txt
 file
 
@@ -845,16 +842,16 @@ danielpovey
 
 732
 
-run-6-semisupervised.sh
+run-all.sh
 file
 
 
 
 
-2014-05-30T02:46:15.000000Z
-7786e232ccd802f820af6bf106603d4c
-2014-03-03T00:37:09.297081Z
-3655
+2014-08-20T05:48:25.000000Z
+18e62ee57ecb8990de9bafbaa4304c1e
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 has-props
 
@@ -877,7 +874,78 @@ has-props
 
 
 
-4697
+4354
+
+get_training_times.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+f6e86edc12994aaab235234fcb2383c7
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8598
+
+conf
+dir
+
+run-6-semisupervised.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+fa98ea122e9f01a8dcddb2a6cbddd630
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4660
 
 make_release.sh
 file
@@ -885,10 +953,10 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-b8120d5ec7d15426c0095d29752abf61
-2014-03-02T22:36:48.267513Z
-3653
+2014-08-20T05:48:25.000000Z
+614c80bf964a4701edb246a9649a0f86
+2014-08-04T16:14:02.389650Z
+4248
 jtrmal
 has-props
 
@@ -911,7 +979,7 @@ has-props
 
 
 
-4042
+8882
 
 run-6-bnf-semisupervised.sh
 file
@@ -919,11 +987,11 @@ file
 
 
 
-2014-05-30T02:46:15.000000Z
-caa08bfd91a3fe08946787dc4a8ce336
-2014-04-14T22:01:24.918904Z
-3888
-pegita
+2014-08-20T05:48:25.000000Z
+bf6556b8d7bad2e062e7ee640e8dbab1
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
 has-props
 
 
@@ -945,7 +1013,7 @@ has-props
 
 
 
-4631
+5178
 
 run-4-anydecode-vtln.sh
 file
@@ -981,53 +1049,16 @@ has-props
 
 20268
 
-run-8d-test-kaldi-bnf-sgmm.sh
+run-6-bnf-sgmm-semisupervised.sh
 file
 
 
 
 
-2014-05-30T02:46:15.000000Z
-1601e6f02d4b7e41888401f20661de9d
-2014-04-14T22:01:24.918904Z
-3888
-pegita
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7404
-
-local
-dir
-
-run-6-combine.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-98c1a4f42ecb7a464482059de3183a6b
-2014-03-02T22:36:48.267513Z
-3653
+2014-08-20T05:48:25.000000Z
+e1107941dd423efe08a9764b95c815f0
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 has-props
 
@@ -1050,7 +1081,44 @@ has-props
 
 
 
-2262
+3366
+
+run-8d-test-kaldi-bnf-sgmm.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+9c03740634ce80100f7c359af2cee3ae
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7598
+
+local
+dir
 
 run-4-test.sh
 file
@@ -1085,4 +1153,72 @@ has-props
 
 
 18481
+
+run-8d-test-kaldi-bnf-sgmm-semisupervised.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+584dad3146f95fe131a6b1e263009076
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8231
+
+run-4-anydecode.sh
+file
+
+
+
+
+2014-08-20T05:48:25.000000Z
+354329a916e6ed6401e451e997901e13
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17980
 

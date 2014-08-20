@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/fisher_english/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
-danielpovey
+2014-08-06T01:12:34.423662Z
+4258
+qipeng
 
 
 
@@ -25,43 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-548c94553860eb9ba5644345c8282be3
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-400
 
 local
 dir
@@ -106,11 +69,12 @@ file
 
 
 
-2014-05-30T02:46:04.000000Z
-fdbb5225ff5a4fab091bf1e9036048c0
-2013-07-16T19:37:23.204033Z
-2689
+2014-08-20T05:47:59.000000Z
+5c5c1dc5136870d6cd8c6913391adf96
+2014-08-05T22:28:32.910629Z
+4257
 danielpovey
+has-props
 
 
 
@@ -131,8 +95,7 @@ danielpovey
 
 
 
-
-6116
+6787
 
 steps
 file
@@ -208,10 +171,10 @@ file
 
 
 
-2014-05-30T02:46:04.000000Z
-2e3aca82f3d3751ea801ed57f27b703c
-2013-07-20T14:54:01.160614Z
-2714
+2014-08-20T05:47:59.000000Z
+69952334175c837223fc304a46077da4
+2014-08-05T22:28:32.910629Z
+4257
 danielpovey
 
 
@@ -234,5 +197,42 @@ danielpovey
 
 
 
-513
+695
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+548c94553860eb9ba5644345c8282be3
+2013-12-11T18:39:46.616498Z
+3298
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+400
 

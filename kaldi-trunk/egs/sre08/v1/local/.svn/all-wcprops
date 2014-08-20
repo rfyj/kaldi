@@ -1,61 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3794/trunk/egs/sre08/v1/local
-END
-make_sre_2006_train.pl
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_sre_2006_train.pl
-END
-make_sre_2004_test.pl
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3794/trunk/egs/sre08/v1/local/make_sre_2004_test.pl
-END
-det_curve_example.sh
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/local/det_curve_example.sh
-END
-score_sre08.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3486/trunk/egs/sre08/v1/local/score_sre08.sh
-END
-make_sre_2005_test.pl
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3794/trunk/egs/sre08/v1/local/make_sre_2005_test.pl
-END
-make_sre_2008_train.pl
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3320/trunk/egs/sre08/v1/local/make_sre_2008_train.pl
-END
-make_sre_2008_test.sh
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/local/make_sre_2008_test.sh
-END
-make_swbd_cellular1.pl
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_swbd_cellular1.pl
-END
-make_swbd_cellular2.pl
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_swbd_cellular2.pl
+/p/kaldi/code/!svn/ver/4289/trunk/egs/sre08/v1/local
 END
 make_fisher.sh
 K 25
@@ -98,4 +44,58 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_sre_2005_train.pl
+END
+det_curve_example.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/local/det_curve_example.sh
+END
+make_sre_2004_test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4289/trunk/egs/sre08/v1/local/make_sre_2004_test.pl
+END
+make_sre_2006_train.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_sre_2006_train.pl
+END
+make_sre_2005_test.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4289/trunk/egs/sre08/v1/local/make_sre_2005_test.pl
+END
+score_sre08.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3486/trunk/egs/sre08/v1/local/score_sre08.sh
+END
+make_sre_2008_train.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3320/trunk/egs/sre08/v1/local/make_sre_2008_train.pl
+END
+make_sre_2008_test.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/local/make_sre_2008_test.sh
+END
+make_swbd_cellular1.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_swbd_cellular1.pl
+END
+make_swbd_cellular2.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3454/trunk/egs/sre08/v1/local/make_swbd_cellular2.pl
 END

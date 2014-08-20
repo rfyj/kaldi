@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5/conf/xsampa_map
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,74 +25,6 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-French
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-5491902dacfb4a8aa4205ed2a562a3c7
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-814
-
-Spanish
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-bd7ab64cc7a04e763e24c11011ec1d20
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-856
 
 Sampa_to_Sampa2.awk
 file
@@ -297,4 +229,72 @@ arnab13
 
 
 918
+
+French
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+5491902dacfb4a8aa4205ed2a562a3c7
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+814
+
+Spanish
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+bd7ab64cc7a04e763e24c11011ec1d20
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+856
 

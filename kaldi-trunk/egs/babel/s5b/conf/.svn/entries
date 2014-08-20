@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-16T15:08:11.277903Z
-3897
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -25,6 +25,111 @@ jtrmal
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+topo.proto
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+7519960639f70d9139564a80de7bfb11
+2013-01-17T02:19:36.289508Z
+1836
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+960
+
+bnf
+dir
+
+common.fullLP
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+87141f6340bc5eac1b890ae910967a27
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3554
+
+common.limitedLP
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+49c97a4a255fcd960587c1460c850327
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3775
 
 pitch.conf
 file
@@ -198,109 +303,4 @@ vimalmanohar91
 
 lang
 dir
-
-topo.proto
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-7519960639f70d9139564a80de7bfb11
-2013-01-17T02:19:36.289508Z
-1836
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-960
-
-bnf
-dir
-
-common.fullLP
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-4d9dfd1bb8863c9131912f1b8cb2fdee
-2014-03-04T05:15:06.955537Z
-3676
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3175
-
-common.limitedLP
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-d247e8f35da9a036cf6d2b4c69e31fef
-2014-03-04T05:15:06.955537Z
-3676
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3705
 

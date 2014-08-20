@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/rm/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
+2014-08-05T22:28:32.910629Z
+4257
 danielpovey
 
 
@@ -25,40 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-mfcc.conf
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-f8646cb49898d7815b39d7b5b9340a06
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-48
 
 plp.conf
 file
@@ -168,10 +134,10 @@ file
 
 
 
-2014-05-30T02:46:16.000000Z
-762351b12721da7283ed4af1f9d2364c
-2014-05-18T15:06:55.285599Z
-3998
+2014-08-20T05:48:25.000000Z
+05370be21eab7d625bfa567f13582afc
+2014-08-05T22:28:32.910629Z
+4257
 danielpovey
 
 
@@ -194,5 +160,39 @@ danielpovey
 
 
 
-114
+91
+
+mfcc.conf
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+f8646cb49898d7815b39d7b5b9340a06
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48
 

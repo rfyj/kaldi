@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/conf
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/conf
+END
+decode_dnn.config
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/conf/decode_dnn.config
 END
 mfcc.conf
 K 25

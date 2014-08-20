@@ -1,7 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local
+/p/kaldi/code/!svn/ver/4033/trunk/egs/lre/v1/local
+END
+callfriend_lang.txt
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/callfriend_lang.txt
+END
+split_long_utts.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/split_long_utts.sh
+END
+make_sre_2008_train.pl
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/make_sre_2008_train.pl
 END
 make_callfriend.pl
 K 25
@@ -43,23 +61,5 @@ make_lre07.pl
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/make_lre07.pl
-END
-callfriend_lang.txt
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/callfriend_lang.txt
-END
-split_long_utts.sh
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/split_long_utts.sh
-END
-make_sre_2008_train.pl
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/make_sre_2008_train.pl
+/p/kaldi/code/!svn/ver/4033/trunk/egs/lre/v1/local/make_lre07.pl
 END

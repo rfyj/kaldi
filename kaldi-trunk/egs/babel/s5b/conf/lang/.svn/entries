@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/conf/lang
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-16T15:08:11.277903Z
-3897
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -25,142 +25,6 @@ jtrmal
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-204-tamil-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-50b588ebf05986e11e84586a87e2bf21
-2014-04-16T15:08:11.277903Z
-3897
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3524
-
-201-haitian-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-19cd92a86e16d1e71503b285a5d15639
-2014-03-03T23:25:45.763192Z
-3671
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3991
-
-203-lao-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-4a9d91f3544a23bd95b7dde8bdcfff85
-2014-03-03T23:25:45.763192Z
-3671
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4379
-
-101-cantonese-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-93bfdfc91ca16c9c4ce3780267d1e7fe
-2014-01-03T19:51:04.632053Z
-3390
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3789
 
 105-turkish-limitedLP.official.conf
 file
@@ -270,10 +134,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-c1ab661af8e2cd9d82fda98e4f0c596a
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+5fceeffa4acb231ae266c311e05231f2
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -296,7 +160,7 @@ jtrmal
 
 
 
-4462
+4775
 
 103-bengali-limitedLP.official.conf
 file
@@ -304,10 +168,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-076929e8104aea6f7093d1fb7e068e1a
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+77324131d83adc91b336bec54f718e46
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -330,7 +194,7 @@ jtrmal
 
 
 
-4440
+4754
 
 206-zulu-limitedLP.official.conf
 file
@@ -338,10 +202,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-75ab57e5f08985beb8b02e2bab97fdf3
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+f2f870ddbbfd462747e523fd66f427f5
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -364,7 +228,7 @@ jtrmal
 
 
 
-4734
+5051
 
 107-vietnamese-limitedLP.official.conf
 file
@@ -440,10 +304,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-21fcafe58e8d1442872b086c1cc8d22d
-2014-04-16T15:08:11.277903Z
-3897
+2014-08-20T05:48:15.000000Z
+7f032be5ce05cd2a7e366eb22afbdc7a
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -466,7 +330,7 @@ jtrmal
 
 
 
-3542
+5867
 
 104-pashto-fullLP.official.conf
 file
@@ -508,10 +372,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-738890a4e76a27d22b6ddbd8449a4ee4
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+6dc4519d89bec44f0bc5ebdca9e15644
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -534,75 +398,7 @@ jtrmal
 
 
 
-3986
-
-201-haitian-limitedLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-e07161fcd2f59c4bc304ffb47c754c64
-2014-03-03T23:25:45.763192Z
-3671
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4461
-
-103-bengali-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-1206c4f65fe6e814a34b8578bd2b4b90
-2014-03-03T23:25:45.763192Z
-3671
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3969
+4299
 
 203-lao-limitedLP.official.conf
 file
@@ -610,10 +406,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-8a4bc194c00d0e4916a2ec06a5cc54a0
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+2d842eeadf8fef8e7543764969bc76a1
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -636,7 +432,75 @@ jtrmal
 
 
 
-4397
+4712
+
+103-bengali-fullLP.official.conf
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+421dbcc23208fd77d79cd829a18e5d4e
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4283
+
+201-haitian-limitedLP.official.conf
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+7fa942facb91fe487224179b332a4179
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4776
 
 101-cantonese-limitedLP.official.conf
 file
@@ -678,10 +542,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-e550e12999be16d8fa21573046bf2c93
-2014-03-03T23:25:45.763192Z
-3671
+2014-08-20T05:48:15.000000Z
+bab551523365148804fb63fc39cb9052
+2014-08-04T20:54:17.079280Z
+4252
 jtrmal
 
 
@@ -704,7 +568,7 @@ jtrmal
 
 
 
-4223
+4539
 
 107-vietnamese-fullLP.official.conf
 file
@@ -773,4 +637,140 @@ jtrmal
 
 
 3070
+
+204-tamil-fullLP.official.conf
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+6d772e119230e15aa43fc59cde1186fd
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5318
+
+203-lao-fullLP.official.conf
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+82c79a51908445da010631e881119cb0
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4258
+
+201-haitian-fullLP.official.conf
+file
+
+
+
+
+2014-08-20T05:48:15.000000Z
+02eff65cad5da2b62a818e772a35538c
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4306
+
+101-cantonese-fullLP.official.conf
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+93bfdfc91ca16c9c4ce3780267d1e7fe
+2014-01-03T19:51:04.632053Z
+3390
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3789
 

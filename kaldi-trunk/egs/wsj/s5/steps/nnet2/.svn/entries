@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/steps/nnet2
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
+2014-08-18T17:31:49.195702Z
+4324
 danielpovey
 
 
@@ -32,10 +32,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-15ab2abfa74e0ed1db5497ed241129af
-2014-05-18T15:06:55.285599Z
-3998
+2014-08-20T05:48:02.000000Z
+b0601d42618f8e8ae487a042d826060c
+2014-08-05T22:28:32.910629Z
+4257
 danielpovey
 has-props
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-5635
+6058
 
 train_tanh.sh
 file
@@ -66,10 +66,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-8cee42a5067060bb341f6d4ea82ec2a9
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+fb1fc6c2e100dc17ac4e01ebb47b9835
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -92,7 +92,7 @@ has-props
 
 
 
-20477
+19900
 
 train_block.sh
 file
@@ -100,10 +100,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-8f12d23366083d211c1e6592cbca3c69
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+f761886dd298859581a97629df4f839f
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -126,7 +126,7 @@ has-props
 
 
 
-18814
+18796
 
 make_denlats.sh
 file
@@ -134,10 +134,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-fb7a12efba8318ff19d02e46ea175c13
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+2e2b1d101f5af9366453e36a46cbea6d
+2014-08-03T00:49:23.427249Z
+4241
 danielpovey
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-6617
+7164
 
 train_pnorm.sh
 file
@@ -168,10 +168,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-7d630d3424514bf7cdfde3c9994904ca
-2014-04-15T18:59:39.068771Z
-3895
+2014-08-20T05:48:02.000000Z
+b0d00de333498ca18f63e170e5943c2a
+2014-08-16T23:29:18.891371Z
+4320
 danielpovey
 has-props
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-20063
+20366
 
 align.sh
 file
@@ -202,10 +202,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-dae9ac949418c2a8ff9e28d44bba2ad5
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+72bdb03a3079685d22adbcf0bee9ee5d
+2014-08-03T00:49:23.427249Z
+4241
 danielpovey
 has-props
 
@@ -228,7 +228,109 @@ has-props
 
 
 
-4058
+4397
+
+get_num_frames.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+eb0cbd22b7562b0c6a399a0a0969893b
+2014-08-18T17:31:49.195702Z
+4324
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+924
+
+remove_egs.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+e1f143c2ed10446926f64272b4537598
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1338
+
+convert_nnet1_to_nnet2.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+20cf84ab6cae6a0eddc522e059564be2
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2269
 
 get_lda.sh
 file
@@ -236,10 +338,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-253773d5390c265bc0c391d94b2bc318
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+d080796788cee0fd3fd0c1c7216be363
+2014-08-03T00:49:23.427249Z
+4241
 danielpovey
 has-props
 
@@ -262,7 +364,41 @@ has-props
 
 
 
-5151
+6047
+
+train_more.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+0c15d611c811d3e93fa880ade83024da
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12599
 
 train_tanh_bottleneck.sh
 file
@@ -270,10 +406,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-01ef53ff0abf4967c9c38f6b46e4ce0c
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+32658ad80eca924e7b4cd61231d65b39
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -296,7 +432,7 @@ has-props
 
 
 
-20110
+20092
 
 train_pnorm_ensemble.sh
 file
@@ -304,78 +440,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-d8c0c5ceb7b66a6a91df89f44369a90f
-2014-04-15T06:19:07.416711Z
-3893
-xiaohuizhang
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20051
-
-update_nnet.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-3b2728d37b4e4b5dc6c2c55b4912250b
-2014-02-27T21:22:40.675154Z
-3616
-vimalmanohar91
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12491
-
-train_discriminative.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-9e4a85e25619698f60400e7d4e25f938
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+b6be5251a6c7744fdb94a7655a699663
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -398,7 +466,143 @@ has-props
 
 
 
-14202
+20005
+
+train_tanh_fast.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+ec72af5576496a6f5f557eb077a7ae4e
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+21959
+
+train_pnorm_fast.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+80c939f4907a3e03ca0c751a461ab416
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23663
+
+update_nnet.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+ae3bae2c1a8f1255499889a458ae82f6
+2014-08-15T20:12:38.541855Z
+4317
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12579
+
+train_discriminative.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+8739f605323e5c41b2fb0b62a6587e86
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14942
 
 get_lda_block.sh
 file
@@ -434,16 +638,16 @@ has-props
 
 4583
 
-get_perturbed_feats.sh
+convert_lda_to_raw.sh
 file
 
 
 
 
-2014-05-30T02:46:11.000000Z
-a163c7bd7c9b7dfc8f07d4e675fe9af0
-2013-08-21T11:38:14.957331Z
-2828
+2014-08-20T05:48:02.000000Z
+9f3e1cbef7b0e2660ec2c49b0cff0480
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 has-props
 
@@ -466,7 +670,41 @@ has-props
 
 
 
-2919
+6478
+
+get_perturbed_feats.sh
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+74b7bee3be0f1723d44dbcbc08e76206
+2014-08-13T03:02:15.518830Z
+4296
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3402
 
 get_egs.sh
 file
@@ -474,10 +712,10 @@ file
 
 
 
-2014-05-30T02:46:11.000000Z
-fb88db71a5d7382d36d72734dcd4b28f
-2014-04-22T22:52:43.918763Z
-3947
+2014-08-20T05:48:02.000000Z
+e60bb3d5b618a4cf75d0cbf88dd9b80b
+2014-08-15T20:12:38.541855Z
+4317
 danielpovey
 has-props
 
@@ -500,7 +738,7 @@ has-props
 
 
 
-13884
+14116
 
 dump_bottleneck_features.sh
 file

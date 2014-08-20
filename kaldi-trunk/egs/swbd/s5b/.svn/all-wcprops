@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/4018/trunk/egs/swbd/s5b
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/2290/trunk/egs/swbd/s5b/utils
-END
-RESULTS
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3895/trunk/egs/swbd/s5b/RESULTS
-END
-path.sh
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3298/trunk/egs/swbd/s5b/path.sh
+/p/kaldi/code/!svn/ver/4276/trunk/egs/swbd/s5b
 END
 run_fwdbwd.sh
 K 25
@@ -37,11 +19,29 @@ run.sh
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/p/kaldi/code/!svn/ver/3895/trunk/egs/swbd/s5b/run.sh
+/p/kaldi/code/!svn/ver/4256/trunk/egs/swbd/s5b/run.sh
 END
 steps
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /p/kaldi/code/!svn/ver/2290/trunk/egs/swbd/s5b/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2290/trunk/egs/swbd/s5b/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4116/trunk/egs/swbd/s5b/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3298/trunk/egs/swbd/s5b/path.sh
 END

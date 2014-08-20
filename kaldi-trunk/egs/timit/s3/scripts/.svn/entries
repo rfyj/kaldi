@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s3/scripts
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,176 @@ ndjaitly
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+average_wer.sh
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+dde4121d008cd710d382c82193cf3cb5
+2012-02-10T01:47:39.825788Z
+742
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+822
+
+add_disambig.pl
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+31eb14894ddc5d89865fa4d8f69e0325
+2012-02-10T01:47:39.825788Z
+742
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1566
+
+mkgraph.sh
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+289b73b6d744f3b9ecb39a1a316b5035
+2012-12-05T03:30:00.840038Z
+1642
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3422
+
+filter_scp.pl
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+884ebe087d2b54000f500e0d65688299
+2012-02-10T01:47:39.825788Z
+742
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1262
+
+is_sorted.sh
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+b219d00aaaac4a4819ce85c2e6cc6b3e
+2012-02-10T01:47:39.825788Z
+742
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1246
 
 s2eps.pl
 file
@@ -128,14 +298,14 @@ has-props
 
 7324
 
-remove_oovs.pl
+make_rm_lm.pl
 file
 
 
 
 
 2014-05-30T02:46:03.000000Z
-600a68f60b8918779c5dff349d01afba
+d4ce46ac80ec2d0bdeda2a4b047411f0
 2012-02-10T01:47:39.825788Z
 742
 ndjaitly
@@ -160,7 +330,7 @@ has-props
 
 
 
-1422
+2672
 
 make_roots.pl
 file
@@ -196,14 +366,14 @@ has-props
 
 3497
 
-make_rm_lm.pl
+remove_oovs.pl
 file
 
 
 
 
 2014-05-30T02:46:03.000000Z
-d4ce46ac80ec2d0bdeda2a4b047411f0
+600a68f60b8918779c5dff349d01afba
 2012-02-10T01:47:39.825788Z
 742
 ndjaitly
@@ -228,7 +398,7 @@ has-props
 
 
 
-2672
+1422
 
 silphones.pl
 file
@@ -264,40 +434,6 @@ has-props
 
 1855
 
-int2sym.pl
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-43163395d77ea77c78041fec3bc2e5f7
-2012-02-10T01:47:39.825788Z
-742
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2666
-
 sym2int.pl
 file
 
@@ -331,6 +467,40 @@ has-props
 
 
 1715
+
+int2sym.pl
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+43163395d77ea77c78041fec3bc2e5f7
+2012-02-10T01:47:39.825788Z
+742
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2666
 
 make_phones_symtab.pl
 file
@@ -536,40 +706,6 @@ has-props
 
 1016
 
-make_rm_dict.pl
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-8a4d4886501dafe353deb1c00820d323
-2012-02-10T01:47:39.825788Z
-742
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2533
-
 collapse_phones.pl
 file
 
@@ -604,14 +740,14 @@ has-props
 
 1503
 
-average_wer.sh
+make_rm_dict.pl
 file
 
 
 
 
 2014-05-30T02:46:03.000000Z
-dde4121d008cd710d382c82193cf3cb5
+8a4d4886501dafe353deb1c00820d323
 2012-02-10T01:47:39.825788Z
 742
 ndjaitly
@@ -636,141 +772,5 @@ has-props
 
 
 
-822
-
-add_disambig.pl
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-31eb14894ddc5d89865fa4d8f69e0325
-2012-02-10T01:47:39.825788Z
-742
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1566
-
-mkgraph.sh
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-289b73b6d744f3b9ecb39a1a316b5035
-2012-12-05T03:30:00.840038Z
-1642
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3422
-
-is_sorted.sh
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-b219d00aaaac4a4819ce85c2e6cc6b3e
-2012-02-10T01:47:39.825788Z
-742
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1246
-
-filter_scp.pl
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-884ebe087d2b54000f500e0d65688299
-2012-02-10T01:47:39.825788Z
-742
-ndjaitly
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1262
+2533
 

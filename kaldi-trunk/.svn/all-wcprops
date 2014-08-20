@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 33
-/p/kaldi/code/!svn/ver/4027/trunk
-END
-README.txt
-K 25
-svn:wc:ra_dav:version-url
-V 44
-/p/kaldi/code/!svn/ver/2548/trunk/README.txt
+/p/kaldi/code/!svn/ver/4328/trunk
 END
 .gitignore
 K 25
@@ -26,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 41
 /p/kaldi/code/!svn/ver/2988/trunk/COPYING
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/p/kaldi/code/!svn/ver/2548/trunk/README.txt
 END

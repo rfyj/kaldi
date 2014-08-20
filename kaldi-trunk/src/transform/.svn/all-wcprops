@@ -1,25 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/p/kaldi/code/!svn/ver/3976/trunk/src/transform
-END
-fmllr-diag-gmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3931/trunk/src/transform/fmllr-diag-gmm.h
-END
-lvtln.cc
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/3976/trunk/src/transform/lvtln.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform
 END
 cmvn.cc
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/cmvn.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/transform/cmvn.cc
 END
 fmllr-raw.cc
 K 25
@@ -37,7 +25,7 @@ regtree-fmllr-diag-gmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 78
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-fmllr-diag-gmm-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/regtree-fmllr-diag-gmm-test.cc
 END
 lda-estimate.cc
 K 25
@@ -61,7 +49,7 @@ fmllr-raw-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmllr-raw-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-raw-test.cc
 END
 regtree-mllr-diag-gmm.cc
 K 25
@@ -79,13 +67,7 @@ fmpe.cc
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmpe.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/3962/trunk/src/transform/Makefile
+/p/kaldi/code/!svn/ver/4077/trunk/src/transform/fmpe.cc
 END
 regtree-fmllr-diag-gmm.h
 K 25
@@ -93,11 +75,17 @@ svn:wc:ra_dav:version-url
 V 72
 /p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-fmllr-diag-gmm.h
 END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3962/trunk/src/transform/Makefile
+END
 basis-fmllr-diag-gmm.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/basis-fmllr-diag-gmm.cc
+/p/kaldi/code/!svn/ver/4077/trunk/src/transform/basis-fmllr-diag-gmm.cc
 END
 regtree-mllr-diag-gmm-test.cc
 K 25
@@ -105,11 +93,11 @@ svn:wc:ra_dav:version-url
 V 77
 /p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm-test.cc
 END
-lvtln.h
+transform-common.cc
 K 25
 svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3962/trunk/src/transform/lvtln.h
+V 67
+/p/kaldi/code/!svn/ver/4283/trunk/src/transform/transform-common.cc
 END
 exponential-transform.h
 K 25
@@ -117,17 +105,17 @@ svn:wc:ra_dav:version-url
 V 71
 /p/kaldi/code/!svn/ver/2988/trunk/src/transform/exponential-transform.h
 END
-transform-common.cc
+lvtln.h
 K 25
 svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/transform-common.cc
+V 55
+/p/kaldi/code/!svn/ver/3962/trunk/src/transform/lvtln.h
 END
 fmpe-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmpe-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmpe-test.cc
 END
 cmvn.h
 K 25
@@ -163,13 +151,13 @@ fmllr-diag-gmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmllr-diag-gmm-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-diag-gmm-test.cc
 END
-mllt.h
+decodable-am-diag-gmm-regtree.h
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.h
+V 79
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.h
 END
 hlda.h
 K 25
@@ -177,11 +165,11 @@ svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/2988/trunk/src/transform/hlda.h
 END
-decodable-am-diag-gmm-regtree.h
+mllt.h
 K 25
 svn:wc:ra_dav:version-url
-V 79
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.h
+V 54
+/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.h
 END
 lda-estimate.h
 K 25
@@ -223,7 +211,7 @@ regression-tree-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3377/trunk/src/transform/regression-tree-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/regression-tree-test.cc
 END
 fmllr-diag-gmm.cc
 K 25
@@ -236,4 +224,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/2988/trunk/src/transform/basis-fmllr-diag-gmm.h
+END
+fmllr-diag-gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4180/trunk/src/transform/fmllr-diag-gmm.h
+END
+lvtln.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/4276/trunk/src/transform/lvtln.cc
 END

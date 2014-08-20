@@ -1,16 +1,21 @@
 K 13
 svn:mergeinfo
-V 745
+V 1055
+/sandbox/akirkedal/src/bin/align-compiled-mapped.cc:3806-4273
 /sandbox/dan/src/bin/align-compiled-mapped.cc:1504-1801
 /sandbox/dan2/src/bin/align-compiled-mapped.cc:2775-2829,2832-3292
 /sandbox/karel/src/bin/align-compiled-mapped.cc:270-844,846-1493,1522-1532
 /sandbox/korzinek/src/bin/align-compiled-mapped.cc:2551-2594
 /sandbox/kws/src/bin/align-compiled-mapped.cc:1533-1557
-/sandbox/language_id/src/bin/align-compiled-mapped.cc:3523-3930
+/sandbox/language_id/src/bin/align-compiled-mapped.cc:3523-3930,3933-4177
+/sandbox/linse/src/bin/align-compiled-mapped.cc:3606-4224
 /sandbox/nshmyrev/src/bin/align-compiled-mapped.cc:3830-3854
+/sandbox/online/src/bin/align-compiled-mapped.cc:3325-4225
 /sandbox/oplatek/src/bin/align-compiled-mapped.cc:2513-2541
+/sandbox/pawel/src/bin/align-compiled-mapped.cc:4013-4275
 /sandbox/pitch/src/bin/align-compiled-mapped.cc:3126-3251
 /sandbox/sail/src/bin/align-compiled-mapped.cc:3642-3712,3716-3797
 /sandbox/sharedlibs/src/bin/align-compiled-mapped.cc:2585-2662
+/sandbox/tacc_kaldi/src/bin/align-compiled-mapped.cc:3041-4251
 /sandbox/tanel/src/bin/align-compiled-mapped.cc:2623-2658
 END

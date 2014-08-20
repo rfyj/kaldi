@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4008/trunk/egs/wsj/s5
-END
-run_bnf.sh
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3888/trunk/egs/wsj/s5/run_bnf.sh
-END
-path.sh
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/3298/trunk/egs/wsj/s5/path.sh
+/p/kaldi/code/!svn/ver/4324/trunk/egs/wsj/s5
 END
 cmd.sh
 K 25
@@ -25,11 +13,17 @@ run.sh
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/p/kaldi/code/!svn/ver/3298/trunk/egs/wsj/s5/run.sh
+/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/run.sh
 END
 RESULTS
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3784/trunk/egs/wsj/s5/RESULTS
+/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3298/trunk/egs/wsj/s5/path.sh
 END

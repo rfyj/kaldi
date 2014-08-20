@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/hkust/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-03T16:02:28.382189Z
-3246
-danielpovey
+2014-08-14T00:02:46.484383Z
+4301
+hainan-xv
 
 
 
@@ -25,6 +25,77 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+local
+dir
+
+cmd.sh
+file
+
+
+
+
+2014-05-30T02:46:05.000000Z
+b3ff067495b0a05956d6624969739907
+2012-12-03T17:05:33.523063Z
+1634
+cweng
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+454
+
+run.sh
+file
+
+
+
+
+2014-08-20T05:47:59.000000Z
+4917ba96c2a5a52e2a209aaa36b8326e
+2014-08-14T00:02:46.484383Z
+4301
+hainan-xv
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5323
 
 steps
 file
@@ -164,75 +235,4 @@ has-props
 
 
 376
-
-local
-dir
-
-cmd.sh
-file
-
-
-
-
-2014-05-30T02:46:05.000000Z
-b3ff067495b0a05956d6624969739907
-2012-12-03T17:05:33.523063Z
-1634
-cweng
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-454
-
-run.sh
-file
-
-
-
-
-2014-05-30T02:46:05.000000Z
-c02eebc702d09e2da23c10298b4aede4
-2012-12-03T17:37:13.643183Z
-1638
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5072
 

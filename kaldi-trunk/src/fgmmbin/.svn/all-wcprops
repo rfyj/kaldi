@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/3405/trunk/src/fgmmbin
+/p/kaldi/code/!svn/ver/4276/trunk/src/fgmmbin
 END
 fgmm-global-mixdown.cc
 K 25
@@ -25,7 +25,7 @@ fgmm-global-gselect-to-post.cc
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/p/kaldi/code/!svn/ver/3405/trunk/src/fgmmbin/fgmm-global-gselect-to-post.cc
+/p/kaldi/code/!svn/ver/4276/trunk/src/fgmmbin/fgmm-global-gselect-to-post.cc
 END
 fgmm-global-copy.cc
 K 25

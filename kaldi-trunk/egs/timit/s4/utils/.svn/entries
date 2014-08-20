@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s4/utils
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,74 +25,6 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-score_text.sh
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-672400a6214c7ca64a72f15c2e1b8326
-2012-02-20T18:19:40.110606Z
-767
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1358
-
-submit_jobs.sh
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-38a8ba57074a911b47b7e5bd8002fb77
-2012-02-20T18:19:40.110606Z
-767
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4148
 
 decode.sh
 file
@@ -536,6 +468,40 @@ has-props
 
 821
 
+utt2spk_to_spk2utt.pl
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+d1c90623ac5f33d69c61a0b0817f5929
+2012-02-20T18:19:40.110606Z
+767
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1234
+
 make_lexicon_fst.pl
 file
 
@@ -570,14 +536,14 @@ has-props
 
 4117
 
-utt2spk_to_spk2utt.pl
+score_text.sh
 file
 
 
 
 
 2014-05-30T02:46:03.000000Z
-d1c90623ac5f33d69c61a0b0817f5929
+672400a6214c7ca64a72f15c2e1b8326
 2012-02-20T18:19:40.110606Z
 767
 arnab13
@@ -602,5 +568,39 @@ has-props
 
 
 
-1234
+1358
+
+submit_jobs.sh
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+38a8ba57074a911b47b7e5bd8002fb77
+2012-02-20T18:19:40.110606Z
+767
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4148
 

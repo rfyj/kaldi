@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s1/local
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,40 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+gp_norm_dict_PO.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+130970b2fe97cfed7a7ecc208c0ca788
+2012-02-15T15:46:53.098326Z
+758
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2692
 
 gp_prep_lms_edin.sh
 file
@@ -264,40 +298,6 @@ has-props
 
 2562
 
-gp_prep_flists.sh
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-b5a9ebe63dcc605a939053a6bb76b230
-2012-02-15T15:46:53.098326Z
-758
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4911
-
 gp_norm_dict_GE.pl
 file
 
@@ -365,6 +365,40 @@ has-props
 
 
 5488
+
+gp_prep_flists.sh
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+b5a9ebe63dcc605a939053a6bb76b230
+2012-02-15T15:46:53.098326Z
+758
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4911
 
 gp_norm_trans_SW.pl
 file
@@ -637,38 +671,4 @@ has-props
 
 
 1793
-
-gp_norm_dict_PO.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-130970b2fe97cfed7a7ecc208c0ca788
-2012-02-15T15:46:53.098326Z
-758
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2692
 

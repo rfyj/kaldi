@@ -1,18 +1,31 @@
 K 13
 svn:mergeinfo
-V 566
+V 1110
+/sandbox/akirkedal/src/nnet2bin:3806-4273
 /sandbox/dan/src/nnet-cpubin:1504
+/sandbox/dan/src/nnet2bin:1504-1801
 /sandbox/dan2/src/nnet-cpubin:2775-2829
-/sandbox/dan2/src/nnet2bin:2832-2842
+/sandbox/dan2/src/nnet2bin:2775-2829,2832-2842
 /sandbox/discrim/src/nnet-cpubin:234-658
+/sandbox/discrim/src/nnet2bin:234-658
+/sandbox/karel/src/nnet2bin:270-1493,1522-1532
 /sandbox/korzinek/src/nnet-cpubin:2551-2594
-/sandbox/language_id/src/nnet2bin:3523-3930
+/sandbox/korzinek/src/nnet2bin:2551-2594
+/sandbox/kws/src/nnet2bin:1533-1557
+/sandbox/language_id/src/nnet2bin:3523-3930,3933-4177
 /sandbox/nshmyrev/src/nnet2bin:3830-3854
 /sandbox/oplatek/src/nnet-cpubin:2513-2541
+/sandbox/oplatek/src/nnet2bin:2513-2541
+/sandbox/pawel/src/nnet2bin:4013-4275
+/sandbox/pitch/src/nnet2bin:3126-3251
 /sandbox/sail/src/nnet2bin:3642-3712,3716-3797
 /sandbox/sharedlibs/src/nnet-cpubin:2585-2662
+/sandbox/sharedlibs/src/nnet2bin:2585-2662
+/sandbox/tacc_kaldi/src/nnet2bin:3041-4251
 /sandbox/tanel/src/nnet-cpubin:2623-2658
+/sandbox/tanel/src/nnet2bin:2623-2658
 /sandbox/thang-project/src/nnet-cpubin:233-258
+/sandbox/thang-project/src/nnet2bin:233-258
 /trunk/src/nnet-cpubin:270-1491
-/trunk/src/nnet2bin:2832-3285
+/trunk/src/nnet2bin:2832-3297
 END

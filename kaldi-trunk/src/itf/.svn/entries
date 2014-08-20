@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/itf
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,6 +25,74 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+decodable-itf.h
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+53624e77da986a84d35477b79d908eb1
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2380
+
+clusterable-itf.h
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+27b6a07b8a5de8e17b3b278b998496fc
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3158
 
 context-dep-itf.h
 file
@@ -127,72 +195,4 @@ danielpovey
 
 
 1720
-
-decodable-itf.h
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-53624e77da986a84d35477b79d908eb1
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2380
-
-clusterable-itf.h
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-27b6a07b8a5de8e17b3b278b998496fc
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3158
 

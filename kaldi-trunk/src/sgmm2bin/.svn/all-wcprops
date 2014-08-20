@@ -1,31 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/3931/trunk/src/sgmm2bin
-END
-sgmm2-est-spkvecs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-est-spkvecs.cc
-END
-sgmm2-copy.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-copy.cc
-END
-sgmm2-sum-accs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-sum-accs.cc
-END
-sgmm2-acc-stats-gpost.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-acc-stats-gpost.cc
+/p/kaldi/code/!svn/ver/4276/trunk/src/sgmm2bin
 END
 sgmm2-acc-stats.cc
 K 25
@@ -43,7 +19,7 @@ sgmm2-rescore-lattice.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3931/trunk/src/sgmm2bin/sgmm2-rescore-lattice.cc
+/p/kaldi/code/!svn/ver/4276/trunk/src/sgmm2bin/sgmm2-rescore-lattice.cc
 END
 sgmm2-latgen-faster-parallel.cc
 K 25
@@ -128,4 +104,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-project.cc
+END
+sgmm2-est-spkvecs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmm2bin/sgmm2-est-spkvecs.cc
+END
+sgmm2-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-copy.cc
+END
+sgmm2-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-sum-accs.cc
+END
+sgmm2-acc-stats-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm2bin/sgmm2-acc-stats-gpost.cc
 END

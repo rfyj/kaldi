@@ -1,19 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/utils
+/p/kaldi/code/!svn/ver/4258/trunk/egs/fisher_english/s5
 END
 RESULTS
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2714/trunk/egs/fisher_english/s5/RESULTS
+/p/kaldi/code/!svn/ver/4257/trunk/egs/fisher_english/s5/RESULTS
 END
 path.sh
 K 25
@@ -31,11 +25,17 @@ run.sh
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/2689/trunk/egs/fisher_english/s5/run.sh
+/p/kaldi/code/!svn/ver/4257/trunk/egs/fisher_english/s5/run.sh
 END
 steps
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/utils
 END

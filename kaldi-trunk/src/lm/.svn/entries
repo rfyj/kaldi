@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/lm
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-09-27T13:55:47.570687Z
-3001
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 has-props
 
@@ -25,142 +25,6 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-missing_backoffs.arpa
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-d149b8432be9d8d5d0871bd6f3a24bd5
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-196
-
-input1.score
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-8a9ba0c73b694bc820710ef9e46cf564
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12
-
-input2.score
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-366e1447c25915e63060b28efe52d0ef
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11
-
-README
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-82fb765b91267027dc8bac80fdc875a9
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3589
 
 input1.txt
 file
@@ -230,40 +94,6 @@ danielpovey
 
 13
 
-lm-lib-test.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-27d830985b7c214f4b5071d585b92eee
-2013-09-26T21:22:22.181071Z
-3000
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12433
-
 Makefile
 file
 
@@ -297,6 +127,40 @@ danielpovey
 
 
 497
+
+lm-lib-test.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+27d830985b7c214f4b5071d585b92eee
+2013-09-26T21:22:22.181071Z
+3000
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12433
 
 examples
 dir
@@ -477,10 +341,10 @@ file
 
 
 
-2014-05-30T02:45:56.000000Z
-01154269697d9d82e95e36d1e364da6d
-2013-09-27T13:55:47.570687Z
-3001
+2014-08-20T05:47:43.000000Z
+d4f9686010516ef897419371038912f5
+2014-08-08T22:21:22.973153Z
+4283
 danielpovey
 
 
@@ -503,7 +367,7 @@ danielpovey
 
 
 
-14728
+14726
 
 kaldi-lmtable.h
 file
@@ -538,4 +402,140 @@ danielpovey
 
 
 5713
+
+missing_backoffs.arpa
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+d149b8432be9d8d5d0871bd6f3a24bd5
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+196
+
+input1.score
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+8a9ba0c73b694bc820710ef9e46cf564
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12
+
+input2.score
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+366e1447c25915e63060b28efe52d0ef
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11
+
+README
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+82fb765b91267027dc8bac80fdc875a9
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3589
 

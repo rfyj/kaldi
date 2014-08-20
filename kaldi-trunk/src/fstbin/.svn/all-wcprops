@@ -1,7 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/3991/trunk/src/fstbin
+/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin
+END
+fsts-to-transcripts.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fsts-to-transcripts.cc
+END
+fstmakecontextsyms.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstmakecontextsyms.cc
 END
 fstmakecontextfst.cc
 K 25
@@ -61,13 +73,7 @@ fsttablecompose.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fsttablecompose.cc
-END
-fstfactor.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstfactor.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fsttablecompose.cc
 END
 fstrhocompose.cc
 K 25
@@ -75,17 +81,23 @@ svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrhocompose.cc
 END
+fstfactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstfactor.cc
+END
 fstaddselfloops.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstaddselfloops.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fstaddselfloops.cc
 END
 fstpushspecial.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3931/trunk/src/fstbin/fstpushspecial.cc
+/p/kaldi/code/!svn/ver/4276/trunk/src/fstbin/fstpushspecial.cc
 END
 fstdeterminizelog.cc
 K 25
@@ -99,33 +111,21 @@ svn:wc:ra_dav:version-url
 V 55
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrand.cc
 END
-fstaddsubsequentialloop.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstaddsubsequentialloop.cc
-END
 fstrmsymbols.cc
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrmsymbols.cc
 END
+fstaddsubsequentialloop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstaddsubsequentialloop.cc
+END
 fstpropfinal.cc
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstpropfinal.cc
-END
-fsts-to-transcripts.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fsts-to-transcripts.cc
-END
-fstmakecontextsyms.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstmakecontextsyms.cc
 END

@@ -1,7 +1,31 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/p/kaldi/code/!svn/ver/3755/trunk/src/makefiles
+/p/kaldi/code/!svn/ver/4283/trunk/src/makefiles
+END
+linux_atlas_64bit.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2664/trunk/src/makefiles/linux_atlas_64bit.mk
+END
+linux_cuda.mk
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2368/trunk/src/makefiles/linux_cuda.mk
+END
+default_rules.mk
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4283/trunk/src/makefiles/default_rules.mk
+END
+cygwin.mk
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2543/trunk/src/makefiles/cygwin.mk
 END
 darwin_10_5.mk
 K 25
@@ -9,17 +33,17 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/2543/trunk/src/makefiles/darwin_10_5.mk
 END
-linux_x86_64_cuda.mk
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3298/trunk/src/makefiles/linux_x86_64_cuda.mk
-END
 darwin_10_6.mk
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/2543/trunk/src/makefiles/darwin_10_6.mk
+END
+linux_x86_64_cuda.mk
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4083/trunk/src/makefiles/linux_x86_64_cuda.mk
 END
 darwin_10_7.mk
 K 25
@@ -68,28 +92,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/208/trunk/src/makefiles/common.mk
-END
-linux_cuda.mk
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2368/trunk/src/makefiles/linux_cuda.mk
-END
-linux_atlas_64bit.mk
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2664/trunk/src/makefiles/linux_atlas_64bit.mk
-END
-default_rules.mk
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3405/trunk/src/makefiles/default_rules.mk
-END
-cygwin.mk
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2543/trunk/src/makefiles/cygwin.mk
 END

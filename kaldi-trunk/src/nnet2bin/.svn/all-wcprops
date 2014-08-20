@@ -1,127 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/3931/trunk/src/nnet2bin
-END
-nnet-am-shrink.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-shrink.cc
-END
-nnet-get-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-get-egs.cc
-END
-nnet-copy-egs-discriminative.cc
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-copy-egs-discriminative.cc
-END
-nnet-logprob-parallel.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob-parallel.cc
-END
-raw-nnet-concat.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/raw-nnet-concat.cc
-END
-nnet-perturb-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3424/trunk/src/nnet2bin/nnet-perturb-egs.cc
-END
-nnet-am-widen.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-widen.cc
-END
-nnet-am-limit-rank.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-limit-rank.cc
-END
-nnet-logprob.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob.cc
-END
-cuda-compiled.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3792/trunk/src/nnet2bin/cuda-compiled.cc
-END
-nnet-train-simple.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-train-simple.cc
-END
-nnet-train-parallel.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-train-parallel.cc
-END
-nnet-combine-fast.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine-fast.cc
-END
-nnet-train-lbfgs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-train-lbfgs.cc
-END
-nnet-replace-last-layers.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3895/trunk/src/nnet2bin/nnet-replace-last-layers.cc
-END
-nnet-perturb-egs-fmllr.cc
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/3424/trunk/src/nnet2bin/nnet-perturb-egs-fmllr.cc
-END
-nnet-am-rescale.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-rescale.cc
-END
-nnet-train-discriminative-simple.cc
-K 25
-svn:wc:ra_dav:version-url
-V 82
-/p/kaldi/code/!svn/ver/3738/trunk/src/nnet2bin/nnet-train-discriminative-simple.cc
-END
-nnet-combine.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine.cc
-END
-nnet-compute-prob.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-compute-prob.cc
+/p/kaldi/code/!svn/ver/4317/trunk/src/nnet2bin
 END
 nnet-train-discriminative-parallel.cc
 K 25
@@ -135,35 +15,23 @@ svn:wc:ra_dav:version-url
 V 82
 /p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-compare-hash-discriminative.cc
 END
-nnet-am-fix.cc
+nnet-shuffle-egs-discriminative.cc
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-fix.cc
+V 81
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-shuffle-egs-discriminative.cc
 END
-raw-nnet-info.cc
+nnet-align-compiled.cc
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/raw-nnet-info.cc
+V 69
+/p/kaldi/code/!svn/ver/3738/trunk/src/nnet2bin/nnet-align-compiled.cc
 END
-nnet-logprob2.cc
+nnet-normalize-stddev.cc
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob2.cc
-END
-nnet-copy-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-copy-egs.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3895/trunk/src/nnet2bin/Makefile
+V 71
+/p/kaldi/code/!svn/ver/4317/trunk/src/nnet2bin/nnet-normalize-stddev.cc
 END
 nnet-train-transitions.cc
 K 25
@@ -171,77 +39,53 @@ svn:wc:ra_dav:version-url
 V 72
 /p/kaldi/code/!svn/ver/3788/trunk/src/nnet2bin/nnet-train-transitions.cc
 END
-nnet-compute-from-egs.cc
+nnet-get-weighted-egs.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/3788/trunk/src/nnet2bin/nnet-compute-from-egs.cc
+/p/kaldi/code/!svn/ver/3540/trunk/src/nnet2bin/nnet-get-weighted-egs.cc
 END
-nnet-precondition.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-precondition.cc
-END
-nnet-gradient.cc
+nnet-am-stats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-gradient.cc
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-stats.cc
 END
-nnet-am-mixup.cc
+nnet-select-egs.cc
 K 25
 svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-mixup.cc
+V 65
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-select-egs.cc
 END
 nnet-am-init.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-init.cc
+/p/kaldi/code/!svn/ver/4257/trunk/src/nnet2bin/nnet-am-init.cc
 END
-nnet-combine-egs-discriminative.cc
+nnet-train-simple-perturbed.cc
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine-egs-discriminative.cc
-END
-nnet-get-preconditioner.cc
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-get-preconditioner.cc
-END
-nnet-init.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-init.cc
-END
-nnet-insert.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-insert.cc
+V 77
+/p/kaldi/code/!svn/ver/4241/trunk/src/nnet2bin/nnet-train-simple-perturbed.cc
 END
 nnet-am-copy.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-copy.cc
+/p/kaldi/code/!svn/ver/4283/trunk/src/nnet2bin/nnet-am-copy.cc
+END
+nnet-am-average.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-average.cc
 END
 nnet-adjust-priors.cc
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/p/kaldi/code/!svn/ver/3788/trunk/src/nnet2bin/nnet-adjust-priors.cc
-END
-nnet-am-combine.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-combine.cc
+/p/kaldi/code/!svn/ver/4257/trunk/src/nnet2bin/nnet-adjust-priors.cc
 END
 nnet-shuffle-egs.cc
 K 25
@@ -267,18 +111,6 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-compute.cc
 END
-nnet-subset-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3352/trunk/src/nnet2bin/nnet-subset-egs.cc
-END
-nnet-latgen-faster-parallel.cc
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/p/kaldi/code/!svn/ver/3482/trunk/src/nnet2bin/nnet-latgen-faster-parallel.cc
-END
 nnet-am-info.cc
 K 25
 svn:wc:ra_dav:version-url
@@ -303,17 +135,251 @@ svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/3482/trunk/src/nnet2bin/nnet-latgen-faster.cc
 END
-nnet-shrink.cc
+nnet-logprob-parallel.cc
 K 25
 svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-shrink.cc
+V 71
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob-parallel.cc
+END
+raw-nnet-concat.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4246/trunk/src/nnet2bin/raw-nnet-concat.cc
 END
 nnet-modify-learning-rates.cc
 K 25
 svn:wc:ra_dav:version-url
 V 76
 /p/kaldi/code/!svn/ver/3421/trunk/src/nnet2bin/nnet-modify-learning-rates.cc
+END
+nnet-am-widen.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-widen.cc
+END
+raw-nnet-copy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4283/trunk/src/nnet2bin/raw-nnet-copy.cc
+END
+cuda-compiled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3792/trunk/src/nnet2bin/cuda-compiled.cc
+END
+nnet-train-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-train-simple.cc
+END
+nnet-combine-fast.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine-fast.cc
+END
+nnet-train-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4241/trunk/src/nnet2bin/nnet-train-parallel.cc
+END
+nnet-am-rescale.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-rescale.cc
+END
+nnet-to-raw-nnet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4283/trunk/src/nnet2bin/nnet-to-raw-nnet.cc
+END
+nnet-compute-prob.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4062/trunk/src/nnet2bin/nnet-compute-prob.cc
+END
+nnet-logprob2-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob2-parallel.cc
+END
+nnet-get-feature-transform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/4241/trunk/src/nnet2bin/nnet-get-feature-transform.cc
+END
+nnet-am-fix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-fix.cc
+END
+raw-nnet-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/raw-nnet-info.cc
+END
+nnet-show-progress.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4077/trunk/src/nnet2bin/nnet-show-progress.cc
+END
+nnet-logprob2.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob2.cc
+END
+nnet-copy-egs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4292/trunk/src/nnet2bin/nnet-copy-egs.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4283/trunk/src/nnet2bin/Makefile
+END
+nnet-compute-from-egs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3788/trunk/src/nnet2bin/nnet-compute-from-egs.cc
+END
+nnet-gradient.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-gradient.cc
+END
+nnet-precondition.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-precondition.cc
+END
+nnet-am-mixup.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4317/trunk/src/nnet2bin/nnet-am-mixup.cc
+END
+nnet-limit-degradation.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-limit-degradation.cc
+END
+nnet-combine-egs-discriminative.cc
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine-egs-discriminative.cc
+END
+nnet-get-preconditioner.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-get-preconditioner.cc
+END
+nnet-train-parallel-perturbed.cc
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/4241/trunk/src/nnet2bin/nnet-train-parallel-perturbed.cc
+END
+nnet-init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4246/trunk/src/nnet2bin/nnet-init.cc
+END
+nnet-insert.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-insert.cc
+END
+nnet-am-combine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-combine.cc
+END
+nnet-subset-egs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3352/trunk/src/nnet2bin/nnet-subset-egs.cc
+END
+nnet-am-switch-preconditioning.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/4317/trunk/src/nnet2bin/nnet-am-switch-preconditioning.cc
+END
+nnet-latgen-faster-parallel.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/3482/trunk/src/nnet2bin/nnet-latgen-faster-parallel.cc
+END
+nnet-am-shrink.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-shrink.cc
+END
+nnet-get-egs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-get-egs.cc
+END
+nnet1-to-raw-nnet.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4257/trunk/src/nnet2bin/nnet1-to-raw-nnet.cc
+END
+nnet-shrink.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-shrink.cc
+END
+nnet-copy-egs-discriminative.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/4292/trunk/src/nnet2bin/nnet-copy-egs-discriminative.cc
+END
+nnet-perturb-egs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3424/trunk/src/nnet2bin/nnet-perturb-egs.cc
+END
+nnet-am-limit-rank.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-limit-rank.cc
 END
 nnet-randomize-frames.cc
 K 25
@@ -327,11 +393,23 @@ svn:wc:ra_dav:version-url
 V 77
 /p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-get-egs-discriminative.cc
 END
+nnet-logprob.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob.cc
+END
 nnet-train-ensemble.cc
 K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/3479/trunk/src/nnet2bin/nnet-train-ensemble.cc
+END
+raw-nnet-init
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4317/trunk/src/nnet2bin/raw-nnet-init
 END
 nnet-am-compute.cc
 K 25
@@ -339,75 +417,39 @@ svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-compute.cc
 END
-nnet-to-raw-nnet.cc
+nnet-train-perturbed.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4241/trunk/src/nnet2bin/nnet-train-perturbed.cc
+END
+nnet-train-lbfgs.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-to-raw-nnet.cc
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-train-lbfgs.cc
 END
-nnet-shuffle-egs-discriminative.cc
+nnet-replace-last-layers.cc
 K 25
 svn:wc:ra_dav:version-url
-V 81
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-shuffle-egs-discriminative.cc
+V 74
+/p/kaldi/code/!svn/ver/3895/trunk/src/nnet2bin/nnet-replace-last-layers.cc
 END
-nnet-logprob2-parallel.cc
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-logprob2-parallel.cc
-END
-nnet-get-feature-transform.cc
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/3424/trunk/src/nnet2bin/nnet-get-feature-transform.cc
-END
-nnet-show-progress.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3788/trunk/src/nnet2bin/nnet-show-progress.cc
-END
-nnet-align-compiled.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3738/trunk/src/nnet2bin/nnet-align-compiled.cc
-END
-nnet-normalize-stddev.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3421/trunk/src/nnet2bin/nnet-normalize-stddev.cc
-END
-nnet-get-weighted-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3540/trunk/src/nnet2bin/nnet-get-weighted-egs.cc
-END
-nnet-am-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-stats.cc
-END
-nnet-select-egs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-select-egs.cc
-END
-nnet-limit-degradation.cc
+nnet-perturb-egs-fmllr.cc
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-limit-degradation.cc
+/p/kaldi/code/!svn/ver/3424/trunk/src/nnet2bin/nnet-perturb-egs-fmllr.cc
 END
-nnet-am-average.cc
+nnet-train-discriminative-simple.cc
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-am-average.cc
+V 82
+/p/kaldi/code/!svn/ver/3738/trunk/src/nnet2bin/nnet-train-discriminative-simple.cc
+END
+nnet-combine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/nnet2bin/nnet-combine.cc
 END

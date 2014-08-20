@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5/local/dict
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,74 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-filter_dict.pl
-file
-
-
-
-
-2014-05-30T02:46:13.000000Z
-e8606a750cc1919bf1c8f933e925b408
-2011-11-15T07:32:53.577063Z
-604
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-551
-
-get_acronym_prons.pl
-file
-
-
-
-
-2014-05-30T02:46:13.000000Z
-a1e08d70d18ac1d4a5666036945929bd
-2011-11-15T07:32:53.577063Z
-604
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3869
 
 get_rules.pl
 file
@@ -501,4 +433,72 @@ has-props
 
 
 1754
+
+filter_dict.pl
+file
+
+
+
+
+2014-05-30T02:46:13.000000Z
+e8606a750cc1919bf1c8f933e925b408
+2011-11-15T07:32:53.577063Z
+604
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+551
+
+get_acronym_prons.pl
+file
+
+
+
+
+2014-05-30T02:46:13.000000Z
+a1e08d70d18ac1d4a5666036945929bd
+2011-11-15T07:32:53.577063Z
+604
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3869
 

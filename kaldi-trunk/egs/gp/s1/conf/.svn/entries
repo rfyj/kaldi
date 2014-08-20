@@ -1,7 +1,7 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s1/conf
 https://svn.code.sf.net/p/kaldi/code
 
@@ -25,40 +25,6 @@ arnab13
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-dev_spk.list
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-6be38230a00855620b6ce59baababe9a
-2012-02-15T15:46:53.098326Z
-758
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-533
 
 lang_codes.txt
 file
@@ -195,4 +161,38 @@ arnab13
 
 
 960
+
+dev_spk.list
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+6be38230a00855620b6ce59baababe9a
+2012-02-15T15:46:53.098326Z
+758
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+533
 

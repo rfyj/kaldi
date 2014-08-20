@@ -1,43 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/p/kaldi/code/!svn/ver/4009/trunk/src/gmm
-END
-mle-am-diag-gmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/mle-am-diag-gmm-test.cc
-END
-am-diag-gmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/am-diag-gmm.h
-END
-decodable-am-diag-gmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/decodable-am-diag-gmm.h
-END
-full-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/4009/trunk/src/gmm/full-gmm.cc
-END
-full-gmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm.h
-END
-diag-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/4009/trunk/src/gmm/diag-gmm.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/gmm
 END
 diag-gmm.h
 K 25
@@ -105,11 +69,11 @@ svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm-normal.cc
 END
-full-gmm-normal.h
+diag-gmm-normal.cc
 K 25
 svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm-normal.h
+V 60
+/p/kaldi/code/!svn/ver/3048/trunk/src/gmm/diag-gmm-normal.cc
 END
 mle-full-gmm-test.cc
 K 25
@@ -117,11 +81,23 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/2988/trunk/src/gmm/mle-full-gmm-test.cc
 END
-diag-gmm-normal.cc
+full-gmm-normal.h
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3048/trunk/src/gmm/diag-gmm-normal.cc
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm-normal.h
+END
+ebw-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4292/trunk/src/gmm/ebw-diag-gmm-test.cc
+END
+mle-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4292/trunk/src/gmm/mle-diag-gmm-test.cc
 END
 diag-gmm-normal.h
 K 25
@@ -129,29 +105,17 @@ svn:wc:ra_dav:version-url
 V 59
 /p/kaldi/code/!svn/ver/3048/trunk/src/gmm/diag-gmm-normal.h
 END
-mle-diag-gmm-test.cc
+decodable-am-diag-gmm.cc
 K 25
 svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3229/trunk/src/gmm/mle-diag-gmm-test.cc
-END
-ebw-diag-gmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/ebw-diag-gmm-test.cc
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/decodable-am-diag-gmm.cc
 END
 am-diag-gmm.cc
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/4007/trunk/src/gmm/am-diag-gmm.cc
-END
-decodable-am-diag-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/decodable-am-diag-gmm.cc
 END
 model-common.cc
 K 25
@@ -193,7 +157,7 @@ full-gmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/gmm/full-gmm-test.cc
 END
 mle-diag-gmm.h
 K 25
@@ -205,7 +169,7 @@ diag-gmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/diag-gmm-test.cc
+/p/kaldi/code/!svn/ver/4292/trunk/src/gmm/diag-gmm-test.cc
 END
 ebw-diag-gmm.h
 K 25
@@ -218,4 +182,40 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/2988/trunk/src/gmm/model-test-common.cc
+END
+mle-am-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/mle-am-diag-gmm-test.cc
+END
+am-diag-gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/am-diag-gmm.h
+END
+decodable-am-diag-gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/decodable-am-diag-gmm.h
+END
+full-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/4009/trunk/src/gmm/full-gmm.cc
+END
+full-gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/2988/trunk/src/gmm/full-gmm.h
+END
+diag-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/4009/trunk/src/gmm/diag-gmm.cc
 END

@@ -1,15 +1,15 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/src/latbin
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-14T10:35:32.807517Z
-3990
-danielpovey
+2014-08-14T12:35:31.629927Z
+4304
+vesis84
 has-props
 
 
@@ -25,448 +25,6 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-lattice-copy.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-3dd8aeb14350e92282ca069ee5c82c94
-2014-04-26T23:31:12.612597Z
-3966
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2709
-
-lattice-to-fst.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-9e9535955775652b3d0890a6e16ace87
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3530
-
-lattice-equivalent.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-afb16a3c4cbe7da11fb87a778b79daf4
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3295
-
-lattice-determinize.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-b8216db8563ae41cfa7b12b10ac232dc
-2014-05-14T10:35:32.807517Z
-3990
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7422
-
-lattice-limit-depth.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-acd5be04d27c8eae27f1a782b405275a
-2013-10-16T20:21:28.767476Z
-3098
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3720
-
-lattice-depth-per-frame.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-6bbd4c9702d7368b4c210d1ac72bbcc0
-2014-01-21T23:32:25.846640Z
-3424
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2476
-
-linear-to-nbest.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-2fd3cfd6d7df09a6e91990eae9a5aeee
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4936
-
-nbest-to-linear.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-1b92a776c0a717dbbe99894fddd69090
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3489
-
-lattice-determinize-phone-pruned.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-2b6488f409098032f3aa48fd84fb7643
-2014-02-28T17:57:30.647740Z
-3630
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4071
-
-lattice-to-ctm-conf.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-deadd214af386ceadc188c13cca91c09
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4773
-
-lattice-arcgraph.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-e1aeaa6c73b47924c9bee30e5526e034
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10619
-
-nbest-to-ctm.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-11dec16d8250820e070e9e5334496a17
-2013-10-16T14:28:31.483324Z
-3095
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4362
-
-lattice-difference.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-3e3e3dd86ea3d98cf3f02e4f78bd841f
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3598
 
 lattice-mbr-decode.cc
 file
@@ -570,17 +128,17 @@ danielpovey
 
 4688
 
-lattice-determinize-pruned-parallel.cc
+lattice-rmali.cc
 file
 
 
 
 
 2014-05-30T02:45:57.000000Z
-c58f94e1ab2b3ec5e5af0496e00352e6
-2014-01-27T23:15:35.090408Z
-3439
-chenguoguo
+bcef314931105458dd20e3a0d9453bd5
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
 
 
 
@@ -602,7 +160,7 @@ chenguoguo
 
 
 
-6685
+2305
 
 lattice-depth.cc
 file
@@ -638,17 +196,17 @@ danielpovey
 
 2742
 
-lattice-rmali.cc
+lattice-determinize-pruned-parallel.cc
 file
 
 
 
 
 2014-05-30T02:45:57.000000Z
-bcef314931105458dd20e3a0d9453bd5
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
+c58f94e1ab2b3ec5e5af0496e00352e6
+2014-01-27T23:15:35.090408Z
+3439
+chenguoguo
 
 
 
@@ -670,7 +228,7 @@ danielpovey
 
 
 
-2305
+6685
 
 lattice-to-post.cc
 file
@@ -712,10 +270,10 @@ file
 
 
 
-2014-05-30T02:45:57.000000Z
+
 aef7b9861dfaca3ead81a554bc768e5f
-2014-04-21T01:16:19.554659Z
-3931
+2014-08-07T22:03:57.503019Z
+4276
 danielpovey
 has-props
 
@@ -774,40 +332,6 @@ chenguoguo
 
 4676
 
-lattice-determinize-phone-pruned-parallel.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-0c29fe370b529d0341a989da61d0ce54
-2014-02-28T17:57:30.647740Z
-3630
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6039
-
 lattice-reverse.cc
 file
 
@@ -841,6 +365,40 @@ danielpovey
 
 
 2487
+
+lattice-determinize-phone-pruned-parallel.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+0c29fe370b529d0341a989da61d0ce54
+2014-02-28T17:57:30.647740Z
+3630
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6039
 
 lattice-to-phone-lattice.cc
 file
@@ -1012,40 +570,6 @@ danielpovey
 
 3574
 
-lattice-to-mpe-post.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-0280a3f5b5ba27439017c3e81eef648e
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5555
-
 lattice-align-phones.cc
 file
 
@@ -1079,6 +603,40 @@ vesis84
 
 
 3840
+
+lattice-to-mpe-post.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+0280a3f5b5ba27439017c3e81eef648e
+2013-12-11T18:39:46.616498Z
+3298
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5555
 
 lattice-align-words-lexicon.cc
 file
@@ -1154,11 +712,11 @@ file
 
 
 
-2014-05-30T02:45:57.000000Z
-9fe4f29d1311f2ad030315b368f5ca3d
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
+2014-08-20T05:47:44.000000Z
+db355e046081be9f58e48e9736c9d881
+2014-08-14T12:35:31.629927Z
+4304
+vesis84
 
 
 
@@ -1180,7 +738,7 @@ danielpovey
 
 
 
-5257
+5322
 
 lattice-scale.cc
 file
@@ -1256,10 +814,10 @@ file
 
 
 
-2014-05-30T02:45:57.000000Z
-121feae83ea072767b35937c23d08b5c
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:44.000000Z
+2b956acf5a4309042cbfa0236113e547
+2014-07-16T19:54:48.917116Z
+4158
 danielpovey
 
 
@@ -1282,7 +840,7 @@ danielpovey
 
 
 
-4318
+4319
 
 lattice-boost-ali.cc
 file
@@ -1318,40 +876,6 @@ danielpovey
 
 4966
 
-lattice-lmrescore.cc
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-3c806079e337aba70a80730acd7c42d1
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5696
-
 lattice-to-nbest.cc
 file
 
@@ -1385,6 +909,40 @@ danielpovey
 
 
 4507
+
+lattice-lmrescore.cc
+file
+
+
+
+
+2014-08-20T05:47:44.000000Z
+fafd02f5761e2cbf3b0d184320bdb719
+2014-07-16T19:54:48.917116Z
+4158
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5809
 
 nbest-to-lattice.cc
 file
@@ -1562,10 +1120,10 @@ file
 
 
 
-2014-05-30T02:45:57.000000Z
-b4fbb721ddc3de027b4f6f3edff8ae2c
-2013-12-30T20:17:06.842090Z
-3377
+2014-08-20T05:47:44.000000Z
+815cb24815fdeb5b5323fc48653f6d2a
+2014-08-03T00:49:23.427249Z
+4241
 danielpovey
 
 
@@ -1588,7 +1146,41 @@ danielpovey
 
 
 
-16932
+17179
+
+Makefile
+file
+
+
+
+
+2014-08-20T05:47:44.000000Z
+faf26bd3616372357d48e3cdb7ceacb4
+2014-08-07T02:46:22.197016Z
+4270
+david-snyder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1463
 
 lattice-project.cc
 file
@@ -1624,40 +1216,6 @@ danielpovey
 
 3190
 
-Makefile
-file
-
-
-
-
-2014-05-30T02:45:57.000000Z
-02ed88c1ed7bc871327cd6cd88ab1121
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1429
-
 lattice-to-smbr-post.cc
 file
 
@@ -1691,4 +1249,480 @@ danielpovey
 
 
 5640
+
+lattice-copy.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+3dd8aeb14350e92282ca069ee5c82c94
+2014-04-26T23:31:12.612597Z
+3966
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2709
+
+lattice-to-fst.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+9e9535955775652b3d0890a6e16ace87
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3530
+
+lattice-equivalent.cc
+file
+
+
+
+
+2014-08-20T05:47:44.000000Z
+2d4c47e25b461267d71fc16553e635c4
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3295
+
+lattice-determinize.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+b8216db8563ae41cfa7b12b10ac232dc
+2014-05-14T10:35:32.807517Z
+3990
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7422
+
+nbest-to-linear.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+1b92a776c0a717dbbe99894fddd69090
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3489
+
+linear-to-nbest.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+2fd3cfd6d7df09a6e91990eae9a5aeee
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4936
+
+lattice-depth-per-frame.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+6bbd4c9702d7368b4c210d1ac72bbcc0
+2014-01-21T23:32:25.846640Z
+3424
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2476
+
+lattice-limit-depth.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+acd5be04d27c8eae27f1a782b405275a
+2013-10-16T20:21:28.767476Z
+3098
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3720
+
+lattice-determinize-phone-pruned.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+2b6488f409098032f3aa48fd84fb7643
+2014-02-28T17:57:30.647740Z
+3630
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4071
+
+lattice-expand-ngram.cc
+file
+
+
+
+
+2014-08-20T05:47:44.000000Z
+194b28383a62dd42ddc0c9a751124a55
+2014-08-07T02:46:22.197016Z
+4270
+david-snyder
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3170
+
+lattice-to-ctm-conf.cc
+file
+
+
+
+
+2014-08-20T05:47:44.000000Z
+1137b0d2f0a25206d4b14aa05d3ab071
+2014-08-14T12:35:31.629927Z
+4304
+vesis84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4941
+
+lattice-arcgraph.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+e1aeaa6c73b47924c9bee30e5526e034
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10619
+
+nbest-to-ctm.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+11dec16d8250820e070e9e5334496a17
+2013-10-16T14:28:31.483324Z
+3095
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4362
+
+lattice-difference.cc
+file
+
+
+
+
+2014-05-30T02:45:57.000000Z
+3e3e3dd86ea3d98cf3f02e4f78bd841f
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3598
 

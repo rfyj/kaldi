@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/local/nnet2
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-11T01:54:15.665396Z
-3873
+2014-07-06T01:28:15.514570Z
+4110
 danielpovey
 
 
@@ -26,16 +26,16 @@ danielpovey
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-run_5c_gpu.sh
+run_5b.sh
 file
 
 
 
 
 2014-05-30T02:46:09.000000Z
-f576ee0efa4d08d9f14bac010d95e39c
-2014-04-11T01:54:15.665396Z
-3873
+e59e8322a84964356fad16f8aaee0512
+2013-08-24T14:54:16.509551Z
+2864
 danielpovey
 has-props
 
@@ -58,16 +58,118 @@ has-props
 
 
 
-1564
+2345
 
-run_5d_gpu.sh
+run_5c.sh
+file
+
+
+
+
+2014-08-20T05:48:00.000000Z
+8d92d31b61ed9a1af9127d05f1ca95c9
+2014-07-06T01:28:15.514570Z
+4110
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1736
+
+run_5d.sh
+file
+
+
+
+
+2014-08-20T05:48:00.000000Z
+d7b2e09c4ff08c8c3d14931c280258e1
+2014-07-04T04:46:29.548088Z
+4108
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2257
+
+run_6d.sh
 file
 
 
 
 
 2014-05-30T02:46:09.000000Z
-503375e5c48c08d6fb8f0ae7dec045c7
+a062197d7c5003f741b02621ee9c06fa
+2014-03-15T18:23:14.277525Z
+3765
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1457
+
+run_5b_gpu.sh
+file
+
+
+
+
+2014-05-30T02:46:09.000000Z
+def0ff870888d847b1ea83f0d192e12c
 2014-04-11T01:54:15.665396Z
 3873
 danielpovey
@@ -92,7 +194,7 @@ has-props
 
 
 
-1954
+3429
 
 run_6c_gpu.sh
 file
@@ -229,174 +331,4 @@ has-props
 
 
 2237
-
-run_5b.sh
-file
-
-
-
-
-2014-05-30T02:46:09.000000Z
-e59e8322a84964356fad16f8aaee0512
-2013-08-24T14:54:16.509551Z
-2864
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2345
-
-run_5c.sh
-file
-
-
-
-
-2014-05-30T02:46:09.000000Z
-b890d66721ae9de404dba239dffa6c9a
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-740
-
-run_5d.sh
-file
-
-
-
-
-2014-05-30T02:46:09.000000Z
-abdd9d08d2103885865911bdb6414a23
-2014-03-16T04:33:50.205336Z
-3766
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1741
-
-run_6d.sh
-file
-
-
-
-
-2014-05-30T02:46:09.000000Z
-a062197d7c5003f741b02621ee9c06fa
-2014-03-15T18:23:14.277525Z
-3765
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1457
-
-run_5b_gpu.sh
-file
-
-
-
-
-2014-05-30T02:46:09.000000Z
-def0ff870888d847b1ea83f0d192e12c
-2014-04-11T01:54:15.665396Z
-3873
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3429
 

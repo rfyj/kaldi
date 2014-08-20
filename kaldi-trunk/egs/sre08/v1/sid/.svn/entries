@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/sre08/v1/sid
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-20T21:25:41.458932Z
-3793
+2014-07-22T17:43:34.975948Z
+4193
 danielpovey
 
 
@@ -25,40 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-extract_ivectors.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-6bf4dcbe7d89a2ab58c8feb553fe545d
-2014-01-22T00:46:43.756189Z
-3425
-david-snyder
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3253
 
 gender_id.sh
 file
@@ -168,11 +134,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-23c9466b6c3dd8517ae9a80922845c0c
-2014-01-22T00:46:43.756189Z
-3425
-david-snyder
+2014-08-20T05:47:59.000000Z
+67d1b7635fd24dd76aed825a8a99ee9e
+2014-07-22T17:43:34.975948Z
+4193
+danielpovey
 has-props
 
 
@@ -194,7 +160,7 @@ has-props
 
 
 
-7070
+7260
 
 train_diag_ubm.sh
 file
@@ -229,4 +195,38 @@ has-props
 
 
 6529
+
+extract_ivectors.sh
+file
+
+
+
+
+2014-08-20T05:47:59.000000Z
+41797d9799f52270e605aa163a4ea25e
+2014-07-22T17:43:34.975948Z
+4193
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3438
 

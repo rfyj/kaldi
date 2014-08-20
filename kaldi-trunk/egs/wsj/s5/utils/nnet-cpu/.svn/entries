@@ -1,14 +1,14 @@
 10
 
 dir
-4030
+4328
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/utils/nnet-cpu
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-21T01:16:19.554659Z
-3931
+2014-08-07T21:31:49.137937Z
+4274
 danielpovey
 has-props
 
@@ -25,6 +25,40 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+make_nnet_config.pl
+file
+
+
+
+
+2014-05-30T02:46:08.000000Z
+ae7a18a202d38833de12a8780b1ce501
+2013-10-03T09:06:21.233839Z
+3035
+rickychanhoyin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6695
 
 make_nnet_config_preconditioned.pl
 file
@@ -127,38 +161,4 @@ has-props
 
 
 6977
-
-make_nnet_config.pl
-file
-
-
-
-
-2014-05-30T02:46:08.000000Z
-ae7a18a202d38833de12a8780b1ce501
-2013-10-03T09:06:21.233839Z
-3035
-rickychanhoyin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6695
 
