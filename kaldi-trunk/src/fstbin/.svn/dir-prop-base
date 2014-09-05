@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 359
+V 458
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 example
 fstcopy
@@ -25,5 +34,8 @@ fstfactor
 fstdeterminizelog
 fstphicompose
 fstpropfinal
+fstpushspecial
+fstrhocompose
+fsts-to-transcripts
 
 END

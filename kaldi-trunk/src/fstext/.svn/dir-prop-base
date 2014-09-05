@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 301
+V 410
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 lattice-utils-test
 deterministic-fst-test
@@ -16,5 +25,8 @@ remove-eps-local-test
 rescale-test
 lattice-weight-test
 determinize-lattice-test
+push-special-test
+prune-special-test
+epsilon-property-test
 
 END

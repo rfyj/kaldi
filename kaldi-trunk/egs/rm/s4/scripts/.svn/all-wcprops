@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/p/kaldi/code/!svn/ver/799/trunk/egs/rm/s4/scripts
+V 51
+/p/kaldi/code/!svn/ver/4365/trunk/egs/rm/s4/scripts
 END
 add_lex_disambig.pl
 K 25

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 41
-/p/kaldi/code/!svn/ver/57/trunk/misc/logo
-END
-KaldiLogo.png
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/57/trunk/misc/logo/KaldiLogo.png
+V 43
+/p/kaldi/code/!svn/ver/4365/trunk/misc/logo
 END
 KaldiTextAndLogo.png
 K 25
@@ -20,4 +14,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/57/trunk/misc/logo/KaldiLogo.docx
+END
+KaldiLogo.png
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/57/trunk/misc/logo/KaldiLogo.png
 END

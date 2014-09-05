@@ -1,6 +1,23 @@
+K 10
+svn:ignore
+V 68
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
+mfcc
+plp
+exp
+data
+
 K 13
 svn:mergeinfo
-V 625
+V 664
 /sandbox/akirkedal/egs/swbd/s5b:3806-4273
 /sandbox/dan/egs/swbd/s5:1504-1801
 /sandbox/dan2/egs/swbd/s5b:2775-2829,2832-3292
@@ -9,6 +26,7 @@ V 625
 /sandbox/kws/egs/swbd/s5:1533-1557
 /sandbox/language_id/egs/swbd/s5b:3523-3930,3933-4177
 /sandbox/nshmyrev/egs/swbd/s5b:3830-3854
+/sandbox/online/egs/swbd/s5b:3325-4359
 /sandbox/pawel/egs/swbd/s5b:4013-4275
 /sandbox/pitch/egs/swbd/s5b:3126-3251
 /sandbox/sail/egs/swbd/s5b:3642-3712,3716-3797

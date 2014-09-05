@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gale_arabic/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,6 +25,74 @@ ahmaksod1
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+a68e7d83aad061d6b94aa9c099523173
+2014-04-07T20:40:24.438887Z
+3856
+ahmaksod1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2279
+
+score_mbr.sh
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+ee67a463c9191436f20081cea1aa7ecb
+2014-04-07T20:40:24.438887Z
+3856
+ahmaksod1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1790
 
 gale_train_lms.sh
 file
@@ -66,10 +134,10 @@ file
 
 
 
-2014-05-30T02:46:16.000000Z
-5b970deeeb0e3d2e945858c575299825
-2014-04-07T20:40:24.438887Z
-3856
+2014-09-05T08:33:34.000000Z
+be8259319e4997f0ec2986e9aee4ad5d
+2014-08-26T19:34:01.912546Z
+4346
 ahmaksod1
 has-props
 
@@ -92,7 +160,7 @@ has-props
 
 
 
-754
+794
 
 test_list
 file
@@ -433,72 +501,4 @@ has-props
 
 
 2440
-
-score.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-a68e7d83aad061d6b94aa9c099523173
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2279
-
-score_mbr.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-ee67a463c9191436f20081cea1aa7ecb
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1790
 

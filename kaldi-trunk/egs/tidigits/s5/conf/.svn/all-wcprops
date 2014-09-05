@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/conf
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/conf/mfcc.conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/tidigits/s5/conf
 END
 topo.proto
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/conf/topo.proto
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/1050/trunk/egs/tidigits/s5/conf/mfcc.conf
 END

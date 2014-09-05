@@ -1,14 +1,41 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-07-21T18:02:38.089591Z
-4186
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+online_pitch.conf
+file
+
+
+
+
+2014-09-05T08:33:23.000000Z
+02d065575e07c561ef1412f5b7171f94
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 
 
@@ -24,7 +51,14 @@ danielpovey
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+3063
 
 fbank.conf
 file
@@ -93,6 +127,40 @@ danielpovey
 
 
 123
+
+online_cmvn.conf
+file
+
+
+
+
+2014-09-05T08:33:23.000000Z
+18bac64b4051fc4db8d4bf3f8f04ec8c
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+108
 
 mfcc.conf
 file

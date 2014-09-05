@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/conf
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/conf/mfcc.conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/sre08/v1/conf
 END
 vad.conf
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/conf/vad.conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/3319/trunk/egs/sre08/v1/conf/mfcc.conf
 END

@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3246/trunk/egs/timit/s3/local
-END
-make_trans.pl
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/make_trans.pl
-END
-timit_data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/1644/trunk/egs/timit/s3/local/timit_data_prep.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s3/local
 END
 timit_format_data.sh
 K 25
@@ -44,4 +32,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 72
 /p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/create_biphone_lm.sh
+END
+make_trans.pl
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/780/trunk/egs/timit/s3/local/make_trans.pl
+END
+timit_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/1644/trunk/egs/timit/s3/local/timit_data_prep.sh
 END

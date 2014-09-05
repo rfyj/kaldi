@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 872
+V 1263
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 post-to-tacc
 sum-matrices
@@ -59,26 +68,28 @@ copy-int-vector-vector
 align-compiled-mapped
 latgen-faster-mapped
 analyze-counts
+am-info
+build-pfile-from-ali
+copy-post
+duplicate-matrix
+extract-ctx
+get-post-on-ali
+latgen-faster-mapped-parallel
+latgen-tracking-mapped
+logprob-to-post
+matrix-logprob
+matrix-sum
+pdf-to-counts
+post-to-pdf-post
+post-to-phone-post
+prob-to-post
+tree-info
+vector-scale
+vector-sum
+est-pca
+matrix-sum-rows
+sum-lda-accs
+sum-mllt-accs
+transform-vec
 
-K 13
-svn:mergeinfo
-V 661
-/sandbox/akirkedal/src/bin:3806-4273
-/sandbox/dan/src/bin:1504-1801
-/sandbox/dan2/src/bin:2775-2829,2832-3292
-/sandbox/discrim/src/bin:234-658
-/sandbox/karel/src/bin:270-1493,1522-1532
-/sandbox/korzinek/src/bin:2551-2594
-/sandbox/kws/src/bin:1533-1557
-/sandbox/language_id/src/bin:3523-3930,3933-4177
-/sandbox/nshmyrev/src/bin:3830-3854
-/sandbox/online/src/bin:3325-4225
-/sandbox/oplatek/src/bin:2513-2541
-/sandbox/pawel/src/bin:4013-4275
-/sandbox/pitch/src/bin:3126-3251
-/sandbox/sail/src/bin:3642-3712,3716-3797
-/sandbox/sharedlibs/src/bin:2585-2662
-/sandbox/tacc_kaldi/src/bin:3041-4251
-/sandbox/tanel/src/bin:2623-2658
-/sandbox/thang-project/src/bin:233-258
 END

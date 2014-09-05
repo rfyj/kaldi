@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/3709/trunk/src/kwsbin
+/p/kaldi/code/!svn/ver/4365/trunk/src/kwsbin
+END
+kws-search.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/3429/trunk/src/kwsbin/kws-search.cc
 END
 Makefile
 K 25
@@ -32,10 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3424/trunk/src/kwsbin/kws-index-union.cc
-END
-kws-search.cc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/3429/trunk/src/kwsbin/kws-search.cc
 END

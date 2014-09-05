@@ -1,7 +1,19 @@
 K 10
 svn:ignore
-V 30
+V 152
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 kaldi-lattice-test
+determinize-lattice-pruned-test
+minimize-lattice-test
+push-lattice-test
 
 END

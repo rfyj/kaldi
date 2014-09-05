@@ -1,14 +1,41 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/ivector
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-16T23:29:18.891371Z
-4320
+2014-09-02T03:53:36.286515Z
+4367
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+logistic-regression.h
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+d3ffe5bb8d2478a8806a0d829eed624a
+2014-04-21T01:49:34.510158Z
+3934
 danielpovey
 
 
@@ -24,7 +51,82 @@ danielpovey
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+4739
+
+plda-test.cc
+file
+
+
+
+
+2014-08-20T05:47:51.000000Z
+944099641a6628feee6f3baa81f6fb26
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3407
+
+voice-activity-detection.h
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+eb627491fedcaa91d73b74a164c3ef9e
+2013-12-18T03:03:38.068104Z
+3319
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3492
 
 plda.cc
 file
@@ -66,11 +168,11 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-35bc73c509bc2f1e2298abe0f3882ed6
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-09-05T08:33:19.000000Z
+9f7fd77b10a70f47511fbf31c7d3f41a
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -92,7 +194,7 @@ ahhentz
 
 
 
-7086
+7075
 
 plda.h
 file
@@ -134,10 +236,10 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-064c4c972899fe24e4b156b7e974b223
-2014-07-13T21:17:09.966594Z
-4146
+2014-09-05T08:33:19.000000Z
+f41e108889649d860f0f58c5b9f5b01b
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -160,7 +262,7 @@ danielpovey
 
 
 
-56367
+57098
 
 ivector-extractor.h
 file
@@ -168,10 +270,10 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-36936b801be0d382120c763227895e3b
-2014-07-13T21:17:09.966594Z
-4146
+2014-09-05T08:33:19.000000Z
+e3ca7de98a646d724ff129677a915246
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -194,7 +296,7 @@ danielpovey
 
 
 
-25624
+26013
 
 logistic-regression-test.cc
 file
@@ -331,106 +433,4 @@ danielpovey
 
 
 2170
-
-logistic-regression.h
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-d3ffe5bb8d2478a8806a0d829eed624a
-2014-04-21T01:49:34.510158Z
-3934
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4739
-
-plda-test.cc
-file
-
-
-
-
-2014-08-20T05:47:51.000000Z
-944099641a6628feee6f3baa81f6fb26
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3407
-
-voice-activity-detection.h
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-eb627491fedcaa91d73b74a164c3ef9e
-2013-12-18T03:03:38.068104Z
-3319
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3492
 

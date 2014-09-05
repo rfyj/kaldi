@@ -1,7 +1,31 @@
 K 25
 svn:wc:ra_dav:version-url
-V 48
-/p/kaldi/code/!svn/ver/791/trunk/egs/gp/s1/steps
+V 49
+/p/kaldi/code/!svn/ver/4365/trunk/egs/gp/s1/steps
+END
+train_sgmm_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_sgmm_deltas.sh
+END
+train_ubm_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_ubm_deltas.sh
+END
+decode_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/decode_deltas.sh
+END
+train_trees.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_trees.sh
 END
 decode_sgmm_deltas.sh
 K 25
@@ -32,28 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_deltas.sh
-END
-train_sgmm_deltas.sh
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_sgmm_deltas.sh
-END
-train_ubm_deltas.sh
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_ubm_deltas.sh
-END
-decode_deltas.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/decode_deltas.sh
-END
-train_trees.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/steps/train_trees.sh
 END

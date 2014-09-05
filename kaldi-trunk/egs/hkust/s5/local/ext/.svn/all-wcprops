@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/p/kaldi/code/!svn/ver/2872/trunk/egs/hkust/s5/local/ext
+/p/kaldi/code/!svn/ver/4365/trunk/egs/hkust/s5/local/ext
 END
 195k_chinese_word2char_map
 K 25
@@ -25,5 +25,5 @@ score_basic_ext.sh
 K 25
 svn:wc:ra_dav:version-url
 V 75
-/p/kaldi/code/!svn/ver/2872/trunk/egs/hkust/s5/local/ext/score_basic_ext.sh
+/p/kaldi/code/!svn/ver/4354/trunk/egs/hkust/s5/local/ext/score_basic_ext.sh
 END

@@ -1,31 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/java-online-audio-client/src
-END
-Main.java
-K 25
-svn:wc:ra_dav:version-url
-V 86
-/p/kaldi/code/!svn/ver/2875/trunk/src/onlinebin/java-online-audio-client/src/Main.java
-END
-SCPFile.java
-K 25
-svn:wc:ra_dav:version-url
-V 89
-/p/kaldi/code/!svn/ver/2643/trunk/src/onlinebin/java-online-audio-client/src/SCPFile.java
-END
-KaldiASR.java
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/java-online-audio-client/src/KaldiASR.java
-END
-TextGrid.java
-K 25
-svn:wc:ra_dav:version-url
-V 90
-/p/kaldi/code/!svn/ver/2643/trunk/src/onlinebin/java-online-audio-client/src/TextGrid.java
+/p/kaldi/code/!svn/ver/4365/trunk/src/onlinebin/java-online-audio-client/src
 END
 Options.java
 K 25
@@ -62,4 +38,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 95
 /p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/java-online-audio-client/src/OutputProcess.java
+END
+Main.java
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/kaldi/code/!svn/ver/2875/trunk/src/onlinebin/java-online-audio-client/src/Main.java
+END
+SCPFile.java
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/p/kaldi/code/!svn/ver/2643/trunk/src/onlinebin/java-online-audio-client/src/SCPFile.java
+END
+KaldiASR.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin/java-online-audio-client/src/KaldiASR.java
+END
+TextGrid.java
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/p/kaldi/code/!svn/ver/2643/trunk/src/onlinebin/java-online-audio-client/src/TextGrid.java
 END

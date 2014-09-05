@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 1357
+V 1727
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 gmm-sum-accs
 gmm-acc-mllt
@@ -77,5 +86,19 @@ gmm-latgen-faster
 gmm-global-acc-stats
 gmm-global-est
 gmm-global-acc-stats-twofeats
+gmm-adapt-map
+gmm-est-fmllr-raw
+gmm-est-fmllr-raw-gpost
+gmm-global-info
+gmm-global-init-from-feats
+gmm-latgen-faster-parallel
+gmm-latgen-tracking
+gmm-acc-mllt-global
+gmm-est-fmllr-global
+gmm-global-est-lvtln-trans
+gmm-global-get-post
+gmm-global-gselect-to-post
+gmm-latgen-faster-regtree-fmllr
+gmm-transform-means-global
 
 END

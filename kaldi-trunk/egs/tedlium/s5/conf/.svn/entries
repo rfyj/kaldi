@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/tedlium/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-06-06T16:36:28.017394Z
-4043
-vesis84
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,40 +25,6 @@ vesis84
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-decode_dnn.config
-file
-
-
-
-
-2014-08-20T05:48:02.000000Z
-81a20a84b3db3869c8c1d6889dee0ff5
-2014-06-06T16:36:28.017394Z
-4043
-vesis84
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-122
 
 mfcc.conf
 file
@@ -93,4 +59,38 @@ nshmyrev
 
 
 44
+
+decode_dnn.config
+file
+
+
+
+
+2014-08-20T05:48:02.000000Z
+81a20a84b3db3869c8c1d6889dee0ff5
+2014-06-06T16:36:28.017394Z
+4043
+vesis84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+122
 

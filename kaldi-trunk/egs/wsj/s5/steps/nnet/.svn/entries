@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5/steps/nnet
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-18T16:55:50.596951Z
-4323
-vesis84
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -134,10 +134,10 @@ file
 
 
 
-2014-08-20T05:48:00.000000Z
-e2ef347c97c889fdea50d94e657c9ac1
-2014-07-02T10:40:56.113962Z
-4100
+2014-09-05T08:33:23.000000Z
+a4fcfa8c40e9bd59ae7ddfe2f4cb88f5
+2014-08-27T08:50:48.998885Z
+4348
 vesis84
 has-props
 
@@ -160,7 +160,7 @@ has-props
 
 
 
-11328
+11188
 
 align.sh
 file

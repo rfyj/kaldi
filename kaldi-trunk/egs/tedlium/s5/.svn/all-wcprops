@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/utils
-END
-RESULTS
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/RESULTS
-END
-path.sh
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/3858/trunk/egs/tedlium/s5/path.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/tedlium/s5
 END
 cmd.sh
 K 25
@@ -38,4 +20,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3855/trunk/egs/tedlium/s5/utils
+END
+RESULTS
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/RESULTS
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/3858/trunk/egs/tedlium/s5/path.sh
 END

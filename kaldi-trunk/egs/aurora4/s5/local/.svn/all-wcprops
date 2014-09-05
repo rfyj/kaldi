@@ -1,7 +1,37 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/3567/trunk/egs/aurora4/s5/local
+/p/kaldi/code/!svn/ver/4365/trunk/egs/aurora4/s5/local
+END
+cstr_wsj_extend_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_wsj_extend_dict.sh
+END
+flist2scp.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/flist2scp.pl
+END
+normalize_transcript.pl
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/normalize_transcript.pl
+END
+score_mbr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score_mbr.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score.sh
 END
 wsj_extend_dict.sh
 K 25
@@ -9,17 +39,11 @@ svn:wc:ra_dav:version-url
 V 73
 /p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_extend_dict.sh
 END
-cstr_wsj_data_prep.sh
+aurora2flist.pl
 K 25
 svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_wsj_data_prep.sh
-END
-find_transcripts.pl
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/find_transcripts.pl
+V 70
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/aurora2flist.pl
 END
 aurora4_format_data.sh
 K 25
@@ -38,6 +62,108 @@ K 25
 svn:wc:ra_dav:version-url
 V 71
 /p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/kws_data_prep.sh
+END
+aurora4_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/aurora4_data_prep.sh
+END
+run_nnet_cpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_nnet_cpu.sh
+END
+run_rnnlms_tri3b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_rnnlms_tri3b.sh
+END
+wsj_format_local_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_format_local_lms.sh
+END
+run_fwdbwd.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_fwdbwd.sh
+END
+wsj_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_format_data.sh
+END
+run_mmi_tri2b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_mmi_tri2b.sh
+END
+cstr_ndx2flist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_ndx2flist.pl
+END
+run_raw_fmllr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_raw_fmllr.sh
+END
+run_sgmm2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3567/trunk/egs/aurora4/s5/local/run_sgmm2.sh
+END
+run_mmi_tri4b.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_mmi_tri4b.sh
+END
+wsj_train_lms.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_train_lms.sh
+END
+flist2scp_12.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/flist2scp_12.pl
+END
+cstr_wsj_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_wsj_data_prep.sh
+END
+find_transcripts.pl
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/find_transcripts.pl
+END
+ndx2flist.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/ndx2flist.pl
+END
+wsj_data_prep.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_data_prep.sh
 END
 wsj_prepare_dict.sh
 K 25
@@ -63,113 +189,11 @@ svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_train_rnnlms.sh
 END
-aurora4_data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/aurora4_data_prep.sh
-END
-wsj_format_data.sh
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_format_data.sh
-END
-cstr_wsj_extend_dict.sh
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_wsj_extend_dict.sh
-END
-run_mmi_tri2b.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_mmi_tri2b.sh
-END
-run_sgmm2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3567/trunk/egs/aurora4/s5/local/run_sgmm2.sh
-END
-run_raw_fmllr.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_raw_fmllr.sh
-END
-normalize_transcript.pl
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/normalize_transcript.pl
-END
-run_mmi_tri4b.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_mmi_tri4b.sh
-END
-wsj_train_lms.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_train_lms.sh
-END
-aurora2flist.pl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/aurora2flist.pl
-END
-ndx2flist.pl
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/ndx2flist.pl
-END
-wsj_data_prep.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_data_prep.sh
-END
-run_nnet_cpu.sh
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_nnet_cpu.sh
-END
-wsj_format_local_lms.sh
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/wsj_format_local_lms.sh
-END
-run_rnnlms_tri3b.sh
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_rnnlms_tri3b.sh
-END
-run_fwdbwd.sh
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_fwdbwd.sh
-END
 run_dnn.sh
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_dnn.sh
-END
-score_combine.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score_combine.sh
 END
 run_rnnlms_sgmm5b.sh
 K 25
@@ -177,33 +201,9 @@ svn:wc:ra_dav:version-url
 V 75
 /p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/run_rnnlms_sgmm5b.sh
 END
-cstr_ndx2flist.pl
+score_combine.sh
 K 25
 svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/cstr_ndx2flist.pl
-END
-flist2scp.pl
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/flist2scp.pl
-END
-score_mbr.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score_mbr.sh
-END
-score.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score.sh
-END
-flist2scp_12.pl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/flist2scp_12.pl
+V 71
+/p/kaldi/code/!svn/ver/3292/trunk/egs/aurora4/s5/local/score_combine.sh
 END

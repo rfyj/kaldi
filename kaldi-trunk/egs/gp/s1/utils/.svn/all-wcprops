@@ -1,43 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
-V 48
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils
+V 49
+/p/kaldi/code/!svn/ver/4365/trunk/egs/gp/s1/utils
 END
-get_split_id.pl
+score_sclite.sh
 K 25
 svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/get_split_id.pl
-END
-eps2disambig.pl
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/eps2disambig.pl
-END
-make_lexicon_fst.pl
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/make_lexicon_fst.pl
-END
-utt2spk_to_spk2utt.pl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/utt2spk_to_spk2utt.pl
+V 65
+/p/kaldi/code/!svn/ver/4354/trunk/egs/gp/s1/utils/score_sclite.sh
 END
 get_splits.pl
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/get_splits.pl
-END
-score_sclite.sh
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/score_sclite.sh
 END
 score_text.sh
 K 25
@@ -81,17 +57,17 @@ svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/find_arpa_oovs.pl
 END
-lmrescore.sh
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/lmrescore.sh
-END
 filter_scp.pl
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/filter_scp.pl
+END
+lmrescore.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/790/trunk/egs/gp/s1/utils/lmrescore.sh
 END
 s2eps.pl
 K 25
@@ -158,4 +134,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/sym2int.pl
+END
+get_split_id.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/get_split_id.pl
+END
+eps2disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/eps2disambig.pl
+END
+utt2spk_to_spk2utt.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/utt2spk_to_spk2utt.pl
+END
+make_lexicon_fst.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/758/trunk/egs/gp/s1/utils/make_lexicon_fst.pl
 END

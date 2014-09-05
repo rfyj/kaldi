@@ -1,37 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils
-END
-submit_jobs.sh
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/submit_jobs.sh
-END
-decode.sh
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/decode.sh
-END
-split_data.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/split_data.sh
-END
-add_disambig.pl
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/add_disambig.pl
-END
-mkgraph.sh
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/mkgraph.sh
+V 52
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s4/utils
 END
 filter_scp.pl
 K 25
@@ -69,17 +39,17 @@ svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/silphones.pl
 END
-sym2int.pl
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/sym2int.pl
-END
 int2sym.pl
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/int2sym.pl
+END
+sym2int.pl
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/sym2int.pl
 END
 eps2disambig.pl
 K 25
@@ -104,4 +74,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/score_text.sh
+END
+submit_jobs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/submit_jobs.sh
+END
+decode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/decode.sh
+END
+split_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/split_data.sh
+END
+add_disambig.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/add_disambig.pl
+END
+mkgraph.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/utils/mkgraph.sh
 END

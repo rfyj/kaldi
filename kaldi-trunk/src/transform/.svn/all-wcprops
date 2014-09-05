@@ -1,73 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform
-END
-cmvn.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/4283/trunk/src/transform/cmvn.cc
-END
-fmllr-raw.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmllr-raw.cc
-END
-transform-common.h
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/transform-common.h
-END
-regtree-fmllr-diag-gmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform/regtree-fmllr-diag-gmm-test.cc
-END
-lda-estimate.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/lda-estimate.cc
-END
-compressed-transform-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/compressed-transform-stats.cc
-END
-regression-tree.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regression-tree.h
-END
-fmllr-raw-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-raw-test.cc
-END
-regtree-mllr-diag-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm.cc
-END
-lda-estimate-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3377/trunk/src/transform/lda-estimate-test.cc
-END
-fmpe.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/4077/trunk/src/transform/fmpe.cc
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform
 END
 regtree-fmllr-diag-gmm.h
 K 25
@@ -81,137 +15,11 @@ svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/3962/trunk/src/transform/Makefile
 END
-basis-fmllr-diag-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/4077/trunk/src/transform/basis-fmllr-diag-gmm.cc
-END
-regtree-mllr-diag-gmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 77
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm-test.cc
-END
-transform-common.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/4283/trunk/src/transform/transform-common.cc
-END
-exponential-transform.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/exponential-transform.h
-END
-lvtln.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3962/trunk/src/transform/lvtln.h
-END
-fmpe-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmpe-test.cc
-END
-cmvn.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/cmvn.h
-END
-fmllr-raw.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmllr-raw.h
-END
-decodable-am-diag-gmm-regtree.cc
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.cc
-END
-mllt.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.cc
-END
-hlda.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/hlda.cc
-END
-fmllr-diag-gmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-diag-gmm-test.cc
-END
-decodable-am-diag-gmm-regtree.h
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.h
-END
-hlda.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/hlda.h
-END
-mllt.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.h
-END
-lda-estimate.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3298/trunk/src/transform/lda-estimate.h
-END
-compressed-transform-stats.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/compressed-transform-stats.h
-END
-regression-tree.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3377/trunk/src/transform/regression-tree.cc
-END
-regtree-mllr-diag-gmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm.h
-END
-regtree-fmllr-diag-gmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-fmllr-diag-gmm.cc
-END
-fmpe.h
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3298/trunk/src/transform/fmpe.h
-END
 regression-tree-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/4292/trunk/src/transform/regression-tree-test.cc
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform/regression-tree-test.cc
 END
 fmllr-diag-gmm.cc
 K 25
@@ -219,11 +27,119 @@ svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/3931/trunk/src/transform/fmllr-diag-gmm.cc
 END
+cmvn.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/cmvn.cc
+END
+fmpe-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform/fmpe-test.cc
+END
+cmvn.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/cmvn.h
+END
+decodable-am-diag-gmm-regtree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.cc
+END
+fmllr-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-diag-gmm-test.cc
+END
+lda-estimate.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/lda-estimate.cc
+END
+compressed-transform-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/compressed-transform-stats.cc
+END
+mllt.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.h
+END
+hlda.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/hlda.h
+END
+compressed-transform-stats.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/compressed-transform-stats.h
+END
+lda-estimate.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3298/trunk/src/transform/lda-estimate.h
+END
+regression-tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3377/trunk/src/transform/regression-tree.cc
+END
+regression-tree.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regression-tree.h
+END
+fmllr-raw-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4292/trunk/src/transform/fmllr-raw-test.cc
+END
+fmpe.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4077/trunk/src/transform/fmpe.cc
+END
+fmpe.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3298/trunk/src/transform/fmpe.h
+END
+basis-fmllr-diag-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/basis-fmllr-diag-gmm.cc
+END
 basis-fmllr-diag-gmm.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/2988/trunk/src/transform/basis-fmllr-diag-gmm.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/basis-fmllr-diag-gmm.h
+END
+regtree-mllr-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform/regtree-mllr-diag-gmm-test.cc
 END
 fmllr-diag-gmm.h
 K 25
@@ -235,5 +151,89 @@ lvtln.cc
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/p/kaldi/code/!svn/ver/4276/trunk/src/transform/lvtln.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/lvtln.cc
+END
+lvtln.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3962/trunk/src/transform/lvtln.h
+END
+exponential-transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/exponential-transform.h
+END
+transform-common.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4283/trunk/src/transform/transform-common.cc
+END
+fmllr-raw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4337/trunk/src/transform/fmllr-raw.cc
+END
+transform-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/src/transform/transform-common.h
+END
+regtree-fmllr-diag-gmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform/regtree-fmllr-diag-gmm-test.cc
+END
+fmllr-raw.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/fmllr-raw.h
+END
+hlda.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/hlda.cc
+END
+mllt.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/3931/trunk/src/transform/mllt.cc
+END
+decodable-am-diag-gmm-regtree.h
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/decodable-am-diag-gmm-regtree.h
+END
+regtree-mllr-diag-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm.cc
+END
+regtree-mllr-diag-gmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-mllr-diag-gmm.h
+END
+lda-estimate-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4369/trunk/src/transform/lda-estimate-test.cc
+END
+regtree-fmllr-diag-gmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2988/trunk/src/transform/regtree-fmllr-diag-gmm.cc
 END

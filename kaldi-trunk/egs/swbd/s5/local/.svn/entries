@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/swbd/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-18T05:25:03.758075Z
-3777
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -25,6 +25,210 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+swbd1_map_words.pl
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+56fa3d088f52383017b7a935a0f6d5fa
+2013-02-07T15:37:17.850616Z
+1990
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1994
+
+fisher_map_words.pl
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+ac2a38d558e5c4e7861b9fe883eafada
+2013-02-07T15:37:17.850616Z
+1990
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2857
+
+swbd1_data_prep_edin.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+9981982dd7374c4d79f3c92626420f7f
+2014-03-18T05:25:03.758075Z
+3777
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5216
+
+eval1997_data_prep_edin.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+84a459fcc4fdfc1ec560b2d2de398b50
+2013-02-07T15:37:17.850616Z
+1990
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4253
+
+swbd_p1_format_data.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+3f07322b6f84c20b9eb89f8ce3400e1b
+2012-04-28T17:45:32.153179Z
+879
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2473
+
+swbd1_prepare_dict.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+588dad8a2278496c65d14bb094a19491
+2014-01-12T18:50:26.509278Z
+3401
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2719
 
 eval2000_data_prep_edin.sh
 file
@@ -270,10 +474,10 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-0d7fa6d84ce83a2a208be7b348d444e4
-2013-01-11T19:38:43.844550Z
-1806
+2014-09-05T08:33:21.000000Z
+cb4502bcc33c56ad1ee0c073dbe4f325
+2014-08-30T00:34:00.500078Z
+4354
 danielpovey
 has-props
 
@@ -296,7 +500,7 @@ has-props
 
 
 
-2461
+2455
 
 score_sclite.sh
 file
@@ -304,11 +508,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-055804a621b15faacfae2046aaa2acab
-2013-05-28T15:53:08.202449Z
-2485
-vesis84
+2014-09-05T08:33:21.000000Z
+ebad621a68b361b67bbf4fc29c16bdc3
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -330,7 +534,7 @@ has-props
 
 
 
-5585
+5579
 
 swbd_p1_data_prep.sh
 file
@@ -406,11 +610,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-9ae850e7781597a539c45a0a2393b8ce
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
+2014-09-05T08:33:21.000000Z
+2a82d7e8abc43fb94cfa91a1d7b89a71
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -432,7 +636,7 @@ has-props
 
 
 
-2683
+2677
 
 run_tandem_uc.sh
 file
@@ -569,208 +773,4 @@ has-props
 
 
 1709
-
-swbd1_map_words.pl
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-56fa3d088f52383017b7a935a0f6d5fa
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1994
-
-fisher_map_words.pl
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-ac2a38d558e5c4e7861b9fe883eafada
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2857
-
-swbd1_data_prep_edin.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-9981982dd7374c4d79f3c92626420f7f
-2014-03-18T05:25:03.758075Z
-3777
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5216
-
-eval1997_data_prep_edin.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-84a459fcc4fdfc1ec560b2d2de398b50
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4253
-
-swbd_p1_format_data.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-3f07322b6f84c20b9eb89f8ce3400e1b
-2012-04-28T17:45:32.153179Z
-879
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2473
-
-swbd1_prepare_dict.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-588dad8a2278496c65d14bb094a19491
-2014-01-12T18:50:26.509278Z
-3401
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2719
 

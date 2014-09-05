@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 226
+V 451
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 nnet-train-xent-hardlab-perutt
 nnet-train-xent-hardlab-frmshuff
@@ -11,5 +20,15 @@ rbm-train-cd1-frmshuff
 rbm-convert-to-nnet
 nnet-trim-n-last-transforms
 nnet-train-mmi-sequential
+cmvn-to-nnet
+nnet-concat
+nnet-info
+nnet-initialize
+nnet-kl-hmm-acc
+nnet-kl-hmm-mat-to-component
+nnet-train-frmshuff
+nnet-train-mpe-sequential
+nnet-train-perutt
+transf-to-nnet
 
 END

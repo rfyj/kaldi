@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 604
+V 654
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 init-ubm
 sgmm-init

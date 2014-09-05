@@ -1,22 +1,14 @@
-K 13
-svn:mergeinfo
-V 661
-/sandbox/akirkedal/src/doc:3806-4273
-/sandbox/dan/src/doc:1504-1801
-/sandbox/dan2/src/doc:2775-2829,2832-3292
-/sandbox/discrim/src/doc:234-658
-/sandbox/karel/src/doc:270-1493,1522-1532
-/sandbox/korzinek/src/doc:2551-2594
-/sandbox/kws/src/doc:1533-1557
-/sandbox/language_id/src/doc:3523-3930,3933-4177
-/sandbox/nshmyrev/src/doc:3830-3854
-/sandbox/online/src/doc:3325-3423
-/sandbox/oplatek/src/doc:2513-2541
-/sandbox/pawel/src/doc:4013-4275
-/sandbox/pitch/src/doc:3126-3251
-/sandbox/sail/src/doc:3642-3712,3716-3797
-/sandbox/sharedlibs/src/doc:2585-2662
-/sandbox/tacc_kaldi/src/doc:3041-4251
-/sandbox/tanel/src/doc:2623-2658
-/sandbox/thang-project/src/doc:233-258
+K 10
+svn:ignore
+V 50
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
+
 END

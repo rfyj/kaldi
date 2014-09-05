@@ -1,9 +1,19 @@
 K 10
 svn:ignore
-V 62
+V 140
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 am-sgmm-test
 estimate-am-sgmm-test
 fmllr-sgmm-test
+estimate-am-sgmm-multi-test
 
 END

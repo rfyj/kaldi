@@ -1,37 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo
-END
-build_reference.py
-K 25
-svn:wc:ra_dav:version-url
-V 81
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/build_reference.py
-END
-path.sh
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/path.sh
-END
-__init__.py
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/__init__.py
-END
-run_online-latgen-recogniser.sh
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/run_online-latgen-recogniser.sh
-END
-run_gmm-latgen-faster.sh
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/run_gmm-latgen-faster.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/vystadial_cz/online_demo
 END
 display_gmm_latgen.sh
 K 25
@@ -86,4 +56,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 78
 /p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/.gdbinit_faster
+END
+build_reference.py
+K 25
+svn:wc:ra_dav:version-url
+V 81
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/build_reference.py
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/path.sh
+END
+__init__.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/__init__.py
+END
+run_online-latgen-recogniser.sh
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/run_online-latgen-recogniser.sh
+END
+run_gmm-latgen-faster.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/online_demo/run_gmm-latgen-faster.sh
 END

@@ -1,7 +1,175 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/4283/trunk/src/sgmmbin
+/p/kaldi/code/!svn/ver/4365/trunk/src/sgmmbin
+END
+sgmm-acc-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-acc-stats.cc
+END
+sgmm-rescore-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4361/trunk/src/sgmmbin/sgmm-rescore-lattice.cc
+END
+sgmm-acc-fmllrbasis-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 72
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-fmllrbasis-ali.cc
+END
+sgmm-est-fmllrbasis.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-fmllrbasis.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/3123/trunk/src/sgmmbin/Makefile
+END
+sgmm-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3424/trunk/src/sgmmbin/sgmm-est.cc
+END
+sgmm-info.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-info.cc
+END
+sgmm-build-tree.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4283/trunk/src/sgmmbin/sgmm-build-tree.cc
+END
+sgmm-init-from-tree-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4283/trunk/src/sgmmbin/sgmm-init-from-tree-stats.cc
+END
+sgmm-sum-tree-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3127/trunk/src/sgmmbin/sgmm-sum-tree-stats.cc
+END
+sgmm-comp-prexform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-comp-prexform.cc
+END
+sgmm-normalize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-normalize.cc
+END
+sgmm-est-spkvecs-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-spkvecs-gpost.cc
+END
+sgmm-latgen-simple.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3482/trunk/src/sgmmbin/sgmm-latgen-simple.cc
+END
+sgmm-est-fmllr.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-est-fmllr.cc
+END
+sgmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-decode-faster.cc
+END
+sgmm-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-sum-accs.cc
+END
+sgmm-write-ubm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-write-ubm.cc
+END
+sgmm-acc-stats-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-stats-gpost.cc
+END
+sgmm-acc-tree-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3127/trunk/src/sgmmbin/sgmm-acc-tree-stats.cc
+END
+init-ubm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/init-ubm.cc
+END
+sgmm-est-multi.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-multi.cc
+END
+sgmm-align-compiled.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-align-compiled.cc
+END
+sgmm-acc-stats-ali.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-stats-ali.cc
+END
+sgmm-gselect.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-gselect.cc
+END
+sgmm-latgen-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3482/trunk/src/sgmmbin/sgmm-latgen-faster.cc
+END
+sgmm-post-to-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-post-to-gpost.cc
+END
+sgmm-est-fmllr-gpost.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-fmllr-gpost.cc
 END
 sgmm-mixup.cc
 K 25
@@ -50,172 +218,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-calc-distances.cc
-END
-sgmm-acc-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-acc-stats.cc
-END
-sgmm-rescore-lattice.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/4276/trunk/src/sgmmbin/sgmm-rescore-lattice.cc
-END
-sgmm-acc-fmllrbasis-ali.cc
-K 25
-svn:wc:ra_dav:version-url
-V 72
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-fmllrbasis-ali.cc
-END
-sgmm-est-fmllrbasis.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-fmllrbasis.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3123/trunk/src/sgmmbin/Makefile
-END
-sgmm-est.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/3424/trunk/src/sgmmbin/sgmm-est.cc
-END
-sgmm-info.cc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-info.cc
-END
-sgmm-build-tree.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/4283/trunk/src/sgmmbin/sgmm-build-tree.cc
-END
-sgmm-sum-tree-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3127/trunk/src/sgmmbin/sgmm-sum-tree-stats.cc
-END
-sgmm-init-from-tree-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/4283/trunk/src/sgmmbin/sgmm-init-from-tree-stats.cc
-END
-sgmm-comp-prexform.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-comp-prexform.cc
-END
-sgmm-normalize.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-normalize.cc
-END
-sgmm-latgen-simple.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3482/trunk/src/sgmmbin/sgmm-latgen-simple.cc
-END
-sgmm-est-spkvecs-gpost.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-spkvecs-gpost.cc
-END
-sgmm-decode-faster.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-decode-faster.cc
-END
-sgmm-est-fmllr.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-est-fmllr.cc
-END
-sgmm-write-ubm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-write-ubm.cc
-END
-sgmm-sum-accs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-sum-accs.cc
-END
-sgmm-acc-stats-gpost.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-stats-gpost.cc
-END
-sgmm-acc-tree-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3127/trunk/src/sgmmbin/sgmm-acc-tree-stats.cc
-END
-sgmm-est-multi.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-multi.cc
-END
-init-ubm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/init-ubm.cc
-END
-sgmm-align-compiled.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-align-compiled.cc
-END
-sgmm-acc-stats-ali.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-acc-stats-ali.cc
-END
-sgmm-gselect.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-gselect.cc
-END
-sgmm-latgen-faster.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3482/trunk/src/sgmmbin/sgmm-latgen-faster.cc
-END
-sgmm-post-to-gpost.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3588/trunk/src/sgmmbin/sgmm-post-to-gpost.cc
-END
-sgmm-est-fmllr-gpost.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmmbin/sgmm-est-fmllr-gpost.cc
 END

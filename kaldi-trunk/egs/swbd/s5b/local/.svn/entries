@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/swbd/s5b/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-05T22:26:39.675230Z
-4256
-qipeng
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -26,16 +26,50 @@ qipeng
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-score_sclite.sh
+run_nnet2.sh
 file
 
 
 
 
 2014-05-30T02:46:06.000000Z
-7962d26d4a96c8d24c7bda435dd887ec
-2013-09-25T17:09:15.347253Z
-2990
+7d5964ceea74727dd58dfa05eb534ecb
+2014-04-15T18:59:39.068771Z
+3895
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+834
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+7d58b20ddee5b4624745c59f9232991a
+2013-01-11T19:38:43.844550Z
+1806
 danielpovey
 has-props
 
@@ -58,7 +92,115 @@ has-props
 
 
 
-4124
+1426
+
+online
+dir
+
+score_basic.sh
+file
+
+
+
+
+2014-09-05T08:33:22.000000Z
+cb4502bcc33c56ad1ee0c073dbe4f325
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2455
+
+run_resegment.sh
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+939ee398d5ff345bd1648bb164b60ee2
+2013-09-28T02:04:43.492810Z
+3004
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5894
+
+nnet2
+dir
+
+score_sclite.sh
+file
+
+
+
+
+2014-09-05T08:33:22.000000Z
+bcafedb09bba3296dfeec302f6f51726
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4118
 
 swbd1_fix_speakerid.pl
 file
@@ -100,11 +242,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-9ae850e7781597a539c45a0a2393b8ce
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
+2014-09-05T08:33:22.000000Z
+2a82d7e8abc43fb94cfa91a1d7b89a71
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -126,7 +268,7 @@ has-props
 
 
 
-2683
+2677
 
 remove_dup_utts.sh
 file
@@ -230,40 +372,6 @@ has-props
 
 4398
 
-fisher_map_words.pl
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-ac2a38d558e5c4e7861b9fe883eafada
-2013-02-07T15:37:17.850616Z
-1990
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2857
-
 swbd1_map_words.pl
 file
 
@@ -297,6 +405,40 @@ has-props
 
 
 1994
+
+fisher_map_words.pl
+file
+
+
+
+
+2014-05-30T02:46:06.000000Z
+ac2a38d558e5c4e7861b9fe883eafada
+2013-02-07T15:37:17.850616Z
+1990
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2857
 
 swbd1_data_prep.sh
 file
@@ -474,10 +616,10 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-5978ced30231831a89a959c065a7c2a0
-2014-03-18T05:25:03.758075Z
-3777
+2014-09-05T08:33:22.000000Z
+869b244b2d190513419d07c5f330eb67
+2014-08-31T23:05:13.757039Z
+4362
 danielpovey
 has-props
 
@@ -500,41 +642,7 @@ has-props
 
 
 
-4249
-
-run_sgmm2.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-ff78405ae5a38db3929fb9e806062244
-2013-04-11T16:02:40.992944Z
-2348
-bbabaali
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2075
+4387
 
 run_raw_fmllr.sh
 file
@@ -570,51 +678,17 @@ has-props
 
 1310
 
-run_nnet2.sh
+run_sgmm2.sh
 file
 
 
 
 
 2014-05-30T02:46:06.000000Z
-7d5964ceea74727dd58dfa05eb534ecb
-2014-04-15T18:59:39.068771Z
-3895
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-834
-
-score.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-7d58b20ddee5b4624745c59f9232991a
-2013-01-11T19:38:43.844550Z
-1806
-danielpovey
+ff78405ae5a38db3929fb9e806062244
+2013-04-11T16:02:40.992944Z
+2348
+bbabaali
 has-props
 
 
@@ -636,76 +710,5 @@ has-props
 
 
 
-1426
-
-score_basic.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-0d7fa6d84ce83a2a208be7b348d444e4
-2013-01-11T19:38:43.844550Z
-1806
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2461
-
-nnet2
-dir
-
-run_resegment.sh
-file
-
-
-
-
-2014-05-30T02:46:06.000000Z
-939ee398d5ff345bd1648bb164b60ee2
-2013-09-28T02:04:43.492810Z
-3004
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5894
+2075
 

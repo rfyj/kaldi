@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/4274/trunk/egs/wsj/s5/utils/nnet-cpu
+/p/kaldi/code/!svn/ver/4365/trunk/egs/wsj/s5/utils/nnet-cpu
+END
+make_nnet_config_preconditioned.pl
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/p/kaldi/code/!svn/ver/3035/trunk/egs/wsj/s5/utils/nnet-cpu/make_nnet_config_preconditioned.pl
 END
 update_learning_rates.pl
 K 25
@@ -20,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 79
 /p/kaldi/code/!svn/ver/3035/trunk/egs/wsj/s5/utils/nnet-cpu/make_nnet_config.pl
-END
-make_nnet_config_preconditioned.pl
-K 25
-svn:wc:ra_dav:version-url
-V 94
-/p/kaldi/code/!svn/ver/3035/trunk/egs/wsj/s5/utils/nnet-cpu/make_nnet_config_preconditioned.pl
 END

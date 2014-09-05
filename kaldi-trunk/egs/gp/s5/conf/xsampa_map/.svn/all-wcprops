@@ -1,7 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map
+/p/kaldi/code/!svn/ver/4365/trunk/egs/gp/s5/conf/xsampa_map
+END
+Portuguese
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/Portuguese
+END
+French
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/French
+END
+Spanish
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/Spanish
 END
 Sampa_to_Sampa2.awk
 K 25
@@ -32,22 +50,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 73
 /p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/v1_to_v12.txt
-END
-Portuguese
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/Portuguese
-END
-French
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/French
-END
-Spanish
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/1432/trunk/egs/gp/s5/conf/xsampa_map/Spanish
 END

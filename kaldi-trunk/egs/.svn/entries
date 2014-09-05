@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-18T17:31:49.195702Z
-4324
-danielpovey
-
+2014-09-03T21:50:49.564226Z
+4373
+ilyaedrenkin
+has-props
 
 
 
@@ -25,6 +25,66 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+tidigits
+dir
+
+vystadial_en
+dir
+
+lre
+dir
+
+callhome_egyptian
+dir
+
+timit
+dir
+
+chime_wsj0
+dir
+
+fisher_english
+dir
+
+vystadial_cz
+dir
+
+yesno
+dir
+
+hkust
+dir
+
+sprakbanken
+dir
+
+swbd
+dir
+
+voxforge
+dir
+
+fisher_swbd
+dir
+
+sre08
+dir
+
+wsj
+dir
+
+tedlium
+dir
+
+babel
+dir
+
+gp
+dir
+
+ami
+dir
 
 gale_arabic
 dir
@@ -67,62 +127,5 @@ aurora4
 dir
 
 rm
-dir
-
-tidigits
-dir
-
-vystadial_en
-dir
-
-lre
-dir
-
-callhome_egyptian
-dir
-
-timit
-dir
-
-chime_wsj0
-dir
-
-fisher_english
-dir
-
-vystadial_cz
-dir
-
-yesno
-dir
-
-hkust
-dir
-
-voxforge
-dir
-
-swbd
-dir
-
-sprakbanken
-dir
-
-sre08
-dir
-
-wsj
-dir
-
-tedlium
-dir
-
-babel
-dir
-
-gp
-dir
-
-ami
 dir
 

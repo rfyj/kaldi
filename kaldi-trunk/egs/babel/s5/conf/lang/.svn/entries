@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5/conf/lang
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-11T18:39:46.616498Z
-3298
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -25,142 +25,6 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-107-vietnamese-fullLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-26646a80de424e92596e294a7d22d3d9
-2013-09-10T20:23:11.005488Z
-2944
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3315
-
-106-tagalog-limitedLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-5fd27311b54a8ef9ed423a402da7766f
-2013-11-16T00:12:07.094110Z
-3163
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2986
-
-102-assamese-limitedLP.ffv+pitch.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-3032160265104b6ab03c453c9386ab51
-2013-12-03T23:32:37.999335Z
-3257
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2321
-
-107-vietnamese-limitedLP.ffv.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-98e4217bbbff6ac1395d5ebfdbeb74bc
-2013-09-10T20:23:11.005488Z
-2944
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3347
 
 201-haitian-fullLP.official.conf
 file
@@ -434,40 +298,6 @@ jtrmal
 
 3917
 
-107-vietnamese-limitedLP.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-a36da8ab478660203bf5b503bdd3fddc
-2013-09-10T20:23:11.005488Z
-2944
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3333
-
 106-tagalog-limitedLP.ffv+pitch.official.conf
 file
 
@@ -501,6 +331,40 @@ jtrmal
 
 
 3014
+
+107-vietnamese-limitedLP.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+a36da8ab478660203bf5b503bdd3fddc
+2013-09-10T20:23:11.005488Z
+2944
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3333
 
 104-pashto-limitedLP.pitch.official.conf
 file
@@ -604,40 +468,6 @@ jtrmal
 
 3916
 
-201-haitian-fullLP.ffv+pitch.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-d69a01359bdd594a6006896c91333fd4
-2013-12-03T23:32:37.999335Z
-3257
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3082
-
 104-pashto-fullLP.official.conf
 file
 
@@ -672,17 +502,17 @@ jtrmal
 
 3572
 
-105-turkish-fullLP.releaseA.conf
+201-haitian-fullLP.ffv+pitch.official.conf
 file
 
 
 
 
 2014-05-30T02:46:12.000000Z
-b684ef8a25b74d0adaca92996d521add
-2013-03-28T19:15:49.314704Z
-2284
-danielpovey
+d69a01359bdd594a6006896c91333fd4
+2013-12-03T23:32:37.999335Z
+3257
+jtrmal
 
 
 
@@ -704,7 +534,7 @@ danielpovey
 
 
 
-1706
+3082
 
 102-assamese-fullLP.official.conf
 file
@@ -740,17 +570,17 @@ jtrmal
 
 2305
 
-201-haitian-limitedLP.official.conf
+105-turkish-fullLP.releaseA.conf
 file
 
 
 
 
 2014-05-30T02:46:12.000000Z
-f4136ccde474397446a4f411f5193f98
-2013-10-23T21:53:33.072949Z
-3110
-jtrmal
+b684ef8a25b74d0adaca92996d521add
+2013-03-28T19:15:49.314704Z
+2284
+danielpovey
 
 
 
@@ -772,7 +602,7 @@ jtrmal
 
 
 
-2414
+1706
 
 103-bengali-fullLP.official.conf
 file
@@ -807,6 +637,40 @@ jtrmal
 
 
 2297
+
+201-haitian-limitedLP.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+f4136ccde474397446a4f411f5193f98
+2013-10-23T21:53:33.072949Z
+3110
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2414
 
 206-zulu-fullLP.official.conf
 file
@@ -910,40 +774,6 @@ jtrmal
 
 2304
 
-201-haitian-limitedLP.pitch.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-5a1fd31ae414e3885fcc6f931a94ee5b
-2013-12-03T23:32:37.999335Z
-3257
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3304
-
 103-bengali-fullLP.pitch.official.conf
 file
 
@@ -977,6 +807,40 @@ jtrmal
 
 
 2296
+
+201-haitian-limitedLP.pitch.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+5a1fd31ae414e3885fcc6f931a94ee5b
+2013-12-03T23:32:37.999335Z
+3257
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3304
 
 103-bengali-limitedLP.ffv+pitch.official.conf
 file
@@ -1284,40 +1148,6 @@ jtrmal
 
 3546
 
-102-assamese-limitedLP.pitch.official.conf
-file
-
-
-
-
-2014-05-30T02:46:12.000000Z
-2a06ba93c797059d1cd5089bfc1a9482
-2013-12-03T23:32:37.999335Z
-3257
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2322
-
 105-turkish-fullLP.official.conf
 file
 
@@ -1352,6 +1182,40 @@ jtrmal
 
 2947
 
+102-assamese-limitedLP.pitch.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+2a06ba93c797059d1cd5089bfc1a9482
+2013-12-03T23:32:37.999335Z
+3257
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2322
+
 101-cantonese-limitedLP.official.conf
 file
 
@@ -1385,4 +1249,140 @@ jtrmal
 
 
 4405
+
+107-vietnamese-fullLP.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+26646a80de424e92596e294a7d22d3d9
+2013-09-10T20:23:11.005488Z
+2944
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3315
+
+106-tagalog-limitedLP.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+5fd27311b54a8ef9ed423a402da7766f
+2013-11-16T00:12:07.094110Z
+3163
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2986
+
+102-assamese-limitedLP.ffv+pitch.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+3032160265104b6ab03c453c9386ab51
+2013-12-03T23:32:37.999335Z
+3257
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2321
+
+107-vietnamese-limitedLP.ffv.official.conf
+file
+
+
+
+
+2014-05-30T02:46:12.000000Z
+98e4217bbbff6ac1395d5ebfdbeb74bc
+2013-09-10T20:23:11.005488Z
+2944
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3347
 

@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/4323/trunk/egs/wsj/s5/utils/nnet
-END
-gen_dct_mat.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3256/trunk/egs/wsj/s5/utils/nnet/gen_dct_mat.py
-END
-gen_mlp_init.py
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3256/trunk/egs/wsj/s5/utils/nnet/gen_mlp_init.py
-END
-make_nnet_proto.py
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/4323/trunk/egs/wsj/s5/utils/nnet/make_nnet_proto.py
+/p/kaldi/code/!svn/ver/4365/trunk/egs/wsj/s5/utils/nnet
 END
 gen_splice.py
 K 25
@@ -56,4 +38,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 73
 /p/kaldi/code/!svn/ver/4100/trunk/egs/wsj/s5/utils/nnet/make_cnn_proto.py
+END
+gen_dct_mat.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3256/trunk/egs/wsj/s5/utils/nnet/gen_dct_mat.py
+END
+gen_mlp_init.py
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3256/trunk/egs/wsj/s5/utils/nnet/gen_mlp_init.py
+END
+make_nnet_proto.py
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4323/trunk/egs/wsj/s5/utils/nnet/make_nnet_proto.py
 END

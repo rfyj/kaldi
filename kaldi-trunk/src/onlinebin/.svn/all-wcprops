@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 47
-/p/kaldi/code/!svn/ver/4061/trunk/src/onlinebin
+/p/kaldi/code/!svn/ver/4365/trunk/src/onlinebin
+END
+online-gmm-decode-faster.cc
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/3240/trunk/src/onlinebin/online-gmm-decode-faster.cc
 END
 Makefile
 K 25
@@ -38,10 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/2988/trunk/src/onlinebin/online-net-client.cc
-END
-online-gmm-decode-faster.cc
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/3240/trunk/src/onlinebin/online-gmm-decode-faster.cc
 END

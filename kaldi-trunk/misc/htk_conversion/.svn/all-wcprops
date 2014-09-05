@@ -1,25 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/961/trunk/misc/htk_conversion
-END
-README
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/961/trunk/misc/htk_conversion/README
-END
-convert_states.pl
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/961/trunk/misc/htk_conversion/convert_states.pl
-END
-get_hmm_states.pl
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2/trunk/misc/htk_conversion/get_hmm_states.pl
+V 53
+/p/kaldi/code/!svn/ver/4365/trunk/misc/htk_conversion
 END
 convert_htk.sh
 K 25
@@ -68,4 +50,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/58/trunk/misc/htk_conversion/tree_convert.pl
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/961/trunk/misc/htk_conversion/README
+END
+convert_states.pl
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/961/trunk/misc/htk_conversion/convert_states.pl
+END
+get_hmm_states.pl
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2/trunk/misc/htk_conversion/get_hmm_states.pl
 END

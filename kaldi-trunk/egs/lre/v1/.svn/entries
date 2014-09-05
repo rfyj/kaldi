@@ -1,47 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-07-22T17:43:34.975948Z
-4193
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-lid
-dir
-
-local
-dir
-
-run_logistic_regression.sh
-file
-
-
-
-
-2014-06-04T13:26:49.000000Z
-1d5ed17aaee2b39f49144311649b4cf1
-2014-06-01T18:05:22.357245Z
-4033
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -57,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-3610
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 cmd.sh
 file
@@ -272,4 +232,44 @@ has-props
 
 
 440
+
+lid
+dir
+
+local
+dir
+
+run_logistic_regression.sh
+file
+
+
+
+
+2014-06-04T13:26:49.000000Z
+1d5ed17aaee2b39f49144311649b4cf1
+2014-06-01T18:05:22.357245Z
+4033
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3610
 

@@ -1,6 +1,23 @@
+K 10
+svn:ignore
+V 68
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
+mfcc
+plp
+exp
+data
+
 K 13
 svn:mergeinfo
-V 1055
+V 1095
 /sandbox/akirkedal/egs/babel/s5b:3806-4273
 /sandbox/dan/egs/babel/s5b:1504-1801
 /sandbox/dan/egs/wsj/s5:1504-1801
@@ -14,6 +31,7 @@ V 1055
 /sandbox/kws/egs/wsj/s5:1533-1557
 /sandbox/language_id/egs/babel/s5b:3523-3930,3933-4177
 /sandbox/nshmyrev/egs/babel/s5b:3830-3854
+/sandbox/online/egs/babel/s5b:3325-4359
 /sandbox/oplatek/egs/babel/s5b:2513-2541
 /sandbox/pawel/egs/babel/s5b:4013-4275
 /sandbox/pitch/egs/babel/s5b:3126-3203

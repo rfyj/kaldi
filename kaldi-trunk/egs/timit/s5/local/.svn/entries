@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-18T16:55:50.596951Z
-4323
-vesis84
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -32,11 +32,11 @@ file
 
 
 
-2014-08-20T05:47:59.000000Z
-0232a222d334c72ee577e2da8190b02e
-2014-07-02T11:20:57.195480Z
-4101
-vesis84
+2014-09-05T08:33:20.000000Z
+5b757161d583fb165e78a4eeceadb10e
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -58,7 +58,7 @@ has-props
 
 
 
-4326
+4320
 
 timit_format_data.sh
 file
@@ -236,11 +236,11 @@ file
 
 
 
-2014-08-20T05:47:59.000000Z
-73a6f53b0f15988f0b08581fc43b385b
-2014-08-18T16:55:50.596951Z
-4323
-vesis84
+2014-09-05T08:33:20.000000Z
+3e6c9400d026b7022da3aff46bf412a2
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -262,7 +262,7 @@ has-props
 
 
 
-2787
+2781
 
 run_dnn.sh
 file

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4320/trunk/src/matrix
-END
-matrix-common.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/matrix-common.h
+/p/kaldi/code/!svn/ver/4369/trunk/src/matrix
 END
 jama-svd.h
 K 25
@@ -79,25 +73,7 @@ matrix-lib-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/4292/trunk/src/matrix/matrix-lib-test.cc
-END
-optimization.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4283/trunk/src/matrix/optimization.cc
-END
-kaldi-matrix.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4292/trunk/src/matrix/kaldi-matrix.cc
-END
-srfft.h
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/4128/trunk/src/matrix/srfft.h
+/p/kaldi/code/!svn/ver/4369/trunk/src/matrix/matrix-lib-test.cc
 END
 sp-matrix.h
 K 25
@@ -105,17 +81,35 @@ svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/4292/trunk/src/matrix/sp-matrix.h
 END
-tp-matrix.h
+srfft.h
 K 25
 svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/4046/trunk/src/matrix/tp-matrix.h
+V 52
+/p/kaldi/code/!svn/ver/4128/trunk/src/matrix/srfft.h
+END
+optimization.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4361/trunk/src/matrix/optimization.cc
+END
+kaldi-matrix.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4292/trunk/src/matrix/kaldi-matrix.cc
 END
 cblas-wrappers.h
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/4111/trunk/src/matrix/cblas-wrappers.h
+END
+tp-matrix.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/4046/trunk/src/matrix/tp-matrix.h
 END
 packed-matrix.cc
 K 25
@@ -153,23 +147,17 @@ svn:wc:ra_dav:version-url
 V 57
 /p/kaldi/code/!svn/ver/2988/trunk/src/matrix/kaldi-blas.h
 END
-sp-matrix-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/sp-matrix-inl.h
-END
 compressed-matrix.cc
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/4320/trunk/src/matrix/compressed-matrix.cc
 END
-matrix-lib.h
+sp-matrix-inl.h
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/matrix-lib.h
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/sp-matrix-inl.h
 END
 matrix-functions.cc
 K 25
@@ -177,17 +165,23 @@ svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/3355/trunk/src/matrix/matrix-functions.cc
 END
-srfft.cc
+matrix-lib.h
 K 25
 svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/4128/trunk/src/matrix/srfft.cc
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/matrix/matrix-lib.h
 END
 sp-matrix.cc
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /p/kaldi/code/!svn/ver/4077/trunk/src/matrix/sp-matrix.cc
+END
+srfft.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/4128/trunk/src/matrix/srfft.cc
 END
 kaldi-vector.h
 K 25
@@ -205,11 +199,17 @@ optimization.h
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/4146/trunk/src/matrix/optimization.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/matrix/optimization.h
 END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 53
 /p/kaldi/code/!svn/ver/2664/trunk/src/matrix/Makefile
+END
+matrix-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3194/trunk/src/matrix/matrix-common.h
 END

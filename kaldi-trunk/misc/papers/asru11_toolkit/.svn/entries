@@ -1,14 +1,41 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/misc/papers/asru11_toolkit
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2012-02-02T06:32:39.837089Z
-711
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+IEEEtran.bst
+file
+
+
+
+
+2014-05-30T02:46:02.000000Z
+bc5380b3434a66b895bbc75d3d380540
+2011-12-06T21:08:40.861203Z
+641
 danielpovey
 
 
@@ -24,7 +51,48 @@ danielpovey
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+59215
+
+kaldi_asru.pdf
+file
+
+
+
+
+2014-05-30T02:46:02.000000Z
+9e71b55b6e0ccc99debeff8180c5e224
+2012-02-02T06:32:39.837089Z
+711
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+136133
 
 figs
 dir
@@ -164,72 +232,4 @@ danielpovey
 
 
 45667
-
-IEEEtran.bst
-file
-
-
-
-
-2014-05-30T02:46:02.000000Z
-bc5380b3434a66b895bbc75d3d380540
-2011-12-06T21:08:40.861203Z
-641
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59215
-
-kaldi_asru.pdf
-file
-
-
-
-
-2014-05-30T02:46:02.000000Z
-9e71b55b6e0ccc99debeff8180c5e224
-2012-02-02T06:32:39.837089Z
-711
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-136133
 

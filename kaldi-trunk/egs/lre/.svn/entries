@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-07-22T17:43:34.975948Z
-4193
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -25,6 +25,9 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+v1
+dir
 
 README.txt
 file
@@ -59,7 +62,4 @@ david-snyder
 
 
 436
-
-v1
-dir
 

@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 51
-/p/kaldi/code/!svn/ver/3998/trunk/egs/chime_wsj0/s5
-END
-utils
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/3342/trunk/egs/chime_wsj0/s5/utils
+/p/kaldi/code/!svn/ver/4365/trunk/egs/chime_wsj0/s5
 END
 path.sh
 K 25
@@ -32,4 +26,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 57
 /p/kaldi/code/!svn/ver/3294/trunk/egs/chime_wsj0/s5/steps
+END
+utils
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3342/trunk/egs/chime_wsj0/s5/utils
 END

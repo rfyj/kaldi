@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gale_arabic/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-05-18T15:06:55.285599Z
-3998
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -26,156 +26,14 @@ danielpovey
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-RESULTS
+utils
 file
 
 
 
 
 2014-05-30T02:46:16.000000Z
-0b28a927406040930429261ca965e8bc
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5390
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-2b5c11b97fb212a769b50f413baa8fd7
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-328
-
-local
-dir
-
-cmd.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-315bb0dc71b924214356a0a570a06cc4
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-404
-
-run.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-a21cfb554d3d64c8eba28288234d05b2
-2014-04-07T20:40:24.438887Z
-3856
-ahmaksod1
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8571
-
-steps
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-93b9cae42ae254575e989d6c3bd80da9
+c2173050fe4ddbe9ed68d67ae09296e2
 2014-04-07T20:40:24.438887Z
 3856
 ahmaksod1
@@ -202,14 +60,156 @@ svn:special
 
 19
 
-utils
+RESULTS
+file
+
+
+
+
+2014-09-05T08:33:34.000000Z
+a745c44c61ff324b84feee6dfefb8a89
+2014-08-26T19:32:22.160150Z
+4345
+ahmaksod1
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8270
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-09-05T08:33:34.000000Z
+5b6ee0db15edb4a287a24ebe1eb23168
+2014-08-26T19:23:44.242430Z
+4343
+ahmaksod1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+401
+
+local
+dir
+
+cmd.sh
+file
+
+
+
+
+2014-09-05T08:33:34.000000Z
+015cb80ac4647553a5482d42cf45abb0
+2014-08-26T19:29:38.861755Z
+4344
+ahmaksod1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+377
+
+run.sh
+file
+
+
+
+
+2014-09-05T08:33:34.000000Z
+06b9377c25b7816ca11a0f9b5fef3903
+2014-08-26T19:40:43.339979Z
+4347
+ahmaksod1
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9944
+
+steps
 file
 
 
 
 
 2014-05-30T02:46:16.000000Z
-c2173050fe4ddbe9ed68d67ae09296e2
+93b9cae42ae254575e989d6c3bd80da9
 2014-04-07T20:40:24.438887Z
 3856
 ahmaksod1

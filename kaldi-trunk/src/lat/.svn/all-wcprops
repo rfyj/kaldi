@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/p/kaldi/code/!svn/ver/4292/trunk/src/lat
+/p/kaldi/code/!svn/ver/4369/trunk/src/lat
 END
 kaldi-lattice.h
 K 25
@@ -9,17 +9,17 @@ svn:wc:ra_dav:version-url
 V 57
 /p/kaldi/code/!svn/ver/3161/trunk/src/lat/kaldi-lattice.h
 END
-determinize-lattice-pruned-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/4292/trunk/src/lat/determinize-lattice-pruned-test.cc
-END
 kws-functions.cc
 K 25
 svn:wc:ra_dav:version-url
 V 58
 /p/kaldi/code/!svn/ver/3709/trunk/src/lat/kws-functions.cc
+END
+determinize-lattice-pruned-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/determinize-lattice-pruned-test.cc
 END
 sausages.cc
 K 25
@@ -51,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/4292/trunk/src/lat/minimize-lattice-test.cc
 END
-kaldi-lattice-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/4292/trunk/src/lat/kaldi-lattice-test.cc
-END
 phone-align-lattice.cc
 K 25
 svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/2988/trunk/src/lat/phone-align-lattice.cc
+END
+kaldi-lattice-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4369/trunk/src/lat/kaldi-lattice-test.cc
 END
 word-align-lattice-lexicon.cc
 K 25
@@ -69,17 +69,17 @@ svn:wc:ra_dav:version-url
 V 71
 /p/kaldi/code/!svn/ver/4292/trunk/src/lat/word-align-lattice-lexicon.cc
 END
+word-align-lattice.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/word-align-lattice.cc
+END
 phone-align-lattice.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/2988/trunk/src/lat/phone-align-lattice.h
-END
-word-align-lattice.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/4292/trunk/src/lat/word-align-lattice.cc
 END
 word-align-lattice-lexicon.h
 K 25
@@ -103,13 +103,13 @@ Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/p/kaldi/code/!svn/ver/3123/trunk/src/lat/Makefile
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/Makefile
 END
 lattice-functions.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/4292/trunk/src/lat/lattice-functions.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/lattice-functions.cc
 END
 arctic-weight.h
 K 25
@@ -121,19 +121,31 @@ lattice-functions.h
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/p/kaldi/code/!svn/ver/4089/trunk/src/lat/lattice-functions.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/lattice-functions.h
 END
 determinize-lattice-pruned.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/4283/trunk/src/lat/determinize-lattice-pruned.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/determinize-lattice-pruned.cc
+END
+confidence.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/confidence.cc
 END
 determinize-lattice-pruned.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/3849/trunk/src/lat/determinize-lattice-pruned.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/determinize-lattice-pruned.h
+END
+confidence.h
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4361/trunk/src/lat/confidence.h
 END
 push-lattice.cc
 K 25

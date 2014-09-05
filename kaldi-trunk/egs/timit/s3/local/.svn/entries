@@ -1,42 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s3/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-03T16:02:28.382189Z
-3246
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-get_word_map.pl
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-96febf1049e0d0845a0447b746b6e84d
-2012-02-22T19:35:42.451278Z
-780
-ndjaitly
 has-props
 
 
@@ -51,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-1926
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 export_log_fbanks_to_htk.sh
 file
@@ -263,4 +229,38 @@ has-props
 
 
 5253
+
+get_word_map.pl
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+96febf1049e0d0845a0447b746b6e84d
+2012-02-22T19:35:42.451278Z
+780
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1926
 

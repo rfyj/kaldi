@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 162
+V 227
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 regtree-mllr-diag-gmm-test
 regtree-fmllr-diag-gmm-test
@@ -9,5 +18,6 @@ regression-tree-test
 fmllr-diag-gmm-test
 exponential-transform-test
 fmpe-test
+fmllr-raw-test
 
 END

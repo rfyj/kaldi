@@ -1,19 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4292/trunk/src/online
-END
-online-decodable.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3713/trunk/src/online/online-decodable.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/online
 END
 online-decodable.h
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-decodable.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/online/online-decodable.h
 END
 online-tcp-source.cc
 K 25
@@ -43,7 +37,7 @@ online-faster-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/online/online-faster-decoder.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/online/online-faster-decoder.cc
 END
 onlinebin-util.h
 K 25
@@ -86,4 +80,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/2988/trunk/src/online/online-audio-source.h
+END
+online-decodable.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4361/trunk/src/online/online-decodable.cc
 END

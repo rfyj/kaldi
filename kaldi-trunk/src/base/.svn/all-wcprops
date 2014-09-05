@@ -1,49 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/p/kaldi/code/!svn/ver/4325/trunk/src/base
-END
-io-funcs-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/4292/trunk/src/base/io-funcs-test.cc
-END
-io-funcs-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/3377/trunk/src/base/io-funcs-inl.h
-END
-kaldi-error.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/3298/trunk/src/base/kaldi-error.cc
-END
-kaldi-math.cc
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/4297/trunk/src/base/kaldi-math.cc
-END
-kaldi-common.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/base/kaldi-common.h
-END
-kaldi-error.h
-K 25
-svn:wc:ra_dav:version-url
-V 56
-/p/kaldi/code/!svn/ver/2988/trunk/src/base/kaldi-error.h
-END
-kaldi-math.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/4325/trunk/src/base/kaldi-math.h
+/p/kaldi/code/!svn/ver/4366/trunk/src/base
 END
 kaldi-utils.cc
 K 25
@@ -61,7 +19,7 @@ kaldi-utils.h
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/p/kaldi/code/!svn/ver/4009/trunk/src/base/kaldi-utils.h
+/p/kaldi/code/!svn/ver/4366/trunk/src/base/kaldi-utils.h
 END
 io-funcs.h
 K 25
@@ -69,27 +27,69 @@ svn:wc:ra_dav:version-url
 V 53
 /p/kaldi/code/!svn/ver/2988/trunk/src/base/io-funcs.h
 END
-kaldi-error-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/3377/trunk/src/base/kaldi-error-test.cc
-END
-kaldi-math-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/4297/trunk/src/base/kaldi-math-test.cc
-END
 kaldi-types.h
 K 25
 svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/3898/trunk/src/base/kaldi-types.h
 END
+kaldi-math-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4361/trunk/src/base/kaldi-math-test.cc
+END
+kaldi-error-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/3377/trunk/src/base/kaldi-error-test.cc
+END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /p/kaldi/code/!svn/ver/2664/trunk/src/base/Makefile
+END
+io-funcs-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4365/trunk/src/base/io-funcs-test.cc
+END
+io-funcs-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3377/trunk/src/base/io-funcs-inl.h
+END
+kaldi-math.cc
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/4297/trunk/src/base/kaldi-math.cc
+END
+kaldi-error.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/3298/trunk/src/base/kaldi-error.cc
+END
+kaldi-common.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/base/kaldi-common.h
+END
+kaldi-math.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4361/trunk/src/base/kaldi-math.h
+END
+kaldi-error.h
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/p/kaldi/code/!svn/ver/2988/trunk/src/base/kaldi-error.h
 END

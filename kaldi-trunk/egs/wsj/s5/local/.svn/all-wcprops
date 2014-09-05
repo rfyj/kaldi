@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local
-END
-run_vtln2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/local/run_vtln2.sh
-END
-run_bnf.sh
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/4037/trunk/egs/wsj/s5/local/run_bnf.sh
+/p/kaldi/code/!svn/ver/4373/trunk/egs/wsj/s5/local
 END
 run_kl_hmm.sh
 K 25
@@ -93,11 +81,11 @@ svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/4035/trunk/egs/wsj/s5/local/run_bnf_sgmm.sh
 END
-cstr_wsj_data_prep.sh
+wsj_extend_dict.sh
 K 25
 svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/971/trunk/egs/wsj/s5/local/cstr_wsj_data_prep.sh
+V 69
+/p/kaldi/code/!svn/ver/2434/trunk/egs/wsj/s5/local/wsj_extend_dict.sh
 END
 find_transcripts.pl
 K 25
@@ -105,11 +93,11 @@ svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/854/trunk/egs/wsj/s5/local/find_transcripts.pl
 END
-wsj_extend_dict.sh
+cstr_wsj_data_prep.sh
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2434/trunk/egs/wsj/s5/local/wsj_extend_dict.sh
+V 71
+/p/kaldi/code/!svn/ver/971/trunk/egs/wsj/s5/local/cstr_wsj_data_prep.sh
 END
 run_gender_dep.sh
 K 25
@@ -141,17 +129,17 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/3122/trunk/egs/wsj/s5/local/run_sgmm.sh
 END
-generate_example_kws.sh
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/1558/trunk/egs/wsj/s5/local/generate_example_kws.sh
-END
 wsj_train_rnnlms.sh
 K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local/wsj_train_rnnlms.sh
+END
+generate_example_kws.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/1558/trunk/egs/wsj/s5/local/generate_example_kws.sh
 END
 wsj_format_data.sh
 K 25
@@ -165,29 +153,29 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/local/run_vtln.sh
 END
-run_mmi_tri2b.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/1044/trunk/egs/wsj/s5/local/run_mmi_tri2b.sh
-END
 cstr_wsj_extend_dict.sh
 K 25
 svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/1012/trunk/egs/wsj/s5/local/cstr_wsj_extend_dict.sh
 END
-run_raw_fmllr.sh
+run_mmi_tri2b.sh
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/p/kaldi/code/!svn/ver/2830/trunk/egs/wsj/s5/local/run_raw_fmllr.sh
+/p/kaldi/code/!svn/ver/1044/trunk/egs/wsj/s5/local/run_mmi_tri2b.sh
 END
 run_sgmm2.sh
 K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3567/trunk/egs/wsj/s5/local/run_sgmm2.sh
+END
+run_raw_fmllr.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/2830/trunk/egs/wsj/s5/local/run_raw_fmllr.sh
 END
 run_mmi_tri4b.sh
 K 25
@@ -223,5 +211,17 @@ run_rnnlm-hs_tri3b.sh
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/4305/trunk/egs/wsj/s5/local/run_rnnlm-hs_tri3b.sh
+/p/kaldi/code/!svn/ver/4373/trunk/egs/wsj/s5/local/run_rnnlm-hs_tri3b.sh
+END
+run_vtln2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/local/run_vtln2.sh
+END
+run_bnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4037/trunk/egs/wsj/s5/local/run_bnf.sh
 END

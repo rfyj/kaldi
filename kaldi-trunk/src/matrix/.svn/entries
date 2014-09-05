@@ -1,15 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/matrix
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-16T23:29:18.891371Z
-4320
-danielpovey
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
 has-props
 
 
@@ -168,10 +168,10 @@ file
 
 
 
-2014-08-20T05:47:38.000000Z
-fbfeaec9ca43cde6747d815976eac64b
-2014-07-13T21:17:09.966594Z
-4146
+2014-09-05T08:33:01.000000Z
+eb266250dc277984dd4075c16b406346
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -194,7 +194,7 @@ danielpovey
 
 
 
-10089
+10086
 
 Makefile
 file
@@ -332,40 +332,6 @@ danielpovey
 
 1757
 
-kaldi-matrix-inl.h
-file
-
-
-
-
-2014-05-30T02:45:54.000000Z
-e03b2b8d333da3395aed471825e7ee16
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1780
-
 compressed-matrix.h
 file
 
@@ -400,17 +366,17 @@ vesis84
 
 5772
 
-kaldi-gpsr-test.cc
+kaldi-matrix-inl.h
 file
 
 
 
 
-2014-08-20T05:47:38.000000Z
-ac86f96b2f7d8989fd4a6fbe0be281df
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-05-30T02:45:54.000000Z
+e03b2b8d333da3395aed471825e7ee16
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
 
 
 
@@ -432,7 +398,7 @@ ahhentz
 
 
 
-3372
+1780
 
 Matrix.vcxproj
 file
@@ -468,17 +434,17 @@ has-props
 
 7906
 
-jama-eig.h
+kaldi-gpsr-test.cc
 file
 
 
 
 
-2014-05-30T02:45:54.000000Z
-b6c02d8c4c48711d2d8799eb2029b48d
-2013-11-21T21:24:54.068751Z
-3194
-vesis84
+2014-08-20T05:47:38.000000Z
+ac86f96b2f7d8989fd4a6fbe0be281df
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -500,7 +466,7 @@ vesis84
 
 
 
-23118
+3372
 
 matrix-functions.h
 file
@@ -535,6 +501,40 @@ danielpovey
 
 
 10239
+
+jama-eig.h
+file
+
+
+
+
+2014-05-30T02:45:54.000000Z
+b6c02d8c4c48711d2d8799eb2029b48d
+2013-11-21T21:24:54.068751Z
+3194
+vesis84
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23118
 
 qr.cc
 file
@@ -644,11 +644,11 @@ file
 
 
 
-2014-08-20T05:47:38.000000Z
-2d6d32caebc46941d4e2bd7ff36ab7c3
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-09-05T08:33:01.000000Z
+64a3e1bf19d303e88e84f66c32341e49
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
 
 
 
@@ -670,7 +670,7 @@ ahhentz
 
 
 
-132905
+132942
 
 sp-matrix.h
 file
@@ -712,10 +712,10 @@ file
 
 
 
-2014-08-20T05:47:38.000000Z
-dad6a7ffaf56a7f690be3c695d9ce65f
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-05T08:33:01.000000Z
+4ad35e90abc2d9e95b10677a4832914a
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -738,7 +738,7 @@ danielpovey
 
 
 
-20680
+20756
 
 kaldi-matrix.cc
 file

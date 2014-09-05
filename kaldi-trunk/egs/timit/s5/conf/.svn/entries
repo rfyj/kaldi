@@ -1,12 +1,73 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+dev_spk.list
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+2c79d5365d19780fcfd7a3f47e2cacae
+2013-04-02T00:35:25.631910Z
+2295
+bbabaali
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+300
+
+fbank.conf
+file
+
+
+
+
+2014-08-20T05:47:58.000000Z
+e0ee20adf1b45816253f62aed809a2e9
 2014-07-18T11:13:12.439418Z
 4166
 vesis84
@@ -24,7 +85,14 @@ vesis84
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+59
 
 test_spk.list
 file
@@ -127,72 +195,4 @@ bbabaali
 
 
 515
-
-dev_spk.list
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-2c79d5365d19780fcfd7a3f47e2cacae
-2013-04-02T00:35:25.631910Z
-2295
-bbabaali
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-300
-
-fbank.conf
-file
-
-
-
-
-2014-08-20T05:47:58.000000Z
-e0ee20adf1b45816253f62aed809a2e9
-2014-07-18T11:13:12.439418Z
-4166
-vesis84
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-59
 

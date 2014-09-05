@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 58
+V 108
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 kaldi-math-test
 io-funcs-test

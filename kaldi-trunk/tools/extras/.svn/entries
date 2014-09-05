@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/tools/extras
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-14T16:47:40.014487Z
-4305
-ilyaedrenkin
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,6 +25,244 @@ ilyaedrenkin
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+install_openblas.sh
+file
+
+
+
+
+2014-08-20T05:47:36.000000Z
+fadde5b339636c9880b65b1168bac8f0
+2014-06-19T17:48:36.514453Z
+4071
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+183
+
+openfst_gcc41up.patch
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+e40fb78486aabc77fe0e29101c11ce94
+2013-12-10T04:10:02.779544Z
+3288
+rickychanhoyin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+795
+
+install_atlas.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+3ae76cc2c89efc98e56923c730fee9e7
+2013-05-08T16:53:14.449173Z
+2427
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2103
+
+install_portaudio.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+1c0008f4c0555de488ce5014715ca25a
+2014-03-07T18:42:27.581347Z
+3732
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3974
+
+install_cffi.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+a4222f65d216dd68d692bcc95c99eca0
+2013-07-07T02:28:16.505937Z
+2664
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5705
+
+install_sacc.sh
+file
+
+
+
+
+2014-05-30T02:45:50.000000Z
+37837e49e52b3ed62d68b5764e90962d
+2013-07-29T19:08:57.811480Z
+2743
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2611
+
+sctk-2.4.8.patch
+file
+
+
+
+
+2014-09-05T08:32:54.000000Z
+e777e37d265e4ad2b9f0727d558facb2
+2014-08-30T01:22:46.191312Z
+4355
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+569
 
 README.txt
 file
@@ -59,40 +297,6 @@ danielpovey
 
 
 563
-
-install_sctk_patched.sh
-file
-
-
-
-
-2014-05-30T02:45:50.000000Z
-031fb0043133675c21fee02949ccba4d
-2013-07-18T11:18:32.297969Z
-2694
-rickychanhoyin
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-316
 
 install_pfile_utils.sh
 file
@@ -162,40 +366,6 @@ has-props
 
 273
 
-install_ffv.sh
-file
-
-
-
-
-
-5f74991368adaceb15c91f353043d5ca
-2014-06-01T18:05:22.357245Z
-4033
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1399
-
 install_sequitur.sh
 file
 
@@ -230,50 +400,16 @@ has-props
 
 709
 
-openfst_gcc41up.patch
+install_ffv.sh
 file
 
 
 
 
-2014-05-30T02:45:50.000000Z
-e40fb78486aabc77fe0e29101c11ce94
-2013-12-10T04:10:02.779544Z
-3288
-rickychanhoyin
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-795
-
-install_openblas.sh
-file
-
-
-
-
-2014-08-20T05:47:36.000000Z
-fadde5b339636c9880b65b1168bac8f0
-2014-06-19T17:48:36.514453Z
-4071
+5f74991368adaceb15c91f353043d5ca
+2014-06-01T18:05:22.357245Z
+4033
 danielpovey
 has-props
 
@@ -296,18 +432,18 @@ has-props
 
 
 
-183
+1399
 
-install_atlas.sh
+install_speex.sh
 file
 
 
 
 
-2014-05-30T02:45:50.000000Z
-3ae76cc2c89efc98e56923c730fee9e7
-2013-05-08T16:53:14.449173Z
-2427
+2014-09-05T08:32:54.000000Z
+3f7c1d0fe65ce3074de6a26acaf54c7d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -330,7 +466,7 @@ has-props
 
 
 
-2103
+1984
 
 install_beamformit.sh
 file
@@ -366,40 +502,6 @@ has-props
 
 187
 
-install_portaudio.sh
-file
-
-
-
-
-2014-05-30T02:45:50.000000Z
-1c0008f4c0555de488ce5014715ca25a
-2014-03-07T18:42:27.581347Z
-3732
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3974
-
 install_srilm.sh
 file
 
@@ -434,16 +536,50 @@ has-props
 
 772
 
-install_cffi.sh
+install_sctk_patched.sh
 file
 
 
 
 
 2014-05-30T02:45:50.000000Z
-a4222f65d216dd68d692bcc95c99eca0
-2013-07-07T02:28:16.505937Z
-2664
+031fb0043133675c21fee02949ccba4d
+2013-07-18T11:18:32.297969Z
+2694
+rickychanhoyin
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+316
+
+check_dependencies.sh
+file
+
+
+
+
+2014-09-05T08:32:54.000000Z
+85e09ed119503d1731fe255d3987208d
+2014-08-22T06:38:59.835010Z
+4337
 danielpovey
 has-props
 
@@ -466,39 +602,5 @@ has-props
 
 
 
-5705
-
-install_sacc.sh
-file
-
-
-
-
-2014-05-30T02:45:50.000000Z
-37837e49e52b3ed62d68b5764e90962d
-2013-07-29T19:08:57.811480Z
-2743
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2611
+2389
 

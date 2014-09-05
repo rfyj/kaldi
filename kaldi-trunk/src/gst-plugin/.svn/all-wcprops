@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/3327/trunk/src/gst-plugin
+/p/kaldi/code/!svn/ver/4365/trunk/src/gst-plugin
 END
 gst-online-gmm-decode-faster.h
 K 25

@@ -1,7 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/p/kaldi/code/!svn/ver/1976/trunk/windows
+/p/kaldi/code/!svn/ver/4365/trunk/windows
+END
+openfstwin_release.props
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2/trunk/windows/openfstwin_release.props
+END
+generate_solution.pl
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2/trunk/windows/generate_solution.pl
 END
 openfstwin_debug.props
 K 25
@@ -44,16 +56,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/432/trunk/windows/INSTALL.atlas
-END
-openfstwin_release.props
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2/trunk/windows/openfstwin_release.props
-END
-generate_solution.pl
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2/trunk/windows/generate_solution.pl
 END

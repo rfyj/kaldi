@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/local
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s4/local
+END
+timit_format_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/local/timit_format_data.sh
 END
 timit_format_lms.sh
 K 25
@@ -32,10 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 70
 /p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/local/timit_data_prep.sh
-END
-timit_format_data.sh
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/local/timit_format_data.sh
 END

@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-06-01T18:05:22.357245Z
-4033
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -672,40 +672,6 @@ has-props
 
 2791
 
-gp_norm_trans_PO.pl
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-e1d9172a8b60dc93acbb4db0359cfd02
-2012-10-04T19:18:28.296557Z
-1421
-arnab13
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3202
-
 gp_norm_dict_SP.pl
 file
 
@@ -739,6 +705,40 @@ has-props
 
 
 5014
+
+gp_norm_trans_PO.pl
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+e1d9172a8b60dc93acbb4db0359cfd02
+2012-10-04T19:18:28.296557Z
+1421
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3202
 
 gp_norm_trans_SP.pl
 file

@@ -1,42 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/rm/s4/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-10-10T07:28:21.931621Z
-3067
-vpanayotov
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-rm_data_prep.sh
-file
-
-
-
-
-2014-05-30T02:46:16.000000Z
-57214aa7974e5c6a569be31474b1d069
-2013-10-10T07:28:21.931621Z
-3067
-vpanayotov
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
 has-props
 
 
@@ -51,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-3596
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 rm_format_data.sh
 file
@@ -161,4 +127,38 @@ has-props
 
 
 2360
+
+rm_data_prep.sh
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+57214aa7974e5c6a569be31474b1d069
+2013-10-10T07:28:21.931621Z
+3067
+vpanayotov
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3596
 

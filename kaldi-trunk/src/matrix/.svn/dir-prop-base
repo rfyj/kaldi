@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 58
+V 108
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 Matrix.vcxproj
 matrix-lib-test
@@ -8,7 +17,7 @@ kaldi-gpsr-test
 
 K 13
 svn:mergeinfo
-V 688
+V 725
 /sandbox/akirkedal/src/matrix:3806-4273
 /sandbox/dan/src/matrix:1504-1801,1999-2840
 /sandbox/dan2/src/matrix:2775-2829,2832-3292
@@ -18,6 +27,7 @@ V 688
 /sandbox/kws/src/matrix:1533-1557
 /sandbox/language_id/src/matrix:3523-3930,3933-4177
 /sandbox/nshmyrev/src/matrix:3830-3854
+/sandbox/online/src/matrix:3325-4359
 /sandbox/oplatek/src/matrix:2513-2541
 /sandbox/pawel/src/matrix:4013-4275
 /sandbox/pitch/src/matrix:3126-3251

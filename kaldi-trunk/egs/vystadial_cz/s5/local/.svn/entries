@@ -1,14 +1,109 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/vystadial_cz/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-04-16T20:26:58.891466Z
-3899
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+save_check.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+129af2269487e7d3ae81ee583bac3967
+2014-02-27T21:20:06.991091Z
+3615
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1542
+
+score.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+c683a86af09ffe097aff983ba9f759dd
+2014-02-25T20:01:34.372298Z
+3595
+oplatek
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1538
+
+make_baseform.pl
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+9ef31da06af196f82c7cfe6309392e30
+2014-02-25T20:01:34.372298Z
+3595
 oplatek
 
 
@@ -24,7 +119,14 @@ oplatek
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+5559
 
 create_LMs.sh
 file
@@ -399,106 +501,4 @@ has-props
 
 
 1876
-
-save_check.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-129af2269487e7d3ae81ee583bac3967
-2014-02-27T21:20:06.991091Z
-3615
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1542
-
-score.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-c683a86af09ffe097aff983ba9f759dd
-2014-02-25T20:01:34.372298Z
-3595
-oplatek
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1538
-
-make_baseform.pl
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-9ef31da06af196f82c7cfe6309392e30
-2014-02-25T20:01:34.372298Z
-3595
-oplatek
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5559
 

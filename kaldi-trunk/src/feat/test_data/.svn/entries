@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/feat/test_data
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-28T18:26:11.387398Z
-3813
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -26,17 +26,18 @@ danielpovey
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-test_matlab.ascii
+test.wav.fea_htk.2
 file
 
 
 
 
 2014-05-30T02:45:52.000000Z
-a38f80c5ced7d68c1414dccf291b201e
-2013-06-05T19:32:17.357643Z
-2501
-arnab13
+22569211c69c9eeae5cddf8a01049034
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
 
 
 
@@ -57,8 +58,177 @@ arnab13
 
 
 
+22164
+
+test.wav
+file
 
-103035
+
+
+
+2014-05-30T02:45:52.000000Z
+652cd5ef93cc07a68b199e4447a8c34e
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+46046
+
+test.wav.fea_htk.3
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+93d607d6d84b51f7902d6799e96b41f6
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22164
+
+test.wav.fea_htk.4
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+206d5ad3baeea920628c22aa2aba2dec
+2014-03-28T18:26:11.387398Z
+3813
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22164
+
+test.wav.fea_htk.5
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+d5f7bdccb9eb5b2486e95bffa7fbe199
+2014-03-28T18:26:11.387398Z
+3813
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22164
+
+test.wav.fea_htk.6
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+7069cf1247036a350e14d6d719d93ca7
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22164
 
 fbank1.conf
 file
@@ -94,17 +264,17 @@ vesis84
 
 545
 
-fbank2.conf
+test_matlab.ascii
 file
 
 
 
 
 2014-05-30T02:45:52.000000Z
-66fd60822970804ad823c532593e8b28
-2014-03-28T18:26:11.387398Z
-3813
-danielpovey
+a38f80c5ced7d68c1414dccf291b201e
+2013-06-05T19:32:17.357643Z
+2501
+arnab13
 
 
 
@@ -126,7 +296,7 @@ danielpovey
 
 
 
-546
+103035
 
 hcopy1.conf
 file
@@ -162,14 +332,14 @@ danielpovey
 
 586
 
-fbank3.conf
+fbank2.conf
 file
 
 
 
 
 2014-05-30T02:45:52.000000Z
-b1682535feb1cca823f4f259210b315c
+66fd60822970804ad823c532593e8b28
 2014-03-28T18:26:11.387398Z
 3813
 danielpovey
@@ -194,7 +364,7 @@ danielpovey
 
 
 
-543
+546
 
 hcopy2.conf
 file
@@ -230,16 +400,16 @@ danielpovey
 
 545
 
-hcopy3.conf
+fbank3.conf
 file
 
 
 
 
 2014-05-30T02:45:52.000000Z
-73d81322ff4f08e908eddee50a9f1a63
-2011-05-14T21:48:08.230724Z
-2
+b1682535feb1cca823f4f259210b315c
+2014-03-28T18:26:11.387398Z
+3813
 danielpovey
 
 
@@ -262,7 +432,7 @@ danielpovey
 
 
 
-546
+543
 
 fbank4.conf
 file
@@ -297,6 +467,40 @@ danielpovey
 
 
 543
+
+hcopy3.conf
+file
+
+
+
+
+2014-05-30T02:45:52.000000Z
+73d81322ff4f08e908eddee50a9f1a63
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+546
 
 hcopy4.conf
 file
@@ -638,40 +842,6 @@ arnab13
 
 240
 
-test.wav.fea_htk.1
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-76485cdef99c6b9853b4821e0ab8459c
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22164
-
 test.wav.plp_htk.1
 file
 
@@ -706,184 +876,14 @@ has-props
 
 22164
 
-test.wav
+test.wav.fea_htk.1
 file
 
 
 
 
 2014-05-30T02:45:52.000000Z
-652cd5ef93cc07a68b199e4447a8c34e
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-46046
-
-test.wav.fea_htk.2
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-22569211c69c9eeae5cddf8a01049034
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22164
-
-test.wav.fea_htk.3
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-93d607d6d84b51f7902d6799e96b41f6
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22164
-
-test.wav.fea_htk.4
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-206d5ad3baeea920628c22aa2aba2dec
-2014-03-28T18:26:11.387398Z
-3813
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22164
-
-test.wav.fea_htk.5
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-d5f7bdccb9eb5b2486e95bffa7fbe199
-2014-03-28T18:26:11.387398Z
-3813
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22164
-
-test.wav.fea_htk.6
-file
-
-
-
-
-2014-05-30T02:45:52.000000Z
-7069cf1247036a350e14d6d719d93ca7
+76485cdef99c6b9853b4821e0ab8459c
 2011-05-14T21:48:08.230724Z
 2
 danielpovey

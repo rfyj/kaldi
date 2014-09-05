@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/lre/v1/lid
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-07-22T17:43:34.975948Z
-4193
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -25,6 +25,108 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+extract_ivectors.sh
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+c44551af68f4a2f0520def52ed0633e0
+2014-07-22T17:43:34.975948Z
+4193
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3524
+
+train_lvtln_model.sh
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+28cd462f11642ea912d4cfee179cd165
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11593
+
+get_vtln_warps.sh
+file
+
+
+
+
+2014-08-20T05:47:55.000000Z
+93e8dcf940e5d6bafc920a763aa0894f
+2014-07-20T05:23:18.569993Z
+4180
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3787
 
 README.txt
 file
@@ -263,106 +365,4 @@ has-props
 
 
 1370
-
-extract_ivectors.sh
-file
-
-
-
-
-2014-08-20T05:47:55.000000Z
-c44551af68f4a2f0520def52ed0633e0
-2014-07-22T17:43:34.975948Z
-4193
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3524
-
-train_lvtln_model.sh
-file
-
-
-
-
-2014-08-20T05:47:55.000000Z
-28cd462f11642ea912d4cfee179cd165
-2014-07-20T05:23:18.569993Z
-4180
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11593
-
-get_vtln_warps.sh
-file
-
-
-
-
-2014-08-20T05:47:55.000000Z
-93e8dcf940e5d6bafc920a763aa0894f
-2014-07-20T05:23:18.569993Z
-4180
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3787
 

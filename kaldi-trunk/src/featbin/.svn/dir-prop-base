@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 429
+V 845
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 compute-spectrogram-feats
 extract-feature-segments
@@ -29,5 +38,24 @@ extend-transform-dim
 get-full-lda-mat
 reverse-feats
 compute-plp-feats
+add-deltas-sdc
+apply-cmvn-sliding
+compare-feats
+compute-cmvn-stats-two-channel
+compute-kaldi-pitch-feats
+copy-feats-to-htk
+copy-feats-to-sphinx
+extract-rows
+interpolate-pitch
+paste-feats
+process-kaldi-pitch-feats
+process-pitch-feats
+select-feats
+subsample-feats
+wav-to-duration
+append-vector-to-feats
+compute-and-process-kaldi-pitch-feats
+modify-cmvn-stats
+wav-copy
 
 END

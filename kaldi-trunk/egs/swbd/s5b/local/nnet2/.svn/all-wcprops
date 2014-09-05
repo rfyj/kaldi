@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/4116/trunk/egs/swbd/s5b/local/nnet2
+/p/kaldi/code/!svn/ver/4365/trunk/egs/swbd/s5b/local/nnet2
 END
 run_5a_gpu.sh
 K 25

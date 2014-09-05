@@ -1,6 +1,6 @@
 K 13
 svn:mergeinfo
-V 1150
+V 1212
 /sandbox/akirkedal/src/sgmmbin/sgmm-rescore-lattice.cc:3806-4273
 /sandbox/dan/src/sgmmbin/sgmm-rescore-lattice.cc:1504-1801
 /sandbox/dan2/src/sgmmbin/sgmm-rescore-lattice.cc:2775-2829,2832-3292
@@ -10,6 +10,7 @@ V 1150
 /sandbox/kws/src/sgmmbin/sgmm-rescore-lattice.cc:1533-1557
 /sandbox/language_id/src/sgmmbin/sgmm-rescore-lattice.cc:3523-3930,3933-4177
 /sandbox/nshmyrev/src/sgmmbin/sgmm-rescore-lattice.cc:3830-3854
+/sandbox/online/src/sgmmbin/sgmm-rescore-lattice.cc:3325-4359
 /sandbox/oplatek/src/sgmmbin/sgmm-rescore-lattice.cc:2513-2541
 /sandbox/pawel/src/sgmmbin/sgmm-rescore-lattice.cc:4013-4275
 /sandbox/pitch/src/sgmmbin/sgmm-rescore-lattice.cc:3126-3251

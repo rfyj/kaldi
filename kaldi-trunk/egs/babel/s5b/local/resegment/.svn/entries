@@ -1,75 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/local/resegment
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-04T20:54:17.079280Z
-4252
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-generate_segments.sh
-file
-
-
-
-
-2014-08-20T05:48:21.000000Z
-4ea7490a8f244e31f9b13bbb91be2e38
-2014-08-04T20:54:17.079280Z
-4252
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5704
-
-evaluate_segmentation.pl
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-b5419ef12f9993238b85813ac3a5fc67
-2014-04-21T01:16:19.554659Z
-3931
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -85,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-8084
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 train_segmentation.sh
 file
@@ -161,4 +93,72 @@ has-props
 
 
 59691
+
+generate_segments.sh
+file
+
+
+
+
+2014-08-20T05:48:21.000000Z
+4ea7490a8f244e31f9b13bbb91be2e38
+2014-08-04T20:54:17.079280Z
+4252
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5704
+
+evaluate_segmentation.pl
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+b5419ef12f9993238b85813ac3a5fc67
+2014-04-21T01:16:19.554659Z
+3931
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8084
 

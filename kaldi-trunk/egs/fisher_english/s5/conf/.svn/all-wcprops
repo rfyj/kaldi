@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5/conf
-END
-decode_dnn.config
-K 25
-svn:wc:ra_dav:version-url
-V 78
-/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5/conf/decode_dnn.config
-END
-decode.config
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/decode.config
+/p/kaldi/code/!svn/ver/4365/trunk/egs/fisher_english/s5/conf
 END
 mfcc.conf
 K 25
@@ -32,4 +20,22 @@ K 25
 svn:wc:ra_dav:version-url
 V 71
 /p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/fbank.conf
+END
+decode_dnn.config
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/3998/trunk/egs/fisher_english/s5/conf/decode_dnn.config
+END
+decode.config
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/2625/trunk/egs/fisher_english/s5/conf/decode.config
+END
+online_cmvn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/4361/trunk/egs/fisher_english/s5/conf/online_cmvn.conf
 END

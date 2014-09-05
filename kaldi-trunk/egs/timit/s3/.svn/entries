@@ -1,45 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/timit/s3
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-03T16:02:28.382189Z
-3246
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:03.000000Z
-aa443884717fe36256552ac982dda6e8
-2012-02-10T14:54:19.665489Z
-747
-ndjaitly
 has-props
 
 
@@ -54,17 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-289
-
-scripts
-dir
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 local
 dir
@@ -139,4 +99,44 @@ ndjaitly
 
 
 326
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-05-30T02:46:03.000000Z
+aa443884717fe36256552ac982dda6e8
+2012-02-10T14:54:19.665489Z
+747
+ndjaitly
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+289
+
+scripts
+dir
 

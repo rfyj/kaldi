@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4193/trunk/egs/lre/v1
-END
-path.sh
-K 25
-svn:wc:ra_dav:version-url
-V 52
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/path.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/lre/v1
 END
 run_logistic_regression.sh
 K 25
@@ -44,4 +38,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 50
 /p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/utils
+END
+path.sh
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/path.sh
 END

@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-19T22:48:04.516540Z
-4328
+2014-09-03T21:50:49.564226Z
+4373
 ilyaedrenkin
 has-props
 
@@ -26,16 +26,62 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-.gitignore
+windows
+dir
+
+misc
+dir
+
+README.txt
 file
 
 
 
 
 2014-05-30T02:46:17.000000Z
-3ff3d88354166cb39003b18a47b23a7c
-2014-03-24T17:31:34.500484Z
-3799
+c0bbd9079cf529fb93bdeac3a75de357
+2013-06-20T02:59:38.489763Z
+2548
+rickychanhoyin
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1125
+
+egs
+dir
+
+tools
+dir
+
+.gitignore
+file
+
+
+
+
+2014-09-05T08:33:39.000000Z
+3c82599a1870e832b2d6f74942b55a9f
+2014-09-02T03:53:36.286515Z
+4367
 danielpovey
 
 
@@ -58,7 +104,7 @@ danielpovey
 
 
 
-16800
+22449
 
 INSTALL
 file
@@ -130,50 +176,4 @@ danielpovey
 
 
 16365
-
-windows
-dir
-
-misc
-dir
-
-README.txt
-file
-
-
-
-
-2014-05-30T02:46:17.000000Z
-c0bbd9079cf529fb93bdeac3a75de357
-2013-06-20T02:59:38.489763Z
-2548
-rickychanhoyin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1125
-
-egs
-dir
-
-tools
-dir
 

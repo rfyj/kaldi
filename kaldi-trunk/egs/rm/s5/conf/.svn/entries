@@ -1,14 +1,41 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/rm/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-05T22:28:32.910629Z
-4257
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+online_cmvn.conf
+file
+
+
+
+
+2014-09-05T08:33:37.000000Z
+505902d4fef41ea2f8f4964baec79084
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -24,7 +51,82 @@ danielpovey
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+95
+
+pitch.conf
+file
+
+
+
+
+2014-09-05T08:33:37.000000Z
+3a5c12ff2fa64a756ccc3e99bd7e35c7
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+59
+
+mfcc.conf
+file
+
+
+
+
+2014-05-30T02:46:16.000000Z
+f8646cb49898d7815b39d7b5b9340a06
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48
 
 plp.conf
 file
@@ -162,16 +264,16 @@ danielpovey
 
 91
 
-mfcc.conf
+pitch_process.conf
 file
 
 
 
 
-2014-05-30T02:46:16.000000Z
-f8646cb49898d7815b39d7b5b9340a06
-2011-05-14T21:48:08.230724Z
-2
+2014-09-05T08:33:37.000000Z
+d41d8cd98f00b204e9800998ecf8427e
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -194,5 +296,5 @@ danielpovey
 
 
 
-48
+0
 

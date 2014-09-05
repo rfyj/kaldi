@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/p/kaldi/code/!svn/ver/2988/trunk/src/itf
+/p/kaldi/code/!svn/ver/4365/trunk/src/itf
+END
+clusterable-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/itf/clusterable-itf.h
 END
 context-dep-itf.h
 K 25
@@ -15,6 +21,12 @@ svn:wc:ra_dav:version-url
 V 55
 /p/kaldi/code/!svn/ver/2988/trunk/src/itf/options-itf.h
 END
+online-feature-itf.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/src/itf/online-feature-itf.h
+END
 optimizable-itf.h
 K 25
 svn:wc:ra_dav:version-url
@@ -25,11 +37,5 @@ decodable-itf.h
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/itf/decodable-itf.h
-END
-clusterable-itf.h
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/itf/clusterable-itf.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/itf/decodable-itf.h
 END

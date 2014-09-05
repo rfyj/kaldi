@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/windows
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-02-04T21:57:06.093709Z
-1976
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -25,6 +25,74 @@ danielpovey
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+openfstwin_release.props
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+1ab02ab4c97ec1cbd0a5358211c04494
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+752
+
+generate_solution.pl
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+635d0c5ea53c918dbd4366e8f7dc37be
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+22430
 
 openfstwin_debug.props
 file
@@ -263,72 +331,4 @@ danielpovey
 
 
 3492
-
-openfstwin_release.props
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-1ab02ab4c97ec1cbd0a5358211c04494
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-752
-
-generate_solution.pl
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-635d0c5ea53c918dbd4366e8f7dc37be
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-22430
 

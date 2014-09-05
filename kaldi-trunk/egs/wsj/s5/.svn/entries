@@ -1,45 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/wsj/s5
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-18T17:31:49.195702Z
-4324
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-conf
-dir
-
-path.sh
-file
-
-
-
-
-2014-05-30T02:46:11.000000Z
-548c94553860eb9ba5644345c8282be3
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
+2014-09-03T21:50:49.564226Z
+4373
+ilyaedrenkin
 has-props
 
 
@@ -54,17 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-400
-
-local
-dir
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 cmd.sh
 file
@@ -106,10 +66,10 @@ file
 
 
 
-2014-08-20T05:48:02.000000Z
-45f1920be392767dcf4c64da88679611
-2014-08-14T16:47:40.014487Z
-4305
+2014-09-05T08:33:27.000000Z
+2795bf21d3c4464878a161c307c7ac07
+2014-09-03T21:50:49.564226Z
+4373
 ilyaedrenkin
 has-props
 
@@ -132,7 +92,7 @@ has-props
 
 
 
-17457
+17688
 
 steps
 dir
@@ -146,10 +106,10 @@ file
 
 
 
-2014-08-20T05:48:02.000000Z
-014f771037b84170a326e877b433e118
-2014-08-14T16:47:40.014487Z
-4305
+2014-09-05T08:33:27.000000Z
+da03e1bf277cfc091df7083d9f73ad0b
+2014-09-03T21:50:49.564226Z
+4373
 ilyaedrenkin
 
 
@@ -172,5 +132,45 @@ ilyaedrenkin
 
 
 
-18355
+18470
+
+conf
+dir
+
+path.sh
+file
+
+
+
+
+2014-09-05T08:33:27.000000Z
+03c4977619631e4c19ccde250f233e2e
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+456
+
+local
+dir
 

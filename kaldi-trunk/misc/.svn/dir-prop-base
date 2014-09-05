@@ -1,6 +1,19 @@
+K 10
+svn:ignore
+V 50
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
+
 K 13
 svn:mergeinfo
-V 559
+V 590
 /branches/1/misc:136-137
 /sandbox/akirkedal/misc:3806-4273
 /sandbox/dan/misc:1504-1801
@@ -10,6 +23,7 @@ V 559
 /sandbox/kws/misc:1533-1557
 /sandbox/language_id/misc:3523-3930,3933-4177
 /sandbox/nshmyrev/misc:3830-3854
+/sandbox/online/misc:3325-4359
 /sandbox/oplatek/misc:2513-2541
 /sandbox/pawel/misc:4013-4275
 /sandbox/pitch/misc:3126-3251

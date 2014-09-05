@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 51
-/p/kaldi/code/!svn/ver/747/trunk/egs/timit/s3/steps
+V 52
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s3/steps
 END
 decode_deltas.sh
 K 25

@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/4327/trunk/src/nnetbin
+/p/kaldi/code/!svn/ver/4365/trunk/src/nnetbin
+END
+nnet-train-mmi-sequential.cc
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-mmi-sequential.cc
 END
 nnet-concat.cc
 K 25
@@ -57,29 +63,29 @@ svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/3551/trunk/src/nnetbin/Makefile
 END
-nnet-info.cc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/3102/trunk/src/nnetbin/nnet-info.cc
-END
 nnet-train-frmshuff.cc
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/4327/trunk/src/nnetbin/nnet-train-frmshuff.cc
 END
-nnet-kl-hmm-sum-accs.cc
+nnet-info.cc
 K 25
 svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-sum-accs.cc
+V 58
+/p/kaldi/code/!svn/ver/3102/trunk/src/nnetbin/nnet-info.cc
 END
 nnet-train-perutt.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-perutt.cc
+END
+nnet-kl-hmm-sum-accs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/3241/trunk/src/nnetbin/nnet-kl-hmm-sum-accs.cc
 END
 nnet-initialize.cc
 K 25
@@ -98,10 +104,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-mpe-sequential.cc
-END
-nnet-train-mmi-sequential.cc
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/4306/trunk/src/nnetbin/nnet-train-mmi-sequential.cc
 END

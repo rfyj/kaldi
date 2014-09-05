@@ -1,15 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/base
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-18T18:45:54.370292Z
-4325
-ilyaedrenkin
+2014-09-01T21:49:26.328852Z
+4366
+danielpovey
 has-props
 
 
@@ -26,85 +26,17 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-kaldi-utils.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-2921292ab6afb8ef9df7474a8b50413d
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1069
-
-io-funcs.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-7b9bf64a0ece7a943d8ccfe846af0b3f
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5735
-
 kaldi-utils.h
 file
 
 
 
 
-2014-05-30T02:46:01.000000Z
-06885cd305af1f036638e5e3d6cd2d2e
-2014-05-21T23:34:57.648956Z
-4009
-agospodinov
+2014-09-05T08:33:19.000000Z
+051f9687bcd61a1ad494818db75726c7
+2014-09-01T21:49:26.328852Z
+4366
+danielpovey
 
 
 
@@ -126,7 +58,7 @@ agospodinov
 
 
 
-4674
+4747
 
 io-funcs.h
 file
@@ -202,10 +134,10 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-f13845be097d2892e1d8809786d38371
-2014-08-13T03:19:07.889973Z
-4297
+2014-09-05T08:33:19.000000Z
+cc009dc2ae2cc7e50b38d2c0f463f20f
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -228,7 +160,7 @@ danielpovey
 
 
 
-9563
+9775
 
 kaldi-error-test.cc
 file
@@ -304,11 +236,11 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-45682350330f518410763cfbb5194316
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-09-05T08:33:19.000000Z
+64a415f9f1f3f07c9ad84f755f589d01
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
 
 
 
@@ -330,7 +262,7 @@ ahhentz
 
 
 
-4993
+5015
 
 io-funcs-inl.h
 file
@@ -474,11 +406,11 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-784c2e09a90194682bd72d58814ca5d2
-2014-08-18T18:45:54.370292Z
-4325
-ilyaedrenkin
+2014-09-05T08:33:19.000000Z
+d236ce2c9be8966e19580f577f897375
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -500,7 +432,7 @@ ilyaedrenkin
 
 
 
-9346
+9577
 
 kaldi-error.h
 file
@@ -535,4 +467,72 @@ danielpovey
 
 
 4897
+
+kaldi-utils.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+2921292ab6afb8ef9df7474a8b50413d
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1069
+
+io-funcs.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+7b9bf64a0ece7a943d8ccfe846af0b3f
+2013-12-30T20:17:06.842090Z
+3377
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5735
 

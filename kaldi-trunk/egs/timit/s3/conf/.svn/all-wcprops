@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/p/kaldi/code/!svn/ver/749/trunk/egs/timit/s3/conf
-END
-topo.proto
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/749/trunk/egs/timit/s3/conf/topo.proto
+V 51
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s3/conf
 END
 mfcc.conf
 K 25
@@ -20,4 +14,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 59
 /p/kaldi/code/!svn/ver/749/trunk/egs/timit/s3/conf/plp.conf
+END
+topo.proto
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/749/trunk/egs/timit/s3/conf/topo.proto
 END

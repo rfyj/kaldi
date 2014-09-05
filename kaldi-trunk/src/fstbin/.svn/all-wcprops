@@ -1,7 +1,97 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin
+/p/kaldi/code/!svn/ver/4365/trunk/src/fstbin
+END
+fstphicompose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstphicompose.cc
+END
+fstdeterminizestar.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3991/trunk/src/fstbin/fstdeterminizestar.cc
+END
+fstcomposecontext.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3363/trunk/src/fstbin/fstcomposecontext.cc
+END
+fstcopy.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstcopy.cc
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2664/trunk/src/fstbin/Makefile
+END
+fsttablecompose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fsttablecompose.cc
+END
+fstfactor.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstfactor.cc
+END
+fstrhocompose.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrhocompose.cc
+END
+fstaddselfloops.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fstaddselfloops.cc
+END
+fstpushspecial.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/src/fstbin/fstpushspecial.cc
+END
+fstdeterminizelog.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3990/trunk/src/fstbin/fstdeterminizelog.cc
+END
+fstrand.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrand.cc
+END
+fstrmsymbols.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrmsymbols.cc
+END
+fstaddsubsequentialloop.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstaddsubsequentialloop.cc
+END
+fstpropfinal.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstpropfinal.cc
 END
 fsts-to-transcripts.cc
 K 25
@@ -38,94 +128,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstminimizeencoded.cc
-END
-fstphicompose.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstphicompose.cc
-END
-fstdeterminizestar.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3991/trunk/src/fstbin/fstdeterminizestar.cc
-END
-fstcopy.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstcopy.cc
-END
-fstcomposecontext.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3363/trunk/src/fstbin/fstcomposecontext.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/2664/trunk/src/fstbin/Makefile
-END
-fsttablecompose.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fsttablecompose.cc
-END
-fstrhocompose.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrhocompose.cc
-END
-fstfactor.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstfactor.cc
-END
-fstaddselfloops.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/4283/trunk/src/fstbin/fstaddselfloops.cc
-END
-fstpushspecial.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4276/trunk/src/fstbin/fstpushspecial.cc
-END
-fstdeterminizelog.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3990/trunk/src/fstbin/fstdeterminizelog.cc
-END
-fstrand.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrand.cc
-END
-fstrmsymbols.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstrmsymbols.cc
-END
-fstaddsubsequentialloop.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstaddsubsequentialloop.cc
-END
-fstpropfinal.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/fstbin/fstpropfinal.cc
 END

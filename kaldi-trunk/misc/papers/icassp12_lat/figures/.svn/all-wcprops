@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/711/trunk/misc/papers/icassp12_lat/figures
-END
-acceptor_utterance.eps
-K 25
-svn:wc:ra_dav:version-url
-V 88
-/p/kaldi/code/!svn/ver/510/trunk/misc/papers/icassp12_lat/figures/acceptor_utterance.eps
+V 66
+/p/kaldi/code/!svn/ver/4365/trunk/misc/papers/icassp12_lat/figures
 END
 latbeam.eps
 K 25
@@ -26,4 +20,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 75
 /p/kaldi/code/!svn/ver/711/trunk/misc/papers/icassp12_lat/figures/figures.m
+END
+acceptor_utterance.eps
+K 25
+svn:wc:ra_dav:version-url
+V 88
+/p/kaldi/code/!svn/ver/510/trunk/misc/papers/icassp12_lat/figures/acceptor_utterance.eps
 END

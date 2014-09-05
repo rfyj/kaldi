@@ -1,7 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/711/trunk/misc/papers/icassp12_lat
+V 58
+/p/kaldi/code/!svn/ver/4365/trunk/misc/papers/icassp12_lat
+END
+refs.bib
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/711/trunk/misc/papers/icassp12_lat/refs.bib
+END
+IEEEbib.bst
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/510/trunk/misc/papers/icassp12_lat/IEEEbib.bst
 END
 Makefile
 K 25
@@ -32,16 +44,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/510/trunk/misc/papers/icassp12_lat/amsmath.sty
-END
-refs.bib
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/711/trunk/misc/papers/icassp12_lat/refs.bib
-END
-IEEEbib.bst
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/510/trunk/misc/papers/icassp12_lat/IEEEbib.bst
 END

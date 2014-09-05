@@ -1,12 +1,27 @@
 K 10
 svn:ignore
-V 31
+V 218
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 nnet-component-test
+nnet-example-functions-test
+nnet-precondition-online-test
+nnet-precondition-test
+online-nnet2-decodable-test
+nnet-nnet-test
+am-nnet-test
 
 K 13
 svn:mergeinfo
-V 1029
+V 1065
 /sandbox/akirkedal/src/nnet2:3806-4273
 /sandbox/dan/src/nnet-cpu:1504
 /sandbox/dan/src/nnet2:1504-1801
@@ -20,6 +35,7 @@ V 1029
 /sandbox/kws/src/nnet2:1533-1557
 /sandbox/language_id/src/nnet2:3523-3930,3933-4177
 /sandbox/nshmyrev/src/nnet2:3830-3854
+/sandbox/online/src/nnet2:3325-4359
 /sandbox/oplatek/src/nnet-cpu:2513-2541
 /sandbox/oplatek/src/nnet2:2513-2541
 /sandbox/pawel/src/nnet2:4013-4275

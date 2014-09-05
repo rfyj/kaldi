@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/sgmm2bin
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-07T22:03:57.503019Z
-4276
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -25,176 +25,6 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-sgmm2-gselect.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-ca1a1b4f0c6d7b87ab36476f320a4cf0
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3835
-
-sgmm2-latgen-faster-parallel.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-bbac7784de1aded418ea4e78a5bca859
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-12163
-
-sgmm2-info.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-928f0d74677678fd6df285af0afed84e
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4259
-
-sgmm2-est.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-7a80191f792096d90ac0d43a9da04c2f
-2014-01-21T23:32:25.846640Z
-3424
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6139
-
-sgmm2-latgen-faster.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-0f832d0eb2178b764fa495174248bd38
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11071
 
 sgmm2-comp-prexform.cc
 file
@@ -400,14 +230,14 @@ chenguoguo
 
 11628
 
-sgmm2-est-ebw.cc
+sgmm2-project.cc
 file
 
 
 
 
 2014-05-30T02:46:01.000000Z
-dd44757b545323663d3e62541a42b775
+e298269dac8a916679b3118143719228
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -432,7 +262,7 @@ danielpovey
 
 
 
-4138
+4041
 
 Makefile
 file
@@ -468,14 +298,14 @@ danielpovey
 
 835
 
-sgmm2-project.cc
+sgmm2-est-ebw.cc
 file
 
 
 
 
 2014-05-30T02:46:01.000000Z
-e298269dac8a916679b3118143719228
+dd44757b545323663d3e62541a42b775
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -500,7 +330,7 @@ danielpovey
 
 
 
-4041
+4138
 
 sgmm2-est-spkvecs.cc
 file
@@ -714,8 +544,8 @@ file
 
 
 e4f749ab40d9151d3cffcc4f3d728cea
-2014-08-07T22:03:57.503019Z
-4276
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -739,4 +569,174 @@ has-props
 
 
 6288
+
+sgmm2-gselect.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+ca1a1b4f0c6d7b87ab36476f320a4cf0
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3835
+
+sgmm2-latgen-faster-parallel.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+bbac7784de1aded418ea4e78a5bca859
+2014-02-08T01:53:28.866144Z
+3482
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+12163
+
+sgmm2-info.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+928f0d74677678fd6df285af0afed84e
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4259
+
+sgmm2-est.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+7a80191f792096d90ac0d43a9da04c2f
+2014-01-21T23:32:25.846640Z
+3424
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6139
+
+sgmm2-latgen-faster.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+0f832d0eb2178b764fa495174248bd38
+2014-02-08T01:53:28.866144Z
+3482
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11071
 

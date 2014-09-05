@@ -1,15 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/sgmm2
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-16T23:29:18.891371Z
-4320
-danielpovey
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
 has-props
 
 
@@ -25,108 +25,6 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-estimate-am-sgmm2-test.cc
-file
-
-
-
-
-2014-08-20T05:47:49.000000Z
-da55e112507675222e8b62b0d557792f
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6223
-
-estimate-am-sgmm2-ebw.h
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-add4a625bae37e081798f39fcf92f206
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10994
-
-fmllr-sgmm2-test.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-907d10cab40226cc0348880d46137053
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9315
 
 decodable-am-sgmm2.cc
 file
@@ -202,10 +100,10 @@ file
 
 
 
-2014-05-30T02:45:59.000000Z
-c73252182f171efdaa6447d2244d6e4e
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:12.000000Z
+747e98e1ea249e822dc6f060a83e4986
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -228,7 +126,7 @@ danielpovey
 
 
 
-5220
+5238
 
 am-sgmm2.h
 file
@@ -440,10 +338,10 @@ file
 
 
 
-2014-08-20T05:47:49.000000Z
-916d7da59f0d108f7820a20c2993f887
-2014-08-16T23:29:18.891371Z
-4320
+2014-09-05T08:33:12.000000Z
+d09a0e2329b0bfe3ed764bd1ea0ee78e
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 
 
@@ -466,7 +364,7 @@ danielpovey
 
 
 
-10484
+10521
 
 fmllr-sgmm2.cc
 file
@@ -569,4 +467,106 @@ danielpovey
 
 
 29845
+
+estimate-am-sgmm2-test.cc
+file
+
+
+
+
+2014-09-05T08:33:12.000000Z
+055d4472e2cc6802c7af5c92f5ab4f01
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6263
+
+estimate-am-sgmm2-ebw.h
+file
+
+
+
+
+2014-05-30T02:45:59.000000Z
+add4a625bae37e081798f39fcf92f206
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10994
+
+fmllr-sgmm2-test.cc
+file
+
+
+
+
+2014-09-05T08:33:12.000000Z
+e9fada3dc2c76c952f112c27e6f0d3d5
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9355
 

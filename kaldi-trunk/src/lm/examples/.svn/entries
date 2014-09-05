@@ -1,12 +1,39 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/lm/examples
 https://svn.code.sf.net/p/kaldi/code
 
 
 
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+MONTH.txt
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+50cc3c82af9bcf302b1e601e0d71a0f7
 2011-05-14T21:48:08.230724Z
 2
 danielpovey
@@ -24,7 +51,48 @@ danielpovey
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+33
+
+DAYOFMONTH.txt
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+c727c92e0c7680cf3bacf2b5d00b974a
+2011-05-14T21:48:08.230724Z
+2
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+32
 
 CREATURE.txt
 file
@@ -263,72 +331,4 @@ danielpovey
 
 
 38
-
-MONTH.txt
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-50cc3c82af9bcf302b1e601e0d71a0f7
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-33
-
-DAYOFMONTH.txt
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-c727c92e0c7680cf3bacf2b5d00b974a
-2011-05-14T21:48:08.230724Z
-2
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-32
 

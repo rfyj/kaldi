@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_cz/s5/local
+/p/kaldi/code/!svn/ver/4365/trunk/egs/vystadial_cz/s5/local
+END
+create_G.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_G.sh
 END
 create_phone_lists.sh
 K 25
@@ -80,10 +86,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 79
 /p/kaldi/code/!svn/ver/3822/trunk/egs/vystadial_cz/s5/local/download_cs_data.sh
-END
-create_G.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/local/create_G.sh
 END

@@ -1,7 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/wsj/s5/conf
+END
+online_cmvn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/egs/wsj/s5/conf/online_cmvn.conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/conf/mfcc.conf
+END
+online_pitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4365/trunk/egs/wsj/s5/conf/online_pitch.conf
 END
 fbank.conf
 K 25
@@ -14,10 +32,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/3998/trunk/egs/wsj/s5/conf/decode_dnn.config
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/4186/trunk/egs/wsj/s5/conf/mfcc.conf
 END

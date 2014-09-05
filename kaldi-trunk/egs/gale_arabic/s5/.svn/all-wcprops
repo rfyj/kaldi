@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3998/trunk/egs/gale_arabic/s5
+/p/kaldi/code/!svn/ver/4365/trunk/egs/gale_arabic/s5
 END
 utils
 K 25
@@ -13,25 +13,25 @@ RESULTS
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/RESULTS
+/p/kaldi/code/!svn/ver/4345/trunk/egs/gale_arabic/s5/RESULTS
 END
 path.sh
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/path.sh
+/p/kaldi/code/!svn/ver/4343/trunk/egs/gale_arabic/s5/path.sh
 END
 cmd.sh
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/cmd.sh
+/p/kaldi/code/!svn/ver/4344/trunk/egs/gale_arabic/s5/cmd.sh
 END
 run.sh
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3856/trunk/egs/gale_arabic/s5/run.sh
+/p/kaldi/code/!svn/ver/4347/trunk/egs/gale_arabic/s5/run.sh
 END
 steps
 K 25

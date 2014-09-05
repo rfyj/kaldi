@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/local/datasets
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-04T20:54:17.079280Z
-4252
-jtrmal
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,74 +25,6 @@ jtrmal
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-extra_kws.sh
-file
-
-
-
-
-2014-08-20T05:48:21.000000Z
-776e22064d3a97d57ffb8a2d5db43727
-2014-08-04T16:14:02.389650Z
-4248
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4730
-
-supervised_seg.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-bbd96ffd1f87b7569f36a456038d6bd3
-2014-02-18T20:54:57.333709Z
-3537
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2870
 
 supervised_pem.sh
 file
@@ -297,4 +229,72 @@ jtrmal
 
 
 958
+
+extra_kws.sh
+file
+
+
+
+
+2014-09-05T08:33:27.000000Z
+83099423ecb775a03a93b3a0051326f6
+2014-08-26T15:32:50.064211Z
+4341
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4755
+
+supervised_seg.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+bbd96ffd1f87b7569f36a456038d6bd3
+2014-02-18T20:54:57.333709Z
+3537
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2870
 

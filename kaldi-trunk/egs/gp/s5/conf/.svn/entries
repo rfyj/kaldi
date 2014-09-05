@@ -1,12 +1,76 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5/conf
 https://svn.code.sf.net/p/kaldi/code
 
 
 
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+dev_spk.list
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+b71480f33941e98b8f564ea1d8e5f608
+2012-09-13T11:26:54.891304Z
+1346
+ijanda
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+633
+
+xsampa_map
+dir
+
+sgmm.conf
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+81f5f6e7ec5a22ec40c232a9dae9e4f8
 2012-10-09T18:07:48.548841Z
 1432
 arnab13
@@ -24,7 +88,14 @@ arnab13
 
 
 
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+
+
+
+
+
+
+168
 
 lang_codes.txt
 file
@@ -138,77 +209,6 @@ file
 c719c6ee82bd81a0e82001ef2ea7323c
 2012-10-04T19:18:28.296557Z
 1421
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-168
-
-dev_spk.list
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-b71480f33941e98b8f564ea1d8e5f608
-2012-09-13T11:26:54.891304Z
-1346
-ijanda
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-633
-
-xsampa_map
-dir
-
-sgmm.conf
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-81f5f6e7ec5a22ec40c232a9dae9e4f8
-2012-10-09T18:07:48.548841Z
-1432
 arnab13
 
 

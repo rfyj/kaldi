@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/featbin
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-16T23:29:18.891371Z
-4320
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -26,16 +26,16 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-Makefile
+feat-to-len.cc
 file
 
 
 
 
-2014-05-30T02:45:55.000000Z
-4c0e8bdfefa4ba25c4e01fccbac76770
-2014-04-26T02:13:21.307029Z
-3962
+2014-08-20T05:47:40.000000Z
+f5f684cd6ae2f7caefc3a05803b6431b
+2014-07-31T23:14:09.987369Z
+4238
 danielpovey
 
 
@@ -58,7 +58,313 @@ danielpovey
 
 
 
-1121
+2307
+
+remove-mean.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+a67a13c5b8b62a006548e4c85275c86c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2146
+
+apply-cmvn-sliding.cc
+file
+
+
+
+
+2014-09-05T08:33:06.000000Z
+a66cc2288eb0e3a18743583c7923f46e
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2773
+
+copy-feats-to-htk.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+2fae307321a52dc1d31fdf6173e741be
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4514
+
+compute-and-process-kaldi-pitch-feats.cc
+file
+
+
+
+
+2014-09-05T08:33:06.000000Z
+b3a4a7b8675e8b09a91d7072a6726431
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4520
+
+compute-mfcc-feats.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+3e15415433861b8db72c1d1298ca4156
+2014-04-29T22:26:16.477406Z
+3974
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7325
+
+modify-cmvn-stats.cc
+file
+
+
+
+
+2014-09-05T08:33:06.000000Z
+7b75441464a45bd1064ca1c9e3497a30
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2879
+
+compute-cmvn-stats-two-channel.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+4ca7f6d5cb037f08247d3d53da298726
+2013-09-25T17:09:15.347253Z
+2990
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7974
+
+append-vector-to-feats.cc
+file
+
+
+
+
+2014-09-05T08:33:06.000000Z
+52ebecfaf995f47dc8a459945ba2625d
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4517
+
+Makefile
+file
+
+
+
+
+2014-09-05T08:33:06.000000Z
+bf1f748bfcfc310d6f1bb5f908dd0b66
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1206
 
 extract-segments.cc
 file
@@ -338,10 +644,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-7682eac5c3071a7bed4bf277cfd7fdb0
-2014-01-11T02:52:10.832772Z
-3397
+2014-09-05T08:33:06.000000Z
+28e939cb8424ee718b6df104ecf5ac7d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -364,7 +670,7 @@ danielpovey
 
 
 
-3150
+3347
 
 feat-to-dim.cc
 file
@@ -610,11 +916,11 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-7518f3a228150e026823edfc39b136f8
-2014-01-30T16:49:56.307660Z
-3449
-vesis84
+2014-09-05T08:33:06.000000Z
+aee11cc7e9c9cfc0f15b85f98d11b4e3
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -636,7 +942,7 @@ vesis84
 
 
 
-6753
+6773
 
 splice-feats.cc
 file
@@ -678,10 +984,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-7b56bba93fc47f1860b660e74d15bf4f
-2014-03-20T19:53:32.848675Z
-3788
+2014-09-05T08:33:06.000000Z
+3eb4a1d4dffd64c08ce4a94cc444ab76
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 
 
@@ -704,7 +1010,7 @@ danielpovey
 
 
 
-4230
+4250
 
 fmpe-est.cc
 file
@@ -814,10 +1120,10 @@ file
 
 
 
-2014-08-20T05:47:40.000000Z
-32739142f459fd0cd9ddba0071ad726a
-2014-07-18T21:39:16.055757Z
-4170
+2014-09-05T08:33:06.000000Z
+c600d3b31eef450b3269936b88611fbb
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -840,7 +1146,7 @@ danielpovey
 
 
 
-4572
+5378
 
 extract-feature-segments.cc
 file
@@ -882,11 +1188,11 @@ file
 
 
 
-2014-08-20T05:47:40.000000Z
-d7c057533f12e93356c01bd889c0d5a3
-2014-07-02T02:33:06.586281Z
-4098
-wendy722
+2014-09-05T08:33:06.000000Z
+3ca380b9cbe593ea5046b7f080a2a528
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -908,7 +1214,7 @@ wendy722
 
 
 
-5100
+5076
 
 fmpe-init.cc
 file
@@ -943,40 +1249,6 @@ danielpovey
 
 
 1868
-
-interpolate-pitch.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-7246c0fca175fc3fe34f7c201721212c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15130
 
 compute-fbank-feats.cc
 file
@@ -1018,10 +1290,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-d14a0a39e3301b04bd95075bd3a34a79
-2013-11-30T23:08:52.900330Z
-3240
+2014-09-05T08:33:06.000000Z
+df24d94057681638af41b5c822705c58
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1044,7 +1316,41 @@ danielpovey
 
 
 
-3279
+4135
+
+interpolate-pitch.cc
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+7246c0fca175fc3fe34f7c201721212c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15130
 
 get-full-lda-mat.cc
 file
@@ -1154,10 +1460,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-cef0fcbb687328087f20435100829c3a
-2014-04-29T22:26:16.477406Z
-3974
+2014-09-05T08:33:06.000000Z
+77dd4605b9f3628d48529e72dce75aca
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1180,7 +1486,7 @@ danielpovey
 
 
 
-4407
+4257
 
 subset-feats.cc
 file
@@ -1317,208 +1623,4 @@ david-snyder
 
 
 2537
-
-feat-to-len.cc
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-f5f684cd6ae2f7caefc3a05803b6431b
-2014-07-31T23:14:09.987369Z
-4238
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2307
-
-remove-mean.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-a67a13c5b8b62a006548e4c85275c86c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2146
-
-apply-cmvn-sliding.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-fd2ad71a91e35d5cec456ef73f1f9fe2
-2014-02-24T22:16:33.613348Z
-3585
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2865
-
-copy-feats-to-htk.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-2fae307321a52dc1d31fdf6173e741be
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4514
-
-compute-mfcc-feats.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-3e15415433861b8db72c1d1298ca4156
-2014-04-29T22:26:16.477406Z
-3974
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7325
-
-compute-cmvn-stats-two-channel.cc
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-4ca7f6d5cb037f08247d3d53da298726
-2013-09-25T17:09:15.347253Z
-2990
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7974
 

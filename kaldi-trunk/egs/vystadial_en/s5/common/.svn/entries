@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/vystadial_en/s5/common
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-03-27T23:32:22.712514Z
-3807
-oplatek
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,40 +25,6 @@ oplatek
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-mfcc.conf
-file
-
-
-
-
-2014-05-30T02:46:02.000000Z
-c26685930d592c813c1eb8916bfc6e27
-2014-03-27T23:32:22.712514Z
-3807
-oplatek
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-290
 
 cmudict.ext
 file
@@ -127,4 +93,38 @@ oplatek
 
 
 39
+
+mfcc.conf
+file
+
+
+
+
+2014-05-30T02:46:02.000000Z
+c26685930d592c813c1eb8916bfc6e27
+2014-03-27T23:32:22.712514Z
+3807
+oplatek
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+290
 

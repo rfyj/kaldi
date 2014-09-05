@@ -1,31 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/p/kaldi/code/!svn/ver/4292/trunk/src/sgmm
-END
-fmllr-sgmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/fmllr-sgmm.h
-END
-estimate-am-sgmm-ebw.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/estimate-am-sgmm-ebw.cc
-END
-estimate-am-sgmm-ebw.h
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/estimate-am-sgmm-ebw.h
-END
-estimate-am-sgmm-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/4292/trunk/src/sgmm/estimate-am-sgmm-test.cc
+/p/kaldi/code/!svn/ver/4369/trunk/src/sgmm
 END
 Makefile
 K 25
@@ -37,13 +13,7 @@ fmllr-sgmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/p/kaldi/code/!svn/ver/4292/trunk/src/sgmm/fmllr-sgmm-test.cc
-END
-am-sgmm.cc
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/4292/trunk/src/sgmm/am-sgmm.cc
+/p/kaldi/code/!svn/ver/4369/trunk/src/sgmm/fmllr-sgmm-test.cc
 END
 decodable-am-sgmm.cc
 K 25
@@ -51,23 +21,29 @@ svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/decodable-am-sgmm.cc
 END
+am-sgmm.cc
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/4292/trunk/src/sgmm/am-sgmm.cc
+END
 estimate-am-sgmm-multi.cc
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/estimate-am-sgmm-multi.cc
 END
-decodable-am-sgmm.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/decodable-am-sgmm.h
-END
 am-sgmm.h
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/am-sgmm.h
+END
+decodable-am-sgmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/src/sgmm/decodable-am-sgmm.h
 END
 estimate-am-sgmm-multi.h
 K 25
@@ -103,7 +79,7 @@ am-sgmm-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/am-sgmm-test.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/sgmm/am-sgmm-test.cc
 END
 estimate-am-sgmm-multi-test.cc
 K 25
@@ -116,4 +92,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/fmllr-sgmm.cc
+END
+fmllr-sgmm.h
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/fmllr-sgmm.h
+END
+estimate-am-sgmm-ebw.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/estimate-am-sgmm-ebw.cc
+END
+estimate-am-sgmm-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4369/trunk/src/sgmm/estimate-am-sgmm-test.cc
+END
+estimate-am-sgmm-ebw.h
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/sgmm/estimate-am-sgmm-ebw.h
 END

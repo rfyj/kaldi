@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 23
+V 73
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 lm-lib-test
 

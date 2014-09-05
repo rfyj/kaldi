@@ -59,6 +59,7 @@ void UnitTestGenericComponentInternal(const Component &component) {
     Input ki("tmpf", &binary_in);
     component_copy = Component::ReadNew(ki.Stream(), binary_in);
   }
+  unlink("tmpf");
   
   { // Test backward derivative is correct.
     CuVector<BaseFloat> output_objfs(num_egs);
@@ -133,6 +134,7 @@ void UnitTestGenericComponentInternal(const Component &component) {
     KALDI_LOG << "Succeeded for " << num_ok << " out of " << num_tries
               << " tries.";
     if (num_ok <= num_bad) {
+      delete component_copy;
       KALDI_ERR << "Feature-derivative check failed";
     }
   }
@@ -206,6 +208,7 @@ void UnitTestGenericComponentInternal(const Component &component) {
       delete gradient_ucomponent;
     }
     if (num_ok < num_bad) {
+      delete component_copy;
       KALDI_ERR << "model-derivative check failed";
     }
   }
@@ -314,6 +317,7 @@ void UnitTestAffineComponent() {
       WriteKaldiObject(mat, "tmpf", true);
       sleep(1);
       component.Init(learning_rate, "tmpf");
+      unlink("tmpf");
     }
     UnitTestGenericComponentInternal(component);
   }
@@ -433,6 +437,7 @@ void UnitTestAffineComponentPreconditioned() {
       WriteKaldiObject(mat, "tmpf", true);
       sleep(1);
       component.Init(learning_rate, alpha, max_change, "tmpf");
+      unlink("tmpf");
     }
     UnitTestGenericComponentInternal(component);
   }
@@ -468,6 +473,7 @@ void UnitTestAffineComponentPreconditionedOnline() {
       component.Init(learning_rate, rank_in, rank_out,
                      update_period, num_samples_history, alpha,
                      max_change_per_sample, "tmpf");
+      unlink("tmpf");
     }
     UnitTestGenericComponentInternal(component);
   }
@@ -498,6 +504,7 @@ void UnitTestAffineComponentModified() {
       WriteKaldiObject(mat, "tmpf", true);
       sleep(1);
       component.Init(learning_rate, length_cutoff, max_change, "tmpf");
+      unlink("tmpf");
     }
     UnitTestGenericComponentInternal(component);
   }

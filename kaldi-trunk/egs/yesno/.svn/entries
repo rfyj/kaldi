@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/yesno
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,6 +25,40 @@ nshmyrev
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+README.txt
+file
+
+
+
+
+2014-09-05T08:33:21.000000Z
+2cc4b64cbbaae7ed60a95d104c03e74b
+2014-08-28T20:06:14.871190Z
+4350
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+387
 
 s5
 dir

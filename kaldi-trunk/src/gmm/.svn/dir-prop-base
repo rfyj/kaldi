@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 131
+V 181
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 diag-gmm-test
 mle-diag-gmm-test

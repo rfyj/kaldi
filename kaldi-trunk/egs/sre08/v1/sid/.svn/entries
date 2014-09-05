@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/sre08/v1/sid
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-07-22T17:43:34.975948Z
-4193
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
-
+has-props
 
 
 
@@ -168,11 +168,11 @@ file
 
 
 
-2014-05-30T02:46:06.000000Z
-5327c99f671df78f412ed2a8ccf5ea65
-2014-02-06T04:31:17.993477Z
-3473
-david-snyder
+2014-09-05T08:33:22.000000Z
+46a90b51920b3146d3fee23ffb1b42eb
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 has-props
 
 
@@ -194,7 +194,7 @@ has-props
 
 
 
-6529
+6549
 
 extract_ivectors.sh
 file

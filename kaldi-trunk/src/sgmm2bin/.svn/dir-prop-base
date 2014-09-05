@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 327
+V 406
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 sgmm2-init
 sgmm2-acc-stats
@@ -21,5 +30,6 @@ sgmm2-sum-accs
 sgmm2-est-spkvecs
 sgmm2-acc-stats-gpost
 sgmm2-est-spkvecs-gpost
+sgmm2-latgen-faster-parallel
 
 END

@@ -1,41 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/misc/logo
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2011-05-28T07:40:50.914662Z
-57
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-KaldiLogo.png
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-a2c5d6e425f104c1c5d8f3947f3734a0
-2011-05-28T07:40:50.914662Z
-57
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -51,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-40705
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 KaldiTextAndLogo.png
 file
@@ -127,4 +93,38 @@ has-props
 
 
 50515
+
+KaldiLogo.png
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+a2c5d6e425f104c1c5d8f3947f3734a0
+2011-05-28T07:40:50.914662Z
+57
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+40705
 

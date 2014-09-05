@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/fstbin
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -25,6 +25,108 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+fstrand.cc
+file
+
+
+
+
+2014-05-30T02:45:59.000000Z
+3716a187d70ff75986c960bd424d5422
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1704
+
+fstaddsubsequentialloop.cc
+file
+
+
+
+
+2014-05-30T02:45:59.000000Z
+3e20e8539fda5d147d1f47feb0c4e82b
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2601
+
+fstrmsymbols.cc
+file
+
+
+
+
+2014-05-30T02:45:59.000000Z
+20ff2ecb35ccba2448b1852cd2220cb1
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2881
 
 fstpropfinal.cc
 file
@@ -578,8 +680,8 @@ file
 
 
 dc172d31e411a225f9bffaac36611227
-2014-08-07T22:03:57.503019Z
-4276
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -637,106 +739,4 @@ danielpovey
 
 
 1730
-
-fstrand.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-3716a187d70ff75986c960bd424d5422
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1704
-
-fstaddsubsequentialloop.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-3e20e8539fda5d147d1f47feb0c4e82b
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2601
-
-fstrmsymbols.cc
-file
-
-
-
-
-2014-05-30T02:45:59.000000Z
-20ff2ecb35ccba2448b1852cd2220cb1
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2881
 

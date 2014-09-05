@@ -1,13 +1,19 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/p/kaldi/code/!svn/ver/4316/trunk/src/nnet
+/p/kaldi/code/!svn/ver/4365/trunk/src/nnet
 END
-nnet-component.cc
+nnet-max-pooling-2d-component.h
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4082/trunk/src/nnet/nnet-component.cc
+V 74
+/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-max-pooling-2d-component.h
+END
+nnet-convolutional-2d-component.h
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-convolutional-2d-component.h
 END
 nnet-pdf-prior.cc
 K 25
@@ -15,11 +21,11 @@ svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-pdf-prior.cc
 END
-nnet-affine-transform.h
+nnet-component.cc
 K 25
 svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/4304/trunk/src/nnet/nnet-affine-transform.h
+V 60
+/p/kaldi/code/!svn/ver/4082/trunk/src/nnet/nnet-component.cc
 END
 nnet-activation.h
 K 25
@@ -27,11 +33,17 @@ svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/4304/trunk/src/nnet/nnet-activation.h
 END
-nnet-component.h
+nnet-affine-transform.h
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4304/trunk/src/nnet/nnet-affine-transform.h
+END
+nnet-pdf-prior.h
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-component.h
+/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-pdf-prior.h
 END
 nnet-nnet.cc
 K 25
@@ -39,11 +51,11 @@ svn:wc:ra_dav:version-url
 V 55
 /p/kaldi/code/!svn/ver/4304/trunk/src/nnet/nnet-nnet.cc
 END
-nnet-pdf-prior.h
+nnet-component.h
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-pdf-prior.h
+/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-component.h
 END
 nnet-nnet.h
 K 25
@@ -158,16 +170,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-parallel-component.h
-END
-nnet-max-pooling-2d-component.h
-K 25
-svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-max-pooling-2d-component.h
-END
-nnet-convolutional-2d-component.h
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/4272/trunk/src/nnet/nnet-convolutional-2d-component.h
 END

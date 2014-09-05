@@ -1,61 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 41
-/p/kaldi/code/!svn/ver/4292/trunk/src/hmm
-END
-posterior.cc
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/4283/trunk/src/hmm/posterior.cc
-END
-hmm-topology-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4292/trunk/src/hmm/hmm-topology-test.cc
-END
-posterior.h
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/3588/trunk/src/hmm/posterior.h
-END
-transition-model.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/hmm/transition-model.cc
-END
-tree-accu.cc
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/4283/trunk/src/hmm/tree-accu.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 50
-/p/kaldi/code/!svn/ver/3298/trunk/src/hmm/Makefile
-END
-transition-model.h
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3445/trunk/src/hmm/transition-model.h
-END
-tree-accu.h
-K 25
-svn:wc:ra_dav:version-url
-V 53
-/p/kaldi/code/!svn/ver/2988/trunk/src/hmm/tree-accu.h
+/p/kaldi/code/!svn/ver/4367/trunk/src/hmm
 END
 hmm-topology.cc
 K 25
 svn:wc:ra_dav:version-url
 V 57
-/p/kaldi/code/!svn/ver/3845/trunk/src/hmm/hmm-topology.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/hmm-topology.cc
 END
 hmm-utils-test.cc
 K 25
@@ -67,7 +19,37 @@ hmm-topology.h
 K 25
 svn:wc:ra_dav:version-url
 V 56
-/p/kaldi/code/!svn/ver/2988/trunk/src/hmm/hmm-topology.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/hmm-topology.h
+END
+posterior-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/posterior-test.cc
+END
+transition-model-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/transition-model-test.cc
+END
+tree-accu.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4283/trunk/src/hmm/tree-accu.cc
+END
+hmm-topology-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/hmm-topology-test.cc
+END
+tree-accu.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/2988/trunk/src/hmm/tree-accu.h
 END
 hmm-utils.cc
 K 25
@@ -80,4 +62,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 53
 /p/kaldi/code/!svn/ver/3214/trunk/src/hmm/hmm-utils.h
+END
+posterior.cc
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/posterior.cc
+END
+transition-model.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/transition-model.cc
+END
+posterior.h
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/posterior.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/Makefile
+END
+transition-model.h
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4361/trunk/src/hmm/transition-model.h
 END

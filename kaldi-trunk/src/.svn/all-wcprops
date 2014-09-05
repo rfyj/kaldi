@@ -1,25 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 37
-/p/kaldi/code/!svn/ver/4328/trunk/src
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 46
-/p/kaldi/code/!svn/ver/4128/trunk/src/Makefile
-END
-configure
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/p/kaldi/code/!svn/ver/4328/trunk/src/configure
+/p/kaldi/code/!svn/ver/4372/trunk/src
 END
 Doxyfile
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/2758/trunk/src/Doxyfile
+/p/kaldi/code/!svn/ver/4364/trunk/src/Doxyfile
 END
 TODO
 K 25
@@ -30,12 +18,24 @@ END
 INSTALL
 K 25
 svn:wc:ra_dav:version-url
-V 43
-/p/kaldi/code/!svn/ver/16/trunk/src/INSTALL
+V 45
+/p/kaldi/code/!svn/ver/4361/trunk/src/INSTALL
 END
 NOTES
 K 25
 svn:wc:ra_dav:version-url
 V 43
 /p/kaldi/code/!svn/ver/1031/trunk/src/NOTES
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/p/kaldi/code/!svn/ver/4361/trunk/src/Makefile
+END
+configure
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/4361/trunk/src/configure
 END

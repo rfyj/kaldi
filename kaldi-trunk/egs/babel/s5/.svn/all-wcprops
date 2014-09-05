@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 46
-/p/kaldi/code/!svn/ver/4276/trunk/egs/babel/s5
-END
-run-2b-bnf.sh
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3043/trunk/egs/babel/s5/run-2b-bnf.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/babel/s5
 END
 make_release.sh
 K 25
@@ -33,17 +27,17 @@ svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/3494/trunk/egs/babel/s5/run-1-main.sh
 END
-run-5-dev-bnf.sh
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3177/trunk/egs/babel/s5/run-5-dev-bnf.sh
-END
 steps
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /p/kaldi/code/!svn/ver/1845/trunk/egs/babel/s5/steps
+END
+run-5-dev-bnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3177/trunk/egs/babel/s5/run-5-dev-bnf.sh
 END
 run-5-test-bnf.sh
 K 25
@@ -81,17 +75,17 @@ svn:wc:ra_dav:version-url
 V 54
 /p/kaldi/code/!svn/ver/3298/trunk/egs/babel/s5/path.sh
 END
-run-5-anydecode.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/3177/trunk/egs/babel/s5/run-5-anydecode.sh
-END
 run-6-syllables.sh
 K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/3178/trunk/egs/babel/s5/run-6-syllables.sh
+END
+run-5-anydecode.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/3177/trunk/egs/babel/s5/run-5-anydecode.sh
 END
 README.txt
 K 25
@@ -116,4 +110,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 58
 /p/kaldi/code/!svn/ver/2279/trunk/egs/babel/s5/RESULTS.txt
+END
+run-2b-bnf.sh
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/3043/trunk/egs/babel/s5/run-2b-bnf.sh
 END

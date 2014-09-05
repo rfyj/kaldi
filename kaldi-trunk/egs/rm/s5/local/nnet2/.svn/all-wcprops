@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 55
-/p/kaldi/code/!svn/ver/4246/trunk/egs/rm/s5/local/nnet2
+/p/kaldi/code/!svn/ver/4365/trunk/egs/rm/s5/local/nnet2
+END
+run_4d2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4241/trunk/egs/rm/s5/local/nnet2/run_4d2.sh
 END
 run_4b_gpu.sh
 K 25
@@ -20,6 +26,12 @@ K 25
 svn:wc:ra_dav:version-url
 V 69
 /p/kaldi/code/!svn/ver/3978/trunk/egs/rm/s5/local/nnet2/run_4e_gpu.sh
+END
+run_5d_gpu.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/local/nnet2/run_5d_gpu.sh
 END
 run_4a.sh
 K 25
@@ -68,10 +80,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/4241/trunk/egs/rm/s5/local/nnet2/run_5d.sh
-END
-run_4d2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/4241/trunk/egs/rm/s5/local/nnet2/run_4d2.sh
 END

@@ -1,6 +1,23 @@
+K 10
+svn:ignore
+V 80
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
+s5/mfcc
+s5/plp
+s5/exp
+s5/data
+
 K 13
 svn:mergeinfo
-V 731
+V 811
 /sandbox/akirkedal/egs/vystadial_en:3806-4273
 /sandbox/dan/egs/vystadial_en:1504-1801
 /sandbox/dan2/egs/vystadial_en:2775-2829,2832-3292
@@ -9,12 +26,14 @@ V 731
 /sandbox/kws/egs/vystadial_en:1533-1557
 /sandbox/language_id/egs/vystadial_en:3523-3930,3933-4177
 /sandbox/nshmyrev/egs/vystadial_en:3830-3854
+/sandbox/online/egs/vystadial_en:3325-4359
 /sandbox/oplatek/egs/vystadial_en:2513-2541
 /sandbox/pawel/egs/vystadial_en:4013-4275
 /sandbox/pitch/egs/vystadial_en:3126-3251
 /sandbox/sail/egs/vystadial_en:3642-3712,3716-3797
 /sandbox/sharedlibs/egs/vystadial_en:2585-2662
+/sandbox/tacc_kaldi/egs/vystadial_en:3041-4251
 /sandbox/tanel/egs/vystadial_en:2623-2658
 /sandbox/thang-project/egs/vystadial_en:233-258
-/trunk/egs/vystadial_en:3525-3767,3806-3808
+/trunk/egs/vystadial_en:3325-3808
 END

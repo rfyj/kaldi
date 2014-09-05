@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/tools
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-15T03:39:57.652616Z
-4310
-rickychanhoyin
-
+2014-09-03T21:50:49.564226Z
+4373
+ilyaedrenkin
+has-props
 
 
 
@@ -25,111 +25,6 @@ rickychanhoyin
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-Makefile
-file
-
-
-
-
-2014-08-20T05:47:36.000000Z
-4db7db574cf0d90707aa9f07902a65e1
-2014-08-08T06:52:54.494220Z
-4279
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5363
-
-CLAPACK
-dir
-
-install_pfile_utils.sh
-file
-
-
-
-
-2014-05-30T02:45:51.000000Z
-345941934dc1dc07d1f36931ca49b55f
-2013-05-08T16:53:14.449173Z
-2427
-danielpovey
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29
-
-sequitur.patch
-file
-
-
-
-
-2014-05-30T02:45:51.000000Z
-fd313a26a7355e0aabf5d793adae3b35
-2014-01-23T17:33:03.817826Z
-3430
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3373
 
 sctk.patch
 file
@@ -175,6 +70,40 @@ file
 b710537b754676ab36c43d94b7529cf4
 2013-05-08T16:53:14.449173Z
 2427
+danielpovey
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23
+
+install_speex.sh
+file
+
+
+
+
+2014-09-05T08:32:54.000000Z
+6c700383e4c8933c5de5a7504fced89d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -340,4 +269,109 @@ rickychanhoyin
 
 rnnlm-hs-0.1b
 dir
+
+Makefile
+file
+
+
+
+
+2014-09-05T08:32:54.000000Z
+d627f52ece273524bd2473d22cb9de2a
+2014-08-30T01:22:46.191312Z
+4355
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5222
+
+CLAPACK
+dir
+
+install_pfile_utils.sh
+file
+
+
+
+
+2014-05-30T02:45:51.000000Z
+345941934dc1dc07d1f36931ca49b55f
+2013-05-08T16:53:14.449173Z
+2427
+danielpovey
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29
+
+sequitur.patch
+file
+
+
+
+
+2014-05-30T02:45:51.000000Z
+fd313a26a7355e0aabf5d793adae3b35
+2014-01-23T17:33:03.817826Z
+3430
+jtrmal
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3373
 

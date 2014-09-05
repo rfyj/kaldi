@@ -1,16 +1,16 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/yesno/s5/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
+has-props
 
 
 
@@ -25,6 +25,74 @@ nshmyrev
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+prepare_lm.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+5ff23def02fee8f168347bb14201820c
+2013-12-29T13:46:19.739945Z
+3373
+nshmyrev
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1753
+
+prepare_data.sh
+file
+
+
+
+
+2014-05-30T02:46:04.000000Z
+055b4d5743e456cb55c9834597db829f
+2013-12-29T13:46:19.739945Z
+3373
+nshmyrev
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1059
 
 score.sh
 file
@@ -195,72 +263,4 @@ has-props
 
 
 198
-
-prepare_lm.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-5ff23def02fee8f168347bb14201820c
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1753
-
-prepare_data.sh
-file
-
-
-
-
-2014-05-30T02:46:04.000000Z
-055b4d5743e456cb55c9834597db829f
-2013-12-29T13:46:19.739945Z
-3373
-nshmyrev
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1059
 

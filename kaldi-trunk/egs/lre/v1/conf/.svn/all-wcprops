@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/p/kaldi/code/!svn/ver/4180/trunk/egs/lre/v1/conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/lre/v1/conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/conf/mfcc.conf
 END
 vad.conf
 K 25
@@ -20,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/4180/trunk/egs/lre/v1/conf/mfcc_vtln.conf
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/conf/mfcc.conf
 END

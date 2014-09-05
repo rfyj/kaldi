@@ -1,37 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/p/kaldi/code/!svn/ver/4292/trunk/src/util
-END
-simple-options-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-options-test.cc
-END
-text-utils-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/4292/trunk/src/util/text-utils-test.cc
-END
-hash-list-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4292/trunk/src/util/hash-list-test.cc
-END
-simple-io-funcs.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-io-funcs.cc
-END
-kaldi-io-inl.h
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/util/kaldi-io-inl.h
+/p/kaldi/code/!svn/ver/4365/trunk/src/util
 END
 stl-utils-test.cc
 K 25
@@ -73,7 +43,7 @@ kaldi-table-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/4292/trunk/src/util/kaldi-table-test.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/util/kaldi-table-test.cc
 END
 const-integer-set-test.cc
 K 25
@@ -97,7 +67,7 @@ hash-list.h
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/3340/trunk/src/util/hash-list.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/util/hash-list.h
 END
 edit-distance-inl.h
 K 25
@@ -127,13 +97,13 @@ parse-options.h
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/4140/trunk/src/util/parse-options.h
+/p/kaldi/code/!svn/ver/4365/trunk/src/util/parse-options.h
 END
 kaldi-io-test.cc
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/4292/trunk/src/util/kaldi-io-test.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/util/kaldi-io-test.cc
 END
 kaldi-table.cc
 K 25
@@ -147,23 +117,23 @@ svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/3445/trunk/src/util/kaldi-table.h
 END
-const-integer-set.h
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/util/const-integer-set.h
-END
 simple-io-funcs.h
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-io-funcs.h
 END
+const-integer-set.h
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/util/const-integer-set.h
+END
 hash-list-inl.h
 K 25
 svn:wc:ra_dav:version-url
 V 58
-/p/kaldi/code/!svn/ver/4114/trunk/src/util/hash-list-inl.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/util/hash-list-inl.h
 END
 kaldi-holder-inl.h
 K 25
@@ -171,11 +141,11 @@ svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/3298/trunk/src/util/kaldi-holder-inl.h
 END
-timer.h
+simple-options.cc
 K 25
 svn:wc:ra_dav:version-url
-V 50
-/p/kaldi/code/!svn/ver/4009/trunk/src/util/timer.h
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-options.cc
 END
 text-utils.cc
 K 25
@@ -183,11 +153,11 @@ svn:wc:ra_dav:version-url
 V 56
 /p/kaldi/code/!svn/ver/3377/trunk/src/util/text-utils.cc
 END
-simple-options.cc
+timer.h
 K 25
 svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-options.cc
+V 50
+/p/kaldi/code/!svn/ver/4009/trunk/src/util/timer.h
 END
 common-utils.h
 K 25
@@ -230,4 +200,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/3405/trunk/src/util/const-integer-set-inl.h
+END
+simple-options-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-options-test.cc
+END
+text-utils-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4292/trunk/src/util/text-utils-test.cc
+END
+hash-list-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4361/trunk/src/util/hash-list-test.cc
+END
+simple-io-funcs.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/util/simple-io-funcs.cc
+END
+kaldi-io-inl.h
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/util/kaldi-io-inl.h
 END

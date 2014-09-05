@@ -1,15 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-19T22:48:04.516540Z
-4328
-ilyaedrenkin
+2014-09-03T07:55:39.590437Z
+4372
+talumae
 has-props
 
 
@@ -26,153 +26,16 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-tree
-dir
-
-cudamatrix
-dir
-
-ivectorbin
-dir
-
-matrix
-dir
-
-nnet
-dir
-
-doc
-dir
-
-INSTALL
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-fe9bdd63b28d5aa3ffd8a0c0c2b2d398
-2011-05-15T20:23:01.484391Z
-16
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-649
-
-thread
-dir
-
-probe
-dir
-
-lm
-dir
-
-featbin
-dir
-
-bin
-dir
-
-gmmbin
-dir
-
-latbin
-dir
-
-transform
-dir
-
-fstext
-dir
-
-onlinebin
-dir
-
-Makefile
-file
-
-
-
-
-2014-08-20T05:47:51.000000Z
-a82d91c8eb584b4ffb81150a7c58d63d
-2014-07-10T21:45:38.332069Z
-4128
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6046
-
-nnet2bin
-dir
-
-lat
-dir
-
-gmm
-dir
-
-hmm
-dir
-
-online
-dir
-
-sgmm2
-dir
-
-fstbin
-dir
-
-nnet2
-dir
-
-gst-plugin
+sgmmbin
 dir
 
 kwsbin
 dir
 
-makefiles
+nnetbin
+dir
+
+online2bin
 dir
 
 sgmm
@@ -212,25 +75,199 @@ danielpovey
 
 10188
 
-decoder
+doc
+dir
+
+INSTALL
+file
+
+
+
+
+2014-09-05T08:33:20.000000Z
+124deff8be85bd2017b6609068d295d3
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+615
+
+probe
+dir
+
+featbin
+dir
+
+bin
 dir
 
 base
 dir
 
-ivector
+transform
 dir
 
 util
 dir
 
+onlinebin
+dir
+
 sgmm2bin
 dir
 
-fgmmbin
+feat
 dir
 
-feat
+lat
+dir
+
+gmm
+dir
+
+hmm
+dir
+
+Doxyfile
+file
+
+
+
+
+2014-09-05T08:33:20.000000Z
+71d3ae2dedddfca255a59d8aae855c28
+2014-09-01T16:48:21.408364Z
+4364
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50389
+
+sgmm2
+dir
+
+nnet2
+dir
+
+tree
+dir
+
+makefiles
+dir
+
+cudamatrix
+dir
+
+nnet
+dir
+
+matrix
+dir
+
+ivectorbin
+dir
+
+decoder
+dir
+
+online2
+dir
+
+thread
+dir
+
+lm
+dir
+
+gmmbin
+dir
+
+latbin
+dir
+
+ivector
+dir
+
+Makefile
+file
+
+
+
+
+2014-09-05T08:33:20.000000Z
+cc47db7ac3d924a98a3b61930ea6dc38
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6234
+
+fstext
+dir
+
+nnet2bin
+dir
+
+fgmmbin
 dir
 
 configure
@@ -239,11 +276,11 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-ab7a0ad16f74c7918e9194b36b2c99ef
-2014-08-19T22:48:04.516540Z
-4328
-ilyaedrenkin
+2014-09-05T08:33:20.000000Z
+0239e9198c83063a90d8060c19d813ec
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 has-props
 
 
@@ -265,44 +302,16 @@ has-props
 
 
 
-29535
+31628
 
 itf
 dir
 
-Doxyfile
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-499f3b65bf6e067423420f500854c724
-2013-08-05T10:38:50.911147Z
-2758
-rickychanhoyin
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-50748
+online
+dir
+
+fstbin
+dir
 
 NOTES
 file
@@ -338,9 +347,6 @@ danielpovey
 
 1866
 
-sgmmbin
-dir
-
-nnetbin
+gst-plugin
 dir
 

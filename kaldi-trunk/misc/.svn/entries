@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/misc
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-07T22:03:57.503019Z
-4276
+2014-09-02T03:53:36.286515Z
+4367
 danielpovey
 has-props
 
@@ -25,6 +25,18 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+logo
+dir
+
+maintenance
+dir
+
+htk_decode_example
+dir
+
+htk_graph_creation_example
+dir
 
 papers
 dir
@@ -65,13 +77,4 @@ danielpovey
 
 
 850
-
-logo
-dir
-
-htk_decode_example
-dir
-
-htk_graph_creation_example
-dir
 

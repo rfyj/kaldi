@@ -1,5 +1,11 @@
 K 25
 svn:wc:ra_dav:version-url
 V 43
-/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno
+/p/kaldi/code/!svn/ver/4365/trunk/egs/yesno
+END
+README.txt
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4350/trunk/egs/yesno/README.txt
 END

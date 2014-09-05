@@ -1,14 +1,28 @@
 K 10
 svn:ignore
-V 65
+V 210
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 feature-mfcc-test
 feature-plp-test
 feature-fbank-test
 .depend.mk
+feature-functions-test
+feature-sdc-test
+pitch-functions-test
+resample-test
+online-feature-test
 
 K 13
 svn:mergeinfo
-V 715
+V 750
 /branches/complete/src/feat:3311-3779
 /sandbox/akirkedal/src/feat:3806-4273
 /sandbox/dan/src/feat:1504-1801
@@ -19,6 +33,7 @@ V 715
 /sandbox/kws/src/feat:1533-1557
 /sandbox/language_id/src/feat:3523-3930,3933-4177
 /sandbox/nshmyrev/src/feat:3830-3854
+/sandbox/online/src/feat:3325-4359
 /sandbox/oplatek/src/feat:2513-2541
 /sandbox/pawel/src/feat:4013-4275
 /sandbox/pitch/src/feat:3126-3251

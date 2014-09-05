@@ -1,79 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/babel/s5b/local
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-04T20:54:17.079280Z
-4252
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-gridsearch2.pl
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-57804962c3e6e6838f9a8e7276cc5d20
-2013-01-19T02:27:01.033831Z
-1862
-jtrmal
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2556
-
-datasets
-dir
-
-kws_combine.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-0c4d8109b1fd0f3e6f192ebaa6fd0762
-2014-02-18T21:06:20.715952Z
-3538
-jtrmal
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
 has-props
 
 
@@ -88,14 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-3329
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 lonestar.py
 file
@@ -165,40 +94,6 @@ has-props
 
 4817
 
-shadow_set_kws_search.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-9b892c93dcaed5bd5e1f5fd629c67f3d
-2014-01-10T21:48:12.997930Z
-3396
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-10124
-
 cstr_ndx2flist.pl
 file
 
@@ -232,40 +127,6 @@ has-props
 
 
 1946
-
-kws_gen_oracle_lattices.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-e2de4dc3d92c5c844eff80dc1c4a0844
-2013-01-29T23:05:26.583169Z
-1958
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1423
 
 ctm2segments.pl
 file
@@ -301,17 +162,17 @@ has-props
 
 4312
 
-filter_keywords.pl
+apply_map_tab_preserving.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-7b1d7112799d0e6406e7cfe1931e6020
-2013-01-16T23:47:00.432224Z
-1835
-jtrmal
+07dbc26e03fd0ab1f557371dfb6541de
+2014-02-09T19:36:39.045694Z
+3489
+danielpovey
 has-props
 
 
@@ -333,7 +194,7 @@ has-props
 
 
 
-1311
+2681
 
 check_wers.sh
 file
@@ -369,16 +230,16 @@ has-props
 
 1065
 
-apply_map_tab_preserving.pl
+ndx2flist.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-07dbc26e03fd0ab1f557371dfb6541de
-2014-02-09T19:36:39.045694Z
-3489
+fbccd59a860ee03465e294e712280110
+2012-04-22T05:43:12.917539Z
+854
 danielpovey
 has-props
 
@@ -401,7 +262,41 @@ has-props
 
 
 
-2681
+2503
+
+prepare_lexicon.pl
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+8c6443013bc3f72d2984853f167e13e9
+2014-01-22T23:33:47.921578Z
+3428
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+16896
 
 split_ctms.sh
 file
@@ -437,16 +332,16 @@ has-props
 
 1859
 
-decode_helper.sh
+train_mmi_sgmm2.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-cf242774f5b0ee204fb29b385b73a88d
-2013-01-19T02:27:01.033831Z
-1862
+32fcf77fc610e3f591c9ebd7a0f401f4
+2013-01-16T23:47:00.432224Z
+1835
 jtrmal
 has-props
 
@@ -469,109 +364,7 @@ has-props
 
 
 
-928
-
-prepare_stm.pl
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-0b4eb410a9a93d6a6fd716dc6464a87e
-2014-02-18T03:40:48.642481Z
-3535
-vimalmanohar91
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14665
-
-kws_data_prep_proxy.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-af90770086710c0f09123e85f5e8a369
-2014-02-17T23:29:21.517033Z
-3526
-chenguoguo
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8989
-
-make_syllable_lexicon.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-ab3140faee4a93a8fe7538af20def593
-2013-04-23T22:24:52.181929Z
-2387
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2232
+7981
 
 arpa2G_syllables.sh
 file
@@ -675,50 +468,16 @@ has-props
 
 3133
 
-kws_score.sh
+apply_g2p.sh
 file
 
 
 
 
-2014-05-30T02:46:14.000000Z
-b8145783e7a965c2e2107c4d5a695d0b
-2013-01-28T20:44:36.711138Z
-1951
-jtrmal
-has-props
-
-
-svn:special
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17
-
-eval_kw_subsets.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-08974576a07ad3f44997d33f2f16ce94
-2013-01-16T23:47:00.432224Z
-1835
+2014-09-05T08:33:28.000000Z
+abe0ed20fa8e1304c5bdb8e1bc548d82
+2014-08-26T15:32:50.064211Z
+4341
 jtrmal
 has-props
 
@@ -741,19 +500,19 @@ has-props
 
 
 
-278
+4492
 
-annotated_kwlist_to_KWs.pl
+score_stm.sh
 file
 
 
 
 
-2014-05-30T02:46:14.000000Z
-67c4c1654a80b69bb4b6edfd05b74c32
-2013-06-14T05:04:16.641325Z
-2510
-chenguoguo
+2014-09-05T08:33:28.000000Z
+92671e7036399385c1a411f198f3eb68
+2014-08-30T00:34:00.500078Z
+4354
+danielpovey
 has-props
 
 
@@ -775,7 +534,41 @@ has-props
 
 
 
-3265
+3710
+
+train_lms_srilm.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+878c2de1e49766acac75abf8cdbb511e
+2014-02-09T19:36:39.045694Z
+3489
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8148
 
 kws_score_f4de.sh
 file
@@ -845,14 +638,48 @@ has-props
 
 2742
 
-combine_posteriors.sh
+score_combine.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+4c618f8bca53d5d98a47f3ddf83b0cff
+2014-02-18T21:06:20.715952Z
+3538
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6392
+
+fix_kwslist.pl
 file
 
 
 
 
 2014-08-20T05:48:21.000000Z
-c489b40c84d54e2220683b4db53939c3
+6f2075f5d3e52b9ea0407e0e7b7b318f
 2014-08-04T20:54:17.079280Z
 4252
 jtrmal
@@ -877,19 +704,19 @@ has-props
 
 
 
-5149
+2103
 
-score_map.sh
+subset_atwv.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-057050190fc38cdc566754c2fa046fc1
-2013-01-19T02:27:01.033831Z
-1862
-jtrmal
+d38a24f2ecfefb6a17aa6adb0d30686f
+2013-06-14T05:04:16.641325Z
+2510
+chenguoguo
 has-props
 
 
@@ -911,7 +738,7 @@ has-props
 
 
 
-2139
+3219
 
 augment_original_stm.pl
 file
@@ -947,6 +774,74 @@ has-props
 
 4048
 
+flist2scp.pl
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+adee386fb689b7676bed45feb3e99e23
+2012-04-22T05:43:12.917539Z
+854
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1180
+
+get_syllable_text.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+87b7ab87a406bf538b166c38e467ff67
+2013-04-23T23:29:02.805330Z
+2388
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3500
+
 normalize_transcript.pl
 file
 
@@ -981,21 +876,20 @@ has-props
 
 3110
 
-score.sh
+score_mbr.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-8c480dce51df27c7f1c04bb2129d256d
-2014-02-01T23:58:12.409395Z
-3455
-danielpovey
+3b3c71be3aca3f7ebd98b72e9ab721ee
+2012-08-23T11:51:43.537319Z
+1280
+mhannemann
 has-props
 
 
-svn:special
 
 
 
@@ -1013,18 +907,19 @@ svn:special
 
 
 
-19
+
+1798
 
-extract_oov_words.pl
+prepare_kaldi_lm_from_training_text.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-0bb4114756e2beafb75c0e0d8dd3052f
-2013-04-24T22:37:10.695545Z
-2392
+e3080098e06dceada0a427646f71428e
+2013-01-16T23:47:00.432224Z
+1835
 jtrmal
 has-props
 
@@ -1047,41 +942,7 @@ has-props
 
 
 
-1781
-
-create_shadow_dataset.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-2443aa4eee623f31767f073c3182a19a
-2014-02-17T19:36:38.270735Z
-3521
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4837
+7582
 
 prepare_acoustic_training_data.pl
 file
@@ -1154,50 +1015,19 @@ has-props
 
 2015
 
-cmu_uem2kaldi_dir.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-400408bb2ac0d4bb04581f62645fd90d
-2014-02-18T20:54:57.333709Z
-3537
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3979
+resegment
+dir
 
-make_ecf_subset.sh
+lattice_to_ctm_syllable.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-532bcc4cc7ab991b63a4d5481b4bafce
-2014-01-22T23:33:47.921578Z
-3428
+1276eedae58967b3ada54138b1bed8ce
+2013-04-23T22:24:52.181929Z
+2387
 danielpovey
 has-props
 
@@ -1220,44 +1050,7 @@ has-props
 
 
 
-1651
-
-resegment
-dir
-
-generate_proxy_keywords.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-ca8c313a611a36047c3dcee5cb8068f9
-2014-03-04T05:15:06.955537Z
-3676
-chenguoguo
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5508
+3888
 
 uem_ctm2segments.pl
 file
@@ -1293,17 +1086,17 @@ has-props
 
 9406
 
-kws_data_prep.sh
+make_lexicon_subset.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-dd856b4f66d8a508c5e800bd849da2a7
-2013-11-21T04:07:04.242956Z
-3179
-danielpovey
+d174683acee16481c8d86a83e0742875
+2013-02-02T00:46:55.332463Z
+1970
+jtrmal
 has-props
 
 
@@ -1325,7 +1118,109 @@ has-props
 
 
 
-4883
+796
+
+kws_setup.sh
+file
+
+
+
+
+2014-08-20T05:48:21.000000Z
+6cb89ea63268446c8e515ebc60a4a092
+2014-08-04T16:14:02.389650Z
+4248
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4777
+
+train_g2p.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+e32011093e9d9241df9145cfeb39b25d
+2014-02-12T23:51:39.588666Z
+3507
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2703
+
+kaldi_dir2uem.py
+file
+
+
+
+
+2014-08-20T05:48:21.000000Z
+51fb71e5ec804bd7bc0e5aee2d13100b
+2014-08-04T16:14:02.389650Z
+4248
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3299
 
 lattice_to_ctm.sh
 file
@@ -1395,18 +1290,17 @@ has-props
 
 1277
 
-build_edit_distance_fst.pl
+gridsearch2.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-65db852c0b2d1ee7eaabe828663bbf37
-2013-06-14T05:04:16.641325Z
-2510
-chenguoguo
-has-props
+57804962c3e6e6838f9a8e7276cc5d20
+2013-01-19T02:27:01.033831Z
+1862
+jtrmal
 
 
 
@@ -1427,52 +1321,22 @@ has-props
 
 
 
-3787
+
+2556
 
-kws_data_prep_syllables.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-a7f87a735bf9896af34d2dff03954cf2
-2013-04-23T22:24:52.181929Z
-2387
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5518
+datasets
+dir
 
-generate_confusion_matrix.sh
+kws_combine.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-12d1972fbad5657df08257e673526fba
-2014-02-18T20:54:57.333709Z
-3537
+0c4d8109b1fd0f3e6f192ebaa6fd0762
+2014-02-18T21:06:20.715952Z
+3538
 jtrmal
 has-props
 
@@ -1495,7 +1359,7 @@ has-props
 
 
 
-4344
+3329
 
 naive_comb.pl
 file
@@ -1530,6 +1394,40 @@ has-props
 
 
 6130
+
+best_path_weights.sh
+file
+
+
+
+
+2014-09-05T08:33:28.000000Z
+c489b40c84d54e2220683b4db53939c3
+2014-08-26T15:32:50.064211Z
+4341
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5149
 
 make_pitch.sh
 file
@@ -1633,6 +1531,74 @@ has-props
 
 24934
 
+shadow_set_kws_search.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+9b892c93dcaed5bd5e1f5fd629c67f3d
+2014-01-10T21:48:12.997930Z
+3396
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10124
+
+kws_gen_oracle_lattices.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+e2de4dc3d92c5c844eff80dc1c4a0844
+2013-01-29T23:05:26.583169Z
+1958
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1423
+
 gridsearch.pl
 file
 
@@ -1701,6 +1667,40 @@ has-props
 
 3849
 
+filter_keywords.pl
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+7b1d7112799d0e6406e7cfe1931e6020
+2013-01-16T23:47:00.432224Z
+1835
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1311
+
 find_transcripts.pl
 file
 
@@ -1734,40 +1734,6 @@ has-props
 
 
 2065
-
-ndx2flist.pl
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-fbccd59a860ee03465e294e712280110
-2012-04-22T05:43:12.917539Z
-854
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2503
 
 count_to_logprob.pl
 file
@@ -1803,17 +1769,17 @@ has-props
 
 2379
 
-prepare_lexicon.pl
+prepare_stm.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-8c6443013bc3f72d2984853f167e13e9
-2014-01-22T23:33:47.921578Z
-3428
-danielpovey
+0b4eb410a9a93d6a6fd716dc6464a87e
+2014-02-18T03:40:48.642481Z
+3535
+vimalmanohar91
 has-props
 
 
@@ -1835,18 +1801,18 @@ has-props
 
 
 
-16896
+14665
 
-train_mmi_sgmm2.sh
+decode_helper.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-32fcf77fc610e3f591c9ebd7a0f401f4
-2013-01-16T23:47:00.432224Z
-1835
+cf242774f5b0ee204fb29b385b73a88d
+2013-01-19T02:27:01.033831Z
+1862
 jtrmal
 has-props
 
@@ -1869,7 +1835,41 @@ has-props
 
 
 
-7981
+928
+
+kws_data_prep_proxy.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+af90770086710c0f09123e85f5e8a369
+2014-02-17T23:29:21.517033Z
+3526
+chenguoguo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8989
 
 show_lattice.sh
 file
@@ -1904,6 +1904,40 @@ has-props
 
 
 956
+
+make_syllable_lexicon.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+ab3140faee4a93a8fe7538af20def593
+2013-04-23T22:24:52.181929Z
+2387
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2232
 
 generate_example_kws.sh
 file
@@ -2041,16 +2075,50 @@ has-props
 
 3230
 
-apply_g2p.sh
+kws_score.sh
 file
 
 
 
 
-2014-08-20T05:48:21.000000Z
-9d80a670e6547974847f719a939d7ae2
-2014-08-04T20:54:17.079280Z
-4252
+2014-05-30T02:46:14.000000Z
+b8145783e7a965c2e2107c4d5a695d0b
+2013-01-28T20:44:36.711138Z
+1951
+jtrmal
+has-props
+
+
+svn:special
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+17
+
+eval_kw_subsets.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+08974576a07ad3f44997d33f2f16ce94
+2013-01-16T23:47:00.432224Z
+1835
 jtrmal
 has-props
 
@@ -2073,52 +2141,18 @@ has-props
 
 
 
-4484
+278
 
-train_lms_srilm.sh
+annotated_kwlist_to_KWs.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-878c2de1e49766acac75abf8cdbb511e
-2014-02-09T19:36:39.045694Z
-3489
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8148
-
-score_stm.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-6836f5efa8acfdad2a8d2ada7b2f9a8e
-2014-04-08T21:45:37.250366Z
-3865
+67c4c1654a80b69bb4b6edfd05b74c32
+2013-06-14T05:04:16.641325Z
+2510
 chenguoguo
 has-props
 
@@ -2141,7 +2175,7 @@ has-props
 
 
 
-3722
+3265
 
 summarize_logs.pl
 file
@@ -2211,50 +2245,16 @@ has-props
 
 5195
 
-subset_atwv.pl
+score_map.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-d38a24f2ecfefb6a17aa6adb0d30686f
-2013-06-14T05:04:16.641325Z
-2510
-chenguoguo
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3219
-
-fix_kwslist.pl
-file
-
-
-
-
-2014-08-20T05:48:21.000000Z
-6f2075f5d3e52b9ea0407e0e7b7b318f
-2014-08-04T20:54:17.079280Z
-4252
+057050190fc38cdc566754c2fa046fc1
+2013-01-19T02:27:01.033831Z
+1862
 jtrmal
 has-props
 
@@ -2277,41 +2277,7 @@ has-props
 
 
 
-2103
-
-score_combine.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-4c618f8bca53d5d98a47f3ddf83b0cff
-2014-02-18T21:06:20.715952Z
-3538
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6392
+2139
 
 score_sctk_prune.sh
 file
@@ -2319,10 +2285,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-60162743b0f9ac6bd1d6eb00e2490b3b
-2013-03-27T20:47:13.959847Z
-2279
+2014-09-05T08:33:28.000000Z
+9bfe2fd082c6a4ab3518342b04ffaa2a
+2014-08-30T00:34:00.500078Z
+4354
 danielpovey
 has-props
 
@@ -2345,75 +2311,7 @@ has-props
 
 
 
-4338
-
-get_syllable_text.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-87b7ab87a406bf538b166c38e467ff67
-2013-04-23T23:29:02.805330Z
-2388
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3500
-
-flist2scp.pl
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-adee386fb689b7676bed45feb3e99e23
-2012-04-22T05:43:12.917539Z
-854
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1180
+4332
 
 make_lexicon_fst_special.pl
 file
@@ -2449,20 +2347,21 @@ has-props
 
 1446
 
-score_mbr.sh
+score.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-3b3c71be3aca3f7ebd98b72e9ab721ee
-2012-08-23T11:51:43.537319Z
-1280
-mhannemann
+8c480dce51df27c7f1c04bb2129d256d
+2014-02-01T23:58:12.409395Z
+3455
+danielpovey
 has-props
 
 
+svn:special
 
 
 
@@ -2480,19 +2379,18 @@ has-props
 
 
 
-
-1798
+19
 
-prepare_kaldi_lm_from_training_text.sh
+extract_oov_words.pl
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-e3080098e06dceada0a427646f71428e
-2013-01-16T23:47:00.432224Z
-1835
+0bb4114756e2beafb75c0e0d8dd3052f
+2013-04-24T22:37:10.695545Z
+2392
 jtrmal
 has-props
 
@@ -2515,7 +2413,109 @@ has-props
 
 
 
-7582
+1781
+
+create_shadow_dataset.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+2443aa4eee623f31767f073c3182a19a
+2014-02-17T19:36:38.270735Z
+3521
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4837
+
+make_ecf_subset.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+532bcc4cc7ab991b63a4d5481b4bafce
+2014-01-22T23:33:47.921578Z
+3428
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1651
+
+cmu_uem2kaldi_dir.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+400408bb2ac0d4bb04581f62645fd90d
+2014-02-18T20:54:57.333709Z
+3537
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3979
 
 check_models.sh
 file
@@ -2551,16 +2551,50 @@ has-props
 
 888
 
-lattice_to_ctm_syllable.sh
+generate_proxy_keywords.sh
+file
+
+
+
+
+2014-09-05T08:33:28.000000Z
+8567eccc2e92613663ae9630a0f1cbcc
+2014-08-26T15:32:50.064211Z
+4341
+jtrmal
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5508
+
+kws_data_prep.sh
 file
 
 
 
 
 2014-05-30T02:46:14.000000Z
-1276eedae58967b3ada54138b1bed8ce
-2013-04-23T22:24:52.181929Z
-2387
+dd856b4f66d8a508c5e800bd849da2a7
+2013-11-21T04:07:04.242956Z
+3179
 danielpovey
 has-props
 
@@ -2583,109 +2617,7 @@ has-props
 
 
 
-3888
-
-make_lexicon_subset.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-d174683acee16481c8d86a83e0742875
-2013-02-02T00:46:55.332463Z
-1970
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-796
-
-kws_setup.sh
-file
-
-
-
-
-2014-08-20T05:48:21.000000Z
-6cb89ea63268446c8e515ebc60a4a092
-2014-08-04T16:14:02.389650Z
-4248
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4777
-
-train_g2p.sh
-file
-
-
-
-
-2014-05-30T02:46:14.000000Z
-e32011093e9d9241df9145cfeb39b25d
-2014-02-12T23:51:39.588666Z
-3507
-jtrmal
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2703
+4883
 
 subset_kwslist.pl
 file
@@ -2727,10 +2659,10 @@ file
 
 
 
-2014-05-30T02:46:14.000000Z
-1aee765c37581a5f77525259514bcaf0
-2014-02-12T01:35:21.693987Z
-3500
+2014-09-05T08:33:28.000000Z
+0c7507ff87542d38aef97e8957881a05
+2014-08-26T15:32:50.064211Z
+4341
 jtrmal
 has-props
 
@@ -2753,18 +2685,86 @@ has-props
 
 
 
-5034
+5048
 
-kaldi_dir2uem.py
+build_edit_distance_fst.pl
 file
 
 
 
 
-2014-08-20T05:48:21.000000Z
-51fb71e5ec804bd7bc0e5aee2d13100b
-2014-08-04T16:14:02.389650Z
-4248
+2014-05-30T02:46:14.000000Z
+65db852c0b2d1ee7eaabe828663bbf37
+2013-06-14T05:04:16.641325Z
+2510
+chenguoguo
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3787
+
+kws_data_prep_syllables.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+a7f87a735bf9896af34d2dff03954cf2
+2013-04-23T22:24:52.181929Z
+2387
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5518
+
+generate_confusion_matrix.sh
+file
+
+
+
+
+2014-05-30T02:46:14.000000Z
+12d1972fbad5657df08257e673526fba
+2014-02-18T20:54:57.333709Z
+3537
 jtrmal
 has-props
 
@@ -2787,5 +2787,5 @@ has-props
 
 
 
-3299
+4344
 

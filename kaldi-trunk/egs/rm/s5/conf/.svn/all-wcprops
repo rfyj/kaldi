@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/4257/trunk/egs/rm/s5/conf
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/903/trunk/egs/rm/s5/conf/mfcc.conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/rm/s5/conf
 END
 plp.conf
 K 25
@@ -32,4 +26,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/4257/trunk/egs/rm/s5/conf/decode.config
+END
+pitch_process.conf
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/conf/pitch_process.conf
+END
+online_cmvn.conf
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/conf/online_cmvn.conf
+END
+pitch.conf
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/conf/pitch.conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/903/trunk/egs/rm/s5/conf/mfcc.conf
 END

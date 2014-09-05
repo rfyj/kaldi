@@ -1,7 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/4252/trunk/egs/babel/s5b/local/resegment
+/p/kaldi/code/!svn/ver/4365/trunk/egs/babel/s5b/local/resegment
 END
 train_segmentation.sh
 K 25

@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/decoder
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-02T17:36:21.804488Z
+4368
 danielpovey
 has-props
 
@@ -25,6 +25,244 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
+
+lattice-faster-decoder.cc
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+22f32777cb6db3169714a8ef8c7a2502
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48752
+
+lattice-faster-decoder.h
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+8c67304861ab91d5e898b23ecfb3837d
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+23621
+
+lattice-simple-decoder.cc
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+96bcf229004f2d76bec01ea3b22efd99
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29827
+
+nbest-decoder.h
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+7581ea04dc356783871a905833e8cf60
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26388
+
+lattice-simple-decoder.h
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+9c45b0fb3c269fddf5df7c7fbce83e63
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+15537
+
+biglm-faster-decoder.h
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+1f0554925176a9d814fea062b340af42
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20191
+
+training-graph-compiler.cc
+file
+
+
+
+
+2014-05-30T02:46:01.000000Z
+27dc93f6414f21785a6ed628d1f5971a
+2013-12-30T20:17:06.842090Z
+3377
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9126
 
 training-graph-compiler.h
 file
@@ -66,10 +304,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-a1bad8062cb8d139ee8b3b14eaf5e65c
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+97224ab42ba5463d81ef6d897b182b59
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -92,7 +330,7 @@ danielpovey
 
 
 
-12290
+13406
 
 lattice-tracking-decoder.cc
 file
@@ -100,10 +338,10 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-94f7532617da78836d2e29ffa16865d4
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-05T08:33:19.000000Z
+853bc89a6ddbae7fb8b7b9a203047b4b
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -126,7 +364,7 @@ danielpovey
 
 
 
-42649
+43131
 
 faster-decoder.h
 file
@@ -134,10 +372,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-0ef2be6d3ab668bc5a4f103d1be1c795
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+2370eb9795b8649c525a7e05a24ea1a1
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -160,7 +398,7 @@ danielpovey
 
 
 
-5750
+7086
 
 Makefile
 file
@@ -168,10 +406,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-ad3d8882e2ddeb8784d139c7fa8ccbfe
-2013-10-29T02:37:00.906222Z
-3123
+2014-09-05T08:33:19.000000Z
+84632d1819f3ac8e33a31c9a6fa0d59d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -194,7 +432,7 @@ danielpovey
 
 
 
-504
+553
 
 lattice-tracking-decoder.h
 file
@@ -202,11 +440,11 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-fd35c8350dace9a945c00fba84af3512
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
+2014-09-05T08:33:19.000000Z
+3d0179ad3c6f68a38c020e4315fd65dd
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -228,7 +466,75 @@ chenguoguo
 
 
 
-16096
+17282
+
+simple-decoder.cc
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+51249c4e89e12e771ec6c4dc963b8d58
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10738
+
+lattice-faster-online-decoder.cc
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+dcf3a884873aa7b8cc618fbd8be759de
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+45523
 
 simple-decoder.h
 file
@@ -236,10 +542,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-5ade2caf30ffa90cc83a10da8f750385
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+bd8aae0f7b21647fc434e7dada1b1512
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -262,7 +568,41 @@ danielpovey
 
 
 
-10607
+5702
+
+lattice-faster-online-decoder.h
+file
+
+
+
+
+2014-09-05T08:33:19.000000Z
+e25d2c4313840a9afd9a76a2d6a8551c
+2014-09-02T17:36:21.804488Z
+4368
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+19651
 
 lattice-biglm-faster-decoder.h
 file
@@ -270,10 +610,10 @@ file
 
 
 
-2014-08-20T05:47:51.000000Z
-0b7e9b8964f7844842e8897a20c31c8b
-2014-07-07T19:34:29.833875Z
-4114
+2014-09-05T08:33:19.000000Z
+dbf225d0a75cd06af74f536750dfe00b
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -296,7 +636,7 @@ danielpovey
 
 
 
-38791
+39173
 
 decodable-sum.h
 file
@@ -304,10 +644,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-5514a0a657a7e46264532f1bc3ef8422
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+7e37679587a55251e685056954bd0b98
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -330,7 +670,7 @@ danielpovey
 
 
 
-3979
+3991
 
 decodable-matrix.h
 file
@@ -338,10 +678,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-305b2cd98e3a93586bacf3b362c613e9
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+bb9d889e985bc4f1d76fdefa7a6e395a
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -364,7 +704,7 @@ danielpovey
 
 
 
-4022
+4058
 
 decodable-mapped.h
 file
@@ -372,10 +712,10 @@ file
 
 
 
-2014-05-30T02:46:01.000000Z
-62886c4b071844749b9202f6dd7c32d0
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:19.000000Z
+f57f6dedbe8223e8ae14d44593018b9d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -398,243 +738,5 @@ danielpovey
 
 
 
-2390
-
-lattice-faster-decoder.cc
-file
-
-
-
-
-2014-08-20T05:47:51.000000Z
-50f7b4e8e6778a5935fab64250e0c002
-2014-08-08T22:21:22.973153Z
-4283
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-40649
-
-lattice-faster-decoder.h
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-e0f56a31e60e7d989a9af08f58d42a81
-2014-02-24T22:16:33.613348Z
-3585
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-17002
-
-lattice-simple-decoder.cc
-file
-
-
-
-
-2014-08-20T05:47:51.000000Z
-8d7228e5fe79af868ad45e0fbbd2d605
-2014-08-08T22:21:22.973153Z
-4283
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-27758
-
-nbest-decoder.h
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-ea13651d35136382ef2da4e8f0651a4b
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-25794
-
-biglm-faster-decoder.h
-file
-
-
-
-
-2014-08-20T05:47:51.000000Z
-7541a594a5b3f4fbd74a7f02e6d23078
-2014-07-07T19:34:29.833875Z
-4114
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20055
-
-lattice-simple-decoder.h
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-69b8d9cb2979af993d3a39349e3e2e07
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11581
-
-training-graph-compiler.cc
-file
-
-
-
-
-2014-05-30T02:46:01.000000Z
-27dc93f6414f21785a6ed628d1f5971a
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9126
+2402
 

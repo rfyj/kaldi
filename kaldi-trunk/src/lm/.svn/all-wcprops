@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 40
-/p/kaldi/code/!svn/ver/4283/trunk/src/lm
+/p/kaldi/code/!svn/ver/4369/trunk/src/lm
+END
+lm-lib-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/p/kaldi/code/!svn/ver/4369/trunk/src/lm/lm-lib-test.cc
 END
 Makefile
 K 25
@@ -9,29 +15,23 @@ svn:wc:ra_dav:version-url
 V 49
 /p/kaldi/code/!svn/ver/2664/trunk/src/lm/Makefile
 END
-lm-lib-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 55
-/p/kaldi/code/!svn/ver/3000/trunk/src/lm/lm-lib-test.cc
-END
 kaldi-lm.cc
 K 25
 svn:wc:ra_dav:version-url
 V 52
 /p/kaldi/code/!svn/ver/3000/trunk/src/lm/kaldi-lm.cc
 END
-irstlm.mk
-K 25
-svn:wc:ra_dav:version-url
-V 47
-/p/kaldi/code/!svn/ver/2/trunk/src/lm/irstlm.mk
-END
 kaldi-lm.h
 K 25
 svn:wc:ra_dav:version-url
 V 51
 /p/kaldi/code/!svn/ver/3000/trunk/src/lm/kaldi-lm.h
+END
+irstlm.mk
+K 25
+svn:wc:ra_dav:version-url
+V 47
+/p/kaldi/code/!svn/ver/2/trunk/src/lm/irstlm.mk
 END
 input.arpa
 K 25

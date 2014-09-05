@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 590
+V 1024
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 lattice-prune
 lattice-rmali
@@ -35,5 +44,22 @@ lattice-determinize
 lattice-oracle
 lattice-align-words
 lattice-arcgraph
+lattice-add-penalty
+lattice-align-phones
+lattice-align-words-lexicon
+lattice-combine
+lattice-depth
+lattice-depth-per-frame
+lattice-determinize-phone-pruned
+lattice-determinize-phone-pruned-parallel
+lattice-determinize-pruned-parallel
+lattice-limit-depth
+lattice-minimize
+lattice-push
+lattice-rescore-mapped
+lattice-reverse
+lattice-to-smbr-post
+lattice-confidence
+lattice-expand-ngram
 
 END

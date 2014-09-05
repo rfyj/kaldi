@@ -1,13 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 48
-/p/kaldi/code/!svn/ver/4193/trunk/egs/lre/v1/lid
-END
-extract_ivectors.sh
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/4193/trunk/egs/lre/v1/lid/extract_ivectors.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/lre/v1/lid
 END
 train_lvtln_model.sh
 K 25
@@ -62,4 +56,10 @@ K 25
 svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/3935/trunk/egs/lre/v1/lid/balance_priors_to_test.pl
+END
+extract_ivectors.sh
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4193/trunk/egs/lre/v1/lid/extract_ivectors.sh
 END

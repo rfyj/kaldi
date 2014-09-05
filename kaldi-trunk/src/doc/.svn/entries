@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/doc
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-13T03:02:15.518830Z
-4296
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -26,48 +26,14 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-tutorial_code.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-b25e6cba46efc68e4ac1556d2a26b9f8
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-15375
-
-fst_algo.dox
+graph_recipe_test.dox
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-da54b1c8a83987bbaae581bfc6644990
+9ac2e1643fcbc23fe062f21eee5e2c9c
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -92,619 +58,7 @@ danielpovey
 
 
 
-10392
-
-matrixwrap.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-908ee1cce0b963fa79cdd7ccc5eff707
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-14198
-
-style.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-595a5ea56c08fa48731b9e4bce2c7b5e
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3998
-
-history.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-a2199e6df0c509637c19f58c64858a20
-2014-08-13T03:02:15.518830Z
-4296
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6066
-
-cudamatrix.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-85b0c55643c13f4410efb2afc4dfd9c3
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3427
-
-tutorial.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-2bc9488fb36c779e3cdc24e44876a38e
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1185
-
-README
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-013f6dbc15af8fe0c327cab9c7c7f2b0
-2014-06-23T23:19:48.603451Z
-4077
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2341
-
-matrix.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-49da18b71b3bbe684df51598f5ae96fb
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-13629
-
-kws.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-97672444582a492ffa145d5629ddec38
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20352
-
-install.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-b4ac3a31d8261cccc9d5a5b778993d44
-2014-07-16T19:54:48.917116Z
-4158
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3772
-
-lattices.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-8f818bed6f9eb96ebd0bd5c86f452b4c
-2014-06-07T18:35:37.942307Z
-4046
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-48263
-
-KaldiMatrix.pptx
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-dd6edeefbc216c19fb72aa097ec3146f
-2011-05-27T20:51:03.100928Z
-55
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-118641
-
-about.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-01315a63e640a2d06f4db376d508cc25
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8692
-
-make_tools.sh
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-45efaceb42ca77c321d7257f0a36422a
-2012-04-30T17:33:54.147501Z
-881
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1825
-
-dnn.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-97c4e7c734873a10619ae336cdd4f865
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3427
-
-mainpage.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-e2b1eebb5c44012e2a8d8931e95a51b5
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2406
-
-other.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-4aaebeb6b2670b0fcff12d5e71948dd4
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2120
-
-legal.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-7718a69115f77d91da4d450d7976a549
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7108
-
-parse_options.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-b85598f462c93f0f6599cfb031eb2861
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5656
+23366
 
 decoders.dox
 file
@@ -712,10 +66,10 @@ file
 
 
 
-2014-05-30T02:45:55.000000Z
-e2f25d1cfc6ab86e8939fed2984d4390
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:03.000000Z
+06378bc318aa96564184c5b7d24deca1
+2014-08-31T00:27:34.775974Z
+4359
 danielpovey
 
 
@@ -738,7 +92,7 @@ danielpovey
 
 
 
-17179
+17344
 
 tutorial_svn.dox
 file
@@ -774,16 +128,16 @@ danielpovey
 
 2797
 
-error.dox
+contact.dox
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-aea3890b03f0a70110f907fe64ae3600
-2013-09-24T22:38:48.828279Z
-2988
+a53047ee5183df6698f73778f26286c3
+2013-12-11T18:39:46.616498Z
+3298
 danielpovey
 
 
@@ -806,87 +160,19 @@ danielpovey
 
 
 
-5798
+1090
 
-KaldiScripts.pptx
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-5b0d2ff773d8ee5be4faf77a784d3e56
-2011-05-27T20:51:03.100928Z
-55
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-189776
-
-tools.dox.input
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-1ccc485fa7604be21ebf326a88e16111
-2012-04-30T17:33:54.147501Z
-881
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1539
-
-online_programs.dox
+tutorial_code.dox
 file
 
 
 
 
 2014-08-20T05:47:40.000000Z
-00c99a227e48afcb726bf9e99e8f1b79
-2014-06-10T22:19:19.479516Z
-4061
-korzinek
+b25e6cba46efc68e4ac1556d2a26b9f8
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
 
 
 
@@ -908,41 +194,7 @@ korzinek
 
 
 
-20454
-
-data_prep.dox
-file
-
-
-
-
-2014-08-20T05:47:40.000000Z
-7c8c0c13ad855cecf3ea2a06a98a0470
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-42237
+15375
 
 dnn1.dox
 file
@@ -978,14 +230,14 @@ danielpovey
 
 10019
 
-model.dox
+style.dox
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-4391858b30875764dfb49084f05cf93f
+595a5ea56c08fa48731b9e4bce2c7b5e
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -1010,7 +262,7 @@ danielpovey
 
 
 
-7147
+3998
 
 dnn2.dox
 file
@@ -1046,16 +298,16 @@ danielpovey
 
 51973
 
-graph.dox
+history.dox
 file
 
 
 
 
-2014-05-30T02:45:55.000000Z
-2c8a9399ae31ac65662925d2e8f191d8
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:40.000000Z
+a2199e6df0c509637c19f58c64858a20
+2014-08-13T03:02:15.518830Z
+4296
 danielpovey
 
 
@@ -1078,41 +330,7 @@ danielpovey
 
 
 
-14611
-
-tutorial_running.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-f46db9ea6d403311d5d8ca34b5694558
-2014-01-18T12:04:08.802623Z
-3417
-shi-wei
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-29380
+6066
 
 io_tut.dox
 file
@@ -1148,6 +366,40 @@ danielpovey
 
 10982
 
+tutorial_running.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+f46db9ea6d403311d5d8ca34b5694558
+2014-01-18T12:04:08.802623Z
+3417
+shi-wei
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+29380
+
 tutorial_prereqs.dox
 file
 
@@ -1182,18 +434,51 @@ danielpovey
 
 3848
 
-cpplint.py
+kws.dox
 file
 
 
 
 
-2014-05-30T02:45:55.000000Z
-a17a3676598a573b1db820046ac52593
-2012-09-09T18:59:35.827297Z
-1343
+2014-09-05T08:33:03.000000Z
+271c70515cc86e290fd926d8c68ab4fd
+2014-08-23T19:06:50.560573Z
+4338
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13882
+
+install.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+b4ac3a31d8261cccc9d5a5b778993d44
+2014-07-16T19:54:48.917116Z
+4158
 danielpovey
-has-props
 
 
 
@@ -1214,7 +499,8 @@ has-props
 
 
 
-125205
+
+3772
 
 io.dox
 file
@@ -1250,14 +536,48 @@ danielpovey
 
 34342
 
-transform.dox
+cpplint.py
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+a17a3676598a573b1db820046ac52593
+2012-09-09T18:59:35.827297Z
+1343
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+125205
+
+about.dox
 file
 
 
 
 
 2014-08-20T05:47:40.000000Z
-53d95a9e19c0806987316b4a944cf71d
+01315a63e640a2d06f4db376d508cc25
 2014-06-29T17:21:07.421801Z
 4089
 danielpovey
@@ -1282,7 +602,7 @@ danielpovey
 
 
 
-43671
+8692
 
 util.dox
 file
@@ -1318,6 +638,40 @@ danielpovey
 
 3851
 
+make_tools.sh
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+45efaceb42ca77c321d7257f0a36422a
+2012-04-30T17:33:54.147501Z
+881
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1825
+
 tree_internals.dox
 file
 
@@ -1351,74 +705,6 @@ danielpovey
 
 
 14577
-
-build_setup.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-cb7cdc861754cddf9f89efcd9e872ea3
-2013-12-03T16:46:44.818903Z
-3249
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7361
-
-feat.dox
-file
-
-
-
-
-2014-05-30T02:45:55.000000Z
-3533f4de45bfebc81fd71b1ccec79412
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7746
 
 clustering.dox
 file
@@ -1454,14 +740,14 @@ danielpovey
 
 5461
 
-hmm.dox
+feat.dox
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-0f0ca24b12f4fc7a904263a241b0e790
+3533f4de45bfebc81fd71b1ccec79412
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -1486,7 +772,109 @@ danielpovey
 
 
 
-26193
+7746
+
+dnn.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+97c4e7c734873a10619ae336cdd4f865
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3427
+
+online_decoding.dox
+file
+
+
+
+
+2014-09-05T08:33:03.000000Z
+3cff9a0076ec403910e058a172ce7c0f
+2014-08-31T00:27:34.775974Z
+4359
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13066
+
+other.dox
+file
+
+
+
+
+2014-09-05T08:33:03.000000Z
+089c2f1fb7a01b797be086150b452aed
+2014-08-31T23:05:13.757039Z
+4362
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2548
 
 tutorial_setup.dox
 file
@@ -1522,16 +910,16 @@ danielpovey
 
 2889
 
-roadmap.dox
+legal.dox
 file
 
 
 
 
-2014-08-20T05:47:40.000000Z
-1bbd431b69292c17a41a37c4fe281a61
-2014-06-29T17:21:07.421801Z
-4089
+2014-05-30T02:45:55.000000Z
+7718a69115f77d91da4d450d7976a549
+2013-09-24T22:38:48.828279Z
+2988
 danielpovey
 
 
@@ -1554,7 +942,7 @@ danielpovey
 
 
 
-5865
+7108
 
 tree_externals.dox
 file
@@ -1589,6 +977,40 @@ danielpovey
 
 
 25653
+
+parse_options.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+b85598f462c93f0f6599cfb031eb2861
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5656
 
 Kaldi.pptx
 file
@@ -1760,14 +1182,14 @@ rickychanhoyin
 
 4683
 
-graph_recipe_test.dox
+error.dox
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-9ac2e1643fcbc23fe062f21eee5e2c9c
+aea3890b03f0a70110f907fe64ae3600
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -1792,7 +1214,7 @@ danielpovey
 
 
 
-23366
+5798
 
 KaldiModels.pptx
 file
@@ -1828,16 +1250,50 @@ has-props
 
 185167
 
-contact.dox
+KaldiScripts.pptx
 file
 
 
 
 
 2014-05-30T02:45:55.000000Z
-a53047ee5183df6698f73778f26286c3
-2013-12-11T18:39:46.616498Z
-3298
+5b0d2ff773d8ee5be4faf77a784d3e56
+2011-05-27T20:51:03.100928Z
+55
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+189776
+
+online_programs.dox
+file
+
+
+
+
+2014-09-05T08:33:03.000000Z
+2271cc7fa10c057c73d5973d7bb8b843
+2014-08-31T00:27:34.775974Z
+4359
 danielpovey
 
 
@@ -1860,5 +1316,583 @@ danielpovey
 
 
 
-1090
+20462
+
+tools.dox.input
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+1ccc485fa7604be21ebf326a88e16111
+2012-04-30T17:33:54.147501Z
+881
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1539
+
+fst_algo.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+da54b1c8a83987bbaae581bfc6644990
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+10392
+
+matrixwrap.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+908ee1cce0b963fa79cdd7ccc5eff707
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14198
+
+data_prep.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+7c8c0c13ad855cecf3ea2a06a98a0470
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+42237
+
+model.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+4391858b30875764dfb49084f05cf93f
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7147
+
+graph.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+2c8a9399ae31ac65662925d2e8f191d8
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+14611
+
+cudamatrix.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+85b0c55643c13f4410efb2afc4dfd9c3
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3427
+
+tutorial.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+2bc9488fb36c779e3cdc24e44876a38e
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1185
+
+README
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+013f6dbc15af8fe0c327cab9c7c7f2b0
+2014-06-23T23:19:48.603451Z
+4077
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2341
+
+matrix.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+49da18b71b3bbe684df51598f5ae96fb
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+13629
+
+lattices.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+8f818bed6f9eb96ebd0bd5c86f452b4c
+2014-06-07T18:35:37.942307Z
+4046
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+48263
+
+KaldiMatrix.pptx
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+dd6edeefbc216c19fb72aa097ec3146f
+2011-05-27T20:51:03.100928Z
+55
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+118641
+
+transform.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+53d95a9e19c0806987316b4a944cf71d
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+43671
+
+build_setup.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+cb7cdc861754cddf9f89efcd9e872ea3
+2013-12-03T16:46:44.818903Z
+3249
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7361
+
+mainpage.dox
+file
+
+
+
+
+2014-09-05T08:33:03.000000Z
+d74e16f474f864526775f1aed8db2178
+2014-08-31T00:27:34.775974Z
+4359
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2406
+
+hmm.dox
+file
+
+
+
+
+2014-05-30T02:45:55.000000Z
+0f0ca24b12f4fc7a904263a241b0e790
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+26193
+
+roadmap.dox
+file
+
+
+
+
+2014-08-20T05:47:40.000000Z
+1bbd431b69292c17a41a37c4fe281a61
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5865
 

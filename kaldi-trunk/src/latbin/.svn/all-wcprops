@@ -1,55 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 44
-/p/kaldi/code/!svn/ver/4304/trunk/src/latbin
-END
-lattice-limit-depth.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3098/trunk/src/latbin/lattice-limit-depth.cc
-END
-lattice-depth-per-frame.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/3424/trunk/src/latbin/lattice-depth-per-frame.cc
-END
-linear-to-nbest.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/linear-to-nbest.cc
-END
-nbest-to-linear.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/nbest-to-linear.cc
-END
-lattice-minimize.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3088/trunk/src/latbin/lattice-minimize.cc
-END
-lattice-align-phones.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3431/trunk/src/latbin/lattice-align-phones.cc
-END
-lattice-to-ctm-conf.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/4304/trunk/src/latbin/lattice-to-ctm-conf.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/latbin
 END
 lattice-to-nbest.cc
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/3424/trunk/src/latbin/lattice-to-nbest.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/lattice-to-nbest.cc
 END
 nbest-to-lattice.cc
 K 25
@@ -93,17 +51,17 @@ svn:wc:ra_dav:version-url
 V 83
 /p/kaldi/code/!svn/ver/3439/trunk/src/latbin/lattice-determinize-pruned-parallel.cc
 END
-lattice-to-post.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-to-post.cc
-END
 lattice-oracle.cc
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/4241/trunk/src/latbin/lattice-oracle.cc
+END
+lattice-to-post.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/lattice-to-post.cc
 END
 lattice-to-smbr-post.cc
 K 25
@@ -117,23 +75,17 @@ svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/3966/trunk/src/latbin/lattice-copy.cc
 END
-lattice-reverse.cc
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-reverse.cc
-END
 lattice-determinize-phone-pruned-parallel.cc
 K 25
 svn:wc:ra_dav:version-url
 V 89
 /p/kaldi/code/!svn/ver/3630/trunk/src/latbin/lattice-determinize-phone-pruned-parallel.cc
 END
-lattice-combine.cc
+lattice-reverse.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-combine.cc
+/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-reverse.cc
 END
 lattice-to-fst.cc
 K 25
@@ -141,11 +93,17 @@ svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-to-fst.cc
 END
+lattice-combine.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/lattice-combine.cc
+END
 lattice-equivalent.cc
 K 25
 svn:wc:ra_dav:version-url
 V 66
-/p/kaldi/code/!svn/ver/4292/trunk/src/latbin/lattice-equivalent.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/lattice-equivalent.cc
 END
 lattice-1best.cc
 K 25
@@ -153,17 +111,17 @@ svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/2990/trunk/src/latbin/lattice-1best.cc
 END
-lattice-determinize-phone-pruned.cc
-K 25
-svn:wc:ra_dav:version-url
-V 80
-/p/kaldi/code/!svn/ver/3630/trunk/src/latbin/lattice-determinize-phone-pruned.cc
-END
 lattice-expand-ngram.cc
 K 25
 svn:wc:ra_dav:version-url
 V 68
 /p/kaldi/code/!svn/ver/4270/trunk/src/latbin/lattice-expand-ngram.cc
+END
+lattice-determinize-phone-pruned.cc
+K 25
+svn:wc:ra_dav:version-url
+V 80
+/p/kaldi/code/!svn/ver/3630/trunk/src/latbin/lattice-determinize-phone-pruned.cc
 END
 lattice-to-mpe-post.cc
 K 25
@@ -237,6 +195,12 @@ svn:wc:ra_dav:version-url
 V 65
 /p/kaldi/code/!svn/ver/4158/trunk/src/latbin/lattice-lmrescore.cc
 END
+lattice-confidence.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/lattice-confidence.cc
+END
 lattice-add-trans-probs.cc
 K 25
 svn:wc:ra_dav:version-url
@@ -265,7 +229,7 @@ lattice-rescore-mapped.cc
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/4276/trunk/src/latbin/lattice-rescore-mapped.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/lattice-rescore-mapped.cc
 END
 lattice-project.cc
 K 25
@@ -277,7 +241,7 @@ Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 53
-/p/kaldi/code/!svn/ver/4270/trunk/src/latbin/Makefile
+/p/kaldi/code/!svn/ver/4361/trunk/src/latbin/Makefile
 END
 lattice-determinize-pruned.cc
 K 25
@@ -302,4 +266,46 @@ K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/3088/trunk/src/latbin/lattice-push.cc
+END
+lattice-limit-depth.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3098/trunk/src/latbin/lattice-limit-depth.cc
+END
+lattice-depth-per-frame.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/3424/trunk/src/latbin/lattice-depth-per-frame.cc
+END
+linear-to-nbest.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/linear-to-nbest.cc
+END
+nbest-to-linear.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2988/trunk/src/latbin/nbest-to-linear.cc
+END
+lattice-minimize.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/3088/trunk/src/latbin/lattice-minimize.cc
+END
+lattice-align-phones.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3431/trunk/src/latbin/lattice-align-phones.cc
+END
+lattice-to-ctm-conf.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4304/trunk/src/latbin/lattice-to-ctm-conf.cc
 END

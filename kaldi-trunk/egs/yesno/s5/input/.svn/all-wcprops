@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input
+/p/kaldi/code/!svn/ver/4365/trunk/egs/yesno/s5/input
+END
+phones.txt
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/phones.txt
 END
 lexicon.txt
 K 25
@@ -20,10 +26,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/task.arpabo
-END
-phones.txt
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/3373/trunk/egs/yesno/s5/input/phones.txt
 END

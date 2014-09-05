@@ -1,31 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 59
-/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_en/s5/local
-END
-create_LMs.sh
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_en/s5/local/create_LMs.sh
-END
-prepare_en_transcription.sh
-K 25
-svn:wc:ra_dav:version-url
-V 87
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_en/s5/local/prepare_en_transcription.sh
-END
-results.py
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_en/s5/local/results.py
-END
-download_en_data.sh
-K 25
-svn:wc:ra_dav:version-url
-V 79
-/p/kaldi/code/!svn/ver/3822/trunk/egs/vystadial_en/s5/local/download_en_data.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/vystadial_en/s5/local
 END
 create_sample.sh
 K 25
@@ -80,4 +56,28 @@ K 25
 svn:wc:ra_dav:version-url
 V 76
 /p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_en/s5/local/make_baseform.pl
+END
+create_LMs.sh
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_en/s5/local/create_LMs.sh
+END
+prepare_en_transcription.sh
+K 25
+svn:wc:ra_dav:version-url
+V 87
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_en/s5/local/prepare_en_transcription.sh
+END
+results.py
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3899/trunk/egs/vystadial_en/s5/local/results.py
+END
+download_en_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 79
+/p/kaldi/code/!svn/ver/3822/trunk/egs/vystadial_en/s5/local/download_en_data.sh
 END

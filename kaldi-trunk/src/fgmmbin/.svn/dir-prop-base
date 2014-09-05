@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 216
+V 311
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 fgmm-global-acc-stats
 fgmm-global-sum-accs
@@ -12,5 +21,7 @@ fgmm-global-get-frame-likes
 fgmm-global-acc-stats-twofeats
 fgmm-global-copy
 fgmm-global-mixdown
+fgmm-global-gselect-to-post
+fgmm-global-info
 
 END

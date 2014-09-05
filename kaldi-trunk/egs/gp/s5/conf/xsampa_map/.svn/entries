@@ -1,42 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/egs/gp/s5/conf/xsampa_map
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-Sampa_to_Sampa2.awk
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-aaeabceee253cae970139a53019d2c04
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
+2014-09-01T21:12:29.284174Z
+4365
+danielpovey
 has-props
 
 
@@ -51,48 +24,7 @@ has-props
 
 
 
-
-
-
-
-
-
-
-1064
-
-German
-file
-
-
-
-
-2014-05-30T02:46:15.000000Z
-740877f5ae937604b7295b1944646969
-2012-10-09T18:07:48.548841Z
-1432
-arnab13
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-884
+5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
 Czech
 file
@@ -297,4 +229,72 @@ arnab13
 
 
 856
+
+Sampa_to_Sampa2.awk
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+aaeabceee253cae970139a53019d2c04
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1064
+
+German
+file
+
+
+
+
+2014-05-30T02:46:15.000000Z
+740877f5ae937604b7295b1944646969
+2012-10-09T18:07:48.548841Z
+1432
+arnab13
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+884
 

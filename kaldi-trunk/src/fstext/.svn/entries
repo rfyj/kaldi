@@ -1,15 +1,15 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/fstext
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
 has-props
 
 
@@ -25,516 +25,6 @@ has-props
 
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
-
-remap-leaves.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-8a34391626f82efcc51428cb9bdc2f3d
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3633
-
-table-matcher-test.cc
-file
-
-
-
-
-2014-08-20T05:47:45.000000Z
-9942d5abb89dc52afad31c153e57d673
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6941
-
-lattice-utils.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-6ed6f8eda122ad6148978cb7eb1bccd6
-2014-03-04T05:15:06.955537Z
-3676
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8942
-
-pre-determinize-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-1a86817abf59c3ba5aa19fbca64115fa
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-31523
-
-trivial-factor-weight-test.cc
-file
-
-
-
-
-2014-08-20T05:47:45.000000Z
-616de94a7550f39f0e13ca96850f9052
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7127
-
-determinize-star.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-f5790b5fd1359b76b35771f9b92aa576
-2014-03-06T03:03:09.587915Z
-3709
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4912
-
-prune-special-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-f657ae933bd6d3c39b26fa4ca1c2a1df
-2014-03-07T18:42:27.581347Z
-3732
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6177
-
-factor-test.cc
-file
-
-
-
-
-2014-08-20T05:47:45.000000Z
-b2a9d6f7e00b260cb16f5b7a8bbeafec
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7155
-
-remove-eps-local-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-8ebadb2daa8a0df625905991898079a8
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-11269
-
-fstext-utils-inl.h
-file
-
-
-
-
-2014-08-20T05:47:45.000000Z
-b7321aa5a3c80290ec5352b716cd0fbc
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-50544
-
-epsilon-property.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-64049a58a3b8be25cb7489ef8eba0014
-2014-01-21T23:32:25.846640Z
-3424
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2378
-
-context-fst-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-e038dac25d26553753f3e55d72b335f7
-2014-01-15T00:36:15.542186Z
-3405
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-20764
-
-rescale-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-f769ea92d4f1f82ad41ae7c653de7826
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7437
-
-determinize-lattice.h
-file
-
-
-
-
-2014-08-20T05:47:45.000000Z
-2dc6edb6526996e4ed34f9c45bd595aa
-2014-06-29T17:21:07.421801Z
-4089
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7523
-
-lattice-utils-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-cca02c9ebf8ec7a43af8e77c5d321a88
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9855
 
 determinize-star-inl.h
 file
@@ -569,40 +59,6 @@ rickychanhoyin
 
 
 37414
-
-deterministic-fst-test.cc
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-ed9fd696edefed3a8ea9700ec701705a
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7096
 
 push-special-test.cc
 file
@@ -672,16 +128,16 @@ danielpovey
 
 13956
 
-epsilon-property-inl.h
+deterministic-fst-test.cc
 file
 
 
 
 
 2014-05-30T02:45:58.000000Z
-bc80ed3ced5d844fbfce23ac420ad46f
-2014-01-21T23:32:25.846640Z
-3424
+ed9fd696edefed3a8ea9700ec701705a
+2013-09-24T22:38:48.828279Z
+2988
 danielpovey
 
 
@@ -704,7 +160,7 @@ danielpovey
 
 
 
-4741
+7096
 
 trivial-factor-weight.h
 file
@@ -740,16 +196,16 @@ danielpovey
 
 13617
 
-factor.h
+epsilon-property-inl.h
 file
 
 
 
 
 2014-05-30T02:45:58.000000Z
-642f033817a22e65fec81b39bd677619
-2013-09-24T22:38:48.828279Z
-2988
+bc80ed3ced5d844fbfce23ac420ad46f
+2014-01-21T23:32:25.846640Z
+3424
 danielpovey
 
 
@@ -772,7 +228,7 @@ danielpovey
 
 
 
-6081
+4741
 
 pre-determinize-test.cc
 file
@@ -808,6 +264,40 @@ ahhentz
 
 7379
 
+factor.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+642f033817a22e65fec81b39bd677619
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6081
+
 fstext-lib.h
 file
 
@@ -841,40 +331,6 @@ danielpovey
 
 
 1243
-
-determinize-lattice-inl.h
-file
-
-
-
-
-2014-05-30T02:45:58.000000Z
-a656a0be86ace07dbee95fa6affe038c
-2013-10-29T02:37:00.906222Z
-3123
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-54034
 
 prune-special-test.cc
 file
@@ -910,17 +366,17 @@ ahhentz
 
 2130
 
-lattice-weight-test.cc
+determinize-lattice-inl.h
 file
 
 
 
 
-2014-08-20T05:47:45.000000Z
-87b9a476af6d7a2fa4d65a5c50643f5f
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-05-30T02:45:58.000000Z
+a656a0be86ace07dbee95fa6affe038c
+2013-10-29T02:37:00.906222Z
+3123
+danielpovey
 
 
 
@@ -942,7 +398,7 @@ ahhentz
 
 
 
-7223
+54034
 
 remove-eps-local-test.cc
 file
@@ -977,6 +433,40 @@ ahhentz
 
 
 5471
+
+lattice-weight-test.cc
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+87b9a476af6d7a2fa4d65a5c50643f5f
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7223
 
 fstext-utils-test.cc
 file
@@ -1086,11 +576,11 @@ file
 
 
 
-2014-08-20T05:47:45.000000Z
-2b5fa75ccdeb3090f9fcd0a51d6d295e
-2014-08-12T18:11:35.284313Z
-4292
-ahhentz
+2014-09-05T08:33:08.000000Z
+7d6cef281db91224806dd7667a33b4da
+2014-09-02T21:44:11.562166Z
+4369
+wendy722
 
 
 
@@ -1112,7 +602,7 @@ ahhentz
 
 
 
-10923
+10942
 
 push-special.cc
 file
@@ -1494,10 +984,10 @@ file
 
 
 
-2014-05-30T02:45:58.000000Z
-20607cb80cdb661e1009284a535e1cbe
-2013-10-12T22:38:33.393374Z
-3077
+2014-09-05T08:33:08.000000Z
+afc41592fa900f3b083a66aac6d2429d
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1520,7 +1010,7 @@ danielpovey
 
 
 
-29165
+29169
 
 fstext-utils.h
 file
@@ -1725,4 +1215,514 @@ danielpovey
 
 
 19470
+
+remap-leaves.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+8a34391626f82efcc51428cb9bdc2f3d
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3633
+
+pre-determinize-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+1a86817abf59c3ba5aa19fbca64115fa
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+31523
+
+lattice-utils.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+6ed6f8eda122ad6148978cb7eb1bccd6
+2014-03-04T05:15:06.955537Z
+3676
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8942
+
+table-matcher-test.cc
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+9942d5abb89dc52afad31c153e57d673
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6941
+
+determinize-star.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+f5790b5fd1359b76b35771f9b92aa576
+2014-03-06T03:03:09.587915Z
+3709
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4912
+
+trivial-factor-weight-test.cc
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+616de94a7550f39f0e13ca96850f9052
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7127
+
+prune-special-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+f657ae933bd6d3c39b26fa4ca1c2a1df
+2014-03-07T18:42:27.581347Z
+3732
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6177
+
+factor-test.cc
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+b2a9d6f7e00b260cb16f5b7a8bbeafec
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7155
+
+remove-eps-local-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+8ebadb2daa8a0df625905991898079a8
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+11269
+
+epsilon-property.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+64049a58a3b8be25cb7489ef8eba0014
+2014-01-21T23:32:25.846640Z
+3424
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2378
+
+fstext-utils-inl.h
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+b7321aa5a3c80290ec5352b716cd0fbc
+2014-08-12T18:11:35.284313Z
+4292
+ahhentz
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+50544
+
+rescale-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+f769ea92d4f1f82ad41ae7c653de7826
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7437
+
+context-fst-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+e038dac25d26553753f3e55d72b335f7
+2014-01-15T00:36:15.542186Z
+3405
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+20764
+
+determinize-lattice.h
+file
+
+
+
+
+2014-08-20T05:47:45.000000Z
+2dc6edb6526996e4ed34f9c45bd595aa
+2014-06-29T17:21:07.421801Z
+4089
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7523
+
+lattice-utils-inl.h
+file
+
+
+
+
+2014-05-30T02:45:58.000000Z
+cca02c9ebf8ec7a43af8e77c5d321a88
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9855
 

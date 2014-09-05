@@ -1,6 +1,15 @@
 K 10
 svn:ignore
-V 100
+V 150
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 event-map-test
 context-dep-test

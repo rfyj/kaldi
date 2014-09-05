@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 50
-/p/kaldi/code/!svn/ver/4033/trunk/egs/lre/v1/local
+/p/kaldi/code/!svn/ver/4365/trunk/egs/lre/v1/local
+END
+make_lre07.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4033/trunk/egs/lre/v1/local/make_lre07.pl
 END
 callfriend_lang.txt
 K 25
@@ -56,10 +62,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 64
 /p/kaldi/code/!svn/ver/3931/trunk/egs/lre/v1/local/make_lre05.pl
-END
-make_lre07.pl
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/4033/trunk/egs/lre/v1/local/make_lre07.pl
 END

@@ -1,7 +1,37 @@
 K 25
 svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict
+V 55
+/p/kaldi/code/!svn/ver/4365/trunk/egs/wsj/s5/local/dict
+END
+score_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/score_rules.pl
+END
+filter_dict.pl
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/filter_dict.pl
+END
+get_acronym_prons.pl
+K 25
+svn:wc:ra_dav:version-url
+V 75
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_acronym_prons.pl
+END
+get_rules.pl
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_rules.pl
+END
+reverse_candidates.pl
+K 25
+svn:wc:ra_dav:version-url
+V 76
+/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/reverse_candidates.pl
 END
 find_acronyms.pl
 K 25
@@ -56,34 +86,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 76
 /p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_rule_hierarchy.pl
-END
-score_rules.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/score_rules.pl
-END
-filter_dict.pl
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/filter_dict.pl
-END
-get_acronym_prons.pl
-K 25
-svn:wc:ra_dav:version-url
-V 75
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_acronym_prons.pl
-END
-get_rules.pl
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/get_rules.pl
-END
-reverse_candidates.pl
-K 25
-svn:wc:ra_dav:version-url
-V 76
-/p/kaldi/code/!svn/ver/903/trunk/egs/wsj/s5/local/dict/reverse_candidates.pl
 END

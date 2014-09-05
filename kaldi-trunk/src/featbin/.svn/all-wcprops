@@ -1,109 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/4320/trunk/src/featbin
-END
-compute-cmvn-stats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/3990/trunk/src/featbin/compute-cmvn-stats.cc
-END
-copy-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/4320/trunk/src/featbin/copy-feats.cc
-END
-reverse-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/reverse-feats.cc
-END
-transform-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/4290/trunk/src/featbin/transform-feats.cc
-END
-paste-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/3449/trunk/src/featbin/paste-feats.cc
-END
-splice-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/splice-feats.cc
-END
-select-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/3788/trunk/src/featbin/select-feats.cc
-END
-fmpe-est.cc
-K 25
-svn:wc:ra_dav:version-url
-V 57
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-est.cc
-END
-process-pitch-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/process-pitch-feats.cc
-END
-fmpe-apply-transform.cc
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-apply-transform.cc
-END
-compare-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4098/trunk/src/featbin/compare-feats.cc
-END
-extract-feature-segments.cc
-K 25
-svn:wc:ra_dav:version-url
-V 73
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/extract-feature-segments.cc
-END
-apply-cmvn.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/4170/trunk/src/featbin/apply-cmvn.cc
-END
-fmpe-init.cc
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-init.cc
-END
-interpolate-pitch.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/interpolate-pitch.cc
-END
-compute-fbank-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-fbank-feats.cc
-END
-subsample-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/3240/trunk/src/featbin/subsample-feats.cc
+/p/kaldi/code/!svn/ver/4365/trunk/src/featbin
 END
 get-full-lda-mat.cc
 K 25
@@ -127,19 +25,19 @@ compute-kaldi-pitch-feats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-kaldi-pitch-feats.cc
-END
-compute-plp-feats.cc
-K 25
-svn:wc:ra_dav:version-url
-V 66
-/p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-plp-feats.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/compute-kaldi-pitch-feats.cc
 END
 subset-feats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/4096/trunk/src/featbin/subset-feats.cc
+END
+compute-plp-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-plp-feats.cc
 END
 append-feats.cc
 K 25
@@ -153,23 +51,23 @@ svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/3519/trunk/src/featbin/add-deltas-sdc.cc
 END
-remove-mean.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/remove-mean.cc
-END
 feat-to-len.cc
 K 25
 svn:wc:ra_dav:version-url
 V 60
 /p/kaldi/code/!svn/ver/4238/trunk/src/featbin/feat-to-len.cc
 END
+remove-mean.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/remove-mean.cc
+END
 apply-cmvn-sliding.cc
 K 25
 svn:wc:ra_dav:version-url
 V 67
-/p/kaldi/code/!svn/ver/3585/trunk/src/featbin/apply-cmvn-sliding.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/apply-cmvn-sliding.cc
 END
 copy-feats-to-htk.cc
 K 25
@@ -177,11 +75,23 @@ svn:wc:ra_dav:version-url
 V 66
 /p/kaldi/code/!svn/ver/2988/trunk/src/featbin/copy-feats-to-htk.cc
 END
+compute-and-process-kaldi-pitch-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 86
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/compute-and-process-kaldi-pitch-feats.cc
+END
 compute-mfcc-feats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-mfcc-feats.cc
+END
+modify-cmvn-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/modify-cmvn-stats.cc
 END
 compute-cmvn-stats-two-channel.cc
 K 25
@@ -189,11 +99,17 @@ svn:wc:ra_dav:version-url
 V 79
 /p/kaldi/code/!svn/ver/2990/trunk/src/featbin/compute-cmvn-stats-two-channel.cc
 END
+append-vector-to-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/append-vector-to-feats.cc
+END
 Makefile
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/3962/trunk/src/featbin/Makefile
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/Makefile
 END
 extract-segments.cc
 K 25
@@ -247,7 +163,7 @@ process-kaldi-pitch-feats.cc
 K 25
 svn:wc:ra_dav:version-url
 V 74
-/p/kaldi/code/!svn/ver/3397/trunk/src/featbin/process-kaldi-pitch-feats.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/process-kaldi-pitch-feats.cc
 END
 feat-to-dim.cc
 K 25
@@ -266,4 +182,106 @@ K 25
 svn:wc:ra_dav:version-url
 V 63
 /p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-acc-stats.cc
+END
+compute-cmvn-stats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/3990/trunk/src/featbin/compute-cmvn-stats.cc
+END
+copy-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4320/trunk/src/featbin/copy-feats.cc
+END
+reverse-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/reverse-feats.cc
+END
+transform-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4290/trunk/src/featbin/transform-feats.cc
+END
+paste-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/paste-feats.cc
+END
+splice-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/splice-feats.cc
+END
+select-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4365/trunk/src/featbin/select-feats.cc
+END
+fmpe-est.cc
+K 25
+svn:wc:ra_dav:version-url
+V 57
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-est.cc
+END
+process-pitch-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/process-pitch-feats.cc
+END
+fmpe-apply-transform.cc
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-apply-transform.cc
+END
+compare-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/compare-feats.cc
+END
+extract-feature-segments.cc
+K 25
+svn:wc:ra_dav:version-url
+V 73
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/extract-feature-segments.cc
+END
+apply-cmvn.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/apply-cmvn.cc
+END
+fmpe-init.cc
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/fmpe-init.cc
+END
+subsample-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4361/trunk/src/featbin/subsample-feats.cc
+END
+compute-fbank-feats.cc
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/3974/trunk/src/featbin/compute-fbank-feats.cc
+END
+interpolate-pitch.cc
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/2988/trunk/src/featbin/interpolate-pitch.cc
 END

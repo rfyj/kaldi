@@ -1,17 +1,17 @@
 K 25
 svn:wc:ra_dav:version-url
 V 60
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/common
-END
-mfcc.conf
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/common/mfcc.conf
+/p/kaldi/code/!svn/ver/4365/trunk/egs/vystadial_cz/s5/common
 END
 decode.conf
 K 25
 svn:wc:ra_dav:version-url
 V 72
 /p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/common/decode.conf
+END
+mfcc.conf
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/3809/trunk/egs/vystadial_cz/s5/common/mfcc.conf
 END

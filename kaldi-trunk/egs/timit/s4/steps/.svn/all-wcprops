@@ -1,19 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 52
-/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/steps
-END
-train_deltas.sh
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/steps/train_deltas.sh
-END
-decode_deltas.sh
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/steps/decode_deltas.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/timit/s4/steps
 END
 make_mfcc.sh
 K 25
@@ -32,4 +20,16 @@ K 25
 svn:wc:ra_dav:version-url
 V 67
 /p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/steps/align_deltas.sh
+END
+train_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/767/trunk/egs/timit/s4/steps/train_deltas.sh
+END
+decode_deltas.sh
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/2015/trunk/egs/timit/s4/steps/decode_deltas.sh
 END

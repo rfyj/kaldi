@@ -1,31 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 54
-/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5/local
-END
-download_data.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/download_data.sh
-END
-join_suffix.py
-K 25
-svn:wc:ra_dav:version-url
-V 69
-/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/join_suffix.py
-END
-prepare_dict.sh
-K 25
-svn:wc:ra_dav:version-url
-V 70
-/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/prepare_dict.sh
-END
-run_dnn.sh
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5/local/run_dnn.sh
+/p/kaldi/code/!svn/ver/4365/trunk/egs/tedlium/s5/local
 END
 remove_dup_utts.sh
 K 25
@@ -61,5 +37,29 @@ score_sclite.sh
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/4100/trunk/egs/tedlium/s5/local/score_sclite.sh
+/p/kaldi/code/!svn/ver/4354/trunk/egs/tedlium/s5/local/score_sclite.sh
+END
+download_data.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/download_data.sh
+END
+join_suffix.py
+K 25
+svn:wc:ra_dav:version-url
+V 69
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/join_suffix.py
+END
+prepare_dict.sh
+K 25
+svn:wc:ra_dav:version-url
+V 70
+/p/kaldi/code/!svn/ver/4043/trunk/egs/tedlium/s5/local/prepare_dict.sh
+END
+run_dnn.sh
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4323/trunk/egs/tedlium/s5/local/run_dnn.sh
 END

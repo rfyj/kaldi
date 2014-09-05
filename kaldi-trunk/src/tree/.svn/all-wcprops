@@ -1,67 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 42
-/p/kaldi/code/!svn/ver/4306/trunk/src/tree
-END
-clusterable-classes.cc
-K 25
-svn:wc:ra_dav:version-url
-V 65
-/p/kaldi/code/!svn/ver/4283/trunk/src/tree/clusterable-classes.cc
-END
-clusterable-classes.h
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/4186/trunk/src/tree/clusterable-classes.h
-END
-tree-renderer.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/2988/trunk/src/tree/tree-renderer.cc
-END
-tree-renderer.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/2988/trunk/src/tree/tree-renderer.h
-END
-context-dep-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/context-dep-test.cc
-END
-build-tree-utils-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 67
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/build-tree-utils-test.cc
-END
-build-tree-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/build-tree-test.cc
-END
-event-map-test.cc
-K 25
-svn:wc:ra_dav:version-url
-V 60
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/event-map-test.cc
-END
-cluster-utils.cc
-K 25
-svn:wc:ra_dav:version-url
-V 59
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/cluster-utils.cc
-END
-cluster-utils.h
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/4292/trunk/src/tree/cluster-utils.h
+/p/kaldi/code/!svn/ver/4369/trunk/src/tree
 END
 build-tree-questions.cc
 K 25
@@ -81,17 +21,17 @@ svn:wc:ra_dav:version-url
 V 51
 /p/kaldi/code/!svn/ver/2664/trunk/src/tree/Makefile
 END
-build-tree-utils.cc
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4306/trunk/src/tree/build-tree-utils.cc
-END
 context-dep.cc
 K 25
 svn:wc:ra_dav:version-url
 V 57
 /p/kaldi/code/!svn/ver/4292/trunk/src/tree/context-dep.cc
+END
+build-tree-utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4306/trunk/src/tree/build-tree-utils.cc
 END
 event-map.cc
 K 25
@@ -134,4 +74,64 @@ K 25
 svn:wc:ra_dav:version-url
 V 55
 /p/kaldi/code/!svn/ver/4089/trunk/src/tree/build-tree.h
+END
+clusterable-classes.cc
+K 25
+svn:wc:ra_dav:version-url
+V 65
+/p/kaldi/code/!svn/ver/4283/trunk/src/tree/clusterable-classes.cc
+END
+clusterable-classes.h
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/4186/trunk/src/tree/clusterable-classes.h
+END
+tree-renderer.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/2988/trunk/src/tree/tree-renderer.cc
+END
+tree-renderer.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2988/trunk/src/tree/tree-renderer.h
+END
+build-tree-utils-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 67
+/p/kaldi/code/!svn/ver/4369/trunk/src/tree/build-tree-utils-test.cc
+END
+context-dep-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4369/trunk/src/tree/context-dep-test.cc
+END
+event-map-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 60
+/p/kaldi/code/!svn/ver/4369/trunk/src/tree/event-map-test.cc
+END
+build-tree-test.cc
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4292/trunk/src/tree/build-tree-test.cc
+END
+cluster-utils.cc
+K 25
+svn:wc:ra_dav:version-url
+V 59
+/p/kaldi/code/!svn/ver/4292/trunk/src/tree/cluster-utils.cc
+END
+cluster-utils.h
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/4292/trunk/src/tree/cluster-utils.h
 END

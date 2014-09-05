@@ -1,31 +1,25 @@
 K 25
 svn:wc:ra_dav:version-url
 V 45
-/p/kaldi/code/!svn/ver/4283/trunk/src/decoder
-END
-lattice-simple-decoder.cc
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-simple-decoder.cc
+/p/kaldi/code/!svn/ver/4368/trunk/src/decoder
 END
 nbest-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 61
-/p/kaldi/code/!svn/ver/3377/trunk/src/decoder/nbest-decoder.h
-END
-biglm-faster-decoder.h
-K 25
-svn:wc:ra_dav:version-url
-V 68
-/p/kaldi/code/!svn/ver/4114/trunk/src/decoder/biglm-faster-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/nbest-decoder.h
 END
 lattice-simple-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/3482/trunk/src/decoder/lattice-simple-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-simple-decoder.h
+END
+biglm-faster-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 68
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/biglm-faster-decoder.h
 END
 training-graph-compiler.cc
 K 25
@@ -43,71 +37,95 @@ faster-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 63
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/faster-decoder.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/faster-decoder.cc
 END
 lattice-tracking-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 73
-/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-tracking-decoder.cc
-END
-Makefile
-K 25
-svn:wc:ra_dav:version-url
-V 54
-/p/kaldi/code/!svn/ver/3123/trunk/src/decoder/Makefile
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-tracking-decoder.cc
 END
 faster-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/faster-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/faster-decoder.h
+END
+Makefile
+K 25
+svn:wc:ra_dav:version-url
+V 54
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/Makefile
 END
 lattice-tracking-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 72
-/p/kaldi/code/!svn/ver/3482/trunk/src/decoder/lattice-tracking-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-tracking-decoder.h
+END
+simple-decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/simple-decoder.cc
+END
+lattice-faster-online-decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 78
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-faster-online-decoder.cc
 END
 simple-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 62
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/simple-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/simple-decoder.h
+END
+lattice-faster-online-decoder.h
+K 25
+svn:wc:ra_dav:version-url
+V 77
+/p/kaldi/code/!svn/ver/4368/trunk/src/decoder/lattice-faster-online-decoder.h
 END
 lattice-biglm-faster-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 76
-/p/kaldi/code/!svn/ver/4114/trunk/src/decoder/lattice-biglm-faster-decoder.h
-END
-decodable-sum.h
-K 25
-svn:wc:ra_dav:version-url
-V 61
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/decodable-sum.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-biglm-faster-decoder.h
 END
 decodable-matrix.h
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/decodable-matrix.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/decodable-matrix.h
+END
+decodable-sum.h
+K 25
+svn:wc:ra_dav:version-url
+V 61
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/decodable-sum.h
 END
 decodable-mapped.h
 K 25
 svn:wc:ra_dav:version-url
 V 64
-/p/kaldi/code/!svn/ver/2988/trunk/src/decoder/decodable-mapped.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/decodable-mapped.h
 END
 lattice-faster-decoder.cc
 K 25
 svn:wc:ra_dav:version-url
 V 71
-/p/kaldi/code/!svn/ver/4283/trunk/src/decoder/lattice-faster-decoder.cc
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-faster-decoder.cc
 END
 lattice-faster-decoder.h
 K 25
 svn:wc:ra_dav:version-url
 V 70
-/p/kaldi/code/!svn/ver/3585/trunk/src/decoder/lattice-faster-decoder.h
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-faster-decoder.h
+END
+lattice-simple-decoder.cc
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/4361/trunk/src/decoder/lattice-simple-decoder.cc
 END

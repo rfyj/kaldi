@@ -1,6 +1,6 @@
 K 13
 svn:mergeinfo
-V 969
+V 1018
 /sandbox/akirkedal/src/transform/lvtln.cc:3806-4273
 /sandbox/dan/src/transform/lvtln.cc:1504-1801
 /sandbox/dan2/src/transform/lvtln.cc:2775-2829,2832-3292
@@ -10,6 +10,7 @@ V 969
 /sandbox/kws/src/transform/lvtln.cc:1533-1557
 /sandbox/language_id/src/transform/lvtln.cc:3523-3930,3933-4177
 /sandbox/nshmyrev/src/transform/lvtln.cc:3830-3854
+/sandbox/online/src/transform/lvtln.cc:3325-4359
 /sandbox/oplatek/src/transform/lvtln.cc:2513-2541
 /sandbox/pawel/src/transform/lvtln.cc:4013-4275
 /sandbox/pitch/src/transform/lvtln.cc:3126-3251

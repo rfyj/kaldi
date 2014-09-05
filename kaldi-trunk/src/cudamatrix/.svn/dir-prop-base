@@ -1,12 +1,33 @@
 K 10
 svn:ignore
-V 28
+V 288
+*.slo
+*.lo
+*.o
+*.so
+*.dylib
+*.lai
+*.la
+*.a
+*.dSYM
 .depend.mk
 cuda-matrix-test
+cu-array-test
+cu-block-matrix-test
+cu-math-test
+cu-matrix-speed-test
+cu-matrix-test
+cu-packed-matrix-test
+cu-sp-matrix-speed-test
+cu-sp-matrix-test
+cu-test
+cu-tp-matrix-test
+cu-vector-speed-test
+cu-vector-test
 
 K 13
 svn:mergeinfo
-V 764
+V 805
 /sandbox/akirkedal/src/cudamatrix:3806-4273
 /sandbox/dan/src/cudamatrix:1504-1801,1999-2840
 /sandbox/dan2/src/cudamatrix:2775-2829,2832-3292
@@ -16,6 +37,7 @@ V 764
 /sandbox/kws/src/cudamatrix:1533-1557
 /sandbox/language_id/src/cudamatrix:3523-3930,3933-4177
 /sandbox/nshmyrev/src/cudamatrix:3830-3854
+/sandbox/online/src/cudamatrix:3325-4359
 /sandbox/oplatek/src/cudamatrix:2513-2541
 /sandbox/pawel/src/cudamatrix:4013-4275
 /sandbox/pitch/src/cudamatrix:3126-3251

@@ -1,37 +1,7 @@
 K 25
 svn:wc:ra_dav:version-url
 V 49
-/p/kaldi/code/!svn/ver/4317/trunk/egs/rm/s5/local
-END
-run_nnet2.sh
-K 25
-svn:wc:ra_dav:version-url
-V 62
-/p/kaldi/code/!svn/ver/4241/trunk/egs/rm/s5/local/run_nnet2.sh
-END
-run_sgmm_multiling.sh
-K 25
-svn:wc:ra_dav:version-url
-V 71
-/p/kaldi/code/!svn/ver/2830/trunk/egs/rm/s5/local/run_sgmm_multiling.sh
-END
-score.sh
-K 25
-svn:wc:ra_dav:version-url
-V 58
-/p/kaldi/code/!svn/ver/2443/trunk/egs/rm/s5/local/score.sh
-END
-make_rm_dict.pl
-K 25
-svn:wc:ra_dav:version-url
-V 64
-/p/kaldi/code/!svn/ver/903/trunk/egs/rm/s5/local/make_rm_dict.pl
-END
-make_trans.pl
-K 25
-svn:wc:ra_dav:version-url
-V 63
-/p/kaldi/code/!svn/ver/2478/trunk/egs/rm/s5/local/make_trans.pl
+/p/kaldi/code/!svn/ver/4365/trunk/egs/rm/s5/local
 END
 run_sgmm.sh
 K 25
@@ -39,23 +9,35 @@ svn:wc:ra_dav:version-url
 V 61
 /p/kaldi/code/!svn/ver/1089/trunk/egs/rm/s5/local/run_sgmm.sh
 END
+test_decoders.sh
+K 25
+svn:wc:ra_dav:version-url
+V 66
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/local/test_decoders.sh
+END
 run_vtln2.sh
 K 25
 svn:wc:ra_dav:version-url
 V 62
 /p/kaldi/code/!svn/ver/4186/trunk/egs/rm/s5/local/run_vtln2.sh
 END
-rm_prepare_grammar_ug.sh
+run_pitch.sh
 K 25
 svn:wc:ra_dav:version-url
-V 74
-/p/kaldi/code/!svn/ver/2830/trunk/egs/rm/s5/local/rm_prepare_grammar_ug.sh
+V 62
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/local/run_pitch.sh
 END
 rm_data_prep.sh
 K 25
 svn:wc:ra_dav:version-url
 V 65
-/p/kaldi/code/!svn/ver/2658/trunk/egs/rm/s5/local/rm_data_prep.sh
+/p/kaldi/code/!svn/ver/4361/trunk/egs/rm/s5/local/rm_data_prep.sh
+END
+rm_prepare_grammar_ug.sh
+K 25
+svn:wc:ra_dav:version-url
+V 74
+/p/kaldi/code/!svn/ver/2830/trunk/egs/rm/s5/local/rm_prepare_grammar_ug.sh
 END
 run_sgmm2x.sh
 K 25
@@ -104,4 +86,34 @@ K 25
 svn:wc:ra_dav:version-url
 V 74
 /p/kaldi/code/!svn/ver/4317/trunk/egs/rm/s5/local/run_dnn_convert_nnet2.sh
+END
+run_nnet2.sh
+K 25
+svn:wc:ra_dav:version-url
+V 62
+/p/kaldi/code/!svn/ver/4241/trunk/egs/rm/s5/local/run_nnet2.sh
+END
+score.sh
+K 25
+svn:wc:ra_dav:version-url
+V 58
+/p/kaldi/code/!svn/ver/2443/trunk/egs/rm/s5/local/score.sh
+END
+run_sgmm_multiling.sh
+K 25
+svn:wc:ra_dav:version-url
+V 71
+/p/kaldi/code/!svn/ver/2830/trunk/egs/rm/s5/local/run_sgmm_multiling.sh
+END
+make_rm_dict.pl
+K 25
+svn:wc:ra_dav:version-url
+V 64
+/p/kaldi/code/!svn/ver/903/trunk/egs/rm/s5/local/make_rm_dict.pl
+END
+make_trans.pl
+K 25
+svn:wc:ra_dav:version-url
+V 63
+/p/kaldi/code/!svn/ver/2478/trunk/egs/rm/s5/local/make_trans.pl
 END

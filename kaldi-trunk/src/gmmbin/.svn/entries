@@ -1,14 +1,14 @@
 10
 
 dir
-4328
+4375
 https://svn.code.sf.net/p/kaldi/code/trunk/src/gmmbin
 https://svn.code.sf.net/p/kaldi/code
 
 
 
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-01T21:12:29.284174Z
+4365
 danielpovey
 has-props
 
@@ -26,48 +26,14 @@ has-props
 
 5e6a8d80-dfce-4ca6-a32a-6e07a63d50c8
 
-gmm-rescore-lattice.cc
-file
-
-
-
-
-
-612a303a746b2ef8e3c37893a2a4b4b2
-2014-08-07T22:03:57.503019Z
-4276
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3863
-
-gmm-est-fmllr-raw-gpost.cc
+gmm-basis-fmllr-accs.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-dca9bdb59604116134e7d0610da53f26
+d57bf6278f66e2cf2740f8bd2f00e407
 2014-02-25T04:00:06.088312Z
 3588
 chenguoguo
@@ -92,585 +58,7 @@ chenguoguo
 
 
 
-7379
-
-gmm-global-gselect-to-post.cc
-file
-
-
-
-
-2014-08-20T05:47:44.000000Z
-d1a1b679c14fac2e97a5d31406aa99c5
-2014-08-07T22:03:57.503019Z
-4276
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5762
-
-gmm-latgen-faster-regtree-fmllr.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-a86be1b852383e132df4e27ec5125671
-2014-03-13T02:17:42.319841Z
-3761
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8449
-
-gmm-global-init-from-feats.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-5bfb5decae172d90e58268144033c52d
-2013-11-30T23:08:52.900330Z
-3240
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7651
-
-gmm-get-feat-deriv.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-4f0235afede4b6556219ca2799e3d12b
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3622
-
-gmm-est-regtree-fmllr-ali.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-46e5f7469fc39cc4399f7010e13d7dcd
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8007
-
-gmm-global-to-fgmm.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-3ad4303b6e05a967f310b5933446498e
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-1846
-
-gmm-acc-stats2.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-10ffb0d7ed1692c85bbf9586c0732509
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5569
-
-gmm-decode-faster-regtree-mllr.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-2a4f652d4f7bc34c0ef7708b1012261c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9454
-
-gmm-est-map.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-21dc916f51dbc38ede2aa31a879ab95c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4359
-
-gmm-fmpe-acc-stats.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-11dbb8e6812159036848f55f8f6ee54b
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5702
-
-gmm-make-regtree.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-500cb2c526e582136666702523df6f9c
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3895
-
-gmm-global-sum-accs.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-fd30fee11257d6e5460c0b20a941e2b2
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2025
-
-gmm-init-mono.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-e9a990f25ad6ca5c81b7a5d3ccbc60c1
-2013-12-30T20:17:06.842090Z
-3377
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6193
-
-gmm-copy.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-bb0ad1a1fd99e3efffb4be1c129c9c13
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2384
-
-gmm-global-est-lvtln-trans.cc
-file
-
-
-
-
-2014-08-20T05:47:44.000000Z
-d9fe97daa4896b749559c859c8642294
-2014-08-07T22:03:57.503019Z
-4276
-danielpovey
-has-props
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8944
-
-gmm-global-acc-stats.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-c310dbda82f47301ba4e51f841c2b92f
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6092
-
-gmm-latgen-map.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-a7714f6b1aaaea5551cc025b4d3b4249
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8700
+6479
 
 gmm-gselect.cc
 file
@@ -678,10 +66,10 @@ file
 
 
 
-2014-05-30T02:45:56.000000Z
-669d5a746526a3f6afc376a42d62e2a4
-2013-12-03T16:02:28.382189Z
-3246
+2014-09-05T08:33:07.000000Z
+694c4fe3b51984761cd1e90eb242d81e
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -704,109 +92,7 @@ danielpovey
 
 
 
-5424
-
-gmm-latgen-faster-parallel.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-96571db46ec4e9175f83fc5912a3b800
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8919
-
-gmm-init-trans.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-c9d40eb4736889a20432f7a2a6884342
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2299
-
-gmm-global-est.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-864f1a4d3389bda50289e59bc4e2c94b
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-3079
+5506
 
 gmm-align.cc
 file
@@ -842,152 +128,16 @@ danielpovey
 
 7351
 
-gmm-info.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-6705c551212178ceeb4c02f7465a87e5
-2013-11-30T23:08:52.900330Z
-3240
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-2225
-
-gmm-acc-mllt.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-e2d3a67907d449c388eb40085e2a8478
-2014-04-21T01:16:19.554659Z
-3931
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4680
-
-gmm-acc-hlda.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-91e141fb89565e13bacb0a8f67569cdb
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-5710
-
 gmm-latgen-faster.cc
 file
 
 
 
 
-2014-05-30T02:45:56.000000Z
-82f208feb637db72d1a96670cdc8e3b2
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7119
-
-gmm-scale-accs.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-3bcbec22c1bf9715031a7c9b21d9375c
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:07.000000Z
+1cb7351bcdda268dbdfb3ed6e0208005
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1010,7 +160,7 @@ danielpovey
 
 
 
-2402
+7155
 
 gmm-est-fmllr-gpost.cc
 file
@@ -1046,18 +196,17 @@ chenguoguo
 
 7180
 
-gmm-init-lvtln.cc
+gmm-init-model.cc
 file
 
 
 
 
-
-dec938f1786b65ae42ee5e5deeb614db
-2014-08-07T22:03:57.503019Z
-4276
+2014-05-30T02:45:56.000000Z
+7a6527eca7b9195c1dc5c9d65bf07611
+2013-12-30T20:17:06.842090Z
+3377
 danielpovey
-has-props
 
 
 
@@ -1078,7 +227,8 @@ has-props
 
 
 
-2279
+
+11699
 
 gmm-mixup.cc
 file
@@ -1113,40 +263,6 @@ danielpovey
 
 
 3544
-
-gmm-global-est-fmllr.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-346b6bff7be1ce763f174d4d5aeea7dc
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8255
 
 gmm-adapt-map.cc
 file
@@ -1250,16 +366,84 @@ danielpovey
 
 1863
 
+gmm-transform-means-global.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+12db33cfd1c29c4defdf920f7084e9ef
+2014-04-21T01:49:34.510158Z
+3934
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3451
+
+gmm-sum-accs.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+fac44eaf975f03c42f1797adfbd1fd2a
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2466
+
 Makefile
 file
 
 
 
 
-2014-08-20T05:47:44.000000Z
-913538cfe64889aa10f42973b7de9953
-2014-07-20T05:23:18.569993Z
-4180
+2014-09-05T08:33:07.000000Z
+234bf7365455844b6b5485f595941fce
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1282,19 +466,19 @@ danielpovey
 
 
 
-2268
+2288
 
-gmm-acc-stats-twofeats.cc
+gmm-basis-fmllr-accs-gpost.cc
 file
 
 
 
 
-2014-08-20T05:47:44.000000Z
-50a3ec78bc9bbb9bc21f0660f7c916a7
-2014-07-20T05:23:18.569993Z
-4180
-danielpovey
+2014-05-30T02:45:56.000000Z
+196c790527352ce57340c330f3604c56
+2014-02-25T04:00:06.088312Z
+3588
+chenguoguo
 
 
 
@@ -1316,7 +500,7 @@ danielpovey
 
 
 
-6366
+6482
 
 gmm-est-lvtln-trans.cc
 file
@@ -1324,10 +508,10 @@ file
 
 
 
-2014-08-20T05:47:44.000000Z
+
 c638b07408e5218cabf5add4db732152
-2014-08-07T22:03:57.503019Z
-4276
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -1386,40 +570,6 @@ danielpovey
 
 3909
 
-gmm-get-stats-deriv.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-60eb40fb02fcc8a35f4a56cff89684fe
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-4062
-
 gmm-acc-stats.cc
 file
 
@@ -1454,48 +604,14 @@ chenguoguo
 
 5163
 
-gmm-align-compiled.cc
+gmm-get-stats-deriv.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-98020c92aa1a61478422da0bb2db3501
-2013-12-11T18:39:46.616498Z
-3298
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-7622
-
-gmm-basis-fmllr-training.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-cbe62a9b85413ea18fe3edf10b2aee1d
+60eb40fb02fcc8a35f4a56cff89684fe
 2013-09-24T22:38:48.828279Z
 2988
 danielpovey
@@ -1520,7 +636,41 @@ danielpovey
 
 
 
-2877
+4062
+
+gmm-global-gselect-to-post.cc
+file
+
+
+
+
+
+d1a1b679c14fac2e97a5d31406aa99c5
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5762
 
 gmm-global-info.cc
 file
@@ -1590,40 +740,6 @@ danielpovey
 
 4552
 
-gmm-est-regtree-mllr.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-7fc6b870c7e13a2b60c047c91f21504c
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8628
-
 gmm-est.cc
 file
 
@@ -1657,40 +773,6 @@ danielpovey
 
 
 5334
-
-gmm-decode-nbest.cc
-file
-
-
-
-
-2014-08-20T05:47:44.000000Z
-185e23aa9a1d0499181c082a95e84bd6
-2014-08-08T22:21:22.973153Z
-4283
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-9264
 
 gmm-decode-biglm-faster.cc
 file
@@ -1726,16 +808,16 @@ danielpovey
 
 9307
 
-gmm-est-hlda.cc
+gmm-global-get-post.cc
 file
 
 
 
 
-2014-05-30T02:45:56.000000Z
-b9c964926faf2e6ce088822895aace8b
-2013-09-24T22:38:48.828279Z
-2988
+2014-09-05T08:33:07.000000Z
+8620fd1875435ee2fddfda80a63c6dd9
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1758,7 +840,7 @@ danielpovey
 
 
 
-3343
+4467
 
 gmm-latgen-simple.cc
 file
@@ -1766,11 +848,11 @@ file
 
 
 
-2014-05-30T02:45:56.000000Z
-bb9721dbe5b610bb2aeeb3a8c243b184
-2014-02-08T01:53:28.866144Z
-3482
-chenguoguo
+2014-09-05T08:33:07.000000Z
+cc72dfb611ac825c181427eea5c2617f
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -1792,7 +874,7 @@ chenguoguo
 
 
 
-5290
+5291
 
 gmm-est-gaussians-ebw.cc
 file
@@ -1828,16 +910,16 @@ danielpovey
 
 3887
 
-gmm-est-fmllr-global.cc
+gmm-global-init-from-feats.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-9e7638658612cbb26f1c3253983cd804
-2014-04-21T01:49:34.510158Z
-3934
+5bfb5decae172d90e58268144033c52d
+2013-11-30T23:08:52.900330Z
+3240
 danielpovey
 
 
@@ -1860,7 +942,41 @@ danielpovey
 
 
 
-6850
+7651
+
+gmm-get-feat-deriv.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+4f0235afede4b6556219ca2799e3d12b
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3622
 
 gmm-est-basis-fmllr.cc
 file
@@ -1868,44 +984,10 @@ file
 
 
 
-2014-05-30T02:45:56.000000Z
-c8e7d530262052d2208315b0cfc1ff45
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-8796
-
-gmm-decode-faster.cc
-file
-
-
-
-
-2014-08-20T05:47:44.000000Z
-f60b12e02f51fc43549c4ec9b62ffdd8
-2014-08-08T22:21:22.973153Z
-4283
+2014-09-05T08:33:07.000000Z
+9fc1a036a790d2c1deb42d6650fee8a8
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -1928,7 +1010,143 @@ danielpovey
 
 
 
-8379
+8674
+
+gmm-decode-faster-regtree-mllr.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+2a4f652d4f7bc34c0ef7708b1012261c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9454
+
+gmm-acc-stats2.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+10ffb0d7ed1692c85bbf9586c0732509
+2013-12-11T18:39:46.616498Z
+3298
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+5569
+
+gmm-global-to-fgmm.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+3ad4303b6e05a967f310b5933446498e
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+1846
+
+gmm-decode-faster.cc
+file
+
+
+
+
+2014-09-05T08:33:07.000000Z
+6474ac55b573cd6341244ae0d251a1e3
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8293
 
 gmm-est-fmllr.cc
 file
@@ -1964,16 +1182,16 @@ chenguoguo
 
 7222
 
-gmm-global-get-frame-likes.cc
+gmm-fmpe-acc-stats.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-f01d250cf8c428a5c5f8481a725114fd
-2013-11-30T23:08:52.900330Z
-3240
+11dbb8e6812159036848f55f8f6ee54b
+2013-09-24T22:38:48.828279Z
+2988
 danielpovey
 
 
@@ -1996,7 +1214,41 @@ danielpovey
 
 
 
-4655
+5702
+
+gmm-make-regtree.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+500cb2c526e582136666702523df6f9c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3895
 
 gmm-global-acc-stats-twofeats.cc
 file
@@ -2031,6 +1283,74 @@ danielpovey
 
 
 7143
+
+gmm-copy.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+bb0ad1a1fd99e3efffb4be1c129c9c13
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2384
+
+gmm-global-est-lvtln-trans.cc
+file
+
+
+
+
+
+d9fe97daa4896b749559c859c8642294
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8944
 
 gmm-transform-means.cc
 file
@@ -2100,6 +1420,40 @@ danielpovey
 
 2906
 
+gmm-global-acc-stats.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+c310dbda82f47301ba4e51f841c2b92f
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6092
+
 gmm-compute-likes.cc
 file
 
@@ -2134,51 +1488,17 @@ danielpovey
 
 2803
 
-gmm-basis-fmllr-accs.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-d57bf6278f66e2cf2740f8bd2f00e407
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6479
-
 gmm-latgen-biglm-faster.cc
 file
 
 
 
 
-2014-05-30T02:45:56.000000Z
-72345934860b2b3c4f47a29b67c8ad28
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
+2014-09-05T08:33:07.000000Z
+39ea29fea55261ea2e3e173171d0b77f
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -2200,7 +1520,7 @@ chenguoguo
 
 
 
-11858
+12207
 
 gmm-acc-stats-ali.cc
 file
@@ -2236,6 +1556,40 @@ danielpovey
 
 4374
 
+gmm-latgen-map.cc
+file
+
+
+
+
+2014-09-05T08:33:07.000000Z
+782762b396f46407af220936bc15ff3c
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8703
+
 gmm-init-model-flat.cc
 file
 
@@ -2270,6 +1624,74 @@ danielpovey
 
 4745
 
+gmm-latgen-faster-parallel.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+96571db46ec4e9175f83fc5912a3b800
+2014-02-08T01:53:28.866144Z
+3482
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8919
+
+gmm-init-trans.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+c9d40eb4736889a20432f7a2a6884342
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2299
+
 gmm-train-lvtln-special.cc
 file
 
@@ -2278,8 +1700,8 @@ file
 
 
 2e3dec8b36b1612e19a24491b1d95e47
-2014-08-07T22:03:57.503019Z
-4276
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 has-props
 
@@ -2303,6 +1725,74 @@ has-props
 
 
 13040
+
+gmm-global-est.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+864f1a4d3389bda50289e59bc4e2c94b
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3079
+
+gmm-info.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+6705c551212178ceeb4c02f7465a87e5
+2013-11-30T23:08:52.900330Z
+3240
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2225
 
 gmm-est-fmllr-raw.cc
 file
@@ -2338,14 +1828,48 @@ chenguoguo
 
 7313
 
-gmm-est-basis-fmllr-gpost.cc
+gmm-acc-mllt.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-6ac0722a0d0aecc0a415e5960eaf60a0
+e2d3a67907d449c388eb40085e2a8478
+2014-04-21T01:16:19.554659Z
+3931
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4680
+
+gmm-acc-hlda.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+91e141fb89565e13bacb0a8f67569cdb
 2014-02-25T04:00:06.088312Z
 3588
 chenguoguo
@@ -2370,7 +1894,75 @@ chenguoguo
 
 
 
-8773
+5710
+
+gmm-est-basis-fmllr-gpost.cc
+file
+
+
+
+
+2014-09-05T08:33:07.000000Z
+d8579b9fcdc7f6bdc73ff2f64bcefd04
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8565
+
+gmm-scale-accs.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+3bcbec22c1bf9715031a7c9b21d9375c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2402
 
 gmm-post-to-gpost.cc
 file
@@ -2378,11 +1970,11 @@ file
 
 
 
-2014-05-30T02:45:56.000000Z
-61eb4c7d8b9b37eb7fd5deb213bfbcd4
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
+2014-09-05T08:33:07.000000Z
+bac57b109c2a858c25c9b0806843355a
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
 
 
 
@@ -2404,7 +1996,7 @@ chenguoguo
 
 
 
-5010
+4999
 
 gmm-est-regtree-fmllr.cc
 file
@@ -2440,16 +2032,50 @@ chenguoguo
 
 8712
 
-gmm-init-model.cc
+gmm-init-lvtln.cc
+file
+
+
+
+
+
+dec938f1786b65ae42ee5e5deeb614db
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2279
+
+gmm-global-est-fmllr.cc
 file
 
 
 
 
 2014-05-30T02:45:56.000000Z
-7a6527eca7b9195c1dc5c9d65bf07611
-2013-12-30T20:17:06.842090Z
-3377
+346b6bff7be1ce763f174d4d5aeea7dc
+2013-09-24T22:38:48.828279Z
+2988
 danielpovey
 
 
@@ -2472,7 +2098,7 @@ danielpovey
 
 
 
-11699
+8255
 
 gmm-boost-silence.cc
 file
@@ -2507,40 +2133,6 @@ danielpovey
 
 
 3852
-
-gmm-decode-simple.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-26e92054ff8d820c9f4efc76df9ec6e4
-2013-09-24T22:38:48.828279Z
-2988
-danielpovey
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6050
 
 gmm-latgen-tracking.cc
 file
@@ -2610,16 +2202,16 @@ danielpovey
 
 10467
 
-gmm-transform-means-global.cc
+gmm-decode-simple.cc
 file
 
 
 
 
-2014-05-30T02:45:56.000000Z
-12db33cfd1c29c4defdf920f7084e9ef
-2014-04-21T01:49:34.510158Z
-3934
+2014-09-05T08:33:07.000000Z
+67129416241274eb8ea965a8bc8cd23a
+2014-08-31T17:21:56.128797Z
+4361
 danielpovey
 
 
@@ -2642,18 +2234,18 @@ danielpovey
 
 
 
-3451
+6731
 
-gmm-sum-accs.cc
+gmm-acc-stats-twofeats.cc
 file
 
 
 
 
-2014-05-30T02:45:56.000000Z
-fac44eaf975f03c42f1797adfbd1fd2a
-2013-09-24T22:38:48.828279Z
-2988
+2014-08-20T05:47:44.000000Z
+50a3ec78bc9bbb9bc21f0660f7c916a7
+2014-07-20T05:23:18.569993Z
+4180
 danielpovey
 
 
@@ -2676,41 +2268,7 @@ danielpovey
 
 
 
-2466
-
-gmm-basis-fmllr-accs-gpost.cc
-file
-
-
-
-
-2014-05-30T02:45:56.000000Z
-196c790527352ce57340c330f3604c56
-2014-02-25T04:00:06.088312Z
-3588
-chenguoguo
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-6482
+6366
 
 gmm-ismooth-stats.cc
 file
@@ -2779,4 +2337,480 @@ danielpovey
 
 
 12910
+
+gmm-align-compiled.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+98020c92aa1a61478422da0bb2db3501
+2013-12-11T18:39:46.616498Z
+3298
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7622
+
+gmm-basis-fmllr-training.cc
+file
+
+
+
+
+2014-09-05T08:33:07.000000Z
+4d10f3fba5f91de67a5b24910beb85ff
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2827
+
+gmm-rescore-lattice.cc
+file
+
+
+
+
+
+612a303a746b2ef8e3c37893a2a4b4b2
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+has-props
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3863
+
+gmm-est-fmllr-raw-gpost.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+dca9bdb59604116134e7d0610da53f26
+2014-02-25T04:00:06.088312Z
+3588
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+7379
+
+gmm-est-regtree-mllr.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+7fc6b870c7e13a2b60c047c91f21504c
+2014-02-25T04:00:06.088312Z
+3588
+chenguoguo
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8628
+
+gmm-decode-nbest.cc
+file
+
+
+
+
+2014-09-05T08:33:07.000000Z
+c42472563cd1cdc49e88dd8d67d82979
+2014-08-31T17:21:56.128797Z
+4361
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+9288
+
+gmm-latgen-faster-regtree-fmllr.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+a86be1b852383e132df4e27ec5125671
+2014-03-13T02:17:42.319841Z
+3761
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8449
+
+gmm-est-hlda.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+b9c964926faf2e6ce088822895aace8b
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+3343
+
+gmm-est-regtree-fmllr-ali.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+46e5f7469fc39cc4399f7010e13d7dcd
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+8007
+
+gmm-est-fmllr-global.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+9e7638658612cbb26f1c3253983cd804
+2014-04-21T01:49:34.510158Z
+3934
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6850
+
+gmm-est-map.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+21dc916f51dbc38ede2aa31a879ab95c
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4359
+
+gmm-global-sum-accs.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+fd30fee11257d6e5460c0b20a941e2b2
+2013-09-24T22:38:48.828279Z
+2988
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2025
+
+gmm-init-mono.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+e9a990f25ad6ca5c81b7a5d3ccbc60c1
+2013-12-30T20:17:06.842090Z
+3377
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+6193
+
+gmm-global-get-frame-likes.cc
+file
+
+
+
+
+2014-05-30T02:45:56.000000Z
+f01d250cf8c428a5c5f8481a725114fd
+2013-11-30T23:08:52.900330Z
+3240
+danielpovey
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+4655
 
